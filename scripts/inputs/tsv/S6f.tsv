@@ -1,0 +1,3 @@
+panel	genomes	FSM	RGM	shared contigs per Mb	rate ratio (FSM vs RGM)	p
+shared fragmentation range	185	91	94	10.6-132.2	0.583	7.8e-04
+full MAG panel, for comparison	193	96	97	6.3-153.6	0.577	5.2e-04

@@ -1,0 +1,6 @@
+Query gene	Credible hits (≥40% id, ≥50% cov) / 95 FSM MAGs ; kdpB counts are operon-validated
+ectC (ectoine synthase)	0 / 95
+catA (catechol 1,2-dioxygenase)	0 / 95
+narG (nitrate reductase)	1 / 95 (paralog-level)
+ureC (urease alpha)	1 / 95
+kdpB (Kdp ATPase)	9 / 95 (operon-validated)

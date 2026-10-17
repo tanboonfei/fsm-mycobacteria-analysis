@@ -1,0 +1,3 @@
+genome	Bakta CDSs	Bakta pseudogenes	Bakta coding density (%)
+Mycobacterium leprae GCF_000195855.1	3984	25	69.2
+Bakta annotates decayed reading frames as CDSs, and therefore it calls 3,984 CDSs and only 25 pseudogenes in a genome that carries roughly 1,600 intact genes under NCBI PGAP.

@@ -1,0 +1,1 @@
+Note. Prevalence values in this table are computed over all 134 FSM, 389 RGM and 299 SGM genomes, and are the values plotted in Fig. S3. They are therefore not on the same denominator as Table S18.

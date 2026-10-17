@@ -1,0 +1,16 @@
+module	gene_label	group	n_genomes	n_positive	pct	rule
+Urease	ureC	RGM	97	80	82.5	Bakta 1.11.4 gene symbol ureC or product 'urease subunit alpha' / 'urease'; genome positive if >=1 matching CDS
+Nitrate respiration	narG	RGM	97	46	47.4	Bakta gene symbol narG or product '(respiratory) nitrate reductase subunit alpha/alpha chain'; genome positive if >=1 matching CDS
+Aromatic-ring degradation	catA	RGM	97	18	18.6	Bakta gene symbol catA or product 'catechol 1,2-dioxygenase'; genome positive if >=1 matching CDS
+Ectoine synthesis	ectC	RGM	97	57	58.8	Bakta gene symbol ectC or product 'L-ectoine synthase'; genome positive if >=1 matching CDS
+Kdp K+ uptake	kdpB	RGM	97	73	75.3	Bakta gene symbol kdpB or product 'potassium-transporting ATPase (ATP-binding subunit|subunit B|subunit KdpB)'; genome positive if >=1 matching CDS
+Urease	ureC	FSM	95	1	1.1	Bakta 1.11.4 gene symbol ureC or product 'urease subunit alpha' / 'urease'; genome positive if >=1 matching CDS
+Nitrate respiration	narG	FSM	95	1	1.1	Bakta gene symbol narG or product '(respiratory) nitrate reductase subunit alpha/alpha chain'; genome positive if >=1 matching CDS
+Aromatic-ring degradation	catA	FSM	95	0	0.0	Bakta gene symbol catA or product 'catechol 1,2-dioxygenase'; genome positive if >=1 matching CDS
+Ectoine synthesis	ectC	FSM	95	0	0.0	Bakta gene symbol ectC or product 'L-ectoine synthase'; genome positive if >=1 matching CDS
+Kdp K+ uptake	kdpB	FSM	95	8	8.4	Bakta gene symbol kdpB or product 'potassium-transporting ATPase (ATP-binding subunit|subunit B|subunit KdpB)'; genome positive if >=1 matching CDS
+Urease	ureC	Leprosy clade	3	0	0.0	Bakta 1.11.4 gene symbol ureC or product 'urease subunit alpha' / 'urease'; genome positive if >=1 matching CDS
+Nitrate respiration	narG	Leprosy clade	3	0	0.0	Bakta gene symbol narG or product '(respiratory) nitrate reductase subunit alpha/alpha chain'; genome positive if >=1 matching CDS
+Aromatic-ring degradation	catA	Leprosy clade	3	0	0.0	Bakta gene symbol catA or product 'catechol 1,2-dioxygenase'; genome positive if >=1 matching CDS
+Ectoine synthesis	ectC	Leprosy clade	3	0	0.0	Bakta gene symbol ectC or product 'L-ectoine synthase'; genome positive if >=1 matching CDS
+Kdp K+ uptake	kdpB	Leprosy clade	3	0	0.0	Bakta gene symbol kdpB or product 'potassium-transporting ATPase (ATP-binding subunit|subunit B|subunit KdpB)'; genome positive if >=1 matching CDS

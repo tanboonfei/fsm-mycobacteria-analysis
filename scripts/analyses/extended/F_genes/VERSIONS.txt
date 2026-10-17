@@ -1,0 +1,12 @@
+HMMER: # HMMER 3.4 (Aug 2023); http://hmmer.org/
+BLAST+: tblastn: 2.16.0+
+DIAMOND: diamond version 2.1.13
+Infernal: # INFERNAL 1.1.5 (Sep 2023)
+seqkit: seqkit v2.10.1
+python: Python 3.13.7
+pandas 2.2.3 scipy 1.16.2 statsmodels 0.14.6
+eggNOG-mapper: emapper-2.1.12 (eggnog_ref_out/allfam, 862-genome mmseqs cluster reps; header of allfam.emapper.annotations)
+KOfam: KOfam downloaded 2026-10-01 (anonymous FTP) from ftp://ftp.genome.jp/pub/db/kofam/ profiles.tar.gz  Last-Modified 2026-09-29 00:53:27 GMT, 1,565,093,840 bytes ko_list.gz       FTP mtime 2026-09-24 04:47, 915,450 bytes (28,453 KOs; 27,930 profiles) 
+Swiss-Prot: UniProtKB/Swiss-Prot Release 2026_03 of 02-Sep-2026
+TCDB: tcdb.org/public/tcdb FASTA downloaded 2026-10-14 (24,281 sequences)
+Rfam: RF00059 (TPP riboswitch) CM downloaded 2026-10-14 from rfam.org, GA 54.30

@@ -1,0 +1,5 @@
+run	alignment	labelling	K	LRT	p	lnL_alternative	lnL_null	RELAX_alt_test_distribution	note
+published (Table S9 row 1)	three_way.codon.fa	FSM terminals+stem vs 38 RGM+SGM	1.0438	12.61	3.84e-4	-695158.57	-695164.88	0.01978@89.11%;0.7899@8.97%;22.27@1.91%	common_reference_FSM_tips_stem.json
+earlier rerun (ENVIRONMENT.md)	three_way.codon.fa	same	1.041	13.0	3.1e-4			as reported in ENVIRONMENT.md / Table S9b FSM_repro (all-remaining reference)
+rerun this check (identical command, RELAX 3.1.1, CPU=2)	three_way.codon.fa	same	1.0080	0.711	0.399	-695272.07	-695272.42	0@4.69%;0.05252@91.65%;9.308@3.66%	boot/real/FSM_tips_stem.json; converged to a different omega mode 113.5 lnL units worse than the published fit
+conditional refit (branch lengths and exchangeabilities fixed at the rerun null; reference omega distribution and K re-optimised)	three_way.codon.fa	same	1.0245	12.91		-694912.34	-694918.80		boot/fast2/REAL.log; null lnL 246 units better than the published full fit's null, i.e. neither full RELAX fit reached the global optimum

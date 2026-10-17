@@ -1,0 +1,13 @@
+run	criterion	FSM_stem_in_config	score_full	score_without_FSM_shift	delta	logLik_full	logLik_without	alpha_full	alpha_without
+l1ou_824_log_pBIC_chronos_l1	BIC	TRUE	-734.95	-287.47	447.47	478.26	247.81	360	16.9
+l1ou_824_log_pBIC_chronos_l1	AICc	TRUE	-887.67	-431.11	456.57	478.26	247.81	360	16.9
+l1ou_824_log_pBIC_chronos_l1	pBIC	TRUE	-655.02	-229.63	425.39	478.26	247.81	360	16.9
+l1ou_824_raw_pBIC_chronos_l1	BIC	TRUE	1920.15	2069.98	149.83	-862.72	-944.35	124	21.4
+l1ou_824_raw_pBIC_chronos_l1	AICc	TRUE	1785.63	1944.59	158.96	-862.72	-944.35	124	21.4
+l1ou_824_raw_pBIC_chronos_l1	pBIC	TRUE	1987.01	2123.62	136.61	-862.72	-944.35	124	21.4
+l1ou_525_log_pBIC_chronos_l1	BIC	TRUE	-641.09	-509.01	132.09	436.42	364.11	514	441
+l1ou_525_log_pBIC_chronos_l1	AICc	TRUE	-793.07	-653.07	139.99	436.42	364.11	514	441
+l1ou_525_log_pBIC_chronos_l1	pBIC	TRUE	-554.38	-433.09	121.29	436.42	364.11	514	441
+l1ou_824_log_pBIC_chronos_l1_derep	BIC	TRUE	-453.26	13.33	466.59	294.61	54.84	796	327
+l1ou_824_log_pBIC_chronos_l1_derep	AICc	TRUE	-545.74	-70.47	475.27	294.61	54.84	796	327
+l1ou_824_log_pBIC_chronos_l1_derep	pBIC	TRUE	-411.21	42.33	453.54	294.61	54.84	796	327

@@ -1,0 +1,163 @@
+
+Analysis Description
+--------------------
+This analysis applies the Muse Gaut 94 (MG94) model with the GTR
+nucleotide rate component to estimate the single dN/dS ratio for the
+alignment, and report its confidence intervals derived using profile
+likelihood. There is an option to select a subset of branches for
+estimation, in which case a separate omega is estimated for the selected
+branches. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree. Multiple partitions
+with a NEXUS file also supported
+
+- __Citation__: A likelihood approach for comparing synonymous and nonsynonymous
+nucleotide substitution rates, with application to the chloroplast
+genome (1994). _Mol Biol Evol_ 11 (5): 715-724
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 0.1
+
+
+
+####Choose Genetic Code
+
+1. [**Universal**] Universal code. (Genebank transl_table=1).
+2. [**Vertebrate-mtDNA**] Vertebrate mitochondrial DNA code. (Genebank transl_table=2).
+3. [**Yeast-mtDNA**] Yeast mitochondrial DNA code. (Genebank transl_table=3).
+4. [**Mold-Protozoan-mtDNA**] Mold, Protozoan and Coelenterate mitochondrial DNA and the Mycloplasma/Spiroplasma code. (Genebank transl_table=4).
+5. [**Invertebrate-mtDNA**] Invertebrate mitochondrial DNA code. (Genebank transl_table=5).
+6. [**Ciliate-Nuclear**] Ciliate, Dasycladacean and Hexamita Nuclear code. (Genebank transl_table=6).
+7. [**Echinoderm-mtDNA**] Echinoderm mitochondrial DNA code. (Genebank transl_table=9).
+8. [**Euplotid-Nuclear**] Euplotid Nuclear code. (Genebank transl_table=10).
+9. [**Alt-Yeast-Nuclear**] Alternative Yeast Nuclear code. (Genebank transl_table=12).
+10. [**Ascidian-mtDNA**] Ascidian mitochondrial DNA code. (Genebank transl_table=13).
+11. [**Flatworm-mtDNA**] Flatworm mitochondrial DNA code. (Genebank transl_table=14).
+12. [**Blepharisma-Nuclear**] Blepharisma Nuclear code. (Genebank transl_table=15).
+13. [**Chlorophycean-mtDNA**] Chlorophycean Mitochondrial Code (transl_table=16).
+14. [**Trematode-mtDNA**] Trematode Mitochondrial Code (transl_table=21).
+15. [**Scenedesmus-obliquus-mtDNA**] Scenedesmus obliquus mitochondrial Code (transl_table=22).
+16. [**Thraustochytrium-mtDNA**] Thraustochytrium Mitochondrial Code (transl_table=23).
+17. [**Pterobranchia-mtDNA**] Pterobranchia Mitochondrial Code (transl_table=24).
+18. [**SR1-and-Gracilibacteria**] Candidate Division SR1 and Gracilibacteria Code (transl_table=25).
+19. [**Pachysolen-Nuclear**] Pachysolen tannophilus Nuclear Code (transl_table=26).
+20. [**Mesodinium-Nuclear**] Mesodinium Nuclear Code (transl_table=29)
+21. [**Peritrich-Nuclear**] Peritrich Nuclear Code (transl_table=30)
+22. [**Cephalodiscidae-mtDNA**] Cephalodiscidae Mitochondrial UAA-Tyr Code (transl_table=33)
+
+>Please choose an option (or press q to cancel selection):
+
+>Select a coding sequence alignment file (`/path/to/project/analyses/extended/D_relax/sched/`) 
+
+>Please select a tree file for the data: (`/path/to/project/analyses/extended/D_relax/sched/`) /path/to/project/analyses/extended/D_relax/inputs/lepstem_test.nwk
+/path/to/project/analyses/extended/D_relax/inputs/lepstem_test.nwk
+
+>Loaded a multiple sequence alignment with **37** sequences, **21280** codons, and **1** partitions from `/path/to/project/analyses/extended/D_relax/ci/LEPstemcleanA_prof.codon.fa`
+
+
+####Choose the set of branches to test for selection
+
+1. [**All**] Include all branches in the analysis
+2. [**Internal**] Include all internal branches in the analysis
+3. [**Leaves**] Include all leaf branches in the analysis
+4. [**Unlabeled branches**] Set of 70 unlabeled branches
+5. [**Test**] Set Test with 1 branches
+
+>Please choose an option (or press q to cancel selection):
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+
+>kill-zero-lengths => Yes
+
+### Deleted 1 zero-length internal branches: `IntNode062`
+* Log(L) = -751675.90, AIC-c = 1503509.80 (79 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  3.268
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -690653.30, AIC-c = 1381478.62 (86 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  4.167
+* non-synonymous/synonymous rate ratio for *background* =   0.1285
+* non-synonymous/synonymous rate ratio for *test* =   0.1507
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -684861.74
+* Estimating confidence intervals
+* non-synonymous/synonymous rate ratio for *background* =   0.1083 [  0.1074 -   0.1092 ]
+* non-synonymous/synonymous rate ratio for *test* =   0.1651 [  0.1576 -   0.1729 ]
+
+PROFILE	MLE	0.1651178160931773	-684861.7376567399
+free: ayQkcJLh.tree_0.IntNode017.alpha = 1.102072553705677
+PROFILE	0.05	-685301.0862758162	878.6972381526139
+PROFILE	0.055	-685235.2280015827	746.9806896855589
+PROFILE	0.06	-685179.2977020021	635.1200905244332
+PROFILE	0.065	-685131.5284287039	539.5815439280123
+PROFILE	0.07000000000000001	-685090.5520023631	457.6286912465002
+PROFILE	0.075	-685055.2898788502	387.1044442206621
+PROFILE	0.08	-685024.8787148033	326.2821161267348
+PROFILE	0.08500000000000001	-684998.6182144617	273.7611154436599
+PROFILE	0.09	-684975.933727888	228.3921422963031
+PROFILE	0.095	-684956.3488816889	189.2224498980213
+PROFILE	0.1	-684939.465186464	155.4550594482571
+PROFILE	0.105	-684924.9466042393	126.4178949987981
+PROFILE	0.11	-684912.5077012755	101.5400890712626
+PROFILE	0.115	-684901.9044378534	80.33356222696602
+PROFILE	0.12	-684892.9269232729	62.37853306601755
+PROFILE	0.125	-684885.3936650084	47.31201653694734
+PROFILE	0.13	-684879.1469472939	34.81858110800385
+PROFILE	0.135	-684874.0490971248	24.62288076989353
+PROFILE	0.14	-684869.9794356902	16.4835579006467
+PROFILE	0.145	-684866.8317771653	10.18824085080996
+PROFILE	0.15	-684864.5123543895	5.549395299283788
+PROFILE	0.155	-684862.9380946257	2.400875771651044
+PROFILE	0.16	-684862.0351770989	0.5950407180935144
+PROFILE	0.165	-684861.7378152934	0.0003171069547533989
+PROFILE	0.17	-684861.987228143	0.4991428062785417
+PROFILE	0.175	-684862.7307649284	1.986216377001256
+PROFILE	0.18	-684863.921156916	4.367000352125615
+PROFILE	0.185	-684865.515877805	7.556442130124196
+PROFILE	0.19	-684867.4765872804	11.47786108101718
+PROFILE	0.195	-684869.7686585892	16.06200369866565
+PROFILE	0.2	-684872.3607615922	21.24620970454998
+PROFILE	0.205	-684875.2245011884	26.97368889697827
+PROFILE	0.21	-684878.3341037494	33.19289401895367
+PROFILE	0.215	-684881.6661409102	39.85696834069677
+PROFILE	0.22	-684885.199287202	46.92326092417352
+PROFILE	0.225	-684888.9141066595	54.35289983917028
+PROFILE	0.23	-684892.7928645131	62.11041554645635
+PROFILE	0.235	-684896.8193586211	70.16340376250446
+PROFILE	0.24	-684900.97877525	78.48223702027462
+PROFILE	0.245	-684905.2575533155	87.03979315119796
+PROFILE	0.25	-684909.6432691155	95.81122475117445
+PROFILE	0.255	-684914.1245310748	104.7737486697733
+PROFILE	0.26	-684918.6908859389	113.9064583980944
+PROFILE	0.265	-684923.3327346724	123.1901558649261
+PROFILE	0.27	-684928.0412569196	132.60720035946
+PROFILE	0.275	-684932.8083429264	142.1413723730948
+PROFILE	0.28	-684937.6265327698	151.7777520597447
+PROFILE	0.285	-684942.4889603006	161.5026071213651
+PROFILE	0.29	-684947.3893036933	171.3032939068507
+PROFILE	0.295	-684952.3217400494	181.168166619027
+PROFILE	0.3	-684957.2809046184	191.086495757103
+PROFILE	0.305	-684962.2618522589	201.0483910380863
+PROFILE	0.31	-684967.2600261888	211.0447388978209
+PROFILE	0.315	-684972.271224309	221.0671351382043
+PROFILE	0.32	-684977.2915729429	231.107832405949
+PROFILE	0.325	-684982.3175003824	241.1596872850787
+PROFILE	0.33	-684987.3457137432	251.2161140067037
+PROFILE	0.335	-684992.3731774897	261.2710414996836
+PROFILE	0.34	-684997.3970938238	271.3188741677441
+PROFILE	0.345	-685002.4148847149	281.3544559499715
+PROFILE	0.35	-685007.424175415	291.3730373501312
+PROFILE	0.355	-685012.4227793219	301.3702451640274
+PROFILE	0.36	-685017.4086840687	311.3420546576381
+PROFILE	0.365	-685022.3800387274	321.2847639750689
+PROFILE	0.37	-685027.3351420289	331.1949705779552
+PROFILE	0.375	-685032.2724315075	341.0695495351683
+PROFILE	0.38	-685037.1904734917	350.9056335035712
+PROFILE	0.385	-685042.0879538663	360.7005942529067
+PROFILE	0.39	-685046.9636695414	370.4520256030373
+PROFILE	0.395	-685051.8165205665	380.1577276531607
+PROFILE	0.4	-685056.6455028383	389.815692196833

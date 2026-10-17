@@ -1,0 +1,25 @@
+run	n_tips	composition	label	mean_size_Mb_below	shift_in_optimum	shift_in_tip_mean	tip_mean_ratio	species_examples	bootstrap_detection
+l1ou_824_log_pBIC_chronos_l1	182	SGM:182		5.561	0.1433	0.1433	1.15	Mycobacterium sp001665235; Mycobacterium sherrisii; Mycobacterium simiae; Mycobacterium tilburgii	0.45
+l1ou_824_log_pBIC_chronos_l1	38	SGM:38		4.394	-0.3974	-0.3974	0.672	Mycobacterium heraklionense_C; Mycobacterium icosiumassiliensis; novel sp.; Mycobacterium sp963378105	0.35
+l1ou_824_log_pBIC_chronos_l1	134	FSM:134	FSM stem	3.344	-0.5191	-0.5191	0.595	Mycobacterium sp005789055; Mycobacterium sp945897705; Mycobacterium sp903911165; Mycobacterium sp018401645	0.98
+l1ou_824_log_pBIC_chronos_l1	8	RGM:8		3.736	-0.4636	-0.4636	0.629	Mycobacterium sp020438915; Mycobacterium sp022601135; Mycobacterium sp022601275; Mycobacterium sp964195655	0.94
+l1ou_824_log_pBIC_chronos_l1	1	RGM:1		2.386	-0.8953	-0.8953	0.408	Mycobacterium sp040511335	0.49
+l1ou_824_log_pBIC_chronos_l1	6	SGM:6		3.905	-0.4856	-0.4856	0.615	novel sp.	0.91
+l1ou_824_log_pBIC_chronos_l1	11	RGM:11		3.967	-0.393	-0.393	0.675	Mycobacterium sp022708865; novel sp.; Mycobacterium sp035345915; Mycobacterium sp036273805	0.94
+l1ou_824_log_pBIC_chronos_l1	4	SGM:4	leprosy clade (M. leprae, M. lepromatosis + relatives)	3.475	-0.4622	-0.4622	0.63	Mycobacterium leprae; Mycobacterium lepromatosis; Mycobacterium uberis; Mycobacterium haemophilum	0.93
+l1ou_824_log_pBIC_chronos_l1	2	RGM:2		3.074	-0.722	-0.722	0.486	novel sp.	0.39
+l1ou_824_log_pBIC_chronos_l1	1	SGM:1		2.663	-0.5774	-0.5774	0.561	Mycobacterium sp036519055	0.28
+l1ou_824_log_pBIC_chronos_l1	525	FSM:134,RGM:391		5.278	0.208	0.208	1.23	Mycobacterium rhodesiae_B; Mycobacterium vinylchloridicum; Mycobacterium sp023264735; Mycobacterium sp003053865	0.87
+l1ou_824_log_pBIC_chronos_l1	42	SGM:42		5.922	0.1253	0.1253	1.13	Mycobacterium kiyosense; Mycobacterium vicinigordonae; Mycobacterium sp022841565; Mycobacterium gordonae	0.21
+l1ou_824_log_pBIC_chronos_l1	32	SGM:32		4.612	0.3638	0.3638	1.44	Mycobacterium heraklionense_C; Mycobacterium icosiumassiliensis; novel sp.; Mycobacterium sp963378105	0.38
+l1ou_824_log_pBIC_chronos_l1	54	FSM:54	within FSM	3.078	-0.1285	-0.1285	0.879	Mycobacterium sp005789055; Mycobacterium sp945897705; Mycobacterium sp903911165; Mycobacterium sp018401645	0.34
+l1ou_824_log_pBIC_chronos_l1	139	RGM:139		6.329	0.0799	0.0799	1.08	Mycobacterium porcinum_A; Mycobacterium boenickei; Mycobacterium porcinum; Mycobacterium sp036235365	0.42
+l1ou_824_log_pBIC_chronos_l1_derep	377	FSM:65,RGM:312		5.546	0.2819	0.2819	1.33	Mycobacterium rhodesiae_B; Mycobacterium vinylchloridicum; Mycobacterium sp023264735; Mycobacterium sp003053865	
+l1ou_824_log_pBIC_chronos_l1_derep	65	FSM:65	FSM stem	3.447	-0.5771	-0.5771	0.562	Mycobacterium sp005789055; Mycobacterium sp945897705; Mycobacterium sp903911165; Mycobacterium sp018401645	
+l1ou_824_log_pBIC_chronos_l1_derep	7	RGM:7		3.811	-0.4808	-0.4808	0.618	Mycobacterium sp020438915; Mycobacterium sp022601135; Mycobacterium sp022601275; Mycobacterium sp964195655	
+l1ou_824_log_pBIC_chronos_l1_derep	1	RGM:1		2.386	-0.9317	-0.9317	0.394	Mycobacterium sp040511335	
+l1ou_824_log_pBIC_chronos_l1_derep	6	SGM:6		3.905	-0.3823	-0.3823	0.682	novel sp.	
+l1ou_824_log_pBIC_chronos_l1_derep	7	RGM:7		4.129	-0.3902	-0.3902	0.677	Mycobacterium sp022708865; novel sp.; Mycobacterium sp035345915; Mycobacterium sp036273805	
+l1ou_824_log_pBIC_chronos_l1_derep	4	SGM:4	leprosy clade (M. leprae, M. lepromatosis + relatives)	3.475	-0.4886	-0.4886	0.614	Mycobacterium leprae; Mycobacterium lepromatosis; Mycobacterium uberis; Mycobacterium haemophilum	
+l1ou_824_log_pBIC_chronos_l1_derep	2	RGM:2		3.074	-0.6784	-0.6784	0.507	novel sp.	
+l1ou_824_log_pBIC_chronos_l1_derep	168	SGM:168		5.553	0.2072	0.2072	1.23	Mycobacterium sp001665235; Mycobacterium sherrisii; Mycobacterium simiae; Mycobacterium tilburgii	

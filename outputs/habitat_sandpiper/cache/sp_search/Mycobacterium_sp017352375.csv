@@ -1,0 +1,22 @@
+sample,relative_abundance,coverage,taxon_name,study_title,release_year,metagenome_base_pairs,bacterial_archaeal_bases,eukaryotic_host_association,num_reads,read_length_summary,sequencing_instrument,collection_year,spf,spf_warning,gtdb_known_species_fraction_percent,globdb_known_species_fraction_percent,latitude,longitude,top1_order_fraction_percent,low_complexity
+ERR10978932,0.21,3.99,soil metagenome,Desert soil microbiome,2026,10113961500,9103494144.0,ecological,33713205,150x150bp reads,Illumina NovaSeq 6000,,90.01,False,13.34,13.22,,,17%,False
+ERR10979107,0.21,3.91,soil metagenome,Desert soil microbiome,2026,10269394500,9069486080.0,ecological,34231315,150x150bp reads,Illumina NovaSeq 6000,,88.32,False,11.6,12.05,,,17%,False
+ERR10979121,0.16,3.2,soil metagenome,Desert soil microbiome,2026,10288651800,9188321280.0,ecological,34295506,150x150bp reads,Illumina NovaSeq 6000,,89.31,False,9.65,9.73,,,15%,False
+ERR10979055,0.15,3.19,soil metagenome,Desert soil microbiome,2026,10843887600,9959404544.0,ecological,36146292,150x150bp reads,Illumina NovaSeq 6000,,91.84,False,14.22,14.31,,,15%,False
+ERR10978853,0.11,1.85,soil metagenome,Desert soil microbiome,2026,9786875700,8307169792.0,ecological,32622919,150x150bp reads,Illumina NovaSeq 6000,,84.88,False,13.04,13.37,,,14%,False
+ERR10979129,0.1,2.01,soil metagenome,Desert soil microbiome,2026,10373314800,9271763968.0,ecological,34577716,150x150bp reads,Illumina NovaSeq 6000,,89.38,False,11.14,10.75,,,14%,False
+ERR10979003,0.1,2.01,soil metagenome,Desert soil microbiome,2026,10222668000,9409477632.0,ecological,34075560,150x150bp reads,Illumina NovaSeq 6000,,92.05,False,13.26,12.75,,,14%,False
+ERR10978912,0.09,1.66,soil metagenome,Desert soil microbiome,2026,10226778600,8678624256.0,ecological,34089262,150x150bp reads,Illumina NovaSeq 6000,,84.86,False,11.04,10.45,,,13%,False
+ERR10979178,0.09,2.31,soil metagenome,Desert soil microbiome,2026,14007796500,12737742848.0,ecological,46692655,150x150bp reads,Illumina NovaSeq 6000,,90.93,False,13.05,13.13,,,13%,False
+ERR10979024,0.07,1.39,soil metagenome,Desert soil microbiome,2026,10074858900,9075610624.0,ecological,33582863,150x150bp reads,Illumina NovaSeq 6000,,90.08,False,12.04,12.23,,,15%,False
+ERR10978963,0.07,1.47,soil metagenome,Desert soil microbiome,2026,10460425800,9486871552.0,ecological,34868086,150x150bp reads,Illumina NovaSeq 6000,,90.69,False,11.91,12.0,,,11%,False
+ERR10979087,0.07,1.31,soil metagenome,Desert soil microbiome,2026,10250976300,8968581120.0,ecological,34169921,150x150bp reads,Illumina NovaSeq 6000,,87.49,False,11.62,11.74,,,14%,False
+ERR10978993,0.07,1.37,soil metagenome,Desert soil microbiome,2026,10486978800,9314598912.0,ecological,34956596,150x150bp reads,Illumina NovaSeq 6000,,88.82,False,11.71,11.96,,,13%,False
+ERR10978957,0.06,1.28,soil metagenome,Desert soil microbiome,2026,10706620200,9703682048.0,ecological,35688734,150x150bp reads,Illumina NovaSeq 6000,,90.63,False,11.96,11.5,,,13%,False
+ERR10979145,0.06,1.0,soil metagenome,Desert soil microbiome,2026,9856706100,8773210112.0,ecological,32855687,150x150bp reads,Illumina NovaSeq 6000,,89.01,False,12.5,13.01,,,15%,False
+ERR10979152,0.05,1.1,soil metagenome,Desert soil microbiome,2026,10805465700,9646946304.0,ecological,36018219,150x150bp reads,Illumina NovaSeq 6000,,89.28,False,12.11,11.79,,,15%,False
+ERR10979049,0.05,1.02,soil metagenome,Desert soil microbiome,2026,9826927500,8701246464.0,ecological,32756425,150x150bp reads,Illumina NovaSeq 6000,,88.54,False,9.47,9.58,,,17%,False
+ERR10979103,0.05,0.97,soil metagenome,Desert soil microbiome,2026,9595981800,8165880320.0,ecological,31986606,150x150bp reads,Illumina NovaSeq 6000,,85.1,False,9.69,9.44,,,15%,False
+ERR10979146,0.05,1.3,soil metagenome,Desert soil microbiome,2026,13099524900,11575654400.0,ecological,43665083,150x150bp reads,Illumina NovaSeq 6000,,88.37,False,12.29,12.4,,,15%,False
+ERR10979124,0.04,0.78,soil metagenome,Desert soil microbiome,2026,9990096300,8948572160.0,ecological,33300321,150x150bp reads,Illumina NovaSeq 6000,,89.57,False,13.03,12.7,,,13%,False
+ERR10978862,0.04,0.77,soil metagenome,Desert soil microbiome,2026,11049482400,9536652288.0,ecological,36831608,150x150bp reads,Illumina NovaSeq 6000,,86.31,False,14.96,15.37,,,11%,False

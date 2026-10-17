@@ -1,0 +1,2 @@
+sample,relative_abundance,coverage,taxon_name,study_title,release_year,metagenome_base_pairs,bacterial_archaeal_bases,eukaryotic_host_association,num_reads,read_length_summary,sequencing_instrument,collection_year,spf,spf_warning,gtdb_known_species_fraction_percent,globdb_known_species_fraction_percent,latitude,longitude,top1_order_fraction_percent,low_complexity
+SRR16036107,19.55,1.39,insect metagenome,Insect-specific core virome of Aedes aegypti,2021,7895335792,27568220.0,host,26143496,151x151bp reads,Illumina HiSeq 4000,2018,0.35,False,19.55,19.47,,,100%,True

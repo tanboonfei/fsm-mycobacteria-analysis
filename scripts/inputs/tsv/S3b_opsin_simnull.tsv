@@ -1,0 +1,5 @@
+test	reference	n	n_FSM	n_ref	pct_FSM	pct_ref	Fisher_p_uncorrected	Fisher_OR	phyloglm_beta	phyloglm_p	alpha	observed_OR	sim_OR_median	sim_OR_p95	simulation_null_p	n_sims
+Aquatic biome	RGM	179	94	85	79.8	40.0	5.46e-08	5.9	0.137	0.861	6.338	5.78	1.01	23.71	0.175	2000
+Low salinity	RGM	109	77	32	74.0	9.4	2.92e-10	26.6	0.001	1.0	6.883	23.64	1.08	191.27	0.163	1977
+Opsin presence	RGM	525	134	391	76.9	4.9		62.8	2.51	5.3e-05	4.79	62.77	1.04	34.77	0.031	2000
+Fisher exact treats 134 correlated genomes as independent. Neither association survives phylogenetic correction: phyloglm p = 0.86 (aquatic) and p = 1.0 (low salinity, MPLE; 0.29 under IG10), and an Mk simulation null on the same tree reproduces odds ratios this extreme in 17% and 16% of replicates. Opsin presence was put through the same simulation null: the observed odds ratio of 62.8 exceeds the 95th percentile of 2,000 Mk replicates (34.8), simulation-null p = 0.031; unlike the two habitat traits it is not reproduced by phylogenetic autocorrelation alone.

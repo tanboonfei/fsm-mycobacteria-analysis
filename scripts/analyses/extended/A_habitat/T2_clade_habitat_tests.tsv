@@ -1,0 +1,57 @@
+test	unit	FSM_pos	FSM_n	RGM_pos	RGM_n	OR	CI_lo	CI_hi	p	n_units	note
+Aquatic biome (S1), all annotated	genome	75	94	34	85	5.86	2.9	12.2	5.46e-08	179	
+Aquatic biome (S1), all annotated	species x study (majority; ties->1)	21	31	8	39	7.85	2.46	27.9	8.84e-05	70	
+Aquatic biome (S1), all annotated	species x study (random draw; 1000 reps)	21	31	8	39	7.85	NA	NA	8.84e-05	70	median over draws; p range 8.8e-05-8.8e-05; % draws p<0.05 = 100
+Aquatic biome (S1), all annotated	study x clade (majority)	15	22	7	26	5.58	1.44	24.5	0.00825	48	
+Aquatic biome (S1), all annotated	glmer y ~ fsm + (1|study)	75	94	34	85	1.05e+11	1e+07	1.09e+15	9.18e-05	179	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=7.64e-08; LRT p used; study SD=54.54; converged
+Aquatic biome (S1), all annotated	glmer y ~ fsm + (1|study) [nAGQ=20]	75	94	34	85	60800000	2810	1.32e+12	0.00738	179	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=0.000434; LRT p used; study SD=32.24; converged
+Aquatic biome (S1), all annotated	glmer y ~ fsm + (1|study) + (1|species_key)	75	94	34	85	1.05e+11	21600000	5.06e+14	9.18e-05	179	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=4.58e-09; LRT p used; study SD=54.54; species SD=0; singular fit; conv: boundary (singular) fit: see help('isSingular')
+Aquatic biome (S1), all annotated	Firth logistic, study x clade units	15	22	7	26	5.37	1.66	19.1	0.00456	48	profile-likelihood CI
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	genome	75	94	5	56	38.8	13.2	142	2.15e-18	150	
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	species x study (majority; ties->1)	21	31	5	36	12.4	3.44	54	1.07e-05	67	
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	species x study (random draw; 1000 reps)	21	31	5	36	12.4	NA	NA	1.07e-05	67	median over draws; p range 1.1e-05-1.1e-05; % draws p<0.05 = 100
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	study x clade (majority)	15	22	5	24	7.71	1.83	38.7	0.0025	46	
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	glmer y ~ fsm + (1|study)	75	94	5	56	1.56e+11	1.8e+07	1.36e+15	8.69e-05	150	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=2.54e-08; LRT p used; study SD=54.7; converged
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	glmer y ~ fsm + (1|study) [nAGQ=20]	75	94	5	56	3.55e+21	20200	6.22e+38	0.000475	150	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=0.0143; LRT p used; study SD=57.21; converged
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	glmer y ~ fsm + (1|study) + (1|species_key)	75	94	5	56	1.56e+11	32200000	7.57e+14	8.69e-05	150	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=2.64e-09; LRT p used; study SD=54.71; species SD=0; singular fit; conv: boundary (singular) fit: see help('isSingular')
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	Firth logistic, study x clade units	15	22	5	24	7.33	2.13	28.7	0.00126	46	profile-likelihood CI
+Low salinity (S1), all annotated	genome	57	77	3	32	26.6	7.12	151	2.92e-10	109	
+Low salinity (S1), all annotated	species x study (majority; ties->1)	15	22	3	7	2.75	0.357	24.3	0.375	29	
+Low salinity (S1), all annotated	species x study (random draw; 1000 reps)	15	22	3	7	2.75	NA	NA	0.375	29	median over draws; p range 0.37-0.37; % draws p<0.05 = 0
+Low salinity (S1), all annotated	study x clade (majority)	12	16	3	6	2.84	0.268	31.7	0.334	22	
+Low salinity (S1), all annotated	glmer y ~ fsm + (1|study)	57	77	3	32	10.2	0.000249	421000	0.709	109	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=0.668; LRT p used; study SD=59.34; converged
+Low salinity (S1), all annotated	glmer y ~ fsm + (1|study) [nAGQ=20]	57	77	3	32	1.76e+08	0.000177	1.75e+20	1	109	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=0.178; LRT p used; study SD=41.77; converged
+Low salinity (S1), all annotated	glmer y ~ fsm + (1|study) + (1|species_key)	57	77	3	32	10.2	0.000353	296000	0.709	109	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=0.657; LRT p used; study SD=59.34; species SD=0; singular fit; conv: boundary (singular) fit: see help('isSingular')
+Low salinity (S1), all annotated	Firth logistic, study x clade units	12	16	3	6	2.78	0.438	18.7	0.273	22	profile-likelihood CI
+Low salinity (S1), excluding open-ocean studies (Tara)	genome	57	77	3	5	1.88	0.147	17.7	0.607	82	
+Low salinity (S1), excluding open-ocean studies (Tara)	species x study (majority; ties->1)	15	22	3	5	1.41	0.097	15.5	1	27	
+Low salinity (S1), excluding open-ocean studies (Tara)	species x study (random draw; 1000 reps)	15	22	3	5	1.41	NA	NA	1	27	median over draws; p range 1-1; % draws p<0.05 = 0
+Low salinity (S1), excluding open-ocean studies (Tara)	study x clade (majority)	12	16	3	5	1.93	0.12	24.7	0.598	21	
+Low salinity (S1), excluding open-ocean studies (Tara)	glmer y ~ fsm + (1|study)	57	77	3	5	5.06	2.42e-05	1060000	0.829	82	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=0.795; LRT p used; study SD=59.64; converged
+Low salinity (S1), excluding open-ocean studies (Tara)	glmer y ~ fsm + (1|study) [nAGQ=20]	57	77	3	5	4.89	1.65e-06	14500000	0.855	82	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=0.835; LRT p used; study SD=59.73; converged
+Low salinity (S1), excluding open-ocean studies (Tara)	glmer y ~ fsm + (1|study) + (1|species_key)	57	77	3	5	5.06	1.76e-05	1460000	0.829	82	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=0.801; LRT p used; study SD=59.64; species SD=0; singular fit; conv: boundary (singular) fit: see help('isSingular')
+Low salinity (S1), excluding open-ocean studies (Tara)	Firth logistic, study x clade units	12	16	3	5	1.98	0.257	14.4	0.494	21	profile-likelihood CI
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	genome	57	66	3	5	4.1	0.304	41.3	0.169	71	
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	species x study (majority; ties->1)	15	19	3	5	2.39	0.151	30.1	0.568	24	
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	species x study (random draw; 1000 reps)	15	19	3	5	2.39	NA	NA	0.568	24	median over draws; p range 0.57-0.57; % draws p<0.05 = 0
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	study x clade (majority)	12	15	3	5	2.52	0.148	36.3	0.56	20	
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	glmer y ~ fsm + (1|study)	57	66	3	5	6.86	1.44e-05	3260000	0.806	71	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=0.773; LRT p used; study SD=58.05; converged
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	glmer y ~ fsm + (1|study) [nAGQ=20]	57	66	3	5	6.51	1.35e-06	31400000	0.836	71	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=0.811; LRT p used; study SD=58.9; converged
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	glmer y ~ fsm + (1|study) + (1|species_key)	57	66	3	5	6.86	1.81e-05	2610000	0.806	71	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=0.769; LRT p used; study SD=58.05; species SD=0; converged
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	Firth logistic, study x clade units	12	15	3	5	2.55	0.317	20.2	0.365	20	profile-likelihood CI
+Water column or sediment source (metadata category), all true MAGs	genome	102	127	47	141	8.09	4.51	14.9	6.63e-15	268	
+Water column or sediment source (metadata category), all true MAGs	species x study (majority; ties->1)	43	61	21	93	8.06	3.71	18.3	5.69e-09	154	
+Water column or sediment source (metadata category), all true MAGs	species x study (random draw; 1000 reps)	44	61	21	93	8.06	NA	NA	5.69e-09	154	median over draws; p range 1.1e-09-5.7e-09; % draws p<0.05 = 100
+Water column or sediment source (metadata category), all true MAGs	study x clade (majority)	26	36	17	49	4.8	1.75	14	0.000917	85	
+Water column or sediment source (metadata category), all true MAGs	glmer y ~ fsm + (1|study)	102	127	47	141	1.15e+10	12300000	1.07e+13	7.01e-09	268	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=3.17e-11; LRT p used; study SD=39.78; converged
+Water column or sediment source (metadata category), all true MAGs	glmer y ~ fsm + (1|study) [nAGQ=20]	102	127	47	141	7.27e+17	7.22e+17	7.31e+17	8.5e-05	268	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=0; LRT p used; study SD=46.78; conv: Model failed to converge with max|grad| = 0.023388 (tol = 0.002, component 1)
+Water column or sediment source (metadata category), all true MAGs	glmer y ~ fsm + (1|study) + (1|species_key)	102	127	47	141	1.15e+10	1.4e+07	9.41e+12	7.01e-09	268	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=1.33e-11; LRT p used; study SD=39.78; species SD=0; singular fit; conv: boundary (singular) fit: see help('isSingular')
+Water column or sediment source (metadata category), all true MAGs	Firth logistic, study x clade units	26	36	17	49	4.69	1.91	12.2	0.000621	85	profile-likelihood CI
+Water column or sediment source (metadata category), true MAGs excl. open ocean	genome	102	127	18	112	20.9	10.4	44.1	1.57e-24	239	
+Water column or sediment source (metadata category), true MAGs excl. open ocean	species x study (majority; ties->1)	43	61	18	90	9.38	4.22	21.8	5.41e-10	151	
+Water column or sediment source (metadata category), true MAGs excl. open ocean	species x study (random draw; 1000 reps)	44	61	18	90	9.38	NA	NA	5.41e-10	151	median over draws; p range 1.6e-10-5.4e-10; % draws p<0.05 = 100
+Water column or sediment source (metadata category), true MAGs excl. open ocean	study x clade (majority)	26	36	15	47	5.42	1.95	16.2	0.00037	83	
+Water column or sediment source (metadata category), true MAGs excl. open ocean	glmer y ~ fsm + (1|study)	102	127	18	112	1.25e+10	19800000	7.94e+12	1.24e-13	239	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=1.61e-12; LRT p used; study SD=39.23; converged
+Water column or sediment source (metadata category), true MAGs excl. open ocean	glmer y ~ fsm + (1|study) [nAGQ=20]	102	127	18	112	3.82e+17	4.18e+14	3.48e+20	3.2e-05	239	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=2.54e-31; LRT p used; study SD=45.65; converged
+Water column or sediment source (metadata category), true MAGs excl. open ocean	glmer y ~ fsm + (1|study) + (1|species_key)	102	127	18	112	1.25e+10	13700000	1.15e+13	1.24e-13	239	DEGENERATE (quasi-separation by study; estimates not interpretable); Wald p=2.33e-11; LRT p used; study SD=39.23; species SD=0; singular fit; conv: boundary (singular) fit: see help('isSingular')
+Water column or sediment source (metadata category), true MAGs excl. open ocean	Firth logistic, study x clade units	26	36	15	47	5.29	2.13	14	0.000266	83	profile-likelihood CI

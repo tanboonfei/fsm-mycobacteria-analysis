@@ -1,0 +1,3 @@
+Test set	K without SRV	K with SRV	LRT without SRV	LRT with SRV	p with SRV	Verdict
+FSM (terminals + stem)	1.0438	1.0561	12.61	54.17	1.84e-13	Unchanged: K remains slightly above 1, and therefore no relaxation
+Leprosy clade (terminals + stem)	0.7579	0.8429	181.55	243	< 1e-15	Unchanged in direction; relaxation attenuated but strong

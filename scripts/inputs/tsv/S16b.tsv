@@ -1,0 +1,5 @@
+Predictor	Marginal Spearman rho	Marginal p	Multivariate coefficient	Multivariate p
+Genome size (Mb)	0.776	1.39e-12	31.42	0.0001
+Completeness (%)	0.205	0.126	2.378	0.0007
+log10 N50	-0.124	0.357	9.781	0.4245
+Contigs per Mb	0.141	0.295	0.184	0.1721

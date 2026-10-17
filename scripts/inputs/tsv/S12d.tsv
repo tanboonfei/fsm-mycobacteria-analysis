@@ -1,0 +1,3 @@
+Panel	FSM median (codons)	RGM median (codons)	Test	Statistic
+95 FSM / 97 RGM MAGs carrying ≥20 ribosomal-protein genes	4.33	4.92	Two-sided Mann–Whitney (uncorrected)	p = 2.4e-04
+Same panel, phylogenetically corrected	4.33	4.92	phylolm, Pagel lambda (lambda = 0.99)	beta = -0.084, SE = 1.113, p = 0.94

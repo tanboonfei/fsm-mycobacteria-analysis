@@ -1,0 +1,9 @@
+Completeness floor	FSM MAGs	FSM median (Mb)	RGM MAGs	RGM median (Mb)	Gap (Mb)	Mann–Whitney p
+none (all MAGs)	134	3.31	259	5.97	2.66	1.2e-61
+≥ 95%	67	3.36	207	6.05	2.68	9.7e-33
+≥ 98%	25	3.38	184	6.05	2.67	2.2e-15
+≥ 99%	14	3.44	181	6.05	2.62	1.3e-09
+≥ 99.5%	9	3.49	178	6.05	2.57	1.0e-06
+Linear extrapolation within clade	n	Slope (Mb per completeness point)	p	Predicted size at 100% completeness (Mb)	95% CI
+FSM	134	0.0282	8.4e-07	3.53	3.43 - 3.64
+RGM	259	0.0573	2e-12	6.03	5.90 - 6.16

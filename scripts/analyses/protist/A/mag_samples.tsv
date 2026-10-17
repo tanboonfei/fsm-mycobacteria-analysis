@@ -1,0 +1,648 @@
+t	genome_id_or_accession	group	culture_status	biome	salinity_habitat	derived_from_sample
+GB_GCA_023264735.1	GCA_023264735.1	sisterRGM	MAG / uncultured			
+RS_GCF_013337765.1	GCF_013337765.1	sisterRGM	MAG / uncultured			
+GB_GCA_900078375.1	GCA_900078375.1	sisterRGM	MAG / uncultured			
+RS_GCF_033804465.1	GCF_033804465.1	sisterRGM	MAG / uncultured			
+RS_GCF_004362315.1	GCF_004362315.1	sisterRGM	MAG / uncultured			
+GB_GCA_021732005.1	GCA_021732005.1	sisterRGM	MAG / uncultured			
+RS_GCF_008329905.1	GCF_008329905.1	sisterRGM	MAG / uncultured			
+RS_GCF_002887815.1	GCF_002887815.1	sisterRGM	MAG / uncultured			
+RS_GCF_001021385.1	GCF_001021385.1	sisterRGM	MAG / uncultured			
+RS_GCF_008329565.1	GCF_008329565.1	sisterRGM	MAG / uncultured			
+GB_GCA_023416315.1	GCA_023416315.1	sisterRGM	MAG / uncultured			
+spire_mag_02519404	spire_mag_02519404	sisterRGM	MAG / uncultured	host-associated		SAMN17062679
+RS_GCF_002723835.1	GCF_002723835.1	sisterRGM	MAG / uncultured			
+RS_GCF_004745805.1	GCF_004745805.1	sisterRGM	MAG / uncultured			
+RS_GCF_001494595.1	GCF_001494595.1	sisterRGM	MAG / uncultured			
+RS_GCF_011694515.1	GCF_011694515.1	sisterRGM	MAG / uncultured			
+RS_GCF_036023875.1	GCF_036023875.1	sisterRGM	MAG / uncultured			
+GB_GCA_020438785.1	GCA_020438785.1	sisterRGM	MAG / uncultured			
+spire_mag_01620236	spire_mag_01620236	sisterRGM	MAG / uncultured	anthropogenic		SAMN08389219
+spire_mag_01620411	spire_mag_01620411	sisterRGM	MAG / uncultured	anthropogenic		SAMN08389220
+spire_mag_01619766	spire_mag_01619766	sisterRGM	MAG / uncultured	anthropogenic		SAMN08389222
+spire_mag_01623019	spire_mag_01623019	sisterRGM	MAG / uncultured	anthropogenic		SAMN08389221
+spire_mag_02002215	spire_mag_02002215	sisterRGM	MAG / uncultured			SAMN07839317
+spire_mag_02003535	spire_mag_02003535	sisterRGM	MAG / uncultured			SAMN07839324
+GB_GCA_020438865.1	GCA_020438865.1	sisterRGM	MAG / uncultured			
+spire_mag_01619133	spire_mag_01619133	sisterRGM	MAG / uncultured	anthropogenic		SAMN08389235
+spire_mag_01620338	spire_mag_01620338	sisterRGM	MAG / uncultured	anthropogenic		SAMN08389237
+spire_mag_01623819	spire_mag_01623819	sisterRGM	MAG / uncultured	anthropogenic		SAMN08389234
+spire_mag_01621671	spire_mag_01621671	sisterRGM	MAG / uncultured	anthropogenic		SAMN08389236
+GB_GCA_005789055.1	GCA_005789055.1	FSM	MAG / uncultured			
+spire_mag_01632252	spire_mag_01632252	FSM	MAG / uncultured	aquatic	low salinity	SAMN11356863
+spire_mag_01753570	spire_mag_01753570	FSM	MAG / uncultured	aquatic	low salinity	SAMN12795195
+GB_GCA_945897705.1	GCA_945897705.1	FSM	MAG / uncultured			
+spire_mag_00863569	spire_mag_00863569	FSM	MAG / uncultured	aquatic	low salinity	SAMN10351129
+spire_mag_00864073	spire_mag_00864073	FSM	MAG / uncultured	aquatic	low salinity	SAMN10350975
+spire_mag_00866183	spire_mag_00866183	FSM	MAG / uncultured	aquatic	low salinity	SAMN10351071
+spire_mag_00869002	spire_mag_00869002	FSM	MAG / uncultured	aquatic	low salinity	SAMN10350902
+spire_mag_00874085	spire_mag_00874085	FSM	MAG / uncultured	aquatic	low salinity	SAMN10351281
+spire_mag_00873124	spire_mag_00873124	FSM	MAG / uncultured	aquatic	low salinity	SAMN10350974
+spire_mag_00874439	spire_mag_00874439	FSM	MAG / uncultured	aquatic	low salinity	SAMN10351191
+spire_mag_00874229	spire_mag_00874229	FSM	MAG / uncultured	aquatic	low salinity	SAMN10351326
+spire_mag_00866324	spire_mag_00866324	FSM	MAG / uncultured	aquatic	low salinity	SAMN10350960
+spire_mag_00866583	spire_mag_00866583	FSM	MAG / uncultured	aquatic	low salinity	SAMN10351095
+spire_mag_00868143	spire_mag_00868143	FSM	MAG / uncultured	aquatic	low salinity	SAMN10350959
+spire_mag_00871125	spire_mag_00871125	FSM	MAG / uncultured	aquatic	low salinity	SAMN10864422
+spire_mag_00873789	spire_mag_00873789	FSM	MAG / uncultured	aquatic	low salinity	SAMN10351128
+GB_GCA_964203005.1	GCA_964203005.1	FSM	MAG / uncultured			
+spire_mag_01960731	spire_mag_01960731	FSM	MAG / uncultured	aquatic	low salinity	SAMN05956157
+spire_mag_01960893	spire_mag_01960893	FSM	MAG / uncultured	aquatic	low salinity	SAMN05956155
+spire_mag_01104521	spire_mag_01104521	FSM	MAG / uncultured	aquatic	low salinity	SAMN11532343
+spire_mag_01107416	spire_mag_01107416	FSM	MAG / uncultured	aquatic	low salinity	SAMN11532411
+spire_mag_01104972	spire_mag_01104972	FSM	MAG / uncultured	aquatic	low salinity	SAMN11532163
+spire_mag_01108461	spire_mag_01108461	FSM	MAG / uncultured	aquatic	low salinity	SAMN11532448
+spire_mag_01112928	spire_mag_01112928	FSM	MAG / uncultured	aquatic	low salinity	SAMN11532773
+GB_GCA_018401645.1	GCA_018401645.1	FSM	MAG / uncultured			
+spire_mag_00688177	spire_mag_00688177	FSM	MAG / uncultured	aquatic	medium salinity	SAMN05150085
+spire_mag_00688367	spire_mag_00688367	FSM	MAG / uncultured	aquatic	medium salinity	SAMN05150089
+spire_mag_01583196	spire_mag_01583196	FSM	MAG / uncultured	aquatic		SAMN07631018
+spire_mag_01822855	spire_mag_01822855	FSM	MAG / uncultured	terrestrial		SAMN10864166
+spire_mag_01824889	spire_mag_01824889	FSM	MAG / uncultured	terrestrial		SAMN10864202
+spire_mag_01830074	spire_mag_01830074	FSM	MAG / uncultured	terrestrial		SAMN10864163
+spire_mag_01822349	spire_mag_01822349	FSM	MAG / uncultured	terrestrial		SAMN10864122
+spire_mag_01824983	spire_mag_01824983	FSM	MAG / uncultured	terrestrial		SAMN10864121
+spire_mag_01776742	spire_mag_01776742	FSM	MAG / uncultured	aquatic	medium salinity	SAMEA104408610
+spire_mag_01775892	spire_mag_01775892	FSM	MAG / uncultured	aquatic	medium salinity	SAMEA104408607
+spire_mag_01777835	spire_mag_01777835	FSM	MAG / uncultured	aquatic	medium salinity	SAMEA104408611
+spire_mag_01777252	spire_mag_01777252	FSM	MAG / uncultured	aquatic	medium salinity	SAMEA104408600
+spire_mag_01776854	spire_mag_01776854	FSM	MAG / uncultured	aquatic	medium salinity	SAMEA104408599
+GB_GCA_026393245.1	GCA_026393245.1	FSM	MAG / uncultured			
+GB_GCA_037138275.1	GCA_037138275.1	FSM	MAG / uncultured			
+spire_mag_01949778	spire_mag_01949778	FSM	MAG / uncultured	aquatic	low salinity	SAMN08779086
+spire_mag_01947641	spire_mag_01947641	FSM	MAG / uncultured	aquatic	low salinity	SAMN08777351
+spire_mag_01947705	spire_mag_01947705	FSM	MAG / uncultured	aquatic	low salinity	SAMN08779087
+spire_mag_01947849	spire_mag_01947849	FSM	MAG / uncultured	aquatic	low salinity	SAMN08779294
+spire_mag_01949445	spire_mag_01949445	FSM	MAG / uncultured	aquatic	low salinity	SAMN08776715
+spire_mag_01949332	spire_mag_01949332	FSM	MAG / uncultured	aquatic	low salinity	SAMN08779082
+spire_mag_01949938	spire_mag_01949938	FSM	MAG / uncultured	aquatic	low salinity	SAMN08779293
+spire_mag_01949386	spire_mag_01949386	FSM	MAG / uncultured	aquatic	low salinity	SAMN08779307
+GB_GCA_037138615.1	GCA_037138615.1	FSM	MAG / uncultured			
+RS_GCF_016462945.1	GCF_016462945.1	FSM	MAG / uncultured			
+GB_GCA_943331415.1	GCA_943331415.1	FSM	MAG / uncultured			
+spire_mag_01093898	spire_mag_01093898	FSM	MAG / uncultured	host-associated		SAMN04421875
+GB_GCA_945882475.1	GCA_945882475.1	FSM	MAG / uncultured			
+GB_GCA_018500005.2	GCA_018500005.2	FSM	MAG / uncultured			
+GB_GCA_036782595.1	GCA_036782595.1	FSM	MAG / uncultured			
+spire_mag_01094475	spire_mag_01094475	FSM	MAG / uncultured	host-associated		SAMN04421877
+spire_mag_01094744	spire_mag_01094744	FSM	MAG / uncultured	host-associated		SAMN04421868
+GB_GCA_040398885.1	GCA_040398885.1	FSM	MAG / uncultured			
+RS_GCF_032117575.1	GCF_032117575.1	FSM	MAG / uncultured			
+GB_GCA_029979305.1	GCA_029979305.1	FSM	MAG / uncultured			
+spire_mag_00193483	spire_mag_00193483	FSM	MAG / uncultured	anthropogenic	medium salinity	SAMN10386138
+GB_GCA_018882545.1	GCA_018882545.1	FSM	MAG / uncultured			
+GB_GCA_964202555.1	GCA_964202555.1	FSM	MAG / uncultured			
+spire_mag_01744910	spire_mag_01744910	FSM	MAG / uncultured	aquatic	low salinity	SAMN12796032
+spire_mag_01755240	spire_mag_01755240	FSM	MAG / uncultured	aquatic	low salinity	SAMN12795559
+spire_mag_01744298	spire_mag_01744298	FSM	MAG / uncultured	aquatic	low salinity	SAMN12794753
+spire_mag_01748232	spire_mag_01748232	FSM	MAG / uncultured	aquatic	low salinity	SAMN12794647
+spire_mag_01753944	spire_mag_01753944	FSM	MAG / uncultured	aquatic	low salinity	SAMN12794754
+spire_mag_01750747	spire_mag_01750747	FSM	MAG / uncultured	aquatic	low salinity	SAMN12794939
+spire_mag_01759821	spire_mag_01759821	FSM	MAG / uncultured	aquatic	low salinity	SAMN12794923
+spire_mag_01747196	spire_mag_01747196	FSM	MAG / uncultured	aquatic	low salinity	SAMN12796234
+spire_mag_01752215	spire_mag_01752215	FSM	MAG / uncultured	aquatic	low salinity	SAMN12794832
+spire_mag_02100063	spire_mag_02100063	FSM	MAG / uncultured	aquatic	low salinity	SAMN12794853
+spire_mag_01748689	spire_mag_01748689	FSM	MAG / uncultured	aquatic	low salinity	SAMN12795196
+spire_mag_01743952	spire_mag_01743952	FSM	MAG / uncultured	aquatic	low salinity	SAMN12795194
+spire_mag_01753708	spire_mag_01753708	FSM	MAG / uncultured	aquatic	low salinity	SAMN12795906
+spire_mag_01749319	spire_mag_01749319	FSM	MAG / uncultured	aquatic	low salinity	SAMN12794755
+spire_mag_01108626	spire_mag_01108626	FSM	MAG / uncultured	aquatic	low salinity	SAMN11532448
+spire_mag_01108952	spire_mag_01108952	FSM	MAG / uncultured	aquatic	low salinity	SAMN11532143
+spire_mag_01112767	spire_mag_01112767	FSM	MAG / uncultured	aquatic	low salinity	SAMN11532773
+spire_mag_01111439	spire_mag_01111439	FSM	MAG / uncultured	aquatic	low salinity	SAMN11532924
+spire_mag_01112215	spire_mag_01112215	FSM	MAG / uncultured	aquatic	low salinity	SAMN11532494
+GB_GCA_037129875.1	GCA_037129875.1	FSM	MAG / uncultured			
+GB_GCA_903884065.1	GCA_903884065.1	FSM	MAG / uncultured			
+GB_GCA_903877095.1	GCA_903877095.1	FSM	MAG / uncultured			
+spire_mag_02762480	spire_mag_02762480	FSM	MAG / uncultured	aquatic	low salinity	SAMEA6872996
+spire_mag_01662118	spire_mag_01662118	FSM	MAG / uncultured	anthropogenic		SAMEA103904948
+spire_mag_01663809	spire_mag_01663809	FSM	MAG / uncultured	anthropogenic		SAMEA103904950
+spire_mag_01664230	spire_mag_01664230	FSM	MAG / uncultured	anthropogenic		SAMEA103904949
+GB_GCA_020438905.1	GCA_020438905.1	FSM	MAG / uncultured			
+GB_GCA_020439025.1	GCA_020439025.1	FSM	MAG / uncultured			
+RS_GCF_020637165.1	GCF_020637165.1	FSM	MAG / uncultured			
+GB_GCA_022600695.1	GCA_022600695.1	FSM	MAG / uncultured			
+spire_mag_00036881	spire_mag_00036881	FSM	MAG / uncultured	aquatic	very high salinity	SAMN08777561
+spire_mag_02088418	spire_mag_02088418	FSM	MAG / uncultured	aquatic	very high salinity	SAMN08776754
+spire_mag_02088609	spire_mag_02088609	FSM	MAG / uncultured	aquatic	very high salinity	SAMN08776775
+spire_mag_02088219	spire_mag_02088219	FSM	MAG / uncultured	aquatic	very high salinity	SAMN08776755
+spire_mag_02088284	spire_mag_02088284	FSM	MAG / uncultured	aquatic	very high salinity	SAMN08777217
+GB_GCA_027728805.1	GCA_027728805.1	FSM	MAG / uncultured			
+spire_mag_01776406	spire_mag_01776406	FSM	MAG / uncultured	aquatic	medium salinity	SAMEA104408612
+GB_GCA_041303695.1	GCA_041303695.1	FSM	MAG / uncultured			
+GB_GCA_020438845.1	GCA_020438845.1	FSM	MAG / uncultured			
+GB_GCA_903862565.1	GCA_903862565.1	FSM	MAG / uncultured			
+GB_GCA_029977845.1	GCA_029977845.1	FSM	MAG / uncultured			
+RS_GCF_017853185.1	GCF_017853185.1	FSM	MAG / uncultured			
+spire_mag_02102612	spire_mag_02102612	FSM	MAG / uncultured	aquatic	low salinity	SAMN06343920
+spire_mag_00138007	spire_mag_00138007	FSM	MAG / uncultured	anthropogenic		SAMN05720211
+spire_mag_00142179	spire_mag_00142179	FSM	MAG / uncultured	anthropogenic		SAMN05720212
+GB_GCA_037141465.1	GCA_037141465.1	FSM	MAG / uncultured			
+spire_mag_01948467	spire_mag_01948467	FSM	MAG / uncultured	aquatic	low salinity	SAMN08777317
+GB_GCA_018883075.1	GCA_018883075.1	FSM	MAG / uncultured			
+GB_GCA_040398865.1	GCA_040398865.1	FSM	MAG / uncultured			
+GB_GCA_041303735.1	GCA_041303735.1	FSM	MAG / uncultured			
+spire_mag_01882647	spire_mag_01882647	FSM	MAG / uncultured	aquatic	low salinity	SAMN08626525
+GB_GCA_020438895.1	GCA_020438895.1	FSM	MAG / uncultured			
+GB_GCA_029780675.1	GCA_029780675.1	FSM	MAG / uncultured			
+spire_mag_00139887	spire_mag_00139887	FSM	MAG / uncultured	anthropogenic		SAMN05720167
+GB_GCA_030836785.1	GCA_030836785.1	FSM	MAG / uncultured			
+spire_mag_00138052	spire_mag_00138052	FSM	MAG / uncultured	anthropogenic		SAMN05720211
+spire_mag_01117712	spire_mag_01117712	FSM	MAG / uncultured	anthropogenic		SAMEA4527622
+spire_mag_00709104	spire_mag_00709104	FSM	MAG / uncultured			Bittleston_2018_pitcherplants-MB69
+spire_mag_00709371	spire_mag_00709371	FSM	MAG / uncultured			Bittleston_2018_pitcherplants-MB80
+spire_mag_00036704	spire_mag_00036704	FSM	MAG / uncultured	aquatic	very high salinity	SAMN08779046
+spire_mag_02087828	spire_mag_02087828	FSM	MAG / uncultured	aquatic	very high salinity	SAMN08777217
+spire_mag_02088828	spire_mag_02088828	FSM	MAG / uncultured	aquatic	very high salinity	SAMN08776775
+spire_mag_02088287	spire_mag_02088287	FSM	MAG / uncultured	aquatic	very high salinity	SAMN08776755
+spire_mag_02088330	spire_mag_02088330	FSM	MAG / uncultured	aquatic	very high salinity	SAMN08778793
+spire_mag_02088507	spire_mag_02088507	FSM	MAG / uncultured	aquatic	very high salinity	SAMN08776754
+GB_GCA_018882965.1	GCA_018882965.1	FSM	MAG / uncultured			
+spire_mag_02028936	spire_mag_02028936	FSM	MAG / uncultured	aquatic	low salinity	SAMN09201019
+spire_mag_02005306	spire_mag_02005306	FSM	MAG / uncultured	aquatic	low salinity	SAMN04510821
+spire_mag_01040852	spire_mag_01040852	FSM	MAG / uncultured	anthropogenic	low salinity	SAMN08275705
+spire_mag_01041266	spire_mag_01041266	FSM	MAG / uncultured	anthropogenic	low salinity	SAMN08275704
+GB_GCA_016197405.1	GCA_016197405.1	RGM	MAG / uncultured			
+GB_GCA_040511255.1	GCA_040511255.1	RGM	MAG / uncultured			
+GB_GCA_040512325.1	GCA_040512325.1	RGM	MAG / uncultured			
+RS_GCF_001984215.1	GCF_001984215.1	RGM	MAG / uncultured			
+GB_GCA_023460175.1	GCA_023460175.1	RGM	MAG / uncultured			
+spire_mag_02520786	spire_mag_02520786	RGM	MAG / uncultured	host-associated		SAMN17215495
+spire_mag_00825292	spire_mag_00825292	RGM	MAG / uncultured	anthropogenic		SAMN10350574
+RS_GCF_963378085.1	GCF_963378085.1	RGM	MAG / uncultured			
+RS_GCF_963378095.1	GCF_963378095.1	RGM	MAG / uncultured			
+RS_GCF_001667265.1	GCF_001667265.1	RGM	MAG / uncultured			
+RS_GCF_945957405.1	GCF_945957405.1	RGM	MAG / uncultured			
+GB_GCA_022708865.1	GCA_022708865.1	RGM	MAG / uncultured			
+spire_mag_00143021	spire_mag_00143021	RGM	MAG / uncultured	anthropogenic		SAMN05720164
+GB_GCA_035345915.1	GCA_035345915.1	RGM	MAG / uncultured			
+GB_GCA_036273805.1	GCA_036273805.1	RGM	MAG / uncultured			
+spire_mag_00877932	spire_mag_00877932	RGM	MAG / uncultured			mgs761367
+spire_mag_01040802	spire_mag_01040802	RGM	MAG / uncultured	anthropogenic		SAMN08275686
+spire_mag_01041225	spire_mag_01041225	RGM	MAG / uncultured	anthropogenic		SAMN08275685
+spire_mag_01041320	spire_mag_01041320	RGM	MAG / uncultured	anthropogenic	low salinity	SAMN08275700
+GB_GCA_001665255.1	GCA_001665255.1	RGM	MAG / uncultured			
+RS_GCF_001668615.1	GCF_001668615.1	RGM	MAG / uncultured			
+GB_GCA_023415515.1	GCA_023415515.1	RGM	MAG / uncultured			
+RS_GCF_033741175.1	GCF_033741175.1	RGM	MAG / uncultured			
+GB_GCA_035279185.1	GCA_035279185.1	RGM	MAG / uncultured			
+GB_GCA_902826815.1	GCA_902826815.1	RGM	MAG / uncultured			
+RS_GCF_002968285.2	GCF_002968285.2	RGM	MAG / uncultured			
+GB_GCA_032159565.1	GCA_032159565.1	RGM	MAG / uncultured			
+GB_GCA_032159775.1	GCA_032159775.1	RGM	MAG / uncultured			
+GB_GCA_036265655.1	GCA_036265655.1	RGM	MAG / uncultured			
+spire_mag_00841652	spire_mag_00841652	RGM	MAG / uncultured	anthropogenic		SAMN08707544
+GB_GCA_019749805.1	GCA_019749805.1	RGM	MAG / uncultured			
+spire_mag_01733397	spire_mag_01733397	RGM	MAG / uncultured	anthropogenic		SAMN04201344
+RS_GCF_001500025.1	GCF_001500025.1	RGM	MAG / uncultured			
+RS_GCF_001500045.1	GCF_001500045.1	RGM	MAG / uncultured			
+RS_GCF_001570485.1	GCF_001570485.1	RGM	NTM (isolate)			
+RS_GCF_001499905.1	GCF_001499905.1	RGM	MAG / uncultured			
+RS_GCF_001665535.1	GCF_001665535.1	RGM	MAG / uncultured			
+RS_GCF_001668575.1	GCF_001668575.1	RGM	MAG / uncultured			
+RS_GCF_003284965.1	GCF_003284965.1	RGM	MAG / uncultured			
+RS_GCF_035918395.1	GCF_035918395.1	RGM	MAG / uncultured			
+RS_GCF_001499855.1	GCF_001499855.1	RGM	MAG / uncultured			
+RS_GCF_001500065.1	GCF_001500065.1	RGM	MAG / uncultured			
+RS_GCF_001672895.1	GCF_001672895.1	RGM	MAG / uncultured			
+spire_mag_01585204	spire_mag_01585204	RGM	MAG / uncultured	anthropogenic		SAMN09091667
+spire_mag_01586430	spire_mag_01586430	RGM	MAG / uncultured	anthropogenic		SAMN08776593
+spire_mag_01586673	spire_mag_01586673	RGM	MAG / uncultured	anthropogenic		SAMN09091666
+RS_GCF_022317005.1	GCF_022317005.1	RGM	MAG / uncultured			
+RS_GCF_039871645.1	GCF_039871645.1	RGM	MAG / uncultured			
+RS_GCF_004014805.1	GCF_004014805.1	RGM	NTM (isolate)			
+spire_mag_00907393	spire_mag_00907393	RGM	MAG / uncultured	anthropogenic		SAMN06268775
+GB_GCA_021154745.1	GCA_021154745.1	RGM	MAG / uncultured			
+GB_GCA_032161985.1	GCA_032161985.1	RGM	MAG / uncultured			
+GB_GCA_032230775.1	GCA_032230775.1	RGM	MAG / uncultured			
+spire_mag_00560387	spire_mag_00560387	RGM	MAG / uncultured	aquatic	medium salinity	SAMEA56113168
+GB_GCA_032162325.1	GCA_032162325.1	RGM	MAG / uncultured			
+RS_GCF_025965975.1	GCF_025965975.1	RGM	MAG / uncultured			
+GB_GCA_035492865.1	GCA_035492865.1	RGM	MAG / uncultured			
+RS_GCF_000328565.1	GCF_000328565.1	RGM	MAG / uncultured			
+RS_GCF_014873705.1	GCF_014873705.1	RGM	MAG / uncultured			
+spire_mag_00488916	spire_mag_00488916	RGM	MAG / uncultured	host-associated		SAMN05421974
+RS_GCF_001667505.1	GCF_001667505.1	RGM	MAG / uncultured			
+RS_GCF_900240945.1	GCF_900240945.1	RGM	MAG / uncultured			
+GB_GCA_035634855.1	GCA_035634855.1	RGM	MAG / uncultured			
+RS_GCF_035491595.1	GCF_035491595.1	RGM	MAG / uncultured			
+GB_GCA_036263935.1	GCA_036263935.1	RGM	MAG / uncultured			
+RS_GCF_035649695.1	GCF_035649695.1	RGM	MAG / uncultured			
+spire_mag_01100050	spire_mag_01100050	RGM	MAG / uncultured	host-associated		SAMN06343969
+RS_GCF_035274705.1	GCF_035274705.1	RGM	MAG / uncultured			
+spire_mag_00079100	spire_mag_00079100	RGM	MAG / uncultured	host-associated		SAMN06238993
+spire_mag_00080611	spire_mag_00080611	RGM	MAG / uncultured	host-associated		SAMN06238990
+GB_GCA_035253445.1	GCA_035253445.1	RGM	MAG / uncultured			
+RS_GCF_035697385.1	GCF_035697385.1	RGM	MAG / uncultured			
+GB_GCA_040511335.1	GCA_040511335.1	RGM	MAG / uncultured			
+spire_mag_00907130	spire_mag_00907130	RGM	MAG / uncultured	anthropogenic		SAMN05518096
+RS_GCF_937941905.1	GCF_937941905.1	RGM	MAG / uncultured			
+RS_GCF_010731295.1	GCF_010731295.1	RGM	NTM (isolate)			
+RS_GCF_025823105.1	GCF_025823105.1	RGM	NTM (isolate)			
+RS_GCF_036235365.1	GCF_036235365.1	RGM	MAG / uncultured			
+RS_GCF_001245615.1	GCF_001245615.1	RGM	NTM (isolate)			
+GB_GCA_040704635.1	GCA_040704635.1	RGM	MAG / uncultured			
+spire_mag_01197245	spire_mag_01197245	RGM	MAG / uncultured			haib17CEM5106_HCV72CCXY_SL269738
+RS_GCF_002102345.1	GCF_002102345.1	RGM	NTM (isolate)			
+RS_GCF_011745145.1	GCF_011745145.1	RGM	MAG / uncultured			
+RS_GCF_040655355.1	GCF_040655355.1	RGM	MAG / uncultured			
+RS_GCF_000455325.1	GCF_000455325.1	RGM	NTM (isolate)			
+RS_GCF_004762045.1	GCF_004762045.1	RGM	MAG / uncultured			
+RS_GCF_000426065.1	GCF_000426065.1	RGM	MAG / uncultured			
+RS_GCF_022179545.1	GCF_022179545.1	RGM	NTM (isolate)			
+spire_mag_00975328	spire_mag_00975328	RGM	MAG / uncultured	anthropogenic		SAMEA5410357
+spire_mag_01196294	spire_mag_01196294	RGM	MAG / uncultured			haib17CEM5106_HCV72CCXY_SL269730
+GB_GCA_025821245.1	GCA_025821245.1	RGM	NTM (isolate)			
+RS_GCF_030486405.1	GCF_030486405.1	RGM	MAG / uncultured			
+RS_GCF_001953975.1	GCF_001953975.1	RGM	MAG / uncultured			
+RS_GCF_001954135.1	GCF_001954135.1	RGM	MAG / uncultured			
+RS_GCF_009729095.1	GCF_009729095.1	RGM	MAG / uncultured			
+spire_mag_02374732	spire_mag_02374732	RGM	MAG / uncultured	host-associated		SAMEA7724233
+RS_GCF_032883035.1	GCF_032883035.1	RGM	MAG / uncultured			
+RS_GCF_000373905.1	GCF_000373905.1	RGM	MAG / uncultured			
+RS_GCF_000382405.1	GCF_000382405.1	RGM	MAG / uncultured			
+RS_GCF_001665685.1	GCF_001665685.1	RGM	MAG / uncultured			
+RS_GCF_010727475.1	GCF_010727475.1	RGM	NTM (isolate)			
+spire_mag_02371253	spire_mag_02371253	RGM	MAG / uncultured	host-associated		SAMEA7724230
+spire_mag_01585792	spire_mag_01585792	RGM	MAG / uncultured	anthropogenic		SAMN08776897
+spire_mag_01586359	spire_mag_01586359	RGM	MAG / uncultured	anthropogenic		SAMN08779509
+spire_mag_01585481	spire_mag_01585481	RGM	MAG / uncultured	anthropogenic		SAMN08779504
+spire_mag_01585638	spire_mag_01585638	RGM	MAG / uncultured	anthropogenic		SAMN08779517
+spire_mag_01586464	spire_mag_01586464	RGM	MAG / uncultured	anthropogenic		SAMN08776593
+spire_mag_01586672	spire_mag_01586672	RGM	MAG / uncultured	anthropogenic		SAMN09091666
+spire_mag_01585398	spire_mag_01585398	RGM	MAG / uncultured	anthropogenic		SAMN09092374
+spire_mag_02200992	spire_mag_02200992	RGM	MAG / uncultured	host-associated		SAMN17279173
+RS_GCF_022370755.2	GCF_022370755.2	RGM	NTM (isolate)			
+RS_GCF_002101965.1	GCF_002101965.1	RGM	NTM (isolate)			
+spire_mag_01203432	spire_mag_01203432	RGM	MAG / uncultured	host-associated		SAMN05963503
+GB_GCA_023264765.1	GCA_023264765.1	RGM	MAG / uncultured			
+RS_GCF_026240945.1	GCF_026240945.1	RGM	MAG / uncultured			
+RS_GCF_033741155.1	GCF_033741155.1	RGM	MAG / uncultured			
+GB_GCA_021648845.1	GCA_021648845.1	RGM	MAG / uncultured			
+spire_mag_01276921	spire_mag_01276921	RGM	MAG / uncultured	anthropogenic	low salinity	SAMN11044431
+GB_GCA_034520035.1	GCA_034520035.1	RGM	MAG / uncultured			
+RS_GCF_002968335.2	GCF_002968335.2	RGM	MAG / uncultured			
+RS_GCF_001428895.1	GCF_001428895.1	RGM	MAG / uncultured			
+RS_GCF_008329585.1	GCF_008329585.1	RGM	MAG / uncultured			
+RS_GCF_011620645.1	GCF_011620645.1	RGM	MAG / uncultured			
+spire_mag_02186423	spire_mag_02186423	RGM	MAG / uncultured	host-associated		SAMN17062659
+spire_mag_02516797	spire_mag_02516797	RGM	MAG / uncultured	host-associated		SAMN17225209
+spire_mag_02521398	spire_mag_02521398	RGM	MAG / uncultured	host-associated		SAMN17215525
+spire_mag_01784070	spire_mag_01784070	RGM	MAG / uncultured	host-associated		SAMN04360128
+GB_GCA_023264755.1	GCA_023264755.1	RGM	MAG / uncultured			
+GB_GCA_025966225.1	GCA_025966225.1	RGM	MAG / uncultured			
+RS_GCF_033804635.1	GCF_033804635.1	RGM	MAG / uncultured			
+RS_GCF_033804605.1	GCF_033804605.1	RGM	MAG / uncultured			
+GB_GCA_025963195.1	GCA_025963195.1	RGM	MAG / uncultured			
+RS_GCF_008329605.1	GCF_008329605.1	RGM	MAG / uncultured			
+RS_GCF_014202335.1	GCF_014202335.1	RGM	MAG / uncultured			
+GB_GCA_032162105.1	GCA_032162105.1	RGM	MAG / uncultured			
+GB_GCA_032162385.1	GCA_032162385.1	RGM	MAG / uncultured			
+RS_GCF_000620625.1	GCF_000620625.1	RGM	MAG / uncultured			
+spire_mag_00490038	spire_mag_00490038	RGM	MAG / uncultured	host-associated		SAMN07631003
+spire_mag_00492514	spire_mag_00492514	RGM	MAG / uncultured	host-associated		SAMN07631002
+spire_mag_00493620	spire_mag_00493620	RGM	MAG / uncultured	host-associated		SAMN06344178
+GB_GCA_025963385.1	GCA_025963385.1	RGM	MAG / uncultured			
+GB_GCA_025965555.1	GCA_025965555.1	RGM	MAG / uncultured			
+GB_GCA_032161845.1	GCA_032161845.1	RGM	MAG / uncultured			
+RS_GCF_001426545.1	GCF_001426545.1	RGM	MAG / uncultured			
+RS_GCF_002043095.1	GCF_002043095.1	RGM	MAG / uncultured			
+spire_mag_01198798	spire_mag_01198798	RGM	MAG / uncultured			haib18CEM5453_HT5YVCCXY_SL357336
+RS_GCF_008329535.1	GCF_008329535.1	RGM	MAG / uncultured			
+RS_GCF_040614235.1	GCF_040614235.1	RGM	MAG / uncultured			
+GB_GCA_035633495.1	GCA_035633495.1	RGM	MAG / uncultured			
+GB_GCA_038244615.1	GCA_038244615.1	RGM	MAG / uncultured			
+RS_GCF_016462545.1	GCF_016462545.1	RGM	MAG / uncultured			
+RS_GCF_030295745.1	GCF_030295745.1	RGM	MAG / uncultured			
+GB_GCA_032162605.1	GCA_032162605.1	RGM	MAG / uncultured			
+RS_GCF_033741125.1	GCF_033741125.1	RGM	MAG / uncultured			
+GB_GCA_040509115.1	GCA_040509115.1	RGM	MAG / uncultured			
+GB_GCA_029256565.1	GCA_029256565.1	RGM	MAG / uncultured			
+RS_GCF_022557175.1	GCF_022557175.1	RGM	MAG / uncultured			
+GB_GCA_031292695.1	GCA_031292695.1	RGM	MAG / uncultured			
+RS_GCF_001905655.1	GCF_001905655.1	RGM	MAG / uncultured			
+RS_GCF_018326285.1	GCF_018326285.1	RGM	MAG / uncultured			
+spire_mag_01882632	spire_mag_01882632	RGM	MAG / uncultured	aquatic	low salinity	SAMN08626543
+RS_GCF_009729075.1	GCF_009729075.1	RGM	MAG / uncultured			
+RS_GCF_030209435.1	GCF_030209435.1	RGM	MAG / uncultured			
+spire_mag_00487317	spire_mag_00487317	RGM	MAG / uncultured	host-associated		SAMN06344027
+RS_GCF_010731115.1	GCF_010731115.1	RGM	NTM (isolate)			
+spire_mag_00518952	spire_mag_00518952	RGM	MAG / uncultured	host-associated		SAMN10864360
+RS_GCF_010730955.1	GCF_010730955.1	RGM	NTM (isolate)			
+RS_GCF_025331195.1	GCF_025331195.1	RGM	NTM (isolate)			
+RS_GCF_009729415.1	GCF_009729415.1	RGM	MAG / uncultured			
+RS_GCF_041261665.1	GCF_041261665.1	RGM	MAG / uncultured			
+RS_GCF_029892685.1	GCF_029892685.1	RGM	MAG / uncultured			
+spire_mag_00709164	spire_mag_00709164	RGM	MAG / uncultured			Bittleston_2018_pitcherplants-MB74
+spire_mag_00709550	spire_mag_00709550	RGM	MAG / uncultured			Bittleston_2018_pitcherplants-MB40
+GB_GCA_034189785.1	GCA_034189785.1	RGM	MAG / uncultured			
+spire_mag_01244826	spire_mag_01244826	RGM	MAG / uncultured	aquatic		SAMN03981634
+RS_GCF_001499995.1	GCF_001499995.1	RGM	MAG / uncultured			
+RS_GCF_001500125.1	GCF_001500125.1	RGM	MAG / uncultured			
+RS_GCF_001499965.1	GCF_001499965.1	RGM	MAG / uncultured			
+RS_GCF_001665575.1	GCF_001665575.1	RGM	MAG / uncultured			
+RS_GCF_017352375.1	GCF_017352375.1	RGM	MAG / uncultured			
+RS_GCF_004570325.1	GCF_004570325.1	RGM	MAG / uncultured			
+RS_GCF_040674075.1	GCF_040674075.1	RGM	MAG / uncultured			
+GB_GCA_018268465.1	GCA_018268465.1	RGM	MAG / uncultured			
+GB_GCA_020438915.1	GCA_020438915.1	RGM	MAG / uncultured			
+GB_GCA_022601135.1	GCA_022601135.1	RGM	MAG / uncultured			
+GB_GCA_022601275.1	GCA_022601275.1	RGM	MAG / uncultured			
+GB_GCA_964195655.1	GCA_964195655.1	RGM	MAG / uncultured			
+spire_mag_01776429	spire_mag_01776429	RGM	MAG / uncultured	aquatic	medium salinity	SAMEA104408612
+GB_GCA_022600605.1	GCA_022600605.1	RGM	MAG / uncultured			
+GB_GCA_030666145.1	GCA_030666145.1	RGM	MAG / uncultured			
+spire_mag_01584542	spire_mag_01584542	RGM	MAG / uncultured	aquatic		SAMN07631026
+RS_GCF_005222675.1	GCF_005222675.1	RGM	MAG / uncultured			
+GB_GCA_023404955.1	GCA_023404955.1	RGM	MAG / uncultured			
+spire_mag_02184890	spire_mag_02184890	RGM	MAG / uncultured	host-associated		SAMN17225205
+spire_mag_01199727	spire_mag_01199727	RGM	MAG / uncultured			haib18CEM5453_HMC2KCCXY_SL336592
+RS_GCF_007096635.1	GCF_007096635.1	RGM	MAG / uncultured			
+RS_GCF_022348085.1	GCF_022348085.1	RGM	MAG / uncultured			
+GB_GCA_040752555.1	GCA_040752555.1	RGM	MAG / uncultured			
+spire_mag_00691761	spire_mag_00691761	RGM	MAG / uncultured	anthropogenic		SAMN03792069
+spire_mag_00825461	spire_mag_00825461	RGM	MAG / uncultured	anthropogenic		SAMN07630782
+RS_GCF_001545925.1	GCF_001545925.1	RGM	MAG / uncultured			
+RS_GCF_025263565.1	GCF_025263565.1	RGM	MAG / uncultured			
+RS_GCF_002968295.1	GCF_002968295.1	RGM	MAG / uncultured			
+spire_mag_01188968	spire_mag_01188968	RGM	MAG / uncultured			haib18CEM5453_HMGW3CCXY_SL342601
+spire_mag_01196792	spire_mag_01196792	RGM	MAG / uncultured			haib18CEM5453_HMC2KCCXY_SL336589
+spire_mag_01197568	spire_mag_01197568	RGM	MAG / uncultured			haib18CEM5453_HMC2KCCXY_SL336594
+RS_GCF_027706845.1	GCF_027706845.1	RGM	MAG / uncultured			
+RS_GCF_041287165.1	GCF_041287165.1	RGM	MAG / uncultured			
+RS_GCF_029623955.1	GCF_029623955.1	RGM	MAG / uncultured			
+RS_GCF_010725485.1	GCF_010725485.1	RGM	MAG / uncultured			
+RS_GCF_025263265.1	GCF_025263265.1	RGM	MAG / uncultured			
+RS_GCF_041287115.1	GCF_041287115.1	RGM	MAG / uncultured			
+GB_GCA_034190095.1	GCA_034190095.1	RGM	MAG / uncultured			
+spire_mag_01124179	spire_mag_01124179	RGM	MAG / uncultured	aquatic		SAMN05422140
+spire_mag_02293027	spire_mag_02293027	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2622983
+spire_mag_02300699	spire_mag_02300699	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623108
+spire_mag_02295856	spire_mag_02295856	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2622981
+spire_mag_02306214	spire_mag_02306214	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623504
+RS_GCF_017312405.1	GCF_017312405.1	RGM	MAG / uncultured			
+RS_GCF_964000695.1	GCF_964000695.1	RGM	MAG / uncultured			
+spire_mag_02296017	spire_mag_02296017	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623562
+spire_mag_02298516	spire_mag_02298516	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623564
+spire_mag_02293016	spire_mag_02293016	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623282
+spire_mag_02307968	spire_mag_02307968	RGM	MAG / uncultured	aquatic		SAMEA2623304
+spire_mag_02300518	spire_mag_02300518	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623377
+spire_mag_02166032	spire_mag_02166032	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2622461
+spire_mag_02294311	spire_mag_02294311	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2622873
+spire_mag_02299450	spire_mag_02299450	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2622957
+spire_mag_02208815	spire_mag_02208815	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623264
+spire_mag_02296681	spire_mag_02296681	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623018
+spire_mag_02307077	spire_mag_02307077	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623072
+spire_mag_02298601	spire_mag_02298601	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623419
+spire_mag_02307797	spire_mag_02307797	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2622858
+spire_mag_02292565	spire_mag_02292565	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623266
+spire_mag_02307626	spire_mag_02307626	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623357
+spire_mag_02300785	spire_mag_02300785	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2622875
+spire_mag_02294715	spire_mag_02294715	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623359
+spire_mag_02305637	spire_mag_02305637	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2622490
+spire_mag_02292667	spire_mag_02292667	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2731669
+spire_mag_02297337	spire_mag_02297337	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623417
+spire_mag_02297276	spire_mag_02297276	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2622914
+spire_mag_02293116	spire_mag_02293116	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623477
+spire_mag_02296298	spire_mag_02296298	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2622997
+spire_mag_02299568	spire_mag_02299568	RGM	MAG / uncultured	aquatic	high salinity	SAMEA2623541
+GB_GCA_025965815.1	GCA_025965815.1	RGM	MAG / uncultured			
+GB_GCA_001665235.1	GCA_001665235.1	SGM	MAG / uncultured			
+RS_GCF_010727605.1	GCF_010727605.1	SGM	NTM (isolate)			
+RS_GCF_000526915.1	GCF_000526915.1	SGM	NTM (isolate)			
+RS_GCF_000689255.1	GCF_000689255.1	SGM	NTM (isolate)			
+RS_GCF_022374895.2	GCF_022374895.2	SGM	NTM (isolate)			
+RS_GCF_036409155.1	GCF_036409155.1	SGM	MAG / uncultured			
+RS_GCF_039023525.1	GCF_039023525.1	SGM	MAG / uncultured			
+RS_GCF_041287235.1	GCF_041287235.1	SGM	MAG / uncultured			
+RS_GCF_010730355.1	GCF_010730355.1	SGM	NTM (isolate)			
+RS_GCF_026625985.1	GCF_026625985.1	SGM	MAG / uncultured			
+RS_GCF_026723865.1	GCF_026723865.1	SGM	MAG / uncultured			
+GB_GCA_035996225.1	GCA_035996225.1	SGM	MAG / uncultured			
+GB_GCA_035472875.1	GCA_035472875.1	SGM	MAG / uncultured			
+GB_GCA_035511785.1	GCA_035511785.1	SGM	MAG / uncultured			
+GB_GCA_036495965.1	GCA_036495965.1	SGM	MAG / uncultured			
+GB_GCA_035552295.1	GCA_035552295.1	SGM	MAG / uncultured			
+RS_GCF_001954195.1	GCF_001954195.1	SGM	MAG / uncultured			
+RS_GCF_001954275.1	GCF_001954275.1	SGM	MAG / uncultured			
+RS_GCF_035616495.1	GCF_035616495.1	SGM	MAG / uncultured			
+GB_GCA_003165155.1	GCA_003165155.1	SGM	MAG / uncultured			
+spire_mag_01677777	spire_mag_01677777	SGM	MAG / uncultured	aquatic		SAMN07124970
+spire_mag_01678249	spire_mag_01678249	SGM	MAG / uncultured	aquatic		SAMN07124974
+spire_mag_01678280	spire_mag_01678280	SGM	MAG / uncultured	aquatic		SAMN07124893
+spire_mag_01679848	spire_mag_01679848	SGM	MAG / uncultured	aquatic		SAMN07124923
+spire_mag_01681850	spire_mag_01681850	SGM	MAG / uncultured	aquatic		SAMN07124919
+spire_mag_01682807	spire_mag_01682807	SGM	MAG / uncultured	aquatic		SAMN07125024
+spire_mag_01680964	spire_mag_01680964	SGM	MAG / uncultured	aquatic		SAMN07124971
+spire_mag_01681793	spire_mag_01681793	SGM	MAG / uncultured	aquatic		SAMN07125073
+spire_mag_01682165	spire_mag_01682165	SGM	MAG / uncultured	aquatic		SAMN07125020
+spire_mag_01168185	spire_mag_01168185	SGM	MAG / uncultured	terrestrial		SAMEA4521327
+spire_mag_01603410	spire_mag_01603410	SGM	MAG / uncultured	terrestrial		SAMN06268630
+spire_mag_02370601	spire_mag_02370601	SGM	MAG / uncultured	terrestrial		SAMEA7724332
+spire_mag_01825260	spire_mag_01825260	SGM	MAG / uncultured	anthropogenic		SAMN06343843
+GB_GCA_022841565.1	GCA_022841565.1	SGM	MAG / uncultured			
+RS_GCF_002101675.1	GCF_002101675.1	SGM	NTM (isolate)			
+spire_mag_02394504	spire_mag_02394504	SGM	MAG / uncultured	host-associated		SAMN17617815
+spire_mag_01733412	spire_mag_01733412	SGM	MAG / uncultured	anthropogenic		SAMN04201344
+spire_mag_01882615	spire_mag_01882615	SGM	MAG / uncultured	aquatic	low salinity	SAMN08626543
+RS_GCF_030755175.1	GCF_030755175.1	SGM	MAG / uncultured			
+GB_GCA_032162485.1	GCA_032162485.1	SGM	MAG / uncultured			
+GB_GCA_032162865.1	GCA_032162865.1	SGM	MAG / uncultured			
+RS_GCF_000613245.1	GCF_000613245.1	SGM	NTM (isolate)			
+spire_mag_00709072	spire_mag_00709072	SGM	MAG / uncultured			Bittleston_2018_pitcherplants-MB16
+spire_mag_00709178	spire_mag_00709178	SGM	MAG / uncultured			Bittleston_2018_pitcherplants-N13
+spire_mag_00709327	spire_mag_00709327	SGM	MAG / uncultured			Bittleston_2018_pitcherplants-N27A
+spire_mag_00709154	spire_mag_00709154	SGM	MAG / uncultured			Bittleston_2018_pitcherplants-MB74
+spire_mag_00709551	spire_mag_00709551	SGM	MAG / uncultured			Bittleston_2018_pitcherplants-MB40
+spire_mag_00709385	spire_mag_00709385	SGM	MAG / uncultured			Bittleston_2018_pitcherplants-MB80
+RS_GCF_001673155.1	GCF_001673155.1	SGM	MAG / uncultured			
+RS_GCF_002116635.1	GCF_002116635.1	SGM	NTM (isolate)			
+RS_GCF_963853645.1	GCF_963853645.1	SGM	NTM (isolate)			
+RS_GCF_000157895.3	GCF_000157895.3	SGM	NTM (isolate)			
+RS_GCF_003391395.1	GCF_003391395.1	SGM	NTM (isolate)			
+RS_GCF_000195955.2	GCF_000195955.2	SGM	Pathogen (isolate)			
+RS_GCF_963853665.1	GCF_963853665.1	SGM	Pathogen (isolate)			
+spire_mag_02683911	spire_mag_02683911	SGM	MAG / uncultured	host-associated		SAMEA10739778
+spire_mag_02882770	spire_mag_02882770	SGM	MAG / uncultured	host-associated		SAMEA10739847
+spire_mag_02837879	spire_mag_02837879	SGM	MAG / uncultured	host-associated		SAMEA10739671
+RS_GCF_000195855.1	GCF_000195855.1	SGM	Pathogen (isolate)			
+RS_GCF_000975265.2	GCF_000975265.2	SGM	Pathogen (isolate)			
+RS_GCF_000340435.2	GCF_000340435.2	SGM	NTM (isolate)			
+GB_GCA_035569455.1	GCA_035569455.1	SGM	MAG / uncultured			
+RS_GCF_010730195.1	GCF_010730195.1	SGM	NTM (isolate)			
+RS_GCF_001665395.1	GCF_001665395.1	SGM	MAG / uncultured			
+RS_GCF_001667115.1	GCF_001667115.1	SGM	MAG / uncultured			
+RS_GCF_035499775.1	GCF_035499775.1	SGM	MAG / uncultured			
+RS_GCF_019247635.1	GCF_019247635.1	SGM	MAG / uncultured			
+GB_GCA_001665295.1	GCA_001665295.1	SGM	MAG / uncultured			
+RS_GCF_001673535.1	GCF_001673535.1	SGM	MAG / uncultured			
+RS_GCF_000455205.1	GCF_000455205.1	SGM	MAG / uncultured			
+RS_GCF_001672815.1	GCF_001672815.1	SGM	MAG / uncultured			
+RS_GCF_001672915.1	GCF_001672915.1	SGM	MAG / uncultured			
+RS_GCF_025965855.1	GCF_025965855.1	SGM	MAG / uncultured			
+RS_GCF_900078675.2	GCF_900078675.2	SGM	NTM (isolate)			
+RS_GCF_001667185.1	GCF_001667185.1	SGM	MAG / uncultured			
+RS_GCF_001667015.1	GCF_001667015.1	SGM	MAG / uncultured			
+RS_GCF_001668725.1	GCF_001668725.1	SGM	MAG / uncultured			
+RS_GCF_035506235.1	GCF_035506235.1	SGM	MAG / uncultured			
+RS_GCF_001667035.1	GCF_001667035.1	SGM	MAG / uncultured			
+RS_GCF_019247615.1	GCF_019247615.1	SGM	MAG / uncultured			
+GB_GCA_035693385.1	GCA_035693385.1	SGM	MAG / uncultured			
+GB_GCA_031292665.1	GCA_031292665.1	SGM	MAG / uncultured			
+GB_GCA_037140245.1	GCA_037140245.1	SGM	MAG / uncultured			
+GB_GCA_903927745.1	GCA_903927745.1	SGM	MAG / uncultured			
+RS_GCF_001053185.1	GCF_001053185.1	SGM	NTM (isolate)			
+RS_GCF_010729105.1	GCF_010729105.1	SGM	NTM (isolate)			
+RS_GCF_036409085.1	GCF_036409085.1	SGM	MAG / uncultured			
+RS_GCF_902652685.1	GCF_902652685.1	SGM	MAG / uncultured			
+GB_GCA_035505695.1	GCA_035505695.1	SGM	MAG / uncultured			
+spire_mag_01485026	spire_mag_01485026	SGM	MAG / uncultured	anthropogenic		SAMN11382438
+GB_GCA_035716165.1	GCA_035716165.1	SGM	MAG / uncultured			
+RS_GCF_001665875.1	GCF_001665875.1	SGM	MAG / uncultured			
+RS_GCF_002086125.1	GCF_002086125.1	SGM	NTM (isolate)			
+GB_GCA_036273375.1	GCA_036273375.1	SGM	MAG / uncultured			
+GB_GCA_036338755.1	GCA_036338755.1	SGM	MAG / uncultured			
+RS_GCF_001667145.1	GCF_001667145.1	SGM	MAG / uncultured			
+RS_GCF_001673555.1	GCF_001673555.1	SGM	MAG / uncultured			
+RS_GCF_001667925.1	GCF_001667925.1	SGM	MAG / uncultured			
+RS_GCF_035617725.1	GCF_035617725.1	SGM	MAG / uncultured			
+RS_GCF_002105755.1	GCF_002105755.1	SGM	NTM (isolate)			
+RS_GCF_001672975.1	GCF_001672975.1	SGM	MAG / uncultured			
+RS_GCF_000277125.1	GCF_000277125.1	SGM	NTM (isolate)			
+RS_GCF_010731675.1	GCF_010731675.1	SGM	NTM (isolate)			
+RS_GCF_020217485.1	GCF_020217485.1	SGM	MAG / uncultured			
+RS_GCF_001667315.1	GCF_001667315.1	SGM	MAG / uncultured			
+RS_GCF_004298145.1	GCF_004298145.1	SGM	MAG / uncultured			
+RS_GCF_025933915.1	GCF_025933915.1	SGM	MAG / uncultured			
+spire_mag_01823769	spire_mag_01823769	SGM	MAG / uncultured	terrestrial		SAMN07631254
+RS_GCF_009741445.1	GCF_009741445.1	SGM	NTM (isolate)			
+GB_GCA_036500645.1	GCA_036500645.1	SGM	MAG / uncultured			
+RS_GCF_019243155.1	GCF_019243155.1	SGM	MAG / uncultured			
+RS_GCF_001666755.1	GCF_001666755.1	SGM	MAG / uncultured			
+RS_GCF_000164135.1	GCF_000164135.1	SGM	NTM (isolate)			
+RS_GCF_002086735.1	GCF_002086735.1	SGM	NTM (isolate)			
+RS_GCF_001667275.1	GCF_001667275.1	SGM	MAG / uncultured			
+RS_GCF_001667735.1	GCF_001667735.1	SGM	MAG / uncultured			
+RS_GCF_001667775.1	GCF_001667775.1	SGM	MAG / uncultured			
+RS_GCF_001666835.1	GCF_001666835.1	SGM	MAG / uncultured			
+RS_GCF_001667075.1	GCF_001667075.1	SGM	MAG / uncultured			
+RS_GCF_001667585.1	GCF_001667585.1	SGM	MAG / uncultured			
+RS_GCF_025263485.1	GCF_025263485.1	SGM	MAG / uncultured			
+RS_GCF_002102255.1	GCF_002102255.1	SGM	NTM (isolate)			
+RS_GCF_001667665.1	GCF_001667665.1	SGM	MAG / uncultured			
+RS_GCF_900240975.1	GCF_900240975.1	SGM	MAG / uncultured			
+RS_GCF_002102155.1	GCF_002102155.1	SGM	NTM (isolate)			
+RS_GCF_019645855.1	GCF_019645855.1	SGM	NTM (isolate)			
+RS_GCF_035515675.1	GCF_035515675.1	SGM	MAG / uncultured			
+GB_GCA_028706695.1	GCA_028706695.1	SGM	MAG / uncultured			
+GB_GCA_039583405.1	GCA_039583405.1	SGM	MAG / uncultured			
+spire_mag_00671068	spire_mag_00671068	SGM	MAG / uncultured	aquatic		SAMN07631051
+spire_mag_00670601	spire_mag_00670601	SGM	MAG / uncultured	aquatic		SAMN06268369
+RS_GCF_041206865.1	GCF_041206865.1	SGM	MAG / uncultured			
+GB_GCA_019751635.1	GCA_019751635.1	SGM	MAG / uncultured			
+GB_GCA_019236925.1	GCA_019236925.1	SGM	MAG / uncultured			
+RS_GCF_035314665.1	GCF_035314665.1	SGM	MAG / uncultured			
+RS_GCF_035623875.1	GCF_035623875.1	SGM	MAG / uncultured			
+spire_mag_02001657	spire_mag_02001657	SGM	MAG / uncultured	aquatic		SAMN08776830
+spire_mag_02001975	spire_mag_02001975	SGM	MAG / uncultured	aquatic		SAMN08778951
+GB_GCA_035314925.1	GCA_035314925.1	SGM	MAG / uncultured			
+GB_GCA_035506875.1	GCA_035506875.1	SGM	MAG / uncultured			
+GB_GCA_035642315.1	GCA_035642315.1	SGM	MAG / uncultured			
+GB_GCA_035552835.1	GCA_035552835.1	SGM	MAG / uncultured			
+GB_GCA_036746615.1	GCA_036746615.1	SGM	MAG / uncultured			
+RS_GCF_035570115.1	GCF_035570115.1	SGM	MAG / uncultured			
+spire_mag_00184606	spire_mag_00184606	SGM	MAG / uncultured	terrestrial		SAMN08778066
+GB_GCA_032159915.1	GCA_032159915.1	SGM	MAG / uncultured			
+RS_GCF_002863225.1	GCF_002863225.1	SGM	MAG / uncultured			
+GB_GCA_035606475.1	GCA_035606475.1	SGM	MAG / uncultured			
+RS_GCF_001673405.1	GCF_001673405.1	SGM	MAG / uncultured			
+RS_GCF_039583785.1	GCF_039583785.1	SGM	MAG / uncultured			
+GB_GCA_036272035.1	GCA_036272035.1	SGM	MAG / uncultured			
+GB_GCA_036519055.1	GCA_036519055.1	SGM	MAG / uncultured			
+GB_GCA_036497495.1	GCA_036497495.1	SGM	MAG / uncultured			
+RS_GCF_035603715.1	GCF_035603715.1	SGM	MAG / uncultured			
+RS_GCF_036488105.1	GCF_036488105.1	SGM	MAG / uncultured			
+RS_GCF_036490025.1	GCF_036490025.1	SGM	MAG / uncultured			
+GB_GCA_035642975.1	GCA_035642975.1	SGM	MAG / uncultured			
+RS_GCF_039583805.1	GCF_039583805.1	SGM	MAG / uncultured			
+RS_GCF_002101595.1	GCF_002101595.1	SGM	NTM (isolate)			
+RS_GCF_010728725.1	GCF_010728725.1	SGM	NTM (isolate)			
+RS_GCF_003402475.1	GCF_003402475.1	SGM	MAG / uncultured			
+RS_GCF_025822885.1	GCF_025822885.1	SGM	NTM (isolate)			
+RS_GCF_008709575.1	GCF_008709575.1	SGM	MAG / uncultured			
+GB_GCA_019246375.1	GCA_019246375.1	SGM	MAG / uncultured			
+GB_GCA_035625875.1	GCA_035625875.1	SGM	MAG / uncultured			
+spire_mag_02001406	spire_mag_02001406	SGM	MAG / uncultured	aquatic		SAMN08778923
+spire_mag_02001409	spire_mag_02001409	SGM	MAG / uncultured	aquatic		SAMN08778644
+RS_GCF_018361265.1	GCF_018361265.1	SGM	MAG / uncultured			
+RS_GCF_029961025.1	GCF_029961025.1	SGM	MAG / uncultured			
+RS_GCF_009936235.1	GCF_009936235.1	SGM	NTM (isolate)			
+RS_GCF_016592155.1	GCF_016592155.1	SGM	NTM (isolate)			
+RS_GCF_035653355.1	GCF_035653355.1	SGM	MAG / uncultured			
+RS_GCF_041287095.1	GCF_041287095.1	SGM	MAG / uncultured			
+spire_mag_02374219	spire_mag_02374219	SGM	MAG / uncultured	host-associated	low salinity	SAMEA7723858
+spire_mag_01787296	spire_mag_01787296	SGM	MAG / uncultured	host-associated		SAMN07632233
+spire_mag_01585658	spire_mag_01585658	SGM	MAG / uncultured	anthropogenic		SAMN08779517
+RS_GCF_963378105.1	GCF_963378105.1	SGM	MAG / uncultured			
+RS_GCF_000455125.1	GCF_000455125.1	SGM	MAG / uncultured			
+spire_mag_02374351	spire_mag_02374351	SGM	MAG / uncultured	host-associated		SAMEA7723860
+RS_GCF_963378075.1	GCF_963378075.1	SGM	MAG / uncultured			
+GB_GCA_039922455.1	GCA_039922455.1	SGM	MAG / uncultured			
+RS_GCF_002086285.1	GCF_002086285.1	SGM	NTM (isolate)			
+spire_mag_01586492	spire_mag_01586492	SGM	MAG / uncultured	anthropogenic		SAMN08779518
+spire_mag_00709062	spire_mag_00709062	SGM	MAG / uncultured			Bittleston_2018_pitcherplants-MB16
+spire_mag_02370757	spire_mag_02370757	SGM	MAG / uncultured	host-associated	low salinity	SAMEA7723864
+spire_mag_00709337	spire_mag_00709337	SGM	MAG / uncultured			Bittleston_2018_pitcherplants-N20
+GB_GCA_039935195.1	GCA_039935195.1	SGM	MAG / uncultured			
+GB_GCA_035721065.1	GCA_035721065.1	SGM	MAG / uncultured			
+RS_GCF_001668625.1	GCF_001668625.1	SGM	MAG / uncultured			
+spire_mag_01959179	spire_mag_01959179	SGM	MAG / uncultured	host-associated		SAMN06343764
+GB_GCA_019242135.1	GCA_019242135.1	SGM	MAG / uncultured			
+GB_GCA_036390735.1	GCA_036390735.1	SGM	MAG / uncultured			
+spire_mag_02598702	spire_mag_02598702	SGM	MAG / uncultured	terrestrial		SAMEA8585631
+spire_mag_01168129	spire_mag_01168129	SGM	MAG / uncultured	terrestrial		SAMEA4521372
+spire_mag_01603633	spire_mag_01603633	SGM	MAG / uncultured	terrestrial		SAMN05422040
+spire_mag_01603564	spire_mag_01603564	SGM	MAG / uncultured	terrestrial		SAMN06268685
+GB_GCA_032159765.1	GCA_032159765.1	SGM	MAG / uncultured			
+GB_GCA_032159965.1	GCA_032159965.1	SGM	MAG / uncultured			
+GB_GCA_035651275.1	GCA_035651275.1	SGM	MAG / uncultured			
+spire_mag_01599223	spire_mag_01599223	SGM	MAG / uncultured	terrestrial		SAMN06343837
+GB_GCA_036558625.1	GCA_036558625.1	SGM	MAG / uncultured			
+RS_GCF_035640695.1	GCF_035640695.1	SGM	MAG / uncultured			
+spire_mag_00549465	spire_mag_00549465	SGM	MAG / uncultured	terrestrial		SAMN04874286
+GB_GCA_019245755.1	GCA_019245755.1	SGM	MAG / uncultured			
+spire_mag_00186517	spire_mag_00186517	SGM	MAG / uncultured	terrestrial		SAMN08777622
+RS_GCF_035314905.1	GCF_035314905.1	SGM	MAG / uncultured			
+GB_GCA_025965895.1	GCA_025965895.1	SGM	MAG / uncultured			
+RS_GCF_021213805.1	GCF_021213805.1	Outside	MAG / uncultured			
+GB_GCA_002013415.1	GCA_002013415.1	Outside	MAG / uncultured			
+RS_GCF_002013375.1	GCF_002013375.1	Outside	MAG / uncultured			
+GB_GCA_002013465.1	GCA_002013465.1	Outside	MAG / uncultured			
+GB_GCA_002013775.1	GCA_002013775.1	Outside	MAG / uncultured			
+RS_GCF_001632805.1	GCF_001632805.1	Outside	NTM (isolate)			
+spire_mag_02570492	spire_mag_02570492	Outside	MAG / uncultured	host-associated		SAMN15562331
+spire_mag_02199963	spire_mag_02199963	Outside	MAG / uncultured	anthropogenic		SAMN10252975
+spire_mag_00518991	spire_mag_00518991	Outside	MAG / uncultured	host-associated		SAMN10864360
+RS_GCF_009729205.1	GCF_009729205.1	Outside	MAG / uncultured			
+RS_GCF_013449725.1	GCF_013449725.1	Outside	MAG / uncultured			
+RS_GCF_000069185.1	GCF_000069185.1	Outside	NTM (isolate)			
+RS_GCF_001605725.1	GCF_001605725.1	Outside	NTM (isolate)			
+GB_GCA_040391845.1	GCA_040391845.1	Outgroup	Outgroup			
+RS_GCF_001575205.1	GCF_001575205.1	Outgroup	Outgroup			
+RS_GCF_040611135.1	GCF_040611135.1	Outgroup	Outgroup			
+RS_GCF_012396015.1	GCF_012396015.1	Outgroup	Outgroup			
+RS_GCF_007858435.1	GCF_007858435.1	Outgroup	Outgroup			
+RS_GCF_020169415.1	GCF_020169415.1	Outgroup	Outgroup			
+RS_GCF_024807615.1	GCF_024807615.1	Outgroup	Outgroup			
+RS_GCF_900104775.1	GCF_900104775.1	Outgroup	Outgroup			
+RS_GCF_007858445.1	GCF_007858445.1	Outgroup	Outgroup			
+RS_GCF_007858475.1	GCF_007858475.1	Outgroup	Outgroup			
+RS_GCF_900103175.1	GCF_900103175.1	Outgroup	Outgroup			
+RS_GCF_900631615.1	GCF_900631615.1	Outgroup	Outgroup			
+RS_GCF_023168325.1	GCF_023168325.1	Outgroup	Outgroup			
+RS_GCF_000092225.1	GCF_000092225.1	Outgroup	Outgroup			
+RS_GCF_039525985.1	GCF_039525985.1	Outgroup	Outgroup			
+RS_GCF_000312385.1	GCF_000312385.1	Outgroup	Outgroup			
+GB_GCA_903970215.1	GCA_903970215.1	Outgroup	Outgroup			
+RS_GCF_039541155.1	GCF_039541155.1	Outgroup	Outgroup			
+RS_GCF_029167375.1	GCF_029167375.1	Outgroup	Outgroup			

@@ -1,0 +1,60 @@
+clade	COG_category	COG_function	n_families	pct_of_clade
+FSM	S	Function unknown	140	25
+FSM	-	Unannotated	88	15.7
+FSM	P	Inorganic ion transport	34	6.1
+FSM	E	Amino acid metab	34	6.1
+FSM	Q	Secondary metabolites	33	5.9
+FSM	C	Energy production	32	5.7
+FSM	I	Lipid metab	28	5
+FSM	K	Transcription	28	5
+FSM	M	Cell wall/envelope	27	4.8
+FSM	G	Carbohydrate metab	23	4.1
+FSM	T	Signal transduction	22	3.9
+FSM	L	Replication/repair	14	2.5
+FSM	O	PTM/chaperones	13	2.3
+FSM	F	Nucleotide metab	10	1.8
+FSM	V	Defence	8	1.4
+FSM	J	Translation	8	1.4
+FSM	H	Coenzyme metab	8	1.4
+FSM	D	Cell cycle	5	0.9
+FSM	U	Secretion/trafficking	4	0.7
+FSM	N	Motility	1	0.2
+RGM	S	Function unknown	268	22.4
+RGM	K	Transcription	126	10.5
+RGM	I	Lipid metab	110	9.2
+RGM	C	Energy production	92	7.7
+RGM	P	Inorganic ion transport	92	7.7
+RGM	E	Amino acid metab	91	7.6
+RGM	Q	Secondary metabolites	79	6.6
+RGM	-	Unannotated	65	5.4
+RGM	G	Carbohydrate metab	64	5.3
+RGM	T	Signal transduction	39	3.3
+RGM	L	Replication/repair	33	2.8
+RGM	M	Cell wall/envelope	32	2.7
+RGM	J	Translation	21	1.8
+RGM	O	PTM/chaperones	21	1.8
+RGM	H	Coenzyme metab	21	1.8
+RGM	V	Defence	19	1.6
+RGM	F	Nucleotide metab	15	1.3
+RGM	U	Secretion/trafficking	6	0.5
+RGM	N	Motility	3	0.3
+SGM	S	Function unknown	219	21.7
+SGM	I	Lipid metab	110	10.9
+SGM	K	Transcription	90	8.9
+SGM	C	Energy production	90	8.9
+SGM	-	Unannotated	90	8.9
+SGM	Q	Secondary metabolites	82	8.1
+SGM	E	Amino acid metab	58	5.8
+SGM	P	Inorganic ion transport	54	5.4
+SGM	G	Carbohydrate metab	51	5.1
+SGM	T	Signal transduction	27	2.7
+SGM	H	Coenzyme metab	27	2.7
+SGM	M	Cell wall/envelope	25	2.5
+SGM	O	PTM/chaperones	22	2.2
+SGM	L	Replication/repair	12	1.2
+SGM	V	Defence	12	1.2
+SGM	J	Translation	10	1
+SGM	D	Cell cycle	8	0.8
+SGM	F	Nucleotide metab	8	0.8
+SGM	U	Secretion/trafficking	6	0.6
+SGM	N	Motility	6	0.6

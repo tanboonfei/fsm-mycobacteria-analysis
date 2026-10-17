@@ -1,0 +1,7 @@
+Model	Gain rate	Loss rate	Expected stem losses	Confident (0.95/0.05)	Confident (0.90/0.10)
+ER (gain = loss)	0.461	0.461	57.6	49	53
+gain = loss/2	0.2305	0.461	54.1	0	48
+gain = loss/5	0.0922	0.461	46.7	0	1
+gain = loss/10	0.0461	0.461	37	0	0
+gain = loss/100 (Dollo-like)	0.0046	0.461	12.2	0	0
+gain = loss x2	0.922	0.461	57.9	0	46

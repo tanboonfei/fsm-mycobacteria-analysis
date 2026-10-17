@@ -1,0 +1,5 @@
+cl	n	pseudogenes_median	pseudogenes_per_Mb_median	genome_Mb_median	contigs_median	contigs_per_Mb_median	N50_median
+FSM	96	4.0	1.17	3.32	218.0	63.18	27879.0
+RGM	97	10.0	1.77	6.0	312.0	52.34	31285.0
+SGM	50	18.0	3.32	5.1	314.0	69.03	23343.0
+FSM MAGs carry fewer contigs than RGM MAGs in raw count but are about half the size; per Mb they are the more fragmented of the two. The contig-boundary artefact acts against FSM.

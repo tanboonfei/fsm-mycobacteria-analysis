@@ -1,0 +1,135 @@
+tip	species	clade	genome_size_Mb	rhodopsin	completeness_used_pct	biome
+GB_GCA_005789055.1	Mycobacterium sp005789055	FSM (small-genome)	2.218	present	57.28	
+spire_mag_01632252.fa	Mycobacterium sp005789055	FSM (small-genome)	2.748	present	94.13	aquatic
+spire_mag_01753570.fa	Mycobacterium sp005789055	FSM (small-genome)	3.056	present	95.56	aquatic
+GB_GCA_945897705.1	Mycobacterium sp945897705	FSM (small-genome)	2.53	present	83.4	
+spire_mag_00863569.fa	Mycobacterium sp945897705	FSM (small-genome)	3.047	present	95.76	aquatic
+spire_mag_00864073.fa	Mycobacterium sp945897705	FSM (small-genome)	3.118	present	95.05	aquatic
+spire_mag_00866183.fa	Mycobacterium sp945897705	FSM (small-genome)	3.015	present	93.58	aquatic
+spire_mag_00869002.fa	Mycobacterium sp945897705	FSM (small-genome)	3.068	present	98.0	aquatic
+spire_mag_00874085.fa	Mycobacterium sp945897705	FSM (small-genome)	3.129	present	96.08	aquatic
+spire_mag_00873124.fa	Mycobacterium sp945897705	FSM (small-genome)	3.175	present	99.25	aquatic
+spire_mag_00874439.fa	Mycobacterium sp945897705	FSM (small-genome)	3.174	present	99.04	aquatic
+spire_mag_00874229.fa	Mycobacterium sp945897705	FSM (small-genome)	3.024	absent	97.46	aquatic
+spire_mag_00866324.fa	Mycobacterium sp945897705	FSM (small-genome)	3.043	present	95.14	aquatic
+spire_mag_00866583.fa	Mycobacterium sp945897705	FSM (small-genome)	2.895	present	95.36	aquatic
+spire_mag_00868143.fa	Mycobacterium sp945897705	FSM (small-genome)	3.076	present	98.17	aquatic
+spire_mag_00871125.fa	Mycobacterium sp945897705	FSM (small-genome)	3.101	present	98.33	aquatic
+spire_mag_00873789.fa	Mycobacterium sp945897705	FSM (small-genome)	2.989	present	96.69	aquatic
+GB_GCA_964203005.1	Mycobacterium sp903911165	FSM (small-genome)	3.068	present	95.11	
+spire_mag_01960731.fa	Mycobacterium sp903911165	FSM (small-genome)	3.035	present	94.95	aquatic
+spire_mag_01960893.fa	Mycobacterium sp903911165	FSM (small-genome)	2.947	present	97.78	aquatic
+spire_mag_01104521.fa	Mycobacterium sp903911165	FSM (small-genome)	3.787	present	92.82	aquatic
+spire_mag_01107416.fa	Mycobacterium sp903911165	FSM (small-genome)	3.092	present	91.58	aquatic
+spire_mag_01104972.fa	Mycobacterium sp903911165	FSM (small-genome)	2.965	present	91.84	aquatic
+spire_mag_01108461.fa	Mycobacterium sp903911165	FSM (small-genome)	3.097	present	92.28	aquatic
+spire_mag_01112928.fa	Mycobacterium sp903911165	FSM (small-genome)	3.761	present	94.89	aquatic
+GB_GCA_018401645.1	Mycobacterium sp018401645	FSM (small-genome)	3.004	present	85.96	
+spire_mag_00688177.fa	Mycobacterium sp018401645	FSM (small-genome)	3.101	present	92.2	aquatic
+spire_mag_00688367.fa	Mycobacterium sp018401645	FSM (small-genome)	3.394	present	95.23	aquatic
+spire_mag_01583196.fa	Mycobacterium sp018401645	FSM (small-genome)	2.916	present	90.34	aquatic
+spire_mag_01822855.fa	Mycobacterium sp018401645	FSM (small-genome)	3.398	present	99.56	terrestrial
+spire_mag_01824889.fa	Mycobacterium sp018401645	FSM (small-genome)	3.329	present	98.57	terrestrial
+spire_mag_01830074.fa	Mycobacterium sp018401645	FSM (small-genome)	3.366	present	97.79	terrestrial
+spire_mag_01822349.fa	Mycobacterium sp018401645	FSM (small-genome)	3.272	present	96.72	terrestrial
+spire_mag_01824983.fa	Mycobacterium sp018401645	FSM (small-genome)	3.374	present	97.01	terrestrial
+spire_mag_01776742.fa	Mycobacterium sp018401645	FSM (small-genome)	3.297	present	95.34	aquatic
+spire_mag_01775892.fa	Mycobacterium sp018401645	FSM (small-genome)	3.288	present	94.67	aquatic
+spire_mag_01777835.fa	Mycobacterium sp018401645	FSM (small-genome)	3.29	present	95.11	aquatic
+spire_mag_01777252.fa	Mycobacterium sp018401645	FSM (small-genome)	3.324	present	95.27	aquatic
+spire_mag_01776854.fa	Mycobacterium sp018401645	FSM (small-genome)	3.261	present	93.71	aquatic
+GB_GCA_026393245.1	Mycobacterium sp026393245	FSM (small-genome)	3.349	present	97.79	
+GB_GCA_037138275.1	Mycobacterium sp037138275	FSM (small-genome)	2.863	present	91.43	
+spire_mag_01949778.fa	Mycobacterium sp037138275	FSM (small-genome)	3.12	present	94.69	aquatic
+spire_mag_01947641.fa	Mycobacterium sp037138275	FSM (small-genome)	3.159	present	92.0	aquatic
+spire_mag_01947705.fa	Mycobacterium sp037138275	FSM (small-genome)	3.145	present	95.13	aquatic
+spire_mag_01947849.fa	Mycobacterium sp037138275	FSM (small-genome)	2.915	absent	92.29	aquatic
+spire_mag_01949445.fa	Mycobacterium sp037138275	FSM (small-genome)	2.858	present	92.21	aquatic
+spire_mag_01949332.fa	Mycobacterium sp037138275	FSM (small-genome)	2.881	absent	94.14	aquatic
+spire_mag_01949938.fa	Mycobacterium sp037138275	FSM (small-genome)	2.93	present	92.76	aquatic
+spire_mag_01949386.fa	Mycobacterium sp037138275	FSM (small-genome)	3.099	present	93.13	aquatic
+GB_GCA_037138615.1	Mycobacterium sp037138615	FSM (small-genome)	3.307	present	98.41	
+RS_GCF_016462945.1	Mycobacterium sp016462945	FSM (small-genome)	3.171	present	97.89	
+GB_GCA_943331415.1	Mycobacterium sp943331415	FSM (small-genome)	1.888	present	63.5	
+spire_mag_01093898.fa	novel sp.	FSM (small-genome)	2.987	present	91.31	host-associated
+GB_GCA_945882475.1	Mycobacterium sp945882475	FSM (small-genome)	2.758	present	81.19	
+GB_GCA_018500005.2	Mycobacterium sp018500005	FSM (small-genome)	3.347	present	73.23	
+GB_GCA_036782595.1	Mycobacterium sp036782595	FSM (small-genome)	3.458	present	86.14	
+spire_mag_01094475.fa	Mycobacterium sp036782595	FSM (small-genome)	4.309	present	95.78	host-associated
+spire_mag_01094744.fa	Mycobacterium sp036782595	FSM (small-genome)	3.924	present	91.35	host-associated
+GB_GCA_040398885.1	Mycobacterium sp040398885	FSM (small-genome)	3.175	present	93.88	
+RS_GCF_032117575.1	Mycobacterium sp032117575	FSM (small-genome)	3.667	absent	88.06	
+GB_GCA_029979305.1	Mycobacterium sp029979305	FSM (small-genome)	2.61	absent	71.96	
+spire_mag_00193483.fa	novel sp.	FSM (small-genome)	3.592	present	94.5	anthropogenic
+GB_GCA_018882545.1	Mycobacterium sp018882545	FSM (small-genome)	3.276	present	83.92	
+GB_GCA_964202555.1	Mycobacterium sp964202555	FSM (small-genome)	3.022	absent	91.53	
+spire_mag_01744910.fa	Mycobacterium sp964202555	FSM (small-genome)	3.006	present	95.73	aquatic
+spire_mag_01755240.fa	Mycobacterium sp964202555	FSM (small-genome)	3.389	present	97.99	aquatic
+spire_mag_01744298.fa	Mycobacterium sp964202555	FSM (small-genome)	3.299	absent	94.96	aquatic
+spire_mag_01748232.fa	Mycobacterium sp964202555	FSM (small-genome)	3.267	present	93.84	aquatic
+spire_mag_01753944.fa	Mycobacterium sp964202555	FSM (small-genome)	3.357	present	97.56	aquatic
+spire_mag_01750747.fa	Mycobacterium sp964202555	FSM (small-genome)	3.377	present	98.37	aquatic
+spire_mag_01759821.fa	Mycobacterium sp964202555	FSM (small-genome)	3.346	present	97.86	aquatic
+spire_mag_01747196.fa	Mycobacterium sp964202555	FSM (small-genome)	3.357	present	98.26	aquatic
+spire_mag_01752215.fa	Mycobacterium sp964202555	FSM (small-genome)	3.398	present	98.03	aquatic
+spire_mag_02100063.fa	Mycobacterium sp964202555	FSM (small-genome)	3.37	present	99.42	aquatic
+spire_mag_01748689.fa	Mycobacterium sp964202555	FSM (small-genome)	3.252	present	93.38	aquatic
+spire_mag_01743952.fa	Mycobacterium sp964202555	FSM (small-genome)	3.302	present	94.7	aquatic
+spire_mag_01753708.fa	Mycobacterium sp964202555	FSM (small-genome)	3.363	present	99.07	aquatic
+spire_mag_01749319.fa	Mycobacterium sp964202555	FSM (small-genome)	3.318	present	95.71	aquatic
+spire_mag_01108626.fa	novel sp.	FSM (small-genome)	3.719	present	94.32	aquatic
+spire_mag_01108952.fa	novel sp.	FSM (small-genome)	3.32	present	91.93	aquatic
+spire_mag_01112767.fa	novel sp.	FSM (small-genome)	3.418	present	99.06	aquatic
+spire_mag_01111439.fa	novel sp.	FSM (small-genome)	3.373	present	98.24	aquatic
+spire_mag_01112215.fa	novel sp.	FSM (small-genome)	3.424	present	92.9	aquatic
+GB_GCA_037129875.1	Mycobacterium sp037129875	FSM (small-genome)	3.781	present	82.95	
+GB_GCA_903884065.1	Mycobacterium sp903884065	FSM (small-genome)	4.09	present	98.74	
+GB_GCA_903877095.1	Mycobacterium sp903877095	FSM (small-genome)	4.468	present	100.0	
+spire_mag_02762480.fa	Mycobacterium sp903877095	FSM (small-genome)	4.329	present	95.78	aquatic
+spire_mag_01662118.fa	novel sp.	FSM (small-genome)	4.61	absent	94.9	anthropogenic
+spire_mag_01663809.fa	novel sp.	FSM (small-genome)	4.534	absent	93.26	anthropogenic
+spire_mag_01664230.fa	novel sp.	FSM (small-genome)	4.512	absent	95.43	anthropogenic
+GB_GCA_020438905.1	Mycobacterium sp020438905	FSM (small-genome)	3.685	absent	85.1	
+GB_GCA_020439025.1	Mycobacterium sp020439025	FSM (small-genome)	3.835	absent	86.47	
+RS_GCF_020637165.1	Mycobacterium sp020637165	FSM (small-genome)	3.847	absent	94.52	
+GB_GCA_022600695.1	Mycobacterium sp022600695	FSM (small-genome)	2.822	absent	85.79	
+spire_mag_00036881.fa	novel sp.	FSM (small-genome)	3.241	present	92.75	aquatic
+spire_mag_02088418.fa	novel sp.	FSM (small-genome)	3.486	absent	99.82	aquatic
+spire_mag_02088609.fa	novel sp.	FSM (small-genome)	3.513	present	95.05	aquatic
+spire_mag_02088219.fa	novel sp.	FSM (small-genome)	3.404	absent	97.46	aquatic
+spire_mag_02088284.fa	novel sp.	FSM (small-genome)	3.483	present	100.0	aquatic
+GB_GCA_027728805.1	Mycobacterium sp001510415	FSM (small-genome)	4.034	present	95.42	
+spire_mag_01776406.fa	Mycobacterium sp001510415	FSM (small-genome)	3.725	present	95.2	aquatic
+GB_GCA_041303695.1	Mycobacterium sp041303695	FSM (small-genome)	2.78	absent	75.74	
+GB_GCA_020438845.1	Mycobacterium sp020438845	FSM (small-genome)	4.527	absent	99.54	
+GB_GCA_903862565.1	Mycobacterium sp903862565	FSM (small-genome)	5.004	present	96.36	
+GB_GCA_029977845.1	Mycobacterium sp029977845	FSM (small-genome)	2.791	present	72.49	
+RS_GCF_017853185.1	Mycobacterium sp017853185	FSM (small-genome)	3.579	absent	93.99	
+spire_mag_02102612.fa	Mycobacterium sp017853185	FSM (small-genome)	3.863	absent	93.56	aquatic
+spire_mag_00138007.fa	Mycobacterium sp017853185	FSM (small-genome)	3.787	absent	97.65	anthropogenic
+spire_mag_00142179.fa	Mycobacterium sp017853185	FSM (small-genome)	3.777	absent	96.36	anthropogenic
+GB_GCA_037141465.1	Mycobacterium sp037141465	FSM (small-genome)	3.135	present	96.75	
+spire_mag_01948467.fa	Mycobacterium sp037141465	FSM (small-genome)	3.097	absent	97.75	aquatic
+GB_GCA_018883075.1	Mycobacterium sp018883075	FSM (small-genome)	2.469	present	80.8	
+GB_GCA_040398865.1	Mycobacterium sp021413425	FSM (small-genome)	2.8	present	89.54	
+GB_GCA_041303735.1	Mycobacterium sp041303735	FSM (small-genome)	2.585	present	94.09	
+spire_mag_01882647.fa	novel sp.	FSM (small-genome)	3.596	present	99.94	aquatic
+GB_GCA_020438895.1	Mycobacterium sp020438895	FSM (small-genome)	3.364	absent	76.32	
+GB_GCA_029780675.1	Mycobacterium sp029780675	FSM (small-genome)	4.026	absent	92.36	
+spire_mag_00139887.fa	Mycobacterium sp029780675	FSM (small-genome)	4.148	absent	95.74	anthropogenic
+GB_GCA_030836785.1	Mycobacterium sp030836785	FSM (small-genome)	3.995	absent	92.74	
+spire_mag_00138052.fa	Mycobacterium sp030836785	FSM (small-genome)	3.879	absent	93.17	anthropogenic
+spire_mag_01117712.fa	Mycobacterium sp030836785	FSM (small-genome)	3.906	absent	93.73	anthropogenic
+spire_mag_00709104.fa	novel sp.	FSM (small-genome)	2.761	absent	91.08	
+spire_mag_00709371.fa	novel sp.	FSM (small-genome)	3.527	absent	95.77	
+spire_mag_00036704.fa	novel sp.	FSM (small-genome)	3.454	present	95.61	aquatic
+spire_mag_02087828.fa	novel sp.	FSM (small-genome)	3.457	present	99.51	aquatic
+spire_mag_02088828.fa	novel sp.	FSM (small-genome)	3.419	present	97.99	aquatic
+spire_mag_02088287.fa	novel sp.	FSM (small-genome)	3.534	present	99.61	aquatic
+spire_mag_02088330.fa	novel sp.	FSM (small-genome)	3.352	present	99.89	aquatic
+spire_mag_02088507.fa	novel sp.	FSM (small-genome)	3.466	present	98.79	aquatic
+GB_GCA_018882965.1	Mycobacterium sp018882965	FSM (small-genome)	3.352	present	94.55	
+spire_mag_02028936.fa	Mycobacterium sp018882965	FSM (small-genome)	3.163	present	97.97	aquatic
+spire_mag_02005306.fa	novel sp.	FSM (small-genome)	3.271	present	92.56	aquatic
+spire_mag_01040852.fa	novel sp.	FSM (small-genome)	3.356	present	94.74	anthropogenic
+spire_mag_01041266.fa	novel sp.	FSM (small-genome)	3.301	present	93.98	anthropogenic

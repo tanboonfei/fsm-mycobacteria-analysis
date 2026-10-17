@@ -1,0 +1,11 @@
+Metric	Rhodopsin-positive FSM	Rhodopsin-negative FSM	Mann–Whitney p
+N (MAGs)	78	18
+Contigs (median)	216.5	226.5	0.70
+N50 (median, bp)	28,438	23,931	1.00
+Completeness (median %)	95.6	95.6	0.51
+Contamination (median %)	1	1.3	0.6
+Genome size (median, Mb)	3.30	3.70	0.019
+Multivariate logistic regression of opsin presence on N50, contig count, completeness and genome size (96 FSM MAGs):
+   N50 (kb): beta -0.020, p = 0.15; contigs: beta -0.003, p = 0.56; completeness: beta +0.138, p = 0.37; genome size: beta -2.06, p = 0.005; model LLR p = 0.007
+Opsin prevalence by N50 quartile: 79%, 79%, 88%, 79% (24 MAGs per quartile).
+Assembly quality does not predict opsin status; genome size does, opsin-negative MAGs being the larger. Every opsin-negative MAG was also re-screened against the detected MAG opsins by tBLASTn at a relaxed threshold (e ≤ 1) and with an opsin profile HMM against the six-frame translation, with opsin-positive controls; no additional opsin was recovered.

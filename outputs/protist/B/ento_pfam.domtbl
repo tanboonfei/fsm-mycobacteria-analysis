@@ -1,0 +1,25 @@
+#                                                                                        --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                       accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----             -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+RNA_pol_Rpb1_1       PF04997.18   312 spire_mag_01748232|k141_515774_6 -           1111   4.1e-78  263.5   0.0   1   1   1.4e-81   7.9e-78  262.5   0.0     3   312     6   417     4   417 0.78 RNA polymerase Rpb1, domain 1
+RNA_pol_Rpb1_5       PF04998.23   267 spire_mag_01748232|k141_515774_6 -           1111   2.2e-47  162.3   0.1   1   1   7.7e-51   4.2e-47  161.4   0.1     1   130   836  1061   836  1088 0.90 RNA polymerase Rpb1, domain 5
+RNA_pol_Rpb1_2       PF00623.26   166 spire_mag_01748232|k141_515774_6 -           1111   2.2e-39  136.0   0.0   1   2   5.4e-13     3e-09   37.9   0.0     1    54   419   472   419   476 0.90 RNA polymerase Rpb1, domain 2
+RNA_pol_Rpb1_2       PF00623.26   166 spire_mag_01748232|k141_515774_6 -           1111   2.2e-39  136.0   0.0   2   2   4.7e-31   2.6e-27   96.7   0.0    69   165   464   560   461   561 0.91 RNA polymerase Rpb1, domain 2
+RNA_pol_Rpb1_3       PF04983.24   162 spire_mag_01748232|k141_515774_6 -           1111   9.5e-21   75.0   0.0   1   1   3.3e-24   1.8e-20   74.0   0.0     1   162   564   718   564   718 0.91 RNA polymerase Rpb1, domain 3
+RNA_pol_Rpb1_4       PF05000.23   107 spire_mag_01748232|k141_515774_6 -           1111   2.2e-19   69.9   0.4   1   1   8.6e-23   4.8e-19   68.9   0.4     1   107   747   834   747   834 0.90 RNA polymerase Rpb1, domain 4
+RNA_pol_Rpb1_5       PF04998.23   267 EP01012_Entosiphon_sulcatum_P015056 -            880   6.6e-69  232.9   0.0   1   1     1e-72   9.6e-69  232.4   0.0     1   265   229   788   229   790 0.90 RNA polymerase Rpb1, domain 5
+RNA_pol_Rpb1_4       PF05000.23   107 EP01012_Entosiphon_sulcatum_P015056 -            880   2.6e-19   69.7   0.3   1   1   5.3e-23   4.8e-19   68.8   0.3     1   107   140   227   140   227 0.90 RNA polymerase Rpb1, domain 4
+RNA_pol_Rpb1_3       PF04983.24   162 EP01012_Entosiphon_sulcatum_P015056 -            880     4e-09   37.2   0.0   1   1   9.4e-13   8.6e-09   36.1   0.0    31   162     5   111     2   111 0.85 RNA polymerase Rpb1, domain 3
+RNA_pol_Rpb1_2       PF00623.26   166 EP01012_Entosiphon_sulcatum_P063597 -            209   4.5e-41  141.5   0.0   1   2   1.7e-14   2.3e-10   41.6   0.0     1    55    15    69    15    77 0.90 RNA polymerase Rpb1, domain 2
+RNA_pol_Rpb1_2       PF00623.26   166 EP01012_Entosiphon_sulcatum_P063597 -            209   4.5e-41  141.5   0.0   2   2     2e-32   2.8e-28   99.8   0.0    69   165    60   156    57   157 0.91 RNA polymerase Rpb1, domain 2
+RNA_pol_Rpb1_3       PF04983.24   162 EP01012_Entosiphon_sulcatum_P063597 -            209   3.1e-06   27.8   0.0   1   1   3.7e-10   5.1e-06   27.0   0.0     1    29   160   188   160   204 0.89 RNA polymerase Rpb1, domain 3
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      ento_all.faa
+# Target file:     /path/to/databases/funannotate2/Pfam-A.hmm
+# Option settings: hmmscan --domtblout ento_pfam.domtbl -E 1e-5 --cpu 8 /path/to/databases/funannotate2/Pfam-A.hmm ento_all.faa 
+# Current dir:     /path/to/project/analyses/protist/B
+# Date:            Wed Oct 14 09:33:16 2026
+# [ok]

@@ -1,0 +1,276 @@
+IQ-TREE multicore version 2.0.7 for Linux 64-bit built Apr  1 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    host (AVX512, FMA3, 249 GB RAM)
+Command: iqtree2 -s red_fast20.faa -m LG+G4 -B 1000 -alrt 1000 -T 2 --prefix r4_fast20 -redo
+Seed:    945371 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Oct 13 15:10:30 2026
+Kernel:  AVX+FMA - 2 threads (32 CPU cores detected)
+
+Reading alignment file red_fast20.faa ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 161 sequences with 4029 columns, 3512 distinct patterns
+1473 parsimony-informative, 448 singleton sites, 2108 constant sites
+                       Gap/Ambiguity  Composition  p-value
+   1  GB_GCA_000230935.2       3.45%    passed    100.00%
+   2  GB_GCA_001665255.1       5.26%    passed    100.00%
+   3  GB_GCA_002007745.1       4.19%    passed    100.00%
+   4  GB_GCA_018401645.1      20.33%    passed     99.33%
+   5  GB_GCA_018882965.1       2.18%    passed    100.00%
+   6  GB_GCA_019246375.1      24.87%    passed     99.97%
+   7  GB_GCA_020438785.1      55.15%    passed     27.04%
+   8  GB_GCA_020438845.1       6.97%    passed    100.00%
+   9  GB_GCA_020438865.1      19.33%    passed     99.84%
+  10  GB_GCA_020438895.1      37.53%    passed     78.63%
+  11  GB_GCA_021732005.1       1.39%    passed    100.00%
+  12  GB_GCA_023264735.1       1.94%    passed    100.00%
+  13  GB_GCA_023416315.1      22.46%    passed     99.95%
+  14  GB_GCA_023460175.1       3.62%    passed    100.00%
+  15  GB_GCA_025963385.1      27.18%    passed     98.08%
+  16  GB_GCA_025965895.1       7.40%    passed    100.00%
+  17  GB_GCA_025966225.1      10.28%    passed     99.99%
+  18  GB_GCA_034190095.1       6.90%    passed    100.00%
+  19  GB_GCA_035314925.1      21.99%    passed     99.99%
+  20  GB_GCA_035651275.1      12.98%    passed     99.84%
+  21  GB_GCA_036338755.1       0.50%    passed    100.00%
+  22  GB_GCA_037138615.1       1.74%    passed     99.99%
+  23  GB_GCA_037141465.1       4.14%    passed    100.00%
+  24  GB_GCA_039583405.1      20.60%    passed     99.92%
+  25  GB_GCA_040398885.1      16.31%    passed     98.60%
+  26  GB_GCA_040512325.1      26.98%    passed     99.93%
+  27  GB_GCA_040704635.1       2.23%    passed    100.00%
+  28  GB_GCA_041303695.1      27.72%    passed     99.96%
+  29  GB_GCA_900078375.1       1.41%    passed    100.00%
+  30  GB_GCA_903927745.1       5.16%    passed    100.00%
+  31  GB_GCA_945882475.1      11.37%    passed    100.00%
+  32  RS_GCF_000426065.1       2.33%    passed    100.00%
+  33  RS_GCF_000559085.1       1.34%    passed    100.00%
+  34  RS_GCF_000975265.2       2.16%    passed     99.99%
+  35  RS_GCF_001021385.1       0.60%    passed    100.00%
+  36  RS_GCF_001044255.1       0.79%    passed    100.00%
+  37  RS_GCF_001426545.1       1.32%    passed    100.00%
+  38  RS_GCF_001494595.1       1.41%    passed    100.00%
+  39  RS_GCF_001570485.1       1.07%    passed    100.00%
+  40  RS_GCF_001605725.1       0.77%    passed     99.98%
+  41  RS_GCF_001632805.1       1.81%    passed     99.99%
+  42  RS_GCF_001667015.1       2.63%    passed    100.00%
+  43  RS_GCF_001667035.1       1.22%    passed    100.00%
+  44  RS_GCF_001667885.1       1.96%    passed    100.00%
+  45  RS_GCF_001673635.1       0.92%    passed    100.00%
+  46  RS_GCF_002086125.1       1.27%    passed    100.00%
+  47  RS_GCF_002086695.1       2.13%    passed    100.00%
+  48  RS_GCF_002250655.1       0.52%    passed    100.00%
+  49  RS_GCF_002592005.1       1.41%    passed    100.00%
+  50  RS_GCF_002723835.1       1.09%    passed    100.00%
+  51  RS_GCF_002838065.1       1.34%    passed    100.00%
+  52  RS_GCF_002887815.1       0.57%    passed    100.00%
+  53  RS_GCF_003254575.1       2.38%    passed    100.00%
+  54  RS_GCF_003284925.1       4.57%    passed    100.00%
+  55  RS_GCF_003284965.1       0.67%    passed    100.00%
+  56  RS_GCF_004362315.1       1.39%    passed    100.00%
+  57  RS_GCF_004570325.1       0.69%    passed    100.00%
+  58  RS_GCF_004745805.1       0.67%    passed    100.00%
+  59  RS_GCF_008329565.1       0.62%    passed    100.00%
+  60  RS_GCF_008329585.1       0.67%    passed    100.00%
+  61  RS_GCF_008329605.1       0.52%    passed    100.00%
+  62  RS_GCF_008329905.1       1.69%    passed    100.00%
+  63  RS_GCF_010726245.1       1.27%    passed    100.00%
+  64  RS_GCF_010727475.1       2.41%    passed    100.00%
+  65  RS_GCF_010728155.1       2.83%    passed    100.00%
+  66  RS_GCF_010728925.1       0.47%    passed    100.00%
+  67  RS_GCF_010730355.1       0.67%    passed    100.00%
+  68  RS_GCF_010731855.1       1.22%    passed    100.00%
+  69  RS_GCF_010731875.1       0.65%    passed    100.00%
+  70  RS_GCF_010731895.1       1.27%    passed    100.00%
+  71  RS_GCF_011694515.1       0.52%    passed    100.00%
+  72  RS_GCF_012396015.1       0.84%    passed     98.02%
+  73  RS_GCF_013337765.1       0.47%    passed    100.00%
+  74  RS_GCF_013404075.1       0.57%    passed    100.00%
+  75  RS_GCF_019645815.1       1.09%    passed    100.00%
+  76  RS_GCF_020169415.1       1.69%    passed     97.19%
+  77  RS_GCF_020181595.2       1.12%    passed    100.00%
+  78  RS_GCF_020217485.1       0.57%    passed    100.00%
+  79  RS_GCF_021213805.1       0.60%    passed    100.00%
+  80  RS_GCF_022179545.1       0.94%    passed    100.00%
+  81  RS_GCF_022370635.2       0.50%    passed    100.00%
+  82  RS_GCF_022370835.2       1.02%    passed    100.00%
+  83  RS_GCF_022760805.1       0.87%    passed    100.00%
+  84  RS_GCF_023168325.1       9.36%    passed     75.81%
+  85  RS_GCF_025263565.1       2.95%    passed    100.00%
+  86  RS_GCF_025822765.1       1.02%    passed    100.00%
+  87  RS_GCF_025822865.1       0.55%    passed    100.00%
+  88  RS_GCF_025965975.1      16.73%    passed     99.99%
+  89  RS_GCF_026240945.1       0.25%    passed    100.00%
+  90  RS_GCF_026242035.1       0.69%    passed    100.00%
+  91  RS_GCF_029167375.1       4.57%    passed     98.00%
+  92  RS_GCF_030209435.1       1.99%    passed    100.00%
+  93  RS_GCF_030252325.1       0.35%    passed    100.00%
+  94  RS_GCF_033741125.1       2.11%    passed    100.00%
+  95  RS_GCF_033741175.1       2.56%    passed    100.00%
+  96  RS_GCF_033804465.1       0.50%    passed    100.00%
+  97  RS_GCF_036023875.1       0.47%    passed    100.00%
+  98  RS_GCF_041261665.1       0.89%    passed    100.00%
+  99  RS_GCF_041287165.1       0.69%    passed    100.00%
+ 100  RS_GCF_900157375.1       1.07%    passed    100.00%
+ 101  RS_GCF_900292015.1       0.60%    passed    100.00%
+ 102  RS_GCF_963853645.1       0.97%    passed    100.00%
+ 103  spire_mag_00036704.fa   14.64%    passed     99.62%
+ 104  spire_mag_00036881.fa   15.76%    passed     99.77%
+ 105  spire_mag_00184606.fa   11.17%    passed    100.00%
+ 106  spire_mag_00518991.fa   10.55%    passed     99.19%
+ 107  spire_mag_00709104.fa    9.95%    passed    100.00%
+ 108  spire_mag_00709154.fa    4.99%    passed    100.00%
+ 109  spire_mag_00866324.fa    7.00%    passed    100.00%
+ 110  spire_mag_00869002.fa    7.62%    passed    100.00%
+ 111  spire_mag_00871125.fa    6.23%    passed    100.00%
+ 112  spire_mag_00874439.fa    4.14%    passed    100.00%
+ 113  spire_mag_01040802.fa   11.24%    passed     99.99%
+ 114  spire_mag_01040852.fa    2.16%    passed    100.00%
+ 115  spire_mag_01041266.fa    1.91%    passed    100.00%
+ 116  spire_mag_01094475.fa    4.96%    passed    100.00%
+ 117  spire_mag_01100050.fa   23.50%    passed     99.99%
+ 118  spire_mag_01104972.fa   13.03%    passed     99.99%
+ 119  spire_mag_01112767.fa    8.46%    passed    100.00%
+ 120  spire_mag_01584542.fa    4.96%    passed    100.00%
+ 121  spire_mag_01585398.fa    4.96%    passed    100.00%
+ 122  spire_mag_01586673.fa    8.29%    passed    100.00%
+ 123  spire_mag_01619133.fa    6.50%    passed    100.00%
+ 124  spire_mag_01619766.fa   16.11%    passed     99.68%
+ 125  spire_mag_01620236.fa   12.48%    passed    100.00%
+ 126  spire_mag_01620338.fa   20.82%    passed     99.93%
+ 127  spire_mag_01620411.fa    8.71%    passed    100.00%
+ 128  spire_mag_01621671.fa    9.26%    passed    100.00%
+ 129  spire_mag_01623019.fa    9.36%    passed    100.00%
+ 130  spire_mag_01623819.fa    5.93%    passed    100.00%
+ 131  spire_mag_01632252.fa   16.58%    passed     99.98%
+ 132  spire_mag_01662118.fa   11.49%    passed    100.00%
+ 133  spire_mag_01678280.fa   19.81%    passed    100.00%
+ 134  spire_mag_01733412.fa    3.03%    passed    100.00%
+ 135  spire_mag_01749319.fa    7.99%    passed    100.00%
+ 136  spire_mag_01753944.fa    4.57%    passed    100.00%
+ 137  spire_mag_01755240.fa    6.95%    passed    100.00%
+ 138  spire_mag_01777252.fa   10.18%    passed     99.98%
+ 139  spire_mag_01824983.fa    4.72%    passed     99.99%
+ 140  spire_mag_01830074.fa    5.06%    passed    100.00%
+ 141  spire_mag_01882647.fa   14.40%    passed     99.64%
+ 142  spire_mag_01947641.fa   18.22%    passed    100.00%
+ 143  spire_mag_01949332.fa   12.09%    passed    100.00%
+ 144  spire_mag_01960731.fa    8.12%    passed    100.00%
+ 145  spire_mag_02001406.fa   15.69%    passed    100.00%
+ 146  spire_mag_02002215.fa   10.15%    passed    100.00%
+ 147  spire_mag_02003535.fa   13.45%    passed     99.99%
+ 148  spire_mag_02005306.fa    9.73%    passed    100.00%
+ 149  spire_mag_02028936.fa    7.59%    passed    100.00%
+ 150  spire_mag_02088284.fa    7.92%    passed     99.99%
+ 151  spire_mag_02088330.fa    6.03%    passed    100.00%
+ 152  spire_mag_02100063.fa    3.40%    passed    100.00%
+ 153  spire_mag_02102612.fa   12.83%    passed     99.99%
+ 154  spire_mag_02292565.fa    2.93%    passed    100.00%
+ 155  spire_mag_02296298.fa   11.27%    passed    100.00%
+ 156  spire_mag_02299450.fa    8.51%    passed    100.00%
+ 157  spire_mag_02370601.fa    2.16%    passed    100.00%
+ 158  spire_mag_02374732.fa    7.79%    passed    100.00%
+ 159  spire_mag_02519404.fa   12.51%    passed    100.00%
+ 160  spire_mag_02521398.fa   20.75%    passed     99.36%
+ 161  spire_mag_02762480.fa    6.95%    passed    100.00%
+WARNING: 1 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                    6.79%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.132 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 945371)...
+
+NOTE: 364 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -65835.273
+2. Current log-likelihood: -64928.123
+3. Current log-likelihood: -64913.367
+4. Current log-likelihood: -64913.046
+Optimal log-likelihood: -64913.026
+Gamma shape alpha: 0.341
+Parameters optimization took 4 rounds (20.210 sec)
+Computing ML distances based on estimated model parameters... 1.127 sec
+Computing BIONJ tree...
+0.008 seconds
+Log-likelihood of BIONJ tree: -65047.085
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 11.711 second
+Computing log-likelihood of 98 initial trees ... 97.388 seconds
+Current best score: -64898.545
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -64875.351
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -64870.422
+UPDATE BEST LOG-LIKELIHOOD: -64870.418
+Iteration 10 / LogL: -64880.772 / Time: 0h:4m:9s
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 12: -64866.452
+Iteration 20 / LogL: -64869.221 / Time: 0h:6m:18s
+Finish initializing candidate tree set (19)
+Current best tree score: -64866.452 / CPU time: 352.156
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 21: -64865.129
+Iteration 30 / LogL: -64875.277 / Time: 0h:9m:32s (0h:29m:56s left)
+Iteration 40 / LogL: -64865.982 / Time: 0h:12m:21s (0h:25m:39s left)
+Iteration 50 / LogL: -64867.295 / Time: 0h:15m:20s (0h:22m:13s left)
+Log-likelihood cutoff on original alignment: -64934.457
+Iteration 60 / LogL: -64878.065 / Time: 0h:18m:2s (0h:18m:39s left)
+Iteration 70 / LogL: -64889.250 / Time: 0h:20m:34s (0h:15m:12s left)
+Iteration 80 / LogL: -64892.736 / Time: 0h:23m:18s (0h:12m:5s left)
+Iteration 90 / LogL: -64872.033 / Time: 0h:26m:2s (0h:9m:4s left)
+Iteration 100 / LogL: -64892.269 / Time: 0h:28m:53s (0h:6m:7s left)
+Log-likelihood cutoff on original alignment: -64934.457
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 110 / LogL: -64872.036 / Time: 0h:31m:31s (0h:26m:1s left)
+Iteration 120 / LogL: -64867.184 / Time: 0h:34m:10s (0h:22m:58s left)
+TREE SEARCH COMPLETED AFTER 122 ITERATIONS / Time: 0h:34m:41s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -64865.129
+Optimal log-likelihood: -64865.129
+Gamma shape alpha: 0.343
+Parameters optimization took 1 rounds (2.056 sec)
+BEST SCORE FOUND : -64865.129
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+7.186 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file r4_fast20.splits.nex
+Total tree length: 2.392
+
+Total number of iterations: 122
+CPU time used for tree search: 4062.047 sec (1h:7m:42s)
+Wall-clock time used for tree search: 2054.986 sec (0h:34m:14s)
+Total CPU time used: 4131.380 sec (1h:8m:51s)
+Total wall-clock time used: 2091.094 sec (0h:34m:51s)
+
+Computing bootstrap consensus tree...
+Reading input file r4_fast20.splits.nex...
+161 taxa and 575 splits.
+Consensus tree written to r4_fast20.contree
+Reading input trees file r4_fast20.contree
+Log-likelihood of consensus tree: -64865.357
+
+Analysis results written to: 
+  IQ-TREE report:                r4_fast20.iqtree
+  Maximum-likelihood tree:       r4_fast20.treefile
+  Likelihood distances:          r4_fast20.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          r4_fast20.splits.nex
+  Consensus tree:                r4_fast20.contree
+  Screen log file:               r4_fast20.log
+
+Date and Time: Tue Oct 13 15:45:26 2026

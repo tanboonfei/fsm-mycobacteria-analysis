@@ -1,0 +1,92 @@
+group_a	group_b	metric	n_a	median_a	n_b	median_b	difference	diff_CI95	cliffs_delta	MannWhitney_p
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), matched	loci with frameshift or internal stop (%)	57	0.5594	57	0.3681	0.1913	0.07 to 0.297	0.4063	0.0001858
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), matched	frameshift (%)	57	0.4819	57	0.2326	0.2493	0.129 to 0.388	0.5306	1.044e-06
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), matched	internal stop (%)	57	0.1248	57	0.1239	0.0009	-0.108 to 0.0082	-0.01354	0.902
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), matched	ORF <80% of reference length (%)	57	0.7682	57	0.2454	0.5228	0.425 to 0.623	0.944	3.689e-18
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), matched	core genes split into >=2 ORFs (n)	57	4	57	2	2	0 to 3	0.4321	5.689e-05
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), matched	core genes split (%)	57	0.5038	57	0.243	0.2608	0.109 to 0.371	0.4897	6.542e-06
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), matched	any decay signal (%)	57	1.496	57	0.8235	0.6725	0.377 to 0.837	0.7562	3.418e-12
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), matched	core groups with a hit (%)	57	93.37	57	98.31	-4.94	-5.84 to -3.93	-0.9431	3.896e-18
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), matched	hits within 200 bp of a contig end (n)	57	35	57	44	-9	-19 to 6	-0.156	0.1515
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), matched	loci assessed (n)	57	793	57	823	-30	-47 to -18	-0.5192	1.768e-06
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), matched	median identity to best reference	57	0.8092	57	0.866	-0.0568	-0.0606 to -0.0484	-0.8461	6.853e-15
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), matched	intergenic spacer median (bp)	57	28	57	31	-3	-5 to 0	-0.349	0.001242
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), matched	spacers >300 bp (%)	57	3.708	57	4.876	-1.168	-1.58 to -0.963	-0.6467	2.672e-09
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), all	loci with frameshift or internal stop (%)	57	0.5594	83	0.3628	0.1966	0.113 to 0.305	0.4008	5.851e-05
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), all	frameshift (%)	57	0.4819	83	0.134	0.3479	0.132 to 0.39	0.5394	6.258e-08
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), all	internal stop (%)	57	0.1248	83	0.134	-0.0092	-0.108 to 0.0023	-0.1129	0.2549
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), all	ORF <80% of reference length (%)	57	0.7682	83	0.2404	0.5278	0.513 to 0.631	0.9467	2.168e-21
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), all	core genes split into >=2 ORFs (n)	57	4	83	2	2	1 to 3	0.5128	1.984e-07
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), all	core genes split (%)	57	0.5038	83	0.235	0.2688	0.172 to 0.38	0.5582	2.061e-08
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), all	any decay signal (%)	57	1.496	83	0.791	0.705	0.503 to 0.872	0.7768	6.626e-15
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), all	core groups with a hit (%)	57	93.37	83	98.09	-4.72	-5.61 to -3.93	-0.9609	5.359e-22
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), all	hits within 200 bp of a contig end (n)	57	35	83	49	-14	-23 to -1	-0.1693	0.08973
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), all	loci assessed (n)	57	793	83	821	-28	-44 to -14	-0.4593	4.091e-06
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), all	median identity to best reference	57	0.8092	83	0.8691	-0.0599	-0.0608 to -0.0509	-0.8698	2.66e-18
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), all	intergenic spacer median (bp)	57	28	83	31	-3	-5 to -2	-0.4025	4.947e-05
+FSM SPIRE MAG (>=95%)	RGM SPIRE MAG (>=95%), all	spacers >300 bp (%)	57	3.708	83	4.974	-1.266	-1.65 to -1.07	-0.6821	7.846e-12
+FSM SPIRE MAG (>=95%)	RGM sister-clade SPIRE MAG (>=95%)	loci with frameshift or internal stop (%)	57	0.5594	6	0.7297	-0.1703	-0.556 to 0.031	-0.3567	0.1566
+FSM SPIRE MAG (>=95%)	RGM sister-clade SPIRE MAG (>=95%)	frameshift (%)	57	0.4819	6	0.608	-0.1261	-0.565 to 0.0662	-0.4094	0.1037
+FSM SPIRE MAG (>=95%)	RGM sister-clade SPIRE MAG (>=95%)	internal stop (%)	57	0.1248	6	0.1216	0.0032	-0.0622 to 0.126	0.2135	0.3953
+FSM SPIRE MAG (>=95%)	RGM sister-clade SPIRE MAG (>=95%)	ORF <80% of reference length (%)	57	0.7682	6	0.0618	0.7064	0.401 to 0.853	0.9708	0.0001064
+FSM SPIRE MAG (>=95%)	RGM sister-clade SPIRE MAG (>=95%)	core genes split into >=2 ORFs (n)	57	4	6	1.5	2.5	1 to 3.5	0.8129	0.0009416
+FSM SPIRE MAG (>=95%)	RGM sister-clade SPIRE MAG (>=95%)	core genes split (%)	57	0.5038	6	0.188	0.3158	0.163 to 0.444	0.8012	0.001392
+FSM SPIRE MAG (>=95%)	RGM sister-clade SPIRE MAG (>=95%)	any decay signal (%)	57	1.496	6	0.7915	0.7045	0.144 to 0.874	0.731	0.003555
+FSM SPIRE MAG (>=95%)	RGM sister-clade SPIRE MAG (>=95%)	core groups with a hit (%)	57	93.37	6	99.05	-5.675	-6.41 to -2.98	-1	6.502e-05
+FSM SPIRE MAG (>=95%)	RGM sister-clade SPIRE MAG (>=95%)	hits within 200 bp of a contig end (n)	57	35	6	73.5	-38.5	-63.5 to -9	-0.6462	0.009984
+FSM SPIRE MAG (>=95%)	RGM sister-clade SPIRE MAG (>=95%)	loci assessed (n)	57	793	6	809	-16	-49 to 34	-0.2865	0.2559
+FSM SPIRE MAG (>=95%)	RGM sister-clade SPIRE MAG (>=95%)	median identity to best reference	57	0.8092	6	0.86	-0.0508	-0.0749 to -0.0484	-1	6.52e-05
+FSM SPIRE MAG (>=95%)	RGM sister-clade SPIRE MAG (>=95%)	intergenic spacer median (bp)	57	28	6	29	-1	-4 to 4.5	-0.1053	0.6779
+FSM SPIRE MAG (>=95%)	RGM sister-clade SPIRE MAG (>=95%)	spacers >300 bp (%)	57	3.708	6	4.554	-0.846	-1.62 to 0.214	-0.4386	0.08103
+FSM SPIRE MAG (>=95%)	Closed RGM, shredded + 4.4% deleted	loci with frameshift or internal stop (%)	57	0.5594	20	0.6532	-0.0938	-0.292 to 0.211	-0.07544	0.6215
+FSM SPIRE MAG (>=95%)	Closed RGM, shredded + 4.4% deleted	frameshift (%)	57	0.4819	20	0.3977	0.0842	-0.156 to 0.228	0.005263	0.9768
+FSM SPIRE MAG (>=95%)	Closed RGM, shredded + 4.4% deleted	internal stop (%)	57	0.1248	20	0.1273	-0.00245	-0.13 to 0.0031	-0.1877	0.2125
+FSM SPIRE MAG (>=95%)	Closed RGM, shredded + 4.4% deleted	ORF <80% of reference length (%)	57	0.7682	20	0.3802	0.388	0.317 to 0.631	0.7974	1.333e-07
+FSM SPIRE MAG (>=95%)	Closed RGM, shredded + 4.4% deleted	core genes split into >=2 ORFs (n)	57	4	20	2	2	0.5 to 2	0.436	0.003359
+FSM SPIRE MAG (>=95%)	Closed RGM, shredded + 4.4% deleted	core genes split (%)	57	0.5038	20	0.262	0.2418	0.0985 to 0.271	0.3939	0.009257
+FSM SPIRE MAG (>=95%)	Closed RGM, shredded + 4.4% deleted	any decay signal (%)	57	1.496	20	1.23	0.2655	0.033 to 0.802	0.3904	0.009909
+FSM SPIRE MAG (>=95%)	Closed RGM, shredded + 4.4% deleted	core groups with a hit (%)	57	93.37	20	96.18	-2.81	-3.48 to -2.02	-0.8781	6.228e-09
+FSM SPIRE MAG (>=95%)	Closed RGM, shredded + 4.4% deleted	hits within 200 bp of a contig end (n)	57	35	20	74.5	-39.5	-48 to -31	-0.7053	3.083e-06
+FSM SPIRE MAG (>=95%)	Closed RGM, shredded + 4.4% deleted	loci assessed (n)	57	793	20	785.5	7.5	-4 to 24	0.2368	0.1181
+FSM SPIRE MAG (>=95%)	Closed RGM, shredded + 4.4% deleted	median identity to best reference	57	0.8092	20	0.85	-0.0408	-0.0557 to -0.0346	-1	3.674e-11
+FSM SPIRE MAG (>=95%)	Closed RGM, shredded + 4.4% deleted	intergenic spacer median (bp)	57	28	20	28	0	-2.5 to 2.5	-0.002632	0.9906
+FSM SPIRE MAG (>=95%)	Closed RGM, shredded + 4.4% deleted	spacers >300 bp (%)	57	3.708	20	4.521	-0.8135	-1.25 to -0.445	-0.7325	1.271e-06
+RGM SPIRE MAG (>=95%), matched	Closed RGM, shredded + 4.4% deleted	loci with frameshift or internal stop (%)	57	0.3681	20	0.6532	-0.2851	-0.467 to -0.011	-0.4026	0.007803
+RGM SPIRE MAG (>=95%), matched	Closed RGM, shredded + 4.4% deleted	frameshift (%)	57	0.2326	20	0.3977	-0.1651	-0.404 to -0.027	-0.4763	0.001623
+RGM SPIRE MAG (>=95%), matched	Closed RGM, shredded + 4.4% deleted	internal stop (%)	57	0.1239	20	0.1273	-0.00335	-0.129 to 0.106	-0.09737	0.518
+RGM SPIRE MAG (>=95%), matched	Closed RGM, shredded + 4.4% deleted	ORF <80% of reference length (%)	57	0.2454	20	0.3802	-0.1348	-0.209 to 0.0837	-0.2623	0.08344
+RGM SPIRE MAG (>=95%), matched	Closed RGM, shredded + 4.4% deleted	core genes split into >=2 ORFs (n)	57	2	20	2	0	-1 to 1	-0.04298	0.7775
+RGM SPIRE MAG (>=95%), matched	Closed RGM, shredded + 4.4% deleted	core genes split (%)	57	0.243	20	0.262	-0.019	-0.153 to 0.115	-0.1026	0.4992
+RGM SPIRE MAG (>=95%), matched	Closed RGM, shredded + 4.4% deleted	any decay signal (%)	57	0.8235	20	1.23	-0.407	-0.601 to 0.194	-0.2965	0.05029
+RGM SPIRE MAG (>=95%), matched	Closed RGM, shredded + 4.4% deleted	core groups with a hit (%)	57	98.31	20	96.18	2.13	1.13 to 3.08	0.5895	9.616e-05
+RGM SPIRE MAG (>=95%), matched	Closed RGM, shredded + 4.4% deleted	hits within 200 bp of a contig end (n)	57	44	20	74.5	-30.5	-45 to -20	-0.5333	0.000421
+RGM SPIRE MAG (>=95%), matched	Closed RGM, shredded + 4.4% deleted	loci assessed (n)	57	823	20	785.5	37.5	26 to 58	0.686	5.711e-06
+RGM SPIRE MAG (>=95%), matched	Closed RGM, shredded + 4.4% deleted	median identity to best reference	57	0.866	20	0.85	0.016	-0.00281 to 0.0242	0.1509	0.3206
+RGM SPIRE MAG (>=95%), matched	Closed RGM, shredded + 4.4% deleted	intergenic spacer median (bp)	57	31	20	28	3	0 to 5	0.3623	0.01611
+RGM SPIRE MAG (>=95%), matched	Closed RGM, shredded + 4.4% deleted	spacers >300 bp (%)	57	4.876	20	4.521	0.3545	0.0625 to 0.76	0.2342	0.1223
+Closed RGM, shredded	Closed RGM, intact	loci with frameshift or internal stop (%)	20	0.5654	20	0.62	-0.0546	-0.311 to 0.285	-0.045	0.8181
+Closed RGM, shredded	Closed RGM, intact	frameshift (%)	20	0.3771	20	0.4502	-0.07305	-0.203 to 0.159	-0.05	0.797
+Closed RGM, shredded	Closed RGM, intact	internal stop (%)	20	0.1236	20	0.1131	0.0106	-0.103 to 0.133	0.175	0.3478
+Closed RGM, shredded	Closed RGM, intact	ORF <80% of reference length (%)	20	0.2514	20	0.2813	-0.02995	-0.257 to 0.26	0.11	0.5608
+Closed RGM, shredded	Closed RGM, intact	core genes split into >=2 ORFs (n)	20	2	20	4	-2	-4 to 0	-0.45	0.0144
+Closed RGM, shredded	Closed RGM, intact	core genes split (%)	20	0.2465	20	0.4499	-0.2035	-0.439 to 0.0354	-0.35	0.05999
+Closed RGM, shredded	Closed RGM, intact	any decay signal (%)	20	1.002	20	1.184	-0.183	-0.678 to 0.342	-0.18	0.3369
+Closed RGM, shredded	Closed RGM, intact	core groups with a hit (%)	20	99.89	20	99.84	0.055	-0.11 to 0.11	-0.02	0.922
+Closed RGM, shredded	Closed RGM, intact	hits within 200 bp of a contig end (n)	20	75.5	20	0	75.5	69.5 to 84	1	3.918e-08
+Closed RGM, shredded	Closed RGM, intact	loci assessed (n)	20	813	20	888	-75	-84 to -70.5	-1	6.04e-08
+Closed RGM, shredded	Closed RGM, intact	median identity to best reference	20	0.8498	20	0.8498	5e-05	-0.0168 to 0.0174	-0.005	0.9892
+Closed RGM, shredded	Closed RGM, intact	intergenic spacer median (bp)	20	28	20	28	0	-3 to 2	-0.085	0.6507
+Closed RGM, shredded	Closed RGM, intact	spacers >300 bp (%)	20	4.453	20	4.581	-0.1275	-0.58 to 0.292	-0.195	0.2977
+FSM SPIRE MAG (>=95%)	Leprosy clade, intact	loci with frameshift or internal stop (%)	57	0.5594	3	23.3	-22.74	-22.9 to -18	-1	5.845e-05
+FSM SPIRE MAG (>=95%)	Leprosy clade, intact	frameshift (%)	57	0.4819	3	22.69	-22.21	-22.3 to -16.9	-1	0.003938
+FSM SPIRE MAG (>=95%)	Leprosy clade, intact	internal stop (%)	57	0.1248	3	18.07	-17.95	-18.1 to -15.1	-1	0.003711
+FSM SPIRE MAG (>=95%)	Leprosy clade, intact	ORF <80% of reference length (%)	57	0.7682	3	20.02	-19.25	-19.7 to -15.7	-1	0.003936
+FSM SPIRE MAG (>=95%)	Leprosy clade, intact	core genes split into >=2 ORFs (n)	57	4	3	79	-75	-83 to -60	-1	0.003276
+FSM SPIRE MAG (>=95%)	Leprosy clade, intact	core genes split (%)	57	0.5038	3	9.646	-9.142	-10.1 to -7.22	-1	0.003938
+FSM SPIRE MAG (>=95%)	Leprosy clade, intact	any decay signal (%)	57	1.496	3	23.55	-22.05	-22.9 to -17.3	-1	0.003938
+FSM SPIRE MAG (>=95%)	Leprosy clade, intact	core groups with a hit (%)	57	93.37	3	92.13	1.24	-0.67 to 2.58	0.4035	0.2486
+FSM SPIRE MAG (>=95%)	Leprosy clade, intact	hits within 200 bp of a contig end (n)	57	35	3	1	34	24 to 39	0.9883	0.004369
+FSM SPIRE MAG (>=95%)	Leprosy clade, intact	loci assessed (n)	57	793	3	819	-26	-41 to -13	-0.6433	0.06446
+FSM SPIRE MAG (>=95%)	Leprosy clade, intact	median identity to best reference	57	0.8092	3	0.902	-0.0928	-0.0959 to -0.0909	-1	0.003929
+FSM SPIRE MAG (>=95%)	Leprosy clade, intact	intergenic spacer median (bp)	57	28	3	124	-96	-106 to -85	-1	0.003551
+FSM SPIRE MAG (>=95%)	Leprosy clade, intact	spacers >300 bp (%)	57	3.708	3	29.11	-25.4	-25.8 to -23	-1	5.845e-05

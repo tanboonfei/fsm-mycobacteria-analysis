@@ -1,0 +1,5328 @@
+{
+"SAMN04421877": {
+"_title": "not applicable",
+"_comment": "10 liter water sample from the Western Scheldt estuary near fort Lillo, Belgium filtered through a 3.0 micron filter to get rid of sediment, algae, and other large particles, then passed through a 0.1 micron filter to collect bacteria.",
+"host": "not applicable",
+"isolation_source": "Western Scheldt, Belgium",
+"collection_date": "2014-05-28",
+"geo_loc_name": "Belgium: Western Scheldt, Lillo",
+"lat_lon": "51.302 N 4.286 E",
+"_ids": [
+"SAMN04421877",
+"SCW_1",
+"SRS1272677"
+]
+},
+"SAMN04421875": {
+"_title": "not applicable",
+"_comment": "10 liter water sample from Markemeer near Warder, Netherlands  filtered through a 3.0 micron filter to get rid of sediment, algae, and other large particles, then passed through a 0.1 micron filter to collect bacteria.",
+"host": "not applicable",
+"isolation_source": "Markermeer, Netherlands",
+"collection_date": "2014-05-26",
+"geo_loc_name": "Netherlands: Markermeer",
+"lat_lon": "52.574 N 5.033 E",
+"_ids": [
+"MMW_1",
+"SAMN04421875",
+"SRS1272609"
+]
+},
+"SAMN04421868": {
+"_title": "not applicable",
+"_comment": "10 liter water sample from Ijsselmeer in Enkhuizen, Netherlands filtered through a 3.0 micron filter to get rid of sediment, algae, and other large particles, then passed through a 0.1 micron filter to collect bacteria.",
+"host": "not applicable",
+"isolation_source": "Ijsselmeer, Netherlands",
+"collection_date": "2014-05-23",
+"geo_loc_name": "Netherlands: Ijsselmeer",
+"lat_lon": "52.699 N 5.290 E",
+"_ids": [
+"IJW_1",
+"SAMN04421868",
+"SRS1272545"
+]
+},
+"SAMEA115862085": {
+"_title": "ZE-13nov19-LR-63: freshwater MAG from Lake Zurich",
+"_comment": "Mycobacterium sp. assembled from Lake Zurich",
+"ENA-CHECKLIST": "ERC000047",
+"ENA-FIRST-PUBLIC": "2024-07-23T12:49:34Z",
+"ENA-LAST-UPDATE": "2024-07-23T12:49:34Z",
+"External Id": "SAMEA115862085",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC first public": "2024-07-23T12:49:34Z",
+"INSDC last update": "2024-07-23T12:49:34Z",
+"INSDC status": "public",
+"Submitter Id": "ZE-13nov19-LR-63",
+"assembly quality": "Multiple fragments where gaps span repetitive regions. Presence of the 23S, 16S, and 5S rRNA genes and at least 18 tRNAs",
+"assembly software": "Flye",
+"binning parameters": "coverage and kmer",
+"binning software": "Metabat2",
+"env_broad_scale": "freshwater biome",
+"collection_date": "2019-11-13",
+"completeness score": "96.59",
+"completeness software": "CheckM",
+"contamination score": "0.5",
+"env_medium": "natural lake",
+"geo_loc_name": "Switzerland",
+"geographic location (latitude)": "47.3",
+"geographic location (longitude)": "8.566667",
+"isolation_source": "freshwater lake",
+"local environmental context": "freshwater lake biome",
+"metagenomic source": "freshwater metagenome",
+"project_name": "PRJEB35640",
+"sample derived from": "ERS6344560",
+"sample_name": "ZE-13nov19-LR-63",
+"scientific_name": "Mycobacterium sp.",
+"taxonomic identity marker": "multi-marker",
+"_ids": [
+"ERS20608684",
+"SAMEA115862085"
+]
+},
+"SAMEA115861937": {
+"_title": "MiE-16apr19-173: freshwater MAG from Lake Milada",
+"_comment": "Mycobacterium sp. assembled from Lake Milada",
+"ENA-CHECKLIST": "ERC000047",
+"ENA-FIRST-PUBLIC": "2024-07-23T12:49:33Z",
+"ENA-LAST-UPDATE": "2024-07-23T12:49:33Z",
+"External Id": "SAMEA115861937",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC first public": "2024-07-23T12:49:33Z",
+"INSDC last update": "2024-07-23T12:49:33Z",
+"INSDC status": "public",
+"Submitter Id": "MiE-16apr19-173",
+"assembly quality": "Multiple fragments where gaps span repetitive regions. Presence of the 23S, 16S, and 5S rRNA genes and at least 18 tRNAs",
+"assembly software": "Megahit",
+"binning parameters": "coverage and kmer",
+"binning software": "Metabat2",
+"env_broad_scale": "freshwater biome",
+"collection_date": "2019-04-16",
+"completeness score": "90.88",
+"completeness software": "CheckM",
+"contamination score": "0.5",
+"env_medium": "artificial lake",
+"geo_loc_name": "Czechia",
+"geographic location (latitude)": "50.654974",
+"geographic location (longitude)": "13.948885",
+"isolation_source": "freshwater lake",
+"local environmental context": "freshwater lake biome",
+"metagenomic source": "freshwater metagenome",
+"project_name": "PRJEB35640",
+"sample derived from": "ERS4065080",
+"sample_name": "MiE-16apr19-173",
+"scientific_name": "Mycobacterium sp.",
+"taxonomic identity marker": "multi-marker",
+"_ids": [
+"ERS20608536",
+"SAMEA115861937"
+]
+},
+"SAMEA8660016": {
+"_title": "Freshwater metagenome from Zurich Lake, Switzerland; 5m depth, 13nov2019",
+"_comment": "Freshwater metagenome from Zurich Lake, Switzerland; 5m depth, 13nov2019, filtersize 0.22 um",
+"ENA-CHECKLIST": "ERC000011",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"Submitter Id": "ZE-13nov19",
+"collection_date": "2019-11-13",
+"common name": "lake water metagenome",
+"env_broad_scale": "freshwater lake",
+"env_local_scale": "fresh water",
+"geo_loc_name": "Switzerland",
+"geographic location (latitude)": "47.3",
+"geographic location (longitude)": "8.566667",
+"investigation_type": "metagenome",
+"project_name": "ena-STUDY-BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO-11-12-2019-16:15:02:404-1223",
+"sample_name": "ZE-13nov19",
+"scientific_name": "lake water metagenome",
+"sequencing method": "Oxford Nanopore and Illumina NovaSeq 6000",
+"_ids": [
+"ERS6344560",
+"SAMEA8660016"
+]
+},
+"ERS6344560": {
+"_title": "Freshwater metagenome from Zurich Lake, Switzerland; 5m depth, 13nov2019",
+"_comment": "Freshwater metagenome from Zurich Lake, Switzerland; 5m depth, 13nov2019, filtersize 0.22 um",
+"ENA-CHECKLIST": "ERC000011",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"Submitter Id": "ZE-13nov19",
+"collection_date": "2019-11-13",
+"common name": "lake water metagenome",
+"env_broad_scale": "freshwater lake",
+"env_local_scale": "fresh water",
+"geo_loc_name": "Switzerland",
+"geographic location (latitude)": "47.3",
+"geographic location (longitude)": "8.566667",
+"investigation_type": "metagenome",
+"project_name": "ena-STUDY-BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO-11-12-2019-16:15:02:404-1223",
+"sample_name": "ZE-13nov19",
+"scientific_name": "lake water metagenome",
+"sequencing method": "Oxford Nanopore and Illumina NovaSeq 6000",
+"_ids": [
+"ERS6344560",
+"SAMEA8660016"
+]
+},
+"SAMEA6956193": {
+"_title": "MAG Umea_bin-02178 from assembly ERS4649307",
+"_comment": "",
+"ENA-CHECKLIST": "ERC000047",
+"ENA-FIRST-PUBLIC": "2020-06-15T17:03:32Z",
+"ENA-LAST-UPDATE": "2020-06-18T09:08:22Z",
+"External Id": "SAMEA6956193",
+"INSDC center name": "BILS",
+"INSDC first public": "2020-06-15T17:03:32Z",
+"INSDC last update": "2020-06-18T09:08:22Z",
+"INSDC status": "public",
+"Submitter Id": "Umea_bin-02178",
+"assembly quality": "Many fragments with little to no review of assembly other than reporting of standard assembly statistics",
+"assembly software": "megahit",
+"binning parameters": "min_len:1500,min_bin_size:10000,maxP:93,minS:50",
+"binning software": "metabat",
+"collection data": "metagenome",
+"collection_date": "2018-01-07/2018-01-10",
+"completeness score": "97.77",
+"completeness software": "checkm",
+"contamination score": "0.13",
+"env_broad_scale": "lentic water body",
+"env_local_scale": "lake",
+"env_medium": "water",
+"geo_loc_name": "Sweden",
+"geographic location (latitude)": "not provided",
+"geographic location (longitude)": "not provided",
+"gtdb_taxonomy": "d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Mycobacteriales;f__Mycobacteriaceae;g__Mycolicibacterium",
+"investigation_type": "metagenome",
+"isolation_source": "lake water",
+"metagenomic OTU": "anoxic_mOTU_0675",
+"metagenomic source": "lake water metagenome",
+"nitrite": "0",
+"project_name": "microbes in stratified freshwaters",
+"region": "Ume\u00e5",
+"sample derived from": "ERS4649307",
+"sample_name": "Umea_bin-02178",
+"sample owner": "Gaetan Martin",
+"scientific_name": "uncultured actinobacterium",
+"sequencing method": "NovaSeq",
+"taxonomic identity marker": "gtdbtk followed by sourmash-lca, see publication",
+"water environmental package": "water",
+"_ids": [
+"ERS4666063",
+"SAMEA6956193"
+]
+},
+"SAMEA6951925": {
+"_title": "MAG Loclat_bin-15077 from assembly ERS4649301",
+"_comment": "",
+"ENA-CHECKLIST": "ERC000047",
+"ENA-FIRST-PUBLIC": "2020-06-15T04:03:55Z",
+"ENA-LAST-UPDATE": "2020-06-18T09:07:25Z",
+"External Id": "SAMEA6951925",
+"INSDC center name": "BILS",
+"INSDC first public": "2020-06-15T04:03:55Z",
+"INSDC last update": "2020-06-18T09:07:25Z",
+"INSDC status": "public",
+"Submitter Id": "Loclat_bin-15077",
+"assembly quality": "Many fragments with little to no review of assembly other than reporting of standard assembly statistics",
+"assembly software": "megahit",
+"binning parameters": "min_len:1500,min_bin_size:10000,maxP:93,minS:50",
+"binning software": "metabat",
+"collection data": "metagenome",
+"collection_date": "2008-01-15/2009-01-21",
+"completeness score": "97.92",
+"completeness software": "checkm",
+"contamination score": "0.4",
+"env_broad_scale": "lentic water body",
+"env_local_scale": "lake",
+"env_medium": "water",
+"geo_loc_name": "Switzerland",
+"geographic location (latitude)": "47.01861111111111",
+"geographic location (longitude)": "6.996666666666667",
+"gtdb_taxonomy": "d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Mycobacteriales;f__Mycobacteriaceae;g__Mycolicibacterium",
+"investigation_type": "metagenome",
+"isolation_source": "lake water",
+"metagenomic OTU": "anoxic_mOTU_2482",
+"metagenomic source": "lake water metagenome",
+"project_name": "microbes in stratified freshwaters",
+"region": "Neuch\u00e2tel",
+"sample derived from": "ERS4649301",
+"sample_name": "Loclat_bin-15077",
+"sample owner": "Stefan Bertilsson",
+"scientific_name": "uncultured actinobacterium",
+"sequencing method": "NovaSeq",
+"site name": "Loclat",
+"taxonomic identity marker": "gtdbtk followed by sourmash-lca, see publication",
+"water environmental package": "water",
+"_ids": [
+"ERS4661801",
+"SAMEA6951925"
+]
+},
+"SAMEA6951811": {
+"_title": "MAG Loclat_bin-09341 from assembly ERS4649301",
+"_comment": "",
+"ENA-CHECKLIST": "ERC000047",
+"ENA-FIRST-PUBLIC": "2020-06-15T04:03:55Z",
+"ENA-LAST-UPDATE": "2020-06-18T09:07:23Z",
+"External Id": "SAMEA6951811",
+"INSDC center name": "BILS",
+"INSDC first public": "2020-06-15T04:03:55Z",
+"INSDC last update": "2020-06-18T09:07:23Z",
+"INSDC status": "public",
+"Submitter Id": "Loclat_bin-09341",
+"assembly quality": "Many fragments with little to no review of assembly other than reporting of standard assembly statistics",
+"assembly software": "megahit",
+"binning parameters": "min_len:1500,min_bin_size:10000,maxP:93,minS:50",
+"binning software": "metabat",
+"collection data": "metagenome",
+"collection_date": "2008-01-15/2009-01-21",
+"completeness score": "93.68",
+"completeness software": "checkm",
+"contamination score": "4.43",
+"env_broad_scale": "lentic water body",
+"env_local_scale": "lake",
+"env_medium": "water",
+"geo_loc_name": "Switzerland",
+"geographic location (latitude)": "47.01861111111111",
+"geographic location (longitude)": "6.996666666666667",
+"gtdb_taxonomy": "d__Bacteria;p__Actinobacteriota;c__Actinobacteria;o__Mycobacteriales;f__Mycobacteriaceae;g__Mycolicibacterium",
+"investigation_type": "metagenome",
+"isolation_source": "lake water",
+"metagenomic OTU": "anoxic_mOTU_2446",
+"metagenomic source": "lake water metagenome",
+"project_name": "microbes in stratified freshwaters",
+"region": "Neuch\u00e2tel",
+"sample derived from": "ERS4649301",
+"sample_name": "Loclat_bin-09341",
+"sample owner": "Stefan Bertilsson",
+"scientific_name": "uncultured actinobacterium",
+"sequencing method": "NovaSeq",
+"site name": "Loclat",
+"taxonomic identity marker": "gtdbtk followed by sourmash-lca, see publication",
+"water environmental package": "water",
+"_ids": [
+"ERS4661687",
+"SAMEA6951811"
+]
+},
+"SAMEA6939414": {
+"_title": "mock sample for coassembly Umea sample of samples: ERS4600559,ERS4600560,ERS4600561,ERS4600562,ERS4600563,ERS4600564,ERS4600565,ERS4600567,ERS4600568,ERS4600569,ERS4600570",
+"_comment": "",
+"ENA-CHECKLIST": "ERC000011",
+"ENA-FIRST-PUBLIC": "2020-06-15T04:03:54Z",
+"ENA-LAST-UPDATE": "2020-06-18T08:43:18Z",
+"External Id": "SAMEA6939414",
+"INSDC center name": "BILS",
+"INSDC first public": "2020-06-15T04:03:54Z",
+"INSDC last update": "2020-06-18T08:43:18Z",
+"INSDC status": "public",
+"Submitter Id": "Umea",
+"collection data": "metagenome",
+"collection_date": "2018-01-07/2018-01-10",
+"env_broad_scale": "lentic water body",
+"env_local_scale": "lake",
+"env_medium": "water",
+"geo_loc_name": "Sweden",
+"geographic location (latitude)": "not provided",
+"geographic location (longitude)": "not provided",
+"investigation_type": "metagenome",
+"nitrite": "0",
+"project_name": "microbes in stratified freshwaters",
+"region": "Ume\u00e5",
+"run": "R3",
+"sample derived from": "ERS4600559,ERS4600560,ERS4600561,ERS4600562,ERS4600563,ERS4600564,ERS4600565,ERS4600567,ERS4600568,ERS4600569,ERS4600570",
+"sample_name": "Umea",
+"sample owner": "Gaetan Martin",
+"scientific_name": "lake water metagenome",
+"sequencing method": "NovaSeq",
+"water environmental package": "water",
+"_ids": [
+"ERS4649307",
+"SAMEA6939414"
+]
+},
+"ERS4649307": {
+"_title": "mock sample for coassembly Umea sample of samples: ERS4600559,ERS4600560,ERS4600561,ERS4600562,ERS4600563,ERS4600564,ERS4600565,ERS4600567,ERS4600568,ERS4600569,ERS4600570",
+"_comment": "",
+"ENA-CHECKLIST": "ERC000011",
+"ENA-FIRST-PUBLIC": "2020-06-15T04:03:54Z",
+"ENA-LAST-UPDATE": "2020-06-18T08:43:18Z",
+"External Id": "SAMEA6939414",
+"INSDC center name": "BILS",
+"INSDC first public": "2020-06-15T04:03:54Z",
+"INSDC last update": "2020-06-18T08:43:18Z",
+"INSDC status": "public",
+"Submitter Id": "Umea",
+"collection data": "metagenome",
+"collection_date": "2018-01-07/2018-01-10",
+"env_broad_scale": "lentic water body",
+"env_local_scale": "lake",
+"env_medium": "water",
+"geo_loc_name": "Sweden",
+"geographic location (latitude)": "not provided",
+"geographic location (longitude)": "not provided",
+"investigation_type": "metagenome",
+"nitrite": "0",
+"project_name": "microbes in stratified freshwaters",
+"region": "Ume\u00e5",
+"run": "R3",
+"sample derived from": "ERS4600559,ERS4600560,ERS4600561,ERS4600562,ERS4600563,ERS4600564,ERS4600565,ERS4600567,ERS4600568,ERS4600569,ERS4600570",
+"sample_name": "Umea",
+"sample owner": "Gaetan Martin",
+"scientific_name": "lake water metagenome",
+"sequencing method": "NovaSeq",
+"water environmental package": "water",
+"_ids": [
+"ERS4649307",
+"SAMEA6939414"
+]
+},
+"SAMEA6939408": {
+"_title": "mock sample for coassembly Loclat sample of samples: ERS4600460,ERS4600461,ERS4600462,ERS4600463,ERS4600464,ERS4600465,ERS4600466,ERS4600467,ERS4600468,ERS4600469,ERS4600470,ERS4600471,ERS4600472,ERS4600473,ERS4600474,ERS4600475,ERS4600476,ERS4600477,ERS4600478,ERS4600479,ERS4600480,ERS4600481,ERS4600482,ERS4600483,ERS4600484,ERS4600485,ERS4600486,ERS4600487,ERS4600488,ERS4600489,ERS4600490,ERS4600491,ERS4600492,ERS4600493,ERS4600494,ERS4600495,ERS4600496,ERS4600497,ERS4600498,ERS4600499,ERS4600500,ERS4600501,ERS4600502,ERS4600503",
+"_comment": "",
+"ENA-CHECKLIST": "ERC000011",
+"ENA-FIRST-PUBLIC": "2020-06-15T04:03:54Z",
+"ENA-LAST-UPDATE": "2020-06-18T08:43:18Z",
+"External Id": "SAMEA6939408",
+"INSDC center name": "BILS",
+"INSDC first public": "2020-06-15T04:03:54Z",
+"INSDC last update": "2020-06-18T08:43:18Z",
+"INSDC status": "public",
+"Lake_code": "Loclat",
+"Submitter Id": "Loclat",
+"collection data": "metagenome",
+"collection_date": "2008-01-15/2009-01-21",
+"env_broad_scale": "lentic water body",
+"env_local_scale": "lake",
+"env_medium": "water",
+"geo_loc_name": "Switzerland",
+"geographic location (latitude)": "47.01861111111111",
+"geographic location (longitude)": "6.996666666666667",
+"investigation_type": "metagenome",
+"project_name": "microbes in stratified freshwaters",
+"region": "Neuch\u00e2tel",
+"run": "R3",
+"sample derived from": "ERS4600460,ERS4600461,ERS4600462,ERS4600463,ERS4600464,ERS4600465,ERS4600466,ERS4600467,ERS4600468,ERS4600469,ERS4600470,ERS4600471,ERS4600472,ERS4600473,ERS4600474,ERS4600475,ERS4600476,ERS4600477,ERS4600478,ERS4600479,ERS4600480,ERS4600481,ERS4600482,ERS4600483,ERS4600484,ERS4600485,ERS4600486,ERS4600487,ERS4600488,ERS4600489,ERS4600490,ERS4600491,ERS4600492,ERS4600493,ERS4600494,ERS4600495,ERS4600496,ERS4600497,ERS4600498,ERS4600499,ERS4600500,ERS4600501,ERS4600502,ERS4600503",
+"sample_name": "Loclat",
+"sample owner": "Stefan Bertilsson",
+"scientific_name": "lake water metagenome",
+"sequencing method": "NovaSeq",
+"site name": "Loclat",
+"water environmental package": "water",
+"_ids": [
+"ERS4649301",
+"SAMEA6939408"
+]
+},
+"ERS4649301": {
+"_title": "mock sample for coassembly Loclat sample of samples: ERS4600460,ERS4600461,ERS4600462,ERS4600463,ERS4600464,ERS4600465,ERS4600466,ERS4600467,ERS4600468,ERS4600469,ERS4600470,ERS4600471,ERS4600472,ERS4600473,ERS4600474,ERS4600475,ERS4600476,ERS4600477,ERS4600478,ERS4600479,ERS4600480,ERS4600481,ERS4600482,ERS4600483,ERS4600484,ERS4600485,ERS4600486,ERS4600487,ERS4600488,ERS4600489,ERS4600490,ERS4600491,ERS4600492,ERS4600493,ERS4600494,ERS4600495,ERS4600496,ERS4600497,ERS4600498,ERS4600499,ERS4600500,ERS4600501,ERS4600502,ERS4600503",
+"_comment": "",
+"ENA-CHECKLIST": "ERC000011",
+"ENA-FIRST-PUBLIC": "2020-06-15T04:03:54Z",
+"ENA-LAST-UPDATE": "2020-06-18T08:43:18Z",
+"External Id": "SAMEA6939408",
+"INSDC center name": "BILS",
+"INSDC first public": "2020-06-15T04:03:54Z",
+"INSDC last update": "2020-06-18T08:43:18Z",
+"INSDC status": "public",
+"Lake_code": "Loclat",
+"Submitter Id": "Loclat",
+"collection data": "metagenome",
+"collection_date": "2008-01-15/2009-01-21",
+"env_broad_scale": "lentic water body",
+"env_local_scale": "lake",
+"env_medium": "water",
+"geo_loc_name": "Switzerland",
+"geographic location (latitude)": "47.01861111111111",
+"geographic location (longitude)": "6.996666666666667",
+"investigation_type": "metagenome",
+"project_name": "microbes in stratified freshwaters",
+"region": "Neuch\u00e2tel",
+"run": "R3",
+"sample derived from": "ERS4600460,ERS4600461,ERS4600462,ERS4600463,ERS4600464,ERS4600465,ERS4600466,ERS4600467,ERS4600468,ERS4600469,ERS4600470,ERS4600471,ERS4600472,ERS4600473,ERS4600474,ERS4600475,ERS4600476,ERS4600477,ERS4600478,ERS4600479,ERS4600480,ERS4600481,ERS4600482,ERS4600483,ERS4600484,ERS4600485,ERS4600486,ERS4600487,ERS4600488,ERS4600489,ERS4600490,ERS4600491,ERS4600492,ERS4600493,ERS4600494,ERS4600495,ERS4600496,ERS4600497,ERS4600498,ERS4600499,ERS4600500,ERS4600501,ERS4600502,ERS4600503",
+"sample_name": "Loclat",
+"sample owner": "Stefan Bertilsson",
+"scientific_name": "lake water metagenome",
+"sequencing method": "NovaSeq",
+"site name": "Loclat",
+"water environmental package": "water",
+"_ids": [
+"ERS4649301",
+"SAMEA6939408"
+]
+},
+"SAMEA6872996": {
+"_title": "lake N\u00e4stj\u00e4rnen sample Umea1p2",
+"_comment": "",
+"ENA-CHECKLIST": "ERC000024",
+"ENA-FIRST-PUBLIC": "2020-06-15T04:03:53Z",
+"ENA-LAST-UPDATE": "2020-06-18T08:10:11Z",
+"External Id": "SAMEA6872996",
+"INSDC center name": "BILS",
+"INSDC first public": "2020-06-15T04:03:53Z",
+"INSDC last update": "2020-06-18T08:10:11Z",
+"INSDC status": "public",
+"Lake_code": "Umea1",
+"Submitter Id": "Umea1p2",
+"ammonium": "0",
+"collection data": "metagenome",
+"collection_date": "2018-09-07",
+"diss_carb_dioxide": "300.526265",
+"diss_org_carb": "604.461022255156",
+"env_broad_scale": "lentic water body",
+"env_local_scale": "lake",
+"env_medium": "water",
+"ferric iron": "4.802132794",
+"ferrous iron": "3.34038297",
+"geo_loc_name": "Sweden",
+"geographic location (depth)": "3.5",
+"geographic location (latitude)": "64.1503888888889",
+"geographic location (longitude)": "18.799750000000003",
+"investigation_type": "metagenome",
+"iron": "8.142515763",
+"methane": "0.168305474",
+"nitrate": "0.51608824463873",
+"nitrite": "0",
+"oxygen": "0.5",
+"ph": "5.67",
+"phosphate": "0.031588457156576",
+"project_name": "microbes in stratified freshwaters",
+"region": "Ume\u00e5",
+"run": "R3",
+"sample_name": "Umea1p2",
+"sample owner": "Gaetan Martin",
+"scientific_name": "lake water metagenome",
+"sequencing method": "NovaSeq",
+"site name": "N\u00e4stj\u00e4rnen",
+"sulfate": "1.218",
+"swedish lake code": "711940-164576",
+"temp": "10.9",
+"tot_diss_nitro": "240",
+"water environmental package": "water",
+"_ids": [
+"ERS4600560",
+"SAMEA6872996"
+]
+},
+"SAMEA103904950": {
+"_title": "OTC0.3",
+"_comment": "aerobic sludge",
+"ENA-CHECKLIST": "ERC000013",
+"ENA-FIRST-PUBLIC": "2018-03-10T17:02:50Z",
+"ENA-LAST-UPDATE": "2017-03-10T10:28:07Z",
+"External Id": "SAMEA103904950",
+"INSDC center name": "RESEARCH CENTER FOR ECO-ENVIRONMENTAL SCIENCES, CHINESE ACADEMY OF SCIENCES",
+"INSDC first public": "2018-03-10T17:02:50Z",
+"INSDC last update": "2017-03-10T10:28:07Z",
+"INSDC status": "public",
+"Submitter Id": "C1.3",
+"collection_date": "2016-04",
+"env_package": "wastewater sludge",
+"geo_loc_name": "China",
+"geographic location (latitude)": "116.3",
+"geographic location (longitude)": "39.9",
+"host-associated environmental package": "host-associated",
+"investigation_type": "metagenome",
+"project_name": "resistome of aerobic sludge",
+"sample_name": "C1.3",
+"scientific_name": "metagenome",
+"sequencing method": "Illumina Hiseq",
+"_ids": [
+"ERS1594118",
+"SAMEA103904950"
+]
+},
+"SAMEA103904949": {
+"_title": "OTC0.2",
+"_comment": "aerobic sludge",
+"ENA-CHECKLIST": "ERC000013",
+"ENA-FIRST-PUBLIC": "2018-03-10T17:02:50Z",
+"ENA-LAST-UPDATE": "2017-03-10T10:28:07Z",
+"External Id": "SAMEA103904949",
+"INSDC center name": "RESEARCH CENTER FOR ECO-ENVIRONMENTAL SCIENCES, CHINESE ACADEMY OF SCIENCES",
+"INSDC first public": "2018-03-10T17:02:50Z",
+"INSDC last update": "2017-03-10T10:28:07Z",
+"INSDC status": "public",
+"Submitter Id": "C1.2",
+"collection_date": "2016-04",
+"env_package": "wastewater sludge",
+"geo_loc_name": "China",
+"geographic location (latitude)": "116.3",
+"geographic location (longitude)": "39.9",
+"host-associated environmental package": "host-associated",
+"investigation_type": "metagenome",
+"project_name": "resistome of aerobic sludge",
+"sample_name": "C1.2",
+"scientific_name": "metagenome",
+"sequencing method": "Illumina Hiseq",
+"_ids": [
+"ERS1594117",
+"SAMEA103904949"
+]
+},
+"SAMEA103904948": {
+"_title": "OTC0.1",
+"_comment": "aerobic sludge",
+"ENA-CHECKLIST": "ERC000013",
+"ENA-FIRST-PUBLIC": "2018-03-10T17:02:50Z",
+"ENA-LAST-UPDATE": "2017-03-10T10:28:07Z",
+"External Id": "SAMEA103904948",
+"INSDC center name": "RESEARCH CENTER FOR ECO-ENVIRONMENTAL SCIENCES, CHINESE ACADEMY OF SCIENCES",
+"INSDC first public": "2018-03-10T17:02:50Z",
+"INSDC last update": "2017-03-10T10:28:07Z",
+"INSDC status": "public",
+"Submitter Id": "C1",
+"collection_date": "2016-04",
+"env_package": "wastewater sludge",
+"geo_loc_name": "China",
+"geographic location (latitude)": "116.3",
+"geographic location (longitude)": "39.9",
+"host-associated environmental package": "host-associated",
+"investigation_type": "metagenome",
+"project_name": "resistome of aerobic sludge",
+"sample_name": "C1",
+"scientific_name": "metagenome",
+"sequencing method": "Illumina Hiseq",
+"_ids": [
+"ERS1594116",
+"SAMEA103904948"
+]
+},
+"SAMEA14435047": {
+"_title": "ERS11712895",
+"_comment": "Bacteria; Actinobacteria; Actinobacteria",
+"ENA-CHECKLIST": "ERC000047",
+"ENA-FIRST-PUBLIC": "2023-04-13",
+"ENA-LAST-UPDATE": "2023-04-13",
+"External Id": "SAMEA14435047",
+"INSDC center alias": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC first public": "2023-04-13T16:27:03Z",
+"INSDC last update": "2023-04-13T16:27:03Z",
+"INSDC status": "public",
+"Submitter Id": "HRS-HS9-bin-141",
+"assembly quality": "Multiple fragments where gaps span repetitive regions. Presence of the 23S, 16S, and 5S rRNA genes and at least 18 tRNAs",
+"assembly software": "MEGAHIT; kmer set 49,69,89,109,129,149",
+"binning parameters": "coverage and kmer",
+"binning software": "MetaBAT2",
+"collection_date": "2018-04-23",
+"completeness score": "63.58",
+"completeness software": "checkm",
+"contamination score": "1.63",
+"env_broad_scale": "freshwater lake",
+"env_local_scale": "lake",
+"env_medium": "fresh water",
+"geo_loc_name": "Czech Republic",
+"geographic location (latitude)": "48.846361",
+"geographic location (longitude)": "14.487639",
+"investigation_type": "metagenome-assembled genome",
+"isolation_source": "Freshwater lake",
+"metagenomic source": "freshwater metagenome",
+"project_name": "PRJEB52406",
+"sample derived from": "ERS11712895",
+"sample_name": "HRS-HS9-bin-141",
+"scientific_name": "Bifidobacterium breve",
+"sequencing method": "Illumina NovaSeq 6000",
+"taxonomic identity marker": "multi-marker approach",
+"_ids": [
+"ERS12044697",
+"SAMEA14435047"
+]
+},
+"SAMEA14109821": {
+"_title": "Metagenome from Rimov reservoir, 0.22um, 30m",
+"_comment": "Metagenome from Rimov reservoir, 0.22um, 30m",
+"ENA-CHECKLIST": "ERC000024",
+"ENA-FIRST-PUBLIC": "2023-04-13",
+"ENA-LAST-UPDATE": "2023-04-13",
+"External Id": "SAMEA14109821",
+"INSDC center alias": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC first public": "2023-04-13T16:26:57Z",
+"INSDC last update": "2023-04-13T16:26:57Z",
+"INSDC status": "public",
+"Submitter Id": "HRS-HS9",
+"collection_date": "2018-04-23",
+"env_broad_scale": "freshwater",
+"env_local_scale": "drinking water reservoir",
+"env_medium": "water sample",
+"geo_loc_name": "Czech Republic",
+"geographic location (depth)": "30",
+"geographic location (latitude)": "48.846361",
+"geographic location (longitude)": "14.487639",
+"investigation_type": "metagenome",
+"project_name": "High Resolution Sampling of Rimov reservoir",
+"sample_name": "HRS-HS9",
+"scientific_name": "lake water metagenome",
+"sequencing method": "Illumina Novaseq",
+"water environmental package": "water",
+"_ids": [
+"ERS11712895",
+"SAMEA14109821"
+]
+},
+"ERS11712895": {
+"_title": "Metagenome from Rimov reservoir, 0.22um, 30m",
+"_comment": "Metagenome from Rimov reservoir, 0.22um, 30m",
+"ENA-CHECKLIST": "ERC000024",
+"ENA-FIRST-PUBLIC": "2023-04-13",
+"ENA-LAST-UPDATE": "2023-04-13",
+"External Id": "SAMEA14109821",
+"INSDC center alias": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC first public": "2023-04-13T16:26:57Z",
+"INSDC last update": "2023-04-13T16:26:57Z",
+"INSDC status": "public",
+"Submitter Id": "HRS-HS9",
+"collection_date": "2018-04-23",
+"env_broad_scale": "freshwater",
+"env_local_scale": "drinking water reservoir",
+"env_medium": "water sample",
+"geo_loc_name": "Czech Republic",
+"geographic location (depth)": "30",
+"geographic location (latitude)": "48.846361",
+"geographic location (longitude)": "14.487639",
+"investigation_type": "metagenome",
+"project_name": "High Resolution Sampling of Rimov reservoir",
+"sample_name": "HRS-HS9",
+"scientific_name": "lake water metagenome",
+"sequencing method": "Illumina Novaseq",
+"water environmental package": "water",
+"_ids": [
+"ERS11712895",
+"SAMEA14109821"
+]
+},
+"SAMN03444961": {
+"_title": "Caspian Sea 150m Metagenome",
+"_comment": "he Caspian Sea is the world's largest enclosed body of water. The northern part of the Caspian sea is largely a freshwater habitat. Salinity increases gradually towards the middle part, and the southernmost part is a stable brackish ecosystem with 1.1% salinty (ca. one third of the open ocean). This biosample contains metagenomic data from the 150m depth of the Caspian Sea. Sampling was performed at the end of summer, a time when the water column is stratified based on temperature. Briefly, 50L of water was collected from this depth and filtered serially through 20, 5 and 0.22 micron filters. This metagenome deposited here was obtained by sequencing (Illumina HiSeq) of the 0.22 micron fraction.",
+"collection_date": "2013-10-01",
+"isolation_source": "Caspian sea 150 m depth",
+"geo_loc_name": "Iran: Caspian Sea near Babolsar",
+"lat_lon": "36.852111 N 52.606306 E",
+"depth": "150 m",
+"_ids": [
+"Caspian Sea Depth 150m",
+"SAMN03444961",
+"SRS937700"
+]
+},
+"SAMN07631018": {
+"_title": "Deep subsurface microbial communities from Aarhus Bay to uncover new lineages of life (NeLLi) - Aarhus_00045 metaG",
+"_comment": "",
+"collection_date": "2009-05-19",
+"host": "not applicable",
+"geo_loc_name": "Denmark:Aarhus Bay",
+"lat_lon": "56.1030 N 10.4580 E",
+"isolation_source": "Marine sediment (0.45 mbsf) from Aarhus Bay site M5",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Marine | Oceanic | Sediment",
+"_ids": [
+"Gp0134360",
+"SAMN07631018",
+"SRS2529770"
+]
+},
+"SAMN06343920": {
+"_title": "Aqueous microbial communities from the Delaware River and Bay under freshwater to marine salinity gradient to study organic matter cycling in a time-series - DEBay_Sum_0.19_D_>0.8_DNA",
+"_comment": "",
+"collection_date": "missing",
+"host": "not applicable",
+"geo_loc_name": "USA: Delaware Bay",
+"lat_lon": "39.283 N 75.3633 W",
+"isolation_source": "Bay water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Marine | Coastal | Unclassified",
+"_ids": [
+"Gp0116166",
+"SAMN06343920",
+"SRS2225882"
+]
+},
+"SAMN06343919": {
+"_title": "Aqueous microbial communities from the Delaware River and Bay under freshwater to marine salinity gradient to study organic matter cycling in a time-series - DEBay_Sum_0.19_D_<0.8_DNA",
+"_comment": "",
+"collection_date": "missing",
+"host": "not applicable",
+"geo_loc_name": "USA: Delaware Bay",
+"lat_lon": "39.283 N 75.3633 W",
+"isolation_source": "Bay water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Marine | Coastal | Unclassified",
+"_ids": [
+"Gp0116165",
+"SAMN06343919",
+"SRS2225841"
+]
+},
+"SAMN05720212": {
+"_title": "Active sludge microbial communities of municipal wastewater-treating anaerobic digesters from USA - AD_UKC077_MetaG",
+"_comment": "",
+"collection_date": "2015-03-03",
+"geo_loc_name": "USA",
+"lat_lon": "42.3500 N 70.9600 W",
+"isolation_source": "anaerobic digester from wastewater treatment plant",
+"GOLD Ecosystem Classification": "Engineered | Bioreactor | Anaerobic | Digestate | Unclassified",
+"_ids": [
+"Gp0138831",
+"SAMN05720212",
+"SRS1791802"
+]
+},
+"SAMN05720211": {
+"_title": "Active sludge microbial communities of municipal wastewater-treating anaerobic digesters from USA - AD_UKC078_MetaG",
+"_comment": "",
+"collection_date": "2015-03-03",
+"geo_loc_name": "USA",
+"lat_lon": "42.3500 N 70.9600 W",
+"isolation_source": "anaerobic digester from wastewater treatment plant",
+"GOLD Ecosystem Classification": "Engineered | Bioreactor | Anaerobic | Digestate | Unclassified",
+"_ids": [
+"Gp0138832",
+"SAMN05720211",
+"SRS1791800"
+]
+},
+"SAMN05720167": {
+"_title": "Active sludge microbial communities of municipal wastewater-treating anaerobic digesters from USA - AD_UKC075_MetaG",
+"_comment": "",
+"collection_date": "2015-03-02",
+"geo_loc_name": "USA",
+"lat_lon": "37.8000 N 122.2700 W",
+"isolation_source": "anaerobic digester from wastewater treatment plant",
+"GOLD Ecosystem Classification": "Engineered | Bioreactor | Anaerobic | Digestate | Unclassified",
+"_ids": [
+"Gp0138812",
+"SAMN05720167",
+"SRS1791804"
+]
+},
+"SAMEA110379936": {
+"_title": "ERS6344551",
+"_comment": "Actinobacteria assembled from Lake Milada",
+"ENA-CHECKLIST": "ERC000047",
+"ENA-FIRST-PUBLIC": "2022-07-22",
+"ENA-LAST-UPDATE": "2022-07-22",
+"External Id": "SAMEA110379936",
+"INSDC center alias": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC first public": "2022-07-22T12:26:13Z",
+"INSDC last update": "2022-07-22T12:26:13Z",
+"INSDC status": "public",
+"Submitter Id": "MiH-14oct19-164",
+"assembly quality": "Many fragments with little to no review of assembly other than reporting of standard assembly statistics",
+"assembly software": "MEGAHIT; kmer set 29,49,69,89,109,119,129,149",
+"binning parameters": "coverage and kmer",
+"binning software": "MetaBAT2",
+"env_broad_scale": "freshwater lake",
+"collection_date": "2019-10-14",
+"completeness score": "81.75",
+"completeness software": "checkm",
+"contamination score": "3.24",
+"env_medium": "fresh water",
+"geo_loc_name": "Czech Republic",
+"geographic location (latitude)": "50.654974",
+"geographic location (longitude)": "13.948885",
+"investigation_type": "metagenome-assembled genome",
+"isolation_source": "Freshwater lake",
+"local environmental context": "lake",
+"metagenomic source": "freshwater metagenome",
+"project_name": "PRJEB35640",
+"sample derived from": "ERS6344551",
+"sample_name": "MiH-14oct19-164",
+"sequencing method": "Illumina NovaSeq 6000",
+"taxonomic identity marker": "multi-marker approach",
+"_ids": [
+"ERS12478132",
+"SAMEA110379936"
+]
+},
+"SAMEA110379655": {
+"_title": "ERS4065084",
+"_comment": "Actinobacteria assembled from Lake Medard",
+"ENA-CHECKLIST": "ERC000047",
+"ENA-FIRST-PUBLIC": "2022-07-22",
+"ENA-LAST-UPDATE": "2022-07-22",
+"External Id": "SAMEA110379655",
+"INSDC center alias": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC first public": "2022-07-22T12:26:15Z",
+"INSDC last update": "2022-07-22T12:26:15Z",
+"INSDC status": "public",
+"Submitter Id": "ME-09jul19-156",
+"assembly quality": "Multiple fragments where gaps span repetitive regions. Presence of the 23S, 16S, and 5S rRNA genes and at least 18 tRNAs",
+"assembly software": "MEGAHIT; kmer set 29,49,69,89,109,119,129,149",
+"binning parameters": "coverage and kmer",
+"binning software": "MetaBAT2",
+"env_broad_scale": "freshwater lake",
+"collection_date": "2019-07-09",
+"completeness score": "90.51",
+"completeness software": "checkm",
+"contamination score": "1.89",
+"env_medium": "fresh water",
+"geo_loc_name": "Czech Republic",
+"geographic location (latitude)": "50.179564",
+"geographic location (longitude)": "12.584932",
+"investigation_type": "metagenome-assembled genome",
+"isolation_source": "Freshwater lake",
+"local environmental context": "lake",
+"metagenomic source": "freshwater metagenome",
+"project_name": "PRJEB35640",
+"sample derived from": "ERS4065084",
+"sample_name": "ME-09jul19-156",
+"sequencing method": "Illumina NovaSeq 6000",
+"taxonomic identity marker": "multi-marker approach",
+"_ids": [
+"ERS12477851",
+"SAMEA110379655"
+]
+},
+"SAMEA8660007": {
+"_title": "Freshwater metagenome from Milada Lake, Czechia; 15m depth, 14oct2019",
+"_comment": "Freshwater metagenome from Milada Lake, Czechia; 15m depth, 14oct2019, filtersize 0.22 um",
+"ENA-CHECKLIST": "ERC000011",
+"ENA-FIRST-PUBLIC": "2022-06-30",
+"ENA-LAST-UPDATE": "2022-06-30",
+"External Id": "SAMEA8660007",
+"INSDC center alias": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC first public": "2022-06-30T00:18:02Z",
+"INSDC last update": "2022-06-30T00:18:02Z",
+"INSDC status": "public",
+"Submitter Id": "MiH-14oct19",
+"collection_date": "2019-10-14",
+"common name": "lake water metagenome",
+"env_broad_scale": "freshwater lake",
+"env_local_scale": "fresh water",
+"geo_loc_name": "Czech Republic",
+"geographic location (latitude)": "50.633333",
+"geographic location (longitude)": "13.933333",
+"investigation_type": "metagenome",
+"project_name": "ena-STUDY-BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO-11-12-2019-16:15:02:404-1223",
+"sample_name": "MiH-14oct19",
+"sequencing method": "Illumina Novaseq",
+"_ids": [
+"ERS6344551",
+"SAMEA8660007"
+]
+},
+"ERS6344551": {
+"_title": "Freshwater metagenome from Milada Lake, Czechia; 15m depth, 14oct2019",
+"_comment": "Freshwater metagenome from Milada Lake, Czechia; 15m depth, 14oct2019, filtersize 0.22 um",
+"ENA-CHECKLIST": "ERC000011",
+"ENA-FIRST-PUBLIC": "2022-06-30",
+"ENA-LAST-UPDATE": "2022-06-30",
+"External Id": "SAMEA8660007",
+"INSDC center alias": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC first public": "2022-06-30T00:18:02Z",
+"INSDC last update": "2022-06-30T00:18:02Z",
+"INSDC status": "public",
+"Submitter Id": "MiH-14oct19",
+"collection_date": "2019-10-14",
+"common name": "lake water metagenome",
+"env_broad_scale": "freshwater lake",
+"env_local_scale": "fresh water",
+"geo_loc_name": "Czech Republic",
+"geographic location (latitude)": "50.633333",
+"geographic location (longitude)": "13.933333",
+"investigation_type": "metagenome",
+"project_name": "ena-STUDY-BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO-11-12-2019-16:15:02:404-1223",
+"sample_name": "MiH-14oct19",
+"sequencing method": "Illumina Novaseq",
+"_ids": [
+"ERS6344551",
+"SAMEA8660007"
+]
+},
+"SAMEA6265476": {
+"_title": "Freshwater metagenome from Lake Medard, Czechia; 5 m depth, 09-Jul-2019",
+"_comment": "Freshwater metagenome from Lake Medard, Czechia; 5 m depth, 09-Jul-2019",
+"ENA-CHECKLIST": "ERC000024",
+"ENA-FIRST-PUBLIC": "2022-06-30",
+"ENA-LAST-UPDATE": "2022-06-30",
+"External Id": "SAMEA6265476",
+"INSDC center alias": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC first public": "2022-06-30T00:17:31Z",
+"INSDC last update": "2022-06-30T00:17:31Z",
+"INSDC status": "public",
+"Submitter Id": "ME-09jul19",
+"collection_date": "2019-07-09",
+"env_broad_scale": "freshwater lake",
+"env_local_scale": "large lake",
+"env_medium": "fresh water",
+"file name": "ME_Su19_FDME192240443-1a_HNH33DSXX_L4",
+"geo_loc_name": "Czech Republic",
+"geographic location (depth)": "5",
+"geographic location (latitude)": "50.179.564",
+"geographic location (longitude)": "12.584.932",
+"investigation_type": "metagenome",
+"project_name": "ena-STUDY-BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO-03-12-2019-09:06:06:235-971",
+"sample_name": "ME-09jul19",
+"sequencing method": "Illumina Novaseq",
+"water environmental package": "water",
+"_ids": [
+"ERS4065084",
+"SAMEA6265476"
+]
+},
+"ERS4065084": {
+"_title": "Freshwater metagenome from Lake Medard, Czechia; 5 m depth, 09-Jul-2019",
+"_comment": "Freshwater metagenome from Lake Medard, Czechia; 5 m depth, 09-Jul-2019",
+"ENA-CHECKLIST": "ERC000024",
+"ENA-FIRST-PUBLIC": "2022-06-30",
+"ENA-LAST-UPDATE": "2022-06-30",
+"External Id": "SAMEA6265476",
+"INSDC center alias": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC first public": "2022-06-30T00:17:31Z",
+"INSDC last update": "2022-06-30T00:17:31Z",
+"INSDC status": "public",
+"Submitter Id": "ME-09jul19",
+"collection_date": "2019-07-09",
+"env_broad_scale": "freshwater lake",
+"env_local_scale": "large lake",
+"env_medium": "fresh water",
+"file name": "ME_Su19_FDME192240443-1a_HNH33DSXX_L4",
+"geo_loc_name": "Czech Republic",
+"geographic location (depth)": "5",
+"geographic location (latitude)": "50.179.564",
+"geographic location (longitude)": "12.584.932",
+"investigation_type": "metagenome",
+"project_name": "ena-STUDY-BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO-03-12-2019-09:06:06:235-971",
+"sample_name": "ME-09jul19",
+"sequencing method": "Illumina Novaseq",
+"water environmental package": "water",
+"_ids": [
+"ERS4065084",
+"SAMEA6265476"
+]
+},
+"SAMEA6265472": {
+"_title": "Freshwater metagenome from Lake Milada, Czechia; 5 m depth, 16-Apr-2019",
+"_comment": "Freshwater metagenome from Lake Milada, Czechia; 5 m depth, 16-Apr-2019",
+"ENA-CHECKLIST": "ERC000024",
+"ENA-FIRST-PUBLIC": "2022-06-30",
+"ENA-LAST-UPDATE": "2022-06-30",
+"External Id": "SAMEA6265472",
+"INSDC center alias": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC first public": "2022-06-30T00:17:31Z",
+"INSDC last update": "2022-06-30T00:17:31Z",
+"INSDC status": "public",
+"Submitter Id": "MiE-16apr19",
+"collection_date": "2019-04-16",
+"env_broad_scale": "freshwater lake",
+"env_local_scale": "large lake",
+"env_medium": "fresh water",
+"file name": "MiE_Sp19_FDME192240433-1a_HNH33DSXX_L4",
+"geo_loc_name": "Czech Republic",
+"geographic location (depth)": "5",
+"geographic location (latitude)": "50.654.974",
+"geographic location (longitude)": "13.948.885",
+"investigation_type": "metagenome",
+"project_name": "ena-STUDY-BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO-03-12-2019-09:06:06:235-971",
+"sample_name": "MiE-16apr19",
+"sequencing method": "Illumina Novaseq",
+"water environmental package": "water",
+"_ids": [
+"ERS4065080",
+"SAMEA6265472"
+]
+},
+"ERS4065080": {
+"_title": "Freshwater metagenome from Lake Milada, Czechia; 5 m depth, 16-Apr-2019",
+"_comment": "Freshwater metagenome from Lake Milada, Czechia; 5 m depth, 16-Apr-2019",
+"ENA-CHECKLIST": "ERC000024",
+"ENA-FIRST-PUBLIC": "2022-06-30",
+"ENA-LAST-UPDATE": "2022-06-30",
+"External Id": "SAMEA6265472",
+"INSDC center alias": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC center name": "BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO",
+"INSDC first public": "2022-06-30T00:17:31Z",
+"INSDC last update": "2022-06-30T00:17:31Z",
+"INSDC status": "public",
+"Submitter Id": "MiE-16apr19",
+"collection_date": "2019-04-16",
+"env_broad_scale": "freshwater lake",
+"env_local_scale": "large lake",
+"env_medium": "fresh water",
+"file name": "MiE_Sp19_FDME192240433-1a_HNH33DSXX_L4",
+"geo_loc_name": "Czech Republic",
+"geographic location (depth)": "5",
+"geographic location (latitude)": "50.654.974",
+"geographic location (longitude)": "13.948.885",
+"investigation_type": "metagenome",
+"project_name": "ena-STUDY-BIOLOGY CENTRE ASCR, V.V.I., INSTITUTE OF HYDROBIO-03-12-2019-09:06:06:235-971",
+"sample_name": "MiE-16apr19",
+"sequencing method": "Illumina Novaseq",
+"water environmental package": "water",
+"_ids": [
+"ERS4065080",
+"SAMEA6265472"
+]
+},
+"SAMEA4527622": {
+"_title": "wastewater metagenome",
+"_comment": "Barcelona, Spain",
+"ENA first public": "2019-01-31",
+"ENA last update": "2016-10-31",
+"ENA-CHECKLIST": "ERC000036",
+"External Id": "SAMEA4527622",
+"INSDC center alias": "DTU",
+"INSDC center name": "Technical University of Denmark",
+"INSDC first public": "2019-01-31T17:02:41Z",
+"INSDC last update": "2016-10-31T11:12:17Z",
+"INSDC status": "public",
+"Submitter Id": "ESP.75",
+"broker name": "Centre for Genomic Epidemiology",
+"collection_date": "2016-02-10",
+"geo_loc_name": "Spain",
+"geographic location (latitude)": "41.3851\ufffd N",
+"geographic location (longitude)": "2.1734\ufffd E",
+"investigation_type": "metagenome",
+"name of the sampling site": "EDAR Bes\ufffds",
+"sample_name": "ESP.75",
+"sewage_type": "wastewater treatment plant",
+"_ids": [
+"ERS1426801",
+"SAMEA4527622"
+]
+},
+"SAMEA104408612": {
+"_title": "Blueprint:S6_D_13C",
+"_comment": "",
+"ENA first public": "2017-12-11",
+"ENA last update": "2017-11-29",
+"ENA-CHECKLIST": "ERC000024",
+"External Id": "SAMEA104408612",
+"INSDC center alias": "KTH",
+"INSDC center name": "KTH Royal Institute of Technology",
+"INSDC first public": "2017-12-11T17:03:02Z",
+"INSDC last update": "2017-11-29T10:46:57Z",
+"INSDC status": "public",
+"Submitter Id": "P1994_121",
+"ammonium": "1,64",
+"amount or size of sample collected": "1",
+"bac_prod": "228",
+"chlorophyll": "0,11",
+"collection_date": "2014-06-08",
+"diss_org_carb": "248",
+"dissolved organic nitrogen (micromolar)": "15,2",
+"diss_oxygen": "16,52",
+"env_broad_scale": "Brackish water",
+"env_local_scale": "Pelagic",
+"env_medium": "water",
+"geo_loc_name": "Baltic Sea",
+"geographic location (depth)": "66,629",
+"geographic location (latitude)": "55,5659",
+"geographic location (longitude)": "16,3665",
+"geographic location (region and locality)": "Bornholm Basin",
+"investigation_type": "metagenome",
+"nitrate": "6,31",
+"nitrite": "0,08",
+"organism_count": "Bacteria: 2400000",
+"phosphate": "2,88",
+"project_name": "BONUS BLUEPRINT transect and redoxcline",
+"salinity": "15,73",
+"samp_mat_process": "Size fraction (micrometer): >0.2",
+"sample_name": "P1994_121",
+"sequencing method": "Illumina HiSeq",
+"silicate": "47,12",
+"temp": "6,827",
+"turbidity (ntu)": "0,36057",
+"water environmental package": "water",
+"_ids": [
+"ERS2026554",
+"SAMEA104408612"
+]
+},
+"SAMEA104408611": {
+"_title": "Blueprint:S6_D_11C",
+"_comment": "",
+"ENA first public": "2017-12-11",
+"ENA last update": "2017-11-29",
+"ENA-CHECKLIST": "ERC000024",
+"External Id": "SAMEA104408611",
+"INSDC center alias": "KTH",
+"INSDC center name": "KTH Royal Institute of Technology",
+"INSDC first public": "2017-12-11T17:03:02Z",
+"INSDC last update": "2017-11-29T10:46:57Z",
+"INSDC status": "public",
+"Submitter Id": "P1994_120",
+"ammonium": "0,41",
+"amount or size of sample collected": "1",
+"bac_prod": "72",
+"chlorophyll": "1,03",
+"collection_date": "2014-06-08",
+"diss_org_carb": "258",
+"dissolved organic nitrogen (micromolar)": "15,3",
+"diss_oxygen": "339,86",
+"env_broad_scale": "Brackish water",
+"env_local_scale": "Pelagic",
+"env_medium": "water",
+"geo_loc_name": "Baltic Sea",
+"geographic location (depth)": "30,27",
+"geographic location (latitude)": "55,5659",
+"geographic location (longitude)": "16,3665",
+"geographic location (region and locality)": "Bornholm Basin",
+"investigation_type": "metagenome",
+"nitrate": "0,02",
+"nitrite": "-0,04",
+"organism_count": "Bacteria: 1130000",
+"phosphate": "0,31",
+"project_name": "BONUS BLUEPRINT transect and redoxcline",
+"salinity": "7,661",
+"samp_mat_process": "Size fraction (micrometer): >0.2",
+"sample_name": "P1994_120",
+"sequencing method": "Illumina HiSeq",
+"silicate": "9,43",
+"temp": "8,437",
+"turbidity (ntu)": "0,12408",
+"water environmental package": "water",
+"_ids": [
+"ERS2026553",
+"SAMEA104408611"
+]
+},
+"SAMEA104408610": {
+"_title": "Blueprint:S6_D_4C",
+"_comment": "",
+"ENA first public": "2017-12-11",
+"ENA last update": "2017-11-29",
+"ENA-CHECKLIST": "ERC000024",
+"External Id": "SAMEA104408610",
+"INSDC center alias": "KTH",
+"INSDC center name": "KTH Royal Institute of Technology",
+"INSDC first public": "2017-12-11T17:03:02Z",
+"INSDC last update": "2017-11-29T10:46:57Z",
+"INSDC status": "public",
+"Submitter Id": "P1994_119",
+"ammonium": "0,41",
+"amount or size of sample collected": "1",
+"bac_prod": "128",
+"chlorophyll": "0,81",
+"collection_date": "2014-06-08",
+"diss_org_carb": "319",
+"dissolved organic nitrogen (micromolar)": "18,8",
+"diss_oxygen": "342,54",
+"env_broad_scale": "Brackish water",
+"env_local_scale": "Pelagic",
+"env_medium": "water",
+"geo_loc_name": "Baltic Sea",
+"geographic location (depth)": "2,999",
+"geographic location (latitude)": "55,5659",
+"geographic location (longitude)": "16,3665",
+"geographic location (region and locality)": "Bornholm Basin",
+"investigation_type": "metagenome",
+"nitrate": "0",
+"nitrite": "-0,01",
+"organism_count": "Bacteria: 1750000",
+"phosphate": "0,22",
+"project_name": "BONUS BLUEPRINT transect and redoxcline",
+"salinity": "7,577",
+"samp_mat_process": "Size fraction (micrometer): >0.2",
+"sample_name": "P1994_119",
+"sequencing method": "Illumina HiSeq",
+"silicate": "8,95",
+"temp": "14,02",
+"turbidity (ntu)": "0,21833",
+"water environmental package": "water",
+"_ids": [
+"ERS2026552",
+"SAMEA104408610"
+]
+},
+"SAMEA104408607": {
+"_title": "Blueprint:MO7_D_1C",
+"_comment": "",
+"ENA first public": "2017-12-11",
+"ENA last update": "2017-11-29",
+"ENA-CHECKLIST": "ERC000024",
+"External Id": "SAMEA104408607",
+"INSDC center alias": "KTH",
+"INSDC center name": "KTH Royal Institute of Technology",
+"INSDC first public": "2017-12-11T17:03:02Z",
+"INSDC last update": "2017-11-29T10:46:56Z",
+"INSDC status": "public",
+"Submitter Id": "P1994_116",
+"ammonium": "0,4",
+"amount or size of sample collected": "1",
+"bac_prod": "182",
+"chlorophyll": "1,22",
+"collection_date": "2014-06-04",
+"diss_org_carb": "334",
+"dissolved organic nitrogen (micromolar)": "17,9",
+"diss_oxygen": "333,16",
+"env_broad_scale": "Brackish water",
+"env_local_scale": "Pelagic",
+"env_medium": "water",
+"geo_loc_name": "Baltic Sea",
+"geographic location (depth)": "2,794",
+"geographic location (latitude)": "54,6979",
+"geographic location (longitude)": "12,7047",
+"geographic location (region and locality)": "Mecklenburger Bucht",
+"investigation_type": "metagenome",
+"nitrate": "0,05",
+"nitrite": "-0,01",
+"organism_count": "Bacteria: 1770000",
+"phosphate": "0,15",
+"project_name": "BONUS BLUEPRINT transect and redoxcline",
+"salinity": "8,325",
+"samp_mat_process": "Size fraction (micrometer): >0.2",
+"sample_name": "P1994_116",
+"sequencing method": "Illumina HiSeq",
+"silicate": "0,7",
+"temp": "12,895",
+"turbidity (ntu)": "0,4385",
+"water environmental package": "water",
+"_ids": [
+"ERS2026549",
+"SAMEA104408607"
+]
+},
+"SAMEA104408600": {
+"_title": "Blueprint:AT4_D_13C",
+"_comment": "",
+"ENA first public": "2017-12-11",
+"ENA last update": "2017-11-29",
+"ENA-CHECKLIST": "ERC000024",
+"External Id": "SAMEA104408600",
+"INSDC center alias": "KTH",
+"INSDC center name": "KTH Royal Institute of Technology",
+"INSDC first public": "2017-12-11T17:03:02Z",
+"INSDC last update": "2017-11-29T10:46:56Z",
+"INSDC status": "public",
+"Submitter Id": "P1994_109",
+"ammonium": "0,22",
+"amount or size of sample collected": "1",
+"bac_prod": "2",
+"chlorophyll": "0,59",
+"collection_date": "2014-06-12",
+"diss_org_carb": "336",
+"dissolved organic nitrogen (micromolar)": "14,3",
+"diss_oxygen": "401,05",
+"env_broad_scale": "Freshwater",
+"env_local_scale": "Pelagic",
+"env_medium": "water",
+"geo_loc_name": "Baltic Sea",
+"geographic location (depth)": "78,745",
+"geographic location (latitude)": "65,446",
+"geographic location (longitude)": "23,2973",
+"geographic location (region and locality)": "Bothnian Sea",
+"investigation_type": "metagenome",
+"nitrate": "4,135",
+"nitrite": "0,1",
+"organism_count": "Bacteria: 748000",
+"phosphate": "0,02",
+"project_name": "BONUS BLUEPRINT transect and redoxcline",
+"salinity": "3,146",
+"samp_mat_process": "Size fraction (micrometer): >0.2",
+"sample_name": "P1994_109",
+"sequencing method": "Illumina HiSeq",
+"silicate": "31,92",
+"temp": "1,643",
+"turbidity (ntu)": "0,31904",
+"water environmental package": "water",
+"_ids": [
+"ERS2026542",
+"SAMEA104408600"
+]
+},
+"SAMEA104408599": {
+"_title": "Blueprint:AT4_D_11C",
+"_comment": "",
+"ENA first public": "2017-12-11",
+"ENA last update": "2017-11-29",
+"ENA-CHECKLIST": "ERC000024",
+"External Id": "SAMEA104408599",
+"INSDC center alias": "KTH",
+"INSDC center name": "KTH Royal Institute of Technology",
+"INSDC first public": "2017-12-11T17:03:02Z",
+"INSDC last update": "2017-11-29T10:46:56Z",
+"INSDC status": "public",
+"Submitter Id": "P1994_108",
+"ammonium": "0,34",
+"amount or size of sample collected": "1",
+"bac_prod": "10",
+"chlorophyll": "0,57",
+"collection_date": "2014-06-12",
+"diss_org_carb": "361",
+"dissolved organic nitrogen (micromolar)": "11,8",
+"diss_oxygen": "414,89",
+"env_broad_scale": "Freshwater",
+"env_local_scale": "Pelagic",
+"env_medium": "water",
+"geo_loc_name": "Baltic Sea",
+"geographic location (depth)": "42,3",
+"geographic location (latitude)": "65,446",
+"geographic location (longitude)": "23,2973",
+"geographic location (region and locality)": "Bothnian Sea",
+"investigation_type": "metagenome",
+"nitrate": "7,015",
+"nitrite": "0,12",
+"organism_count": "Bacteria: 836000",
+"phosphate": "0,02",
+"project_name": "BONUS BLUEPRINT transect and redoxcline",
+"salinity": "3,04",
+"samp_mat_process": "Size fraction (micrometer): >0.2",
+"sample_name": "P1994_108",
+"sequencing method": "Illumina HiSeq",
+"silicate": "33,39",
+"temp": "1,7",
+"turbidity (ntu)": "0,30013",
+"water environmental package": "water",
+"_ids": [
+"ERS2026541",
+"SAMEA104408599"
+]
+},
+"SAMN08389220": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2012-05-30",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS56",
+"_ids": [
+"Date30-05-2012",
+"SAMN08389220",
+"SRS2978216"
+]
+},
+"SAMN08389219": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2012-04-24",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS55",
+"_ids": [
+"Date24-04-2012",
+"SAMN08389219",
+"SRS2978219"
+]
+},
+"SAMN08389218": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2012-02-15",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS54",
+"_ids": [
+"Date15-02-2012",
+"SAMN08389218",
+"SRS2978213"
+]
+},
+"SAMN08389217": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2012-01-11",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS53",
+"_ids": [
+"Date11-01-2012",
+"SAMN08389217",
+"SRS2978217"
+]
+},
+"SAMN08389216": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2011-12-17",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS52",
+"_ids": [
+"Date17-12-2011",
+"SAMN08389216",
+"SRS2978212"
+]
+},
+"SAMN08389215": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2011-11-17",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS51",
+"_ids": [
+"Date17-11-2011",
+"SAMN08389215",
+"SRS2978214"
+]
+},
+"SAMN08389214": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2011-10-21",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS50",
+"_ids": [
+"Date21-10-2011",
+"SAMN08389214",
+"SRS2978230"
+]
+},
+"SAMN08389213": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2011-09-19",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS49",
+"_ids": [
+"Date19-09-2011",
+"SAMN08389213",
+"SRS2978231"
+]
+},
+"SAMN08389212": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2011-08-16",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS48",
+"_ids": [
+"Date16-08-2011",
+"SAMN08389212",
+"SRS2978227"
+]
+},
+"SAMN08389211": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2011-07-21",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS47",
+"_ids": [
+"Date21-07-2011",
+"SAMN08389211",
+"SRS2978226"
+]
+},
+"SAMN08389210": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2011-06-21",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS46",
+"_ids": [
+"Date21-06-2011",
+"SAMN08389210",
+"SRS2978229"
+]
+},
+"SAMN08389209": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2011-05-18",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS45",
+"_ids": [
+"Date18-05-2011",
+"SAMN08389209",
+"SRS2978228"
+]
+},
+"SAMN08389208": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2011-04-20",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS44",
+"_ids": [
+"Date20-04-2011",
+"SAMN08389208",
+"SRS2978223"
+]
+},
+"SAMN08389207": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2011-03-17",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS43",
+"_ids": [
+"Date17-03-2011",
+"SAMN08389207",
+"SRS2978222"
+]
+},
+"SAMN08389206": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2011-02-16",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS42",
+"_ids": [
+"Date16-02-2011",
+"SAMN08389206",
+"SRS2978225"
+]
+},
+"SAMN08389205": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2011-01-12",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS41",
+"_ids": [
+"Date12-01-2011",
+"SAMN08389205",
+"SRS2978224"
+]
+},
+"SAMN08389204": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2010-12-14",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS40",
+"_ids": [
+"Date14-12-2010",
+"SAMN08389204",
+"SRS2978182"
+]
+},
+"SAMN08389203": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2010-11-18",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS39",
+"_ids": [
+"Date18-11-2010",
+"SAMN08389203",
+"SRS2978183"
+]
+},
+"SAMN08389202": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2010-10-12",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS38",
+"_ids": [
+"Date12-10-2010",
+"SAMN08389202",
+"SRS2978188"
+]
+},
+"SAMN08389201": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2010-09-15",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS37",
+"_ids": [
+"Date15-09-2010",
+"SAMN08389201",
+"SRS2978189"
+]
+},
+"SAMN08389200": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2010-08-17",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS36",
+"_ids": [
+"Date17-08-2010",
+"SAMN08389200",
+"SRS2978190"
+]
+},
+"SAMN08389199": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2010-07-20",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS35",
+"_ids": [
+"Date20-07-2010",
+"SAMN08389199",
+"SRS2978191"
+]
+},
+"SAMN08389198": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2010-06-21",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS34",
+"_ids": [
+"Date21-06-2010",
+"SAMN08389198",
+"SRS2978184"
+]
+},
+"SAMN08389197": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2010-05-18",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS33",
+"_ids": [
+"Date18-05-2010",
+"SAMN08389197",
+"SRS2978185"
+]
+},
+"SAMN08389196": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2010-04-20",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS32",
+"_ids": [
+"Date20-04-2010",
+"SAMN08389196",
+"SRS2978186"
+]
+},
+"SAMN08389195": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2010-03-22",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS31",
+"_ids": [
+"Date22-03-2010",
+"SAMN08389195",
+"SRS2978187"
+]
+},
+"SAMN08389194": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2010-02-25",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS30",
+"_ids": [
+"Date25-02-2010",
+"SAMN08389194",
+"SRS2978211"
+]
+},
+"SAMN08389193": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2010-01-04",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS29",
+"_ids": [
+"Date04-01-2010",
+"SAMN08389193",
+"SRS2978209"
+]
+},
+"SAMN08389192": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2009-12-15",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS28",
+"_ids": [
+"Date15-12-2009",
+"SAMN08389192",
+"SRS2978207"
+]
+},
+"SAMN08389191": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2009-11-19",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS27",
+"_ids": [
+"Date19-11-2009",
+"SAMN08389191",
+"SRS2978205"
+]
+},
+"SAMN08389190": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2009-10-19",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS26",
+"_ids": [
+"Date19-10-2009",
+"SAMN08389190",
+"SRS2978200"
+]
+},
+"SAMN08389189": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2009-09-10",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS25",
+"_ids": [
+"Date10-09-2009",
+"SAMN08389189",
+"SRS2978203"
+]
+},
+"SAMN08389188": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2009-08-24",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS24",
+"_ids": [
+"Date24-08-2009",
+"SAMN08389188",
+"SRS2978210"
+]
+},
+"SAMN08389187": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2009-07-20",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS23",
+"_ids": [
+"Date20-07-2009",
+"SAMN08389187",
+"SRS2978204"
+]
+},
+"SAMN08389186": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2009-06-09",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS22",
+"_ids": [
+"Date09-06-2009",
+"SAMN08389186",
+"SRS2978206"
+]
+},
+"SAMN08389185": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2009-05-26",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS21",
+"_ids": [
+"Date26-05-2009",
+"SAMN08389185",
+"SRS2978208"
+]
+},
+"SAMN08389184": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2009-04-17",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS20",
+"_ids": [
+"Date17-04-2009",
+"SAMN08389184",
+"SRS2978159"
+]
+},
+"SAMN08389183": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2009-03-25",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS19",
+"_ids": [
+"Date25-03-2009",
+"SAMN08389183",
+"SRS2978162"
+]
+},
+"SAMN08389182": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2009-02-13",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS18",
+"_ids": [
+"Date13-02-2009",
+"SAMN08389182",
+"SRS2978164"
+]
+},
+"SAMN08389181": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2009-01-12",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS17",
+"_ids": [
+"Date12-01-2009",
+"SAMN08389181",
+"SRS2978167"
+]
+},
+"SAMN08389180": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2008-12-15",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS16",
+"_ids": [
+"Date15-12-2008",
+"SAMN08389180",
+"SRS2978161"
+]
+},
+"SAMN08389179": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2008-11-13",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS15",
+"_ids": [
+"Date13-11-2008",
+"SAMN08389179",
+"SRS2978163"
+]
+},
+"SAMN08389178": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2008-10-08",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS14",
+"_ids": [
+"Date08-10-2008",
+"SAMN08389178",
+"SRS2978169"
+]
+},
+"SAMN08389177": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2008-09-19",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS13",
+"_ids": [
+"Date19-09-2008",
+"SAMN08389177",
+"SRS2978168"
+]
+},
+"SAMN08389176": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2008-08-18",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS12",
+"_ids": [
+"Date18-08-2008",
+"SAMN08389176",
+"SRS2978165"
+]
+},
+"SAMN08389175": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2008-06-11",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS11",
+"_ids": [
+"Date11-06-2008",
+"SAMN08389175",
+"SRS2978166"
+]
+},
+"SAMN08389174": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2008-05-21",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS10",
+"_ids": [
+"Date21-05-2008",
+"SAMN08389174",
+"SRS2978192"
+]
+},
+"SAMN08389173": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2008-04-16",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS9",
+"_ids": [
+"Date16-04-2008",
+"SAMN08389173",
+"SRS2978193"
+]
+},
+"SAMN08389172": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2008-02-20",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS8",
+"_ids": [
+"Date20-02-2008",
+"SAMN08389172",
+"SRS2978196"
+]
+},
+"SAMN08389171": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2008-01-15",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS7",
+"_ids": [
+"Date15-01-2008",
+"SAMN08389171",
+"SRS2978197"
+]
+},
+"SAMN08389170": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2007-12-14",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS6",
+"_ids": [
+"Date14-12-2007",
+"SAMN08389170",
+"SRS2978194"
+]
+},
+"SAMN08389169": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2007-11-09",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS5",
+"_ids": [
+"Date09-11-2007",
+"SAMN08389169",
+"SRS2978195"
+]
+},
+"SAMN08389168": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2007-10-19",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS4",
+"_ids": [
+"Date19-10-2007",
+"SAMN08389168",
+"SRS2978201"
+]
+},
+"SAMN08389167": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2007-08-17",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS3",
+"_ids": [
+"Date17-08-2007",
+"SAMN08389167",
+"SRS2978202"
+]
+},
+"SAMN08389166": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2007-07-05",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS2",
+"_ids": [
+"Date05-07-2007",
+"SAMN08389166",
+"SRS2978198"
+]
+},
+"SAMN08389165": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2007-06-02",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS1",
+"_ids": [
+"Date02-06-2007",
+"SAMN08389165",
+"SRS2978199"
+]
+},
+"SAMN08275705": {
+"_title": "L4S 23/10",
+"_comment": "",
+"isolation_source": "wastewater sample",
+"collection_date": "2013-10-17",
+"geo_loc_name": "Uganda: Kampala",
+"lat_lon": "0.219695 N 32.6382 E",
+"samp_collect_device": "sterilized bottle",
+"samp_mat_process": "tangential flow filtration",
+"samp_size": "1-3 L",
+"source_material_id": "WW22",
+"_ids": [
+"SAMN08275705",
+"SRS2797707",
+"WW22"
+]
+},
+"SAMN08275704": {
+"_title": "L3S 23/10",
+"_comment": "",
+"isolation_source": "wastewater sample",
+"collection_date": "2013-10-17",
+"geo_loc_name": "Uganda: Kampala",
+"lat_lon": "0.241954 N 32.64226 E",
+"samp_collect_device": "sterilized bottle",
+"samp_mat_process": "tangential flow filtration",
+"samp_size": "1-3 L",
+"source_material_id": "WW21",
+"_ids": [
+"SAMN08275704",
+"SRS2797706",
+"WW21"
+]
+},
+"SAMN05956157": {
+"_title": "Metagenome or environmental sample from freshwater metagenome",
+"_comment": "Lake Rotsee, water column sample (9m), methane-supplemented light incubation (11 days)",
+"env_local_scale": "lake",
+"env_broad_scale": "freshwater lake",
+"collection_date": "2013-08",
+"geo_loc_name": "Switzerland: lake Rotsee",
+"isolation_source": "Freshwater incubation, methane-supplemented",
+"samp_vol_we_dna_ext": "50",
+"depth": "9 meter",
+"lat_lon": "47.070833 N 8.316333 E",
+"env_medium": "freshwater",
+"_ids": [
+"Lake Rotsee, oxic (light) [R3]",
+"SAMN05956157",
+"SRS1770240"
+]
+},
+"SAMN05956155": {
+"_title": "Metagenome or environmental sample from freshwater metagenome",
+"_comment": "Lake Rotsee, in situ water column sample (9m)",
+"env_local_scale": "lake",
+"env_broad_scale": "freshwater lake",
+"collection_date": "2013-08",
+"geo_loc_name": "Switzerland: lake Rotsee",
+"isolation_source": "freshwater",
+"samp_vol_we_dna_ext": "250",
+"depth": "9 meter",
+"lat_lon": "47.070833 N 8.316333 E",
+"env_medium": "freshwater",
+"_ids": [
+"Lake Rotsee, in situ [R1]",
+"SAMN05956155",
+"SRS1770238"
+]
+},
+"SAMN05150089": {
+"_title": "Metagenome or environmental sample from aquatic metagenome",
+"_comment": "size fraction 0.1-0.8um",
+"isolation_source": "Sea water",
+"collection_date": "2011-08-17",
+"geo_loc_name": "Sweden:Baltic Sea:Asko",
+"lat_lon": "58.82 N 17.63 E",
+"_ids": [
+"GS824_0p1",
+"SAMN05150089",
+"SRS1529989"
+]
+},
+"SAMN05150085": {
+"_title": "Metagenome or environmental sample from aquatic metagenome",
+"_comment": "size fraction 0.1-0.8um",
+"isolation_source": "Sea water",
+"collection_date": "2011-08-03",
+"geo_loc_name": "Sweden:Baltic Sea:Asko",
+"lat_lon": "58.82 N 17.63 E",
+"_ids": [
+"GS822_0p1",
+"SAMN05150085",
+"SRS1529984"
+]
+},
+"SAMN06640212": {
+"_title": "Metagenome or environmental sample from lake water metagenome",
+"_comment": "",
+"geo_loc_name": "Brazil: Sao Paulo Zoo",
+"collection_date": "2012",
+"lat_lon": "23.6497 S 46.6206 W",
+"isolation_source": "lake water from Sao Paulo's Zoo",
+"_ids": [
+"Lake's SP Zoo",
+"SAMN06640212"
+]
+},
+"SAMN04510821": {
+"_title": "Metagenome or environmental sample from freshwater metagenome",
+"_comment": "",
+"isolation_source": "freshwater sample",
+"collection_date": "2013-08-28",
+"geo_loc_name": "USA: Lake Houston, TX",
+"lat_lon": "29.96 N 95.15 W",
+"_ids": [
+"LHTX18",
+"SAMN04510821",
+"SRS1308089"
+]
+},
+"SAMN12794939": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME04Jul2014-rr0021",
+"_comment": "",
+"collection_date": "2014-07-04",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356301",
+"SAMN12794939",
+"SRS6053649"
+]
+},
+"SAMN12794923": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME02Aug2005-rr0120",
+"_comment": "",
+"collection_date": "2005-08-02",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356347",
+"SAMN12794923",
+"SRS6054100"
+]
+},
+"SAMN12794853": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME22Aug2011-rr0173",
+"_comment": "",
+"collection_date": "2011-08-22",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356373",
+"SAMN12794853",
+"SRS6133454"
+]
+},
+"SAMN12794832": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME20Jul2016-rr0004",
+"_comment": "",
+"collection_date": "2016-07-20",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356295",
+"SAMN12794832",
+"SRS6053645"
+]
+},
+"SAMN12794755": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME20Jul2012-rr0037",
+"_comment": "",
+"collection_date": "2012-07-20",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356310",
+"SAMN12794755",
+"SRS6053657"
+]
+},
+"SAMN12794754": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME07Aug2003-rr0061",
+"_comment": "",
+"collection_date": "2003-08-07",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356323",
+"SAMN12794754",
+"SRS6053984"
+]
+},
+"SAMN12794753": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME03Aug2012-rr0069",
+"_comment": "",
+"collection_date": "2012-08-03",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356326",
+"SAMN12794753",
+"SRS6054028"
+]
+},
+"SAMN12794647": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME17Jul2014-rr0163",
+"_comment": "",
+"collection_date": "2014-07-17",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356368",
+"SAMN12794647",
+"SRS6054348"
+]
+},
+"SAMN11369124": {
+"_title": "MAGs of Lake Fuxian sample",
+"_comment": "MAGs of Lake Fuxian sample",
+"isolation_source": "freshwater",
+"collection_date": "2017-12-25",
+"geo_loc_name": "China: Fuxian Lake, Yuxi",
+"lat_lon": "24.541 N 102.895 E",
+"temp": "565",
+"isolate": "F1-20-MAGs126",
+"metagenomic": "1",
+"environmental-sample": "1",
+"metagenome_source": "freshwater metagenome",
+"sample_type": "metagenomic assembly",
+"note": "This BioSample is a metagenomic assembly obtained from the freshwater metagenome BioSample: SAMN11356859",
+"_ids": [
+"F1-20-MAGs126",
+"SAMN11369124"
+]
+},
+"SAMN11532924": {
+"_title": "Sediment microbial communities from Yellowstone Lake, YNP, Wyoming, USA - YL17G13_40",
+"_comment": "",
+"collection_date": "2017-08-01",
+"host": "not applicable",
+"geo_loc_name": "USA: Wyoming",
+"lat_lon": "44.5395 N 110.3891 W",
+"isolation_source": "Lake sediments",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Sediment",
+"_ids": [
+"Gp0331151",
+"SAMN11532924",
+"SRS5041529"
+]
+},
+"SAMN11532773": {
+"_title": "Sediment microbial communities from Yellowstone Lake, YNP, Wyoming, USA - YL17G02_20",
+"_comment": "",
+"collection_date": "2017-08-01",
+"host": "not applicable",
+"geo_loc_name": "USA: Wyoming",
+"lat_lon": "44.5119 N 110.3577 W",
+"isolation_source": "Lake sediments",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Sediment",
+"_ids": [
+"Gp0331131",
+"SAMN11532773",
+"SRS5069889"
+]
+},
+"SAMN11532494": {
+"_title": "Sediment microbial communities from Yellowstone Lake, YNP, Wyoming, USA - YL17G11_20",
+"_comment": "",
+"collection_date": "2017-08-01",
+"host": "not applicable",
+"geo_loc_name": "USA: Wyoming",
+"lat_lon": "44.5072 N 110.3564 W",
+"isolation_source": "Lake sediments",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Sediment",
+"_ids": [
+"Gp0331145",
+"SAMN11532494",
+"SRS5041503"
+]
+},
+"SAMN11532448": {
+"_title": "Sediment microbial communities from Yellowstone Lake, YNP, Wyoming, USA - YL17G09_36",
+"_comment": "",
+"collection_date": "2017-08-01",
+"host": "not applicable",
+"geo_loc_name": "USA: Wyoming",
+"lat_lon": "44.508 N 110.3268 W",
+"isolation_source": "Lake sediments",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Sediment",
+"_ids": [
+"Gp0331142",
+"SAMN11532448",
+"SRS5041461"
+]
+},
+"SAMN11532411": {
+"_title": "Sediment microbial communities from Yellowstone Lake, YNP, Wyoming, USA - C3_top",
+"_comment": "",
+"collection_date": "2017-08-01",
+"host": "not applicable",
+"geo_loc_name": "USA: Wyoming",
+"lat_lon": "44.5107 N 110.3566 W",
+"isolation_source": "Lake sediments",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Sediment",
+"_ids": [
+"Gp0331128",
+"SAMN11532411",
+"SRS5040334"
+]
+},
+"SAMN11532343": {
+"_title": "Sediment microbial communities from Yellowstone Lake, YNP, Wyoming, USA - YL17G09_0",
+"_comment": "",
+"collection_date": "2017-08-01",
+"host": "not applicable",
+"geo_loc_name": "USA: Wyoming",
+"lat_lon": "44.508 N 110.3268 W",
+"isolation_source": "Lake sediments",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Sediment",
+"_ids": [
+"Gp0331140",
+"SAMN11532343",
+"SRS5041463"
+]
+},
+"SAMN11532163": {
+"_title": "Sediment microbial communities from Yellowstone Lake, YNP, Wyoming, USA - C3_middle",
+"_comment": "",
+"collection_date": "2017-08-01",
+"host": "not applicable",
+"geo_loc_name": "USA: Wyoming",
+"lat_lon": "44.5107 N 110.3566 W",
+"isolation_source": "Lake sediments",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Sediment",
+"_ids": [
+"Gp0331129",
+"SAMN11532163",
+"SRS5040112"
+]
+},
+"SAMN11532143": {
+"_title": "Sediment microbial communities from Yellowstone Lake, YNP, Wyoming, USA - YL17G12_20",
+"_comment": "",
+"collection_date": "2017-08-01",
+"host": "not applicable",
+"geo_loc_name": "USA: Wyoming",
+"lat_lon": "44.5895 N 110.359 W",
+"isolation_source": "Lake sediments",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Sediment",
+"_ids": [
+"Gp0331148",
+"SAMN11532143",
+"SRS5041527"
+]
+},
+"SAMN10864422": {
+"_title": "Freshwater microbial communities from meromictic Lake La Cruz, Castile-La Mancha, Spain - LaCruzMarch2015_18m",
+"_comment": "",
+"collection_date": "2015-03-05",
+"host": "not applicable",
+"geo_loc_name": "Spain: Castile-La Mancha",
+"lat_lon": "39.9879 N 1.8737 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0291011",
+"SAMN10864422",
+"SRS4331875"
+]
+},
+"SAMN10864202": {
+"_title": "Soil microbial communities from Risofladan, Vaasa, Finland - UN-2",
+"_comment": "",
+"collection_date": "2017-08-18",
+"host": "not applicable",
+"geo_loc_name": "Finland: Risofladan, Vaasa",
+"lat_lon": "63.0472 N 21.7116 E",
+"isolation_source": "soil from un-oxidized zone",
+"GOLD Ecosystem Classification": "Environmental | Terrestrial | Soil | Coastal area | Acid sulfate soil",
+"_ids": [
+"Gp0321366",
+"SAMN10864202",
+"SRS4347205"
+]
+},
+"SAMN10864166": {
+"_title": "Soil microbial communities from Risofladan, Vaasa, Finland - UN-1",
+"_comment": "",
+"collection_date": "2017-08-18",
+"host": "not applicable",
+"geo_loc_name": "Finland: Risofladan, Vaasa",
+"lat_lon": "63.0472 N 21.7116 E",
+"isolation_source": "soil from un-oxidized zone",
+"GOLD Ecosystem Classification": "Environmental | Terrestrial | Soil | Coastal area | Acid sulfate soil",
+"_ids": [
+"Gp0321365",
+"SAMN10864166",
+"SRS4347206"
+]
+},
+"SAMN10864163": {
+"_title": "Soil microbial communities from Risofladan, Vaasa, Finland - UN-3",
+"_comment": "",
+"collection_date": "2017-08-18",
+"host": "not applicable",
+"geo_loc_name": "Finland: Risofladan, Vaasa",
+"lat_lon": "63.0472 N 21.7116 E",
+"isolation_source": "soil from un-oxidized zone",
+"GOLD Ecosystem Classification": "Environmental | Terrestrial | Soil | Coastal area | Acid sulfate soil",
+"_ids": [
+"Gp0321367",
+"SAMN10864163",
+"SRS4347337"
+]
+},
+"SAMN10864122": {
+"_title": "Soil microbial communities from Risofladan, Vaasa, Finland - TR-2",
+"_comment": "",
+"collection_date": "2017-08-18",
+"host": "not applicable",
+"geo_loc_name": "Finland: Risofladan, Vaasa",
+"lat_lon": "63.0472 N 21.7116 E",
+"isolation_source": "soil from transition zone",
+"GOLD Ecosystem Classification": "Environmental | Terrestrial | Soil | Coastal area | Acid sulfate soil",
+"_ids": [
+"Gp0321363",
+"SAMN10864122",
+"SRS4347202"
+]
+},
+"SAMN10864121": {
+"_title": "Soil microbial communities from Risofladan, Vaasa, Finland - TR-3",
+"_comment": "",
+"collection_date": "2017-08-18",
+"host": "not applicable",
+"geo_loc_name": "Finland: Risofladan, Vaasa",
+"lat_lon": "63.0472 N 21.7116 E",
+"isolation_source": "soil from transition zone",
+"GOLD Ecosystem Classification": "Environmental | Terrestrial | Soil | Coastal area | Acid sulfate soil",
+"_ids": [
+"Gp0321364",
+"SAMN10864121",
+"SRS4347203"
+]
+},
+"SAMN10351326": {
+"_title": "Freshwater microbial communities from meromictic Lake La Cruz, Castile-La Mancha, Spain - LaCruzMarch2015_1m",
+"_comment": "",
+"collection_date": "2015-03-05",
+"host": "not applicable",
+"geo_loc_name": "Spain: Castile-La Mancha",
+"lat_lon": "39.9879 N 1.8737 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0291001",
+"SAMN10351326",
+"SRS4250877"
+]
+},
+"SAMN10351281": {
+"_title": "Freshwater microbial communities from meromictic Lake La Cruz, Castile-La Mancha, Spain - LaCruzMarch201714.5m_1",
+"_comment": "",
+"collection_date": "2017-03-23",
+"host": "not applicable",
+"geo_loc_name": "Spain: Castile-La Mancha",
+"lat_lon": "39.9879 N 1.8737 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0291014",
+"SAMN10351281",
+"SRS4251172"
+]
+},
+"SAMN10351191": {
+"_title": "Freshwater microbial communities from meromictic Lake La Cruz, Castile-La Mancha, Spain - LaCruzMarch2015_17m",
+"_comment": "",
+"collection_date": "2015-03-04",
+"host": "not applicable",
+"geo_loc_name": "Spain: Castile-La Mancha",
+"lat_lon": "39.9879 N 1.8737 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0291010",
+"SAMN10351191",
+"SRS4251175"
+]
+},
+"SAMN10351129": {
+"_title": "Freshwater microbial communities from meromictic Lake La Cruz, Castile-La Mancha, Spain - LaCruzMarch2015_15m",
+"_comment": "",
+"collection_date": "2015-03-04",
+"host": "not applicable",
+"geo_loc_name": "Spain: Castile-La Mancha",
+"lat_lon": "39.9879 N 1.8737 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0291008",
+"SAMN10351129",
+"SRS4251169"
+]
+},
+"SAMN10351128": {
+"_title": "Freshwater microbial communities from meromictic Lake La Cruz, Castile-La Mancha, Spain - LaCruzMarch2015_13.5m",
+"_comment": "",
+"collection_date": "2015-03-04",
+"host": "not applicable",
+"geo_loc_name": "Spain: Castile-La Mancha",
+"lat_lon": "39.9879 N 1.8737 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0291005",
+"SAMN10351128",
+"SRS4250981"
+]
+},
+"SAMN10351095": {
+"_title": "Freshwater microbial communities from meromictic Lake La Cruz, Castile-La Mancha, Spain - LaCruzMarch2015_14.5m",
+"_comment": "",
+"collection_date": "2015-03-05",
+"host": "not applicable",
+"geo_loc_name": "Spain: Castile-La Mancha",
+"lat_lon": "39.9879 N 1.8737 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0291007",
+"SAMN10351095",
+"SRS4251127"
+]
+},
+"SAMN10351071": {
+"_title": "Freshwater microbial communities from meromictic Lake La Cruz, Castile-La Mancha, Spain - LaCruzMarch2015_12m",
+"_comment": "",
+"collection_date": "2015-03-04",
+"host": "not applicable",
+"geo_loc_name": "Spain: Castile-La Mancha",
+"lat_lon": "39.9879 N 1.8737 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0291004",
+"SAMN10351071",
+"SRS4250980"
+]
+},
+"SAMN10350975": {
+"_title": "Freshwater microbial communities from meromictic Lake La Cruz, Castile-La Mancha, Spain - LaCruzMarch2015_14m",
+"_comment": "",
+"collection_date": "2015-03-04",
+"host": "not applicable",
+"geo_loc_name": "Spain: Castile-La Mancha",
+"lat_lon": "39.9879 N 1.8737 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0291006",
+"SAMN10350975",
+"SRS4251174"
+]
+},
+"SAMN10350974": {
+"_title": "Freshwater microbial communities from meromictic Lake La Cruz, Castile-La Mancha, Spain - LaCruzMarch2017_8m",
+"_comment": "",
+"collection_date": "2017-03-22",
+"host": "not applicable",
+"geo_loc_name": "Spain: Castile-La Mancha",
+"lat_lon": "39.9879 N 1.8737 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0291013",
+"SAMN10350974",
+"SRS4251171"
+]
+},
+"SAMN10350960": {
+"_title": "Freshwater microbial communities from meromictic Lake La Cruz, Castile-La Mancha, Spain - LaCruzMarch2015_4m",
+"_comment": "",
+"collection_date": "2015-03-05",
+"host": "not applicable",
+"geo_loc_name": "Spain: Castile-La Mancha",
+"lat_lon": "39.9879 N 1.8737 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0291002",
+"SAMN10350960",
+"SRS4250944"
+]
+},
+"SAMN10350959": {
+"_title": "Freshwater microbial communities from meromictic Lake La Cruz, Castile-La Mancha, Spain - LaCruzMarch2015_8m",
+"_comment": "",
+"collection_date": "2015-03-04",
+"host": "not applicable",
+"geo_loc_name": "Spain: Castile-La Mancha",
+"lat_lon": "39.9879 N 1.8737 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0291003",
+"SAMN10350959",
+"SRS4250971"
+]
+},
+"SAMN10350902": {
+"_title": "Freshwater microbial communities from meromictic Lake La Cruz, Castile-La Mancha, Spain - LaCruzMarch2015_16m",
+"_comment": "",
+"collection_date": "2015-03-04",
+"host": "not applicable",
+"geo_loc_name": "Spain: Castile-La Mancha",
+"lat_lon": "39.9879 N 1.8737 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0291009",
+"SAMN10350902",
+"SRS4251167"
+]
+},
+"SAMN09201019": {
+"_title": "Freshwater microbial communities from Lake Lanier, Atlanta, Georgia, United States - LL-1510",
+"_comment": "",
+"collection_date": "2015-10-15",
+"host": "not applicable",
+"geo_loc_name": "USA: Georgia",
+"lat_lon": "34.2611 N 83.9500 W",
+"isolation_source": "lake water",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Unclassified",
+"_ids": [
+"Gp0238819",
+"SAMN09201019",
+"SRS3759377"
+]
+},
+"SAMN08779307": {
+"_title": "Anoxic zone freshwater microbial communities from boreal shield lake in IISD Experimental Lakes Area, Ontario, Canada - Sep2016-L442-17m",
+"_comment": "",
+"collection_date": "2016-09-21",
+"host": "not applicable",
+"geo_loc_name": "Canada: Ontario",
+"lat_lon": "49.7750 N 93.8180 W",
+"isolation_source": "freshwater from boreal shield lake",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Anoxic zone",
+"_ids": [
+"Gp0217467",
+"SAMN08779307",
+"SRS3209396"
+]
+},
+"SAMN08779294": {
+"_title": "Anoxic zone freshwater microbial communities from boreal shield lake in IISD Experimental Lakes Area, Ontario, Canada - Sep2016-L442-13m",
+"_comment": "",
+"collection_date": "2016-09-21",
+"host": "not applicable",
+"geo_loc_name": "Canada: Ontario",
+"lat_lon": "49.7750 N 93.8180 W",
+"isolation_source": "freshwater from boreal shield lake",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Anoxic zone",
+"_ids": [
+"Gp0217465",
+"SAMN08779294",
+"SRS3209392"
+]
+},
+"SAMN08779293": {
+"_title": "Anoxic zone freshwater microbial communities from boreal shield lake in IISD Experimental Lakes Area, Ontario, Canada - Jun2016-L224-25m",
+"_comment": "",
+"collection_date": "2016-06-24",
+"host": "not applicable",
+"geo_loc_name": "Canada: Ontario",
+"lat_lon": "49.6900 N 93.7180 W",
+"isolation_source": "freshwater from boreal shield lake",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Anoxic zone",
+"_ids": [
+"Gp0217458",
+"SAMN08779293",
+"SRS3209387"
+]
+},
+"SAMN08779087": {
+"_title": "Anoxic zone freshwater microbial communities from boreal shield lake in IISD Experimental Lakes Area, Ontario, Canada - Sep2016-L373-20m",
+"_comment": "",
+"collection_date": "2016-09-21",
+"host": "not applicable",
+"geo_loc_name": "Canada: Ontario",
+"lat_lon": "49.7450 N 93.7990 W",
+"isolation_source": "freshwater from boreal shield lake",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Anoxic zone",
+"_ids": [
+"Gp0217472",
+"SAMN08779087",
+"SRS3209489"
+]
+},
+"SAMN08779086": {
+"_title": "Anoxic zone freshwater microbial communities from boreal shield lake in IISD Experimental Lakes Area, Ontario, Canada - Sep2016-L626-11m",
+"_comment": "",
+"collection_date": "2016-09-21",
+"host": "not applicable",
+"geo_loc_name": "Canada: Ontario",
+"lat_lon": "49.7530 N 93.7980 W",
+"isolation_source": "freshwater from boreal shield lake",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Anoxic zone",
+"_ids": [
+"Gp0217468",
+"SAMN08779086",
+"SRS3209398"
+]
+},
+"SAMN08779084": {
+"_title": "Anoxic zone freshwater microbial communities from boreal shield lake in IISD Experimental Lakes Area, Ontario, Canada - Sep2016-L239-20m",
+"_comment": "",
+"collection_date": "2016-09-20",
+"host": "not applicable",
+"geo_loc_name": "Canada: Ontario",
+"lat_lon": "49.6630 N 93.7230 W",
+"isolation_source": "freshwater from boreal shield lake",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Anoxic zone",
+"_ids": [
+"Gp0217460",
+"SAMN08779084",
+"SRS3209389"
+]
+},
+"SAMN08779082": {
+"_title": "Anoxic zone freshwater microbial communities from boreal shield lake in IISD Experimental Lakes Area, Ontario, Canada - Jun2016-L442-17m",
+"_comment": "",
+"collection_date": "2016-06-22",
+"host": "not applicable",
+"geo_loc_name": "Canada: Ontario",
+"lat_lon": "49.7750 N 93.8180 W",
+"isolation_source": "freshwater from boreal shield lake",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Anoxic zone",
+"_ids": [
+"Gp0217453",
+"SAMN08779082",
+"SRS3209372"
+]
+},
+"SAMN08779046": {
+"_title": "Hypersaline lake sediment archaeal communities from the Salton Sea, California, USA - SS_1_S_1 metaG",
+"_comment": "",
+"collection_date": "2010-07-30",
+"host": "not applicable",
+"geo_loc_name": "USA: California",
+"lat_lon": "33.4166 N 115.9166 W",
+"isolation_source": "anoxic, hypersaline lake sediments of the Salton Sea",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Non-marine Saline and Alkaline | Hypersaline | Sediment",
+"_ids": [
+"Gp0206836",
+"SAMN08779046",
+"SRS3141813"
+]
+},
+"SAMN08778793": {
+"_title": "Hypersaline lake sediment archaeal communities from the Salton Sea, California, USA - SS_3_S_1 metaG",
+"_comment": "",
+"collection_date": "2010-07-30",
+"host": "not applicable",
+"geo_loc_name": "USA: California",
+"lat_lon": "33.3000 N 115.8000 W",
+"isolation_source": "anoxic, hypersaline lake sediments of the Salton Sea",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Non-marine Saline and Alkaline | Hypersaline | Sediment",
+"_ids": [
+"Gp0206842",
+"SAMN08778793",
+"SRS3141932"
+]
+},
+"SAMN08777561": {
+"_title": "Hypersaline lake sediment archaeal communities from the Salton Sea, California, USA - SS_1_S_2 metaG",
+"_comment": "",
+"collection_date": "2010-07-30",
+"host": "not applicable",
+"geo_loc_name": "USA: California",
+"lat_lon": "33.4166 N 115.9166 W",
+"isolation_source": "anoxic, hypersaline lake sediments of the Salton Sea",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Non-marine Saline and Alkaline | Hypersaline | Sediment",
+"_ids": [
+"Gp0206837",
+"SAMN08777561",
+"SRS3141815"
+]
+},
+"SAMN08777351": {
+"_title": "Anoxic zone freshwater microbial communities from boreal shield lake in IISD Experimental Lakes Area, Ontario, Canada - Jun2016-L442-12m",
+"_comment": "",
+"collection_date": "2016-06-22",
+"host": "not applicable",
+"geo_loc_name": "Canada: Ontario",
+"lat_lon": "49.7750 N 93.8180 W",
+"isolation_source": "freshwater from boreal shield lake",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Anoxic zone",
+"_ids": [
+"Gp0217451",
+"SAMN08777351",
+"SRS3209175"
+]
+},
+"SAMN08777317": {
+"_title": "Anoxic zone freshwater microbial communities from boreal shield lake in IISD Experimental Lakes Area, Ontario, Canada - Sep2016-L227-8m",
+"_comment": "",
+"collection_date": "2016-09-20",
+"host": "not applicable",
+"geo_loc_name": "Canada: Ontario",
+"lat_lon": "49.6880 N 93.6890 W",
+"isolation_source": "freshwater from boreal shield lake",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Anoxic zone",
+"_ids": [
+"Gp0217462",
+"SAMN08777317",
+"SRS3209391"
+]
+},
+"SAMN08777217": {
+"_title": "Hypersaline lake sediment archaeal communities from the Salton Sea, California, USA - SS_1_MS_1 metaG",
+"_comment": "",
+"collection_date": "2010-07-30",
+"host": "not applicable",
+"geo_loc_name": "USA: California",
+"lat_lon": "33.4166 N 115.9166 W",
+"isolation_source": "anoxic, hypersaline lake sediments of the Salton Sea",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Non-marine Saline and Alkaline | Hypersaline | Sediment",
+"_ids": [
+"Gp0206838",
+"SAMN08777217",
+"SRS3141814"
+]
+},
+"SAMN08776775": {
+"_title": "Hypersaline lake sediment archaeal communities from the Salton Sea, California, USA - SS_1_MS_2 metaG",
+"_comment": "",
+"collection_date": "2010-07-30",
+"host": "not applicable",
+"geo_loc_name": "USA: California",
+"lat_lon": "33.4166 N 115.9166 W",
+"isolation_source": "anoxic, hypersaline lake sediments of the Salton Sea",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Non-marine Saline and Alkaline | Hypersaline | Sediment",
+"_ids": [
+"Gp0206839",
+"SAMN08776775",
+"SRS3141925"
+]
+},
+"SAMN08776755": {
+"_title": "Hypersaline lake sediment archaeal communities from the Salton Sea, California, USA - SS_1_D_2 metaG",
+"_comment": "",
+"collection_date": "2010-07-30",
+"host": "not applicable",
+"geo_loc_name": "USA: California",
+"lat_lon": "33.4166 N 115.9166 W",
+"isolation_source": "anoxic, hypersaline lake sediments of the Salton Sea",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Non-marine Saline and Alkaline | Hypersaline | Sediment",
+"_ids": [
+"Gp0206841",
+"SAMN08776755",
+"SRS3141926"
+]
+},
+"SAMN08776754": {
+"_title": "Hypersaline lake sediment archaeal communities from the Salton Sea, California, USA - SS_3_S_2 metaG",
+"_comment": "",
+"collection_date": "2010-07-30",
+"host": "not applicable",
+"geo_loc_name": "USA: California",
+"lat_lon": "33.3000 N 115.8000 W",
+"isolation_source": "anoxic, hypersaline lake sediments of the Salton Sea",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Non-marine Saline and Alkaline | Hypersaline | Sediment",
+"_ids": [
+"Gp0206843",
+"SAMN08776754",
+"SRS3141933"
+]
+},
+"SAMN08776715": {
+"_title": "Anoxic zone freshwater microbial communities from boreal shield lake in IISD Experimental Lakes Area, Ontario, Canada - Jun2016-L626-11m",
+"_comment": "",
+"collection_date": "2016-06-22",
+"host": "not applicable",
+"geo_loc_name": "Canada: Ontario",
+"lat_lon": "49.7530 N 93.7980 W",
+"isolation_source": "freshwater from boreal shield lake",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Anoxic zone",
+"_ids": [
+"Gp0217454",
+"SAMN08776715",
+"SRS3209385"
+]
+},
+"SAMN08389262": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2015-12-03",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS98",
+"_ids": [
+"Date03-12-2015",
+"SAMN08389262",
+"SRS2978151"
+]
+},
+"SAMN08389261": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2015-11-02",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS97",
+"_ids": [
+"Date02-11-2015",
+"SAMN08389261",
+"SRS2978155"
+]
+},
+"SAMN08389260": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2015-10-07",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS96",
+"_ids": [
+"Date07-10-2015",
+"SAMN08389260",
+"SRS2978150"
+]
+},
+"SAMN08389259": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2015-09-04",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS95",
+"_ids": [
+"Date04-09-2015",
+"SAMN08389259",
+"SRS2978152"
+]
+},
+"SAMN08389258": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2015-07-30",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS94",
+"_ids": [
+"Date30-07-2015",
+"SAMN08389258",
+"SRS2978157"
+]
+},
+"SAMN08389257": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2015-06-25",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS93",
+"_ids": [
+"Date25-06-2015",
+"SAMN08389257",
+"SRS2978156"
+]
+},
+"SAMN08389256": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2015-05-29",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS92",
+"_ids": [
+"Date29-05-2015",
+"SAMN08389256",
+"SRS2978154"
+]
+},
+"SAMN08389255": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2015-04-28",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS91",
+"_ids": [
+"Date28-04-2015",
+"SAMN08389255",
+"SRS2978153"
+]
+},
+"SAMN08389254": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2015-03-25",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS90",
+"_ids": [
+"Date25-03-2015",
+"SAMN08389254",
+"SRS2978171"
+]
+},
+"SAMN08389253": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2015-03-02",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS89",
+"_ids": [
+"Date02-03-2015",
+"SAMN08389253",
+"SRS2978170"
+]
+},
+"SAMN08389252": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2015-02-03",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS88",
+"_ids": [
+"Date03-02-2015",
+"SAMN08389252",
+"SRS2978173"
+]
+},
+"SAMN08389251": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2015-01-06",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS87",
+"_ids": [
+"Date06-01-2015",
+"SAMN08389251",
+"SRS2978172"
+]
+},
+"SAMN08389250": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2014-12-03",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS86",
+"_ids": [
+"Date03-12-2014",
+"SAMN08389250",
+"SRS2978175"
+]
+},
+"SAMN08389249": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2014-10-29",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS85",
+"_ids": [
+"Date29-10-2014",
+"SAMN08389249",
+"SRS2978174"
+]
+},
+"SAMN08389248": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2014-10-03",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS84",
+"_ids": [
+"Date03-10-2014",
+"SAMN08389248",
+"SRS2978177"
+]
+},
+"SAMN08389247": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2014-09-05",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS83",
+"_ids": [
+"Date05-09-2014",
+"SAMN08389247",
+"SRS2978176"
+]
+},
+"SAMN08389246": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2014-07-28",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS82",
+"_ids": [
+"Date28-07-2014",
+"SAMN08389246",
+"SRS2978179"
+]
+},
+"SAMN08389245": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2014-06-27",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS81",
+"_ids": [
+"Date27-06-2014",
+"SAMN08389245",
+"SRS2978178"
+]
+},
+"SAMN08389244": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2014-06-03",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS80",
+"_ids": [
+"Date03-06-2014",
+"SAMN08389244",
+"SRS2978232"
+]
+},
+"SAMN08389243": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2014-04-29",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS79",
+"_ids": [
+"Date29-04-2014",
+"SAMN08389243",
+"SRS2978233"
+]
+},
+"SAMN08389242": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2014-04-01",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS78",
+"_ids": [
+"Date01-04-2014",
+"SAMN08389242",
+"SRS2978234"
+]
+},
+"SAMN08389241": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2014-03-04",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS77",
+"_ids": [
+"Date04-03-2014",
+"SAMN08389241",
+"SRS2978236"
+]
+},
+"SAMN08389240": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2014-01-27",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS76",
+"_ids": [
+"Date27-01-2014",
+"SAMN08389240",
+"SRS2978237"
+]
+},
+"SAMN08389239": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2013-12-31",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS75",
+"_ids": [
+"Date31-12-2013",
+"SAMN08389239",
+"SRS2978235"
+]
+},
+"SAMN08389238": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2013-11-27",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS74",
+"_ids": [
+"Date27-11-2013",
+"SAMN08389238",
+"SRS2978238"
+]
+},
+"SAMN08389237": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2013-10-31",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS73",
+"_ids": [
+"Date31-10-2013",
+"SAMN08389237",
+"SRS2978239"
+]
+},
+"SAMN08389236": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2013-10-03",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS72",
+"_ids": [
+"Date03-10-2013",
+"SAMN08389236",
+"SRS2978240"
+]
+},
+"SAMN08389235": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2013-08-28",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS71",
+"_ids": [
+"Date28-08-2013",
+"SAMN08389235",
+"SRS2978241"
+]
+},
+"SAMN08389234": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2013-07-22",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS70",
+"_ids": [
+"Date22-07-2013",
+"SAMN08389234",
+"SRS2978242"
+]
+},
+"SAMN08389233": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2013-06-26",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS69",
+"_ids": [
+"Date26-06-2013",
+"SAMN08389233",
+"SRS2978243"
+]
+},
+"SAMN08389232": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2013-05-30",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS68",
+"_ids": [
+"Date30-05-2013",
+"SAMN08389232",
+"SRS2978251"
+]
+},
+"SAMN08389231": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2013-04-23",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS67",
+"_ids": [
+"Date23-04-2013",
+"SAMN08389231",
+"SRS2978250"
+]
+},
+"SAMN08389230": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2013-03-21",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS66",
+"_ids": [
+"Date21-03-2013",
+"SAMN08389230",
+"SRS2978249"
+]
+},
+"SAMN08389228": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2013-01-22",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS64",
+"_ids": [
+"Date22-01-2013",
+"SAMN08389228",
+"SRS2978247"
+]
+},
+"SAMN08389227": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2012-12-20",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS63",
+"_ids": [
+"Date20-12-2012",
+"SAMN08389227",
+"SRS2978246"
+]
+},
+"SAMN08389226": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2012-11-27",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS62",
+"_ids": [
+"Date27-11-2012",
+"SAMN08389226",
+"SRS2978244"
+]
+},
+"SAMN08389225": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2012-10-22",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS61",
+"_ids": [
+"Date22-10-2012",
+"SAMN08389225",
+"SRS2978245"
+]
+},
+"SAMN08389224": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2012-09-24",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS60",
+"_ids": [
+"Date24-09-2012",
+"SAMN08389224",
+"SRS2978221"
+]
+},
+"SAMN08389223": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2012-08-27",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS59",
+"_ids": [
+"Date27-08-2012",
+"SAMN08389223",
+"SRS2978220"
+]
+},
+"SAMN08389222": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2012-07-23",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS58",
+"_ids": [
+"Date23-07-2012",
+"SAMN08389222",
+"SRS2978215"
+]
+},
+"SAMN08389221": {
+"_title": "Metagenome or environmental sample from activated sludge metagenome",
+"_comment": "",
+"isolation_source": "activated sludge sample",
+"collection_date": "2012-06-27",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"source_material_id": "AS57",
+"_ids": [
+"Date27-06-2012",
+"SAMN08389221",
+"SRS2978218"
+]
+},
+"SAMN11356863": {
+"_title": "rawdata of Lake Fuxian sample",
+"_comment": "rawdata of Lake Fuxian sample",
+"isolation_source": "freshwater sample F1-140",
+"collection_date": "2017-12-25",
+"geo_loc_name": "China: Fuxian Lake, Yuxi",
+"lat_lon": "24.541 N 102.895 E",
+"temp": "5",
+"_ids": [
+"F1-140",
+"SAMN11356863",
+"SRS4621227"
+]
+},
+"SAMN11867346": {
+"_title": "Microbe sample from Mycobacterium sp.",
+"_comment": "",
+"geo_loc_name": "Brazil: Sao Paulo Zoo",
+"metagenome_source": "lake water metagenome",
+"collection_date": "2012-09/2013-09",
+"isolate": "ZLKRG49",
+"environmental-sample": "TRUE",
+"lat_lon": "23.6497 S 46.6206 W",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the lake water metagenome BioSample: SAMN06640212.",
+"isolation_source": "lake water from Sao Paulo's Zoo",
+"sample_type": "metagenomic assembly",
+"metagenomic": "TRUE",
+"completeness": "83,47",
+"_ids": [
+"SAMN11867346",
+"ZLKRG49"
+]
+},
+"SAMN11867344": {
+"_title": "Microbe sample from Mycobacterium sp.",
+"_comment": "",
+"geo_loc_name": "Brazil: Sao Paulo Zoo",
+"metagenome_source": "lake water metagenome",
+"collection_date": "2012-09/2013-09",
+"isolate": "ZLKRG22",
+"environmental-sample": "TRUE",
+"lat_lon": "23.6497 S 46.6206 W",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the lake water metagenome BioSample: SAMN06640212.",
+"isolation_source": "lake water from Sao Paulo's Zoo",
+"sample_type": "metagenomic assembly",
+"metagenomic": "TRUE",
+"completeness": "84,3",
+"_ids": [
+"SAMN11867344",
+"ZLKRG22"
+]
+},
+"SAMN11867319": {
+"_title": "Microbe sample from Mycobacterium sp.",
+"_comment": "",
+"geo_loc_name": "Brazil: Sao Paulo Zoo",
+"metagenome_source": "lake water metagenome",
+"collection_date": "2012-09/2013-09",
+"isolate": "ZLKRG26",
+"environmental-sample": "TRUE",
+"lat_lon": "23.6497 S 46.6206 W",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the lake water metagenome BioSample: SAMN06640212.",
+"isolation_source": "lake water from Sao Paulo's Zoo",
+"sample_type": "metagenomic assembly",
+"metagenomic": "TRUE",
+"completeness": "94,97",
+"_ids": [
+"SAMN11867319",
+"ZLKRG26"
+]
+},
+"SAMN10386138": {
+"_title": "October 10, brackish river, site MA04",
+"_comment": "",
+"isolate": "MA04_10-10",
+"isolation_source": "brackish river, site MA04",
+"collection_date": "2016-10-10",
+"geo_loc_name": "USA: Mid Atlantic",
+"lat_lon": "not collected",
+"samp_size": "1 L",
+"_ids": [
+"MA04_10-10",
+"SAMN10386138",
+"SRS4022753"
+]
+},
+"SAMN08626525": {
+"_title": "Metagenome or environmental sample from freshwater metagenome",
+"_comment": "",
+"host": "microbes",
+"isolation_source": "not applicable",
+"collection_date": "2015-02-01",
+"geo_loc_name": "China: Linshu, Shandong",
+"lat_lon": "34.52 N 118.43 E",
+"_ids": [
+"S06(fq)",
+"SAMN08626525",
+"SRS3011715"
+]
+},
+"SAMN40438430": {
+"_title": "Microbe sample from Mycobacterium sp.",
+"_comment": "",
+"isolation_source": "wetland soil",
+"collection_date": "2022",
+"geo_loc_name": "USA: North Dakota",
+"lat_lon": "not applicable",
+"isolate_name_alias": "Soil metagenome 132",
+"isolate": "PPR_0132",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "soil metagenome",
+"derived_from": "SAMN40344533",
+"_ids": [
+"PPR_0132",
+"SAMN40438430"
+]
+},
+"SAMN40438429": {
+"_title": "Microbe sample from Mycobacterium sp.",
+"_comment": "",
+"isolation_source": "wetland soil",
+"collection_date": "2022",
+"geo_loc_name": "USA: North Dakota",
+"lat_lon": "not applicable",
+"isolate_name_alias": "Soil metagenome 131",
+"isolate": "PPR_0131",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "soil metagenome",
+"derived_from": "SAMN40344531",
+"_ids": [
+"PPR_0131",
+"SAMN40438429"
+]
+},
+"SAMN40344533": {
+"_title": "Metagenome or environmental sample from soil metagenome",
+"_comment": "water metagenome P8",
+"isolation_source": "wetland soil",
+"collection_date": "2022",
+"geo_loc_name": "USA: North Dakota",
+"lat_lon": "47.098833 N 99.10392 W",
+"_ids": [
+"PPR_0522_P8_water",
+"SAMN40344533",
+"SRS20753273"
+]
+},
+"SAMN40344531": {
+"_title": "Metagenome or environmental sample from soil metagenome",
+"_comment": "water metagenome P7",
+"isolation_source": "wetland soil",
+"collection_date": "2022",
+"geo_loc_name": "USA: North Dakota",
+"lat_lon": "47.096306 N 99.099417 W",
+"_ids": [
+"PPR_0522_P7_water",
+"SAMN40344531",
+"SRS20753271"
+]
+},
+"SAMN12796234": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME27Jul2012-rr0045",
+"_comment": "",
+"collection_date": "2012-07-27",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356311",
+"SAMN12796234",
+"SRS6053658"
+]
+},
+"SAMN12796032": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME19Sep2005-rr0107",
+"_comment": "",
+"collection_date": "2005-09-19",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356343",
+"SAMN12796032",
+"SRS6054096"
+]
+},
+"SAMN12795906": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME16Sep2004-rr0005",
+"_comment": "",
+"collection_date": "2004-09-16",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356296",
+"SAMN12795906",
+"SRS6053648"
+]
+},
+"SAMN12795559": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME16May2013-rr0016",
+"_comment": "",
+"collection_date": "2013-05-16",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356299",
+"SAMN12795559",
+"SRS6053656"
+]
+},
+"SAMN12795196": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME03Oct2011-rr0186",
+"_comment": "",
+"collection_date": "2011-10-03",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356379",
+"SAMN12795196",
+"SRS6054355"
+]
+},
+"SAMN12795195": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME08Jun2014-rr0072",
+"_comment": "",
+"collection_date": "2014-06-08",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356328",
+"SAMN12795195",
+"SRS6054056"
+]
+},
+"SAMN12795194": {
+"_title": "Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States - TYMEFLIES-ME08Jul2016-rr0075",
+"_comment": "",
+"collection_date": "2016-07-08",
+"geo_loc_name": "USA: Wisconsin",
+"lat_lon": "43.0995 N 89.4045 W",
+"isolation_source": "lake water from pelagic integrated epilimnion zone",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Epilimnion/Euphotic zone",
+"env_broad_scale": "freshwater lake biome[ENVO_01000252]",
+"Local Environmental Context": "epilimnion[ENVO_00002131]",
+"env_medium": "lake water[ENVO_04000007]",
+"_ids": [
+"Gp0356329",
+"SAMN12795194",
+"SRS6054058"
+]
+},
+"SAMN40135989": {
+"_title": "MIMAG Metagenome-assembled Genome sample from Mycobacterium sp.",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"collection_date": "2012",
+"depth": "50 cm",
+"env_broad_scale": "ENVO_00000021",
+"env_local_scale": "ENVO_00000021",
+"env_medium": "ENVO_00000021",
+"geo_loc_name": "Romania: Bucura",
+"lat_lon": "45.358317 N 22.876117 E",
+"isolate": "EUL_265",
+"isolation_source": "Freshwater Lakes",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "freshwater metagenome",
+"derived_from": "SAMN38848264",
+"_ids": [
+"EUL_265",
+"SAMN40135989"
+]
+},
+"SAMN40135988": {
+"_title": "MIMAG Metagenome-assembled Genome sample from Mycobacterium sp.",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"collection_date": "2012",
+"depth": "50 cm",
+"env_broad_scale": "ENVO_00000021",
+"env_local_scale": "ENVO_00000021",
+"env_medium": "ENVO_00000021",
+"geo_loc_name": "France: Lac du Tondre",
+"lat_lon": "44.0228 N 1.459364 E",
+"isolate": "EUL_264",
+"isolation_source": "Freshwater Lakes",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "freshwater metagenome",
+"derived_from": "SAMN38848244",
+"_ids": [
+"EUL_264",
+"SAMN40135988"
+]
+},
+"SAMN38848264": {
+"_title": "MIMS Environmental/Metagenome sample from freshwater metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08-15",
+"depth": "0",
+"env_broad_scale": "ENVO_00000021",
+"env_local_scale": "ENVO_00000021",
+"env_medium": "ENVO_00000021",
+"geo_loc_name": "Romania: Bucura",
+"lat_lon": "45.358317 N 22.876117 E",
+"_ids": [
+"EULs_O121RA",
+"SAMN38848264",
+"SRS19867217"
+]
+},
+"SAMN38848244": {
+"_title": "MIMS Environmental/Metagenome sample from freshwater metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08-27",
+"depth": "0",
+"env_broad_scale": "ENVO_00000021",
+"env_local_scale": "ENVO_00000021",
+"env_medium": "ENVO_00000021",
+"geo_loc_name": "France: Lac du Tondre",
+"lat_lon": "44.0228 N 1.459364 E",
+"_ids": [
+"EULd_S271TO",
+"SAMN38848244",
+"SRS19867235"
+]
+},
+"SAMN33588368": {
+"_title": "MIMAG Metagenome-assembled Genome sample from Mycolicibacterium sp.",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"isolation_source": "freshwater lake",
+"collection_date": "2018",
+"geo_loc_name": "USA: Provo, Utah Lake",
+"lat_lon": "40.18856667 N 111.7313142 W",
+"Genome Completeness": "93.46",
+"env_broad_scale": "missing",
+"env_local_scale": "missing",
+"env_medium": "missing",
+"isolate": "P_MYCO4",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "freshwater metagenome",
+"derived_from": "SAMN30661460, SAMN30661461, SAMN30661462",
+"_ids": [
+"P_MYCO4",
+"SAMN33588368"
+]
+},
+"SAMN30661462": {
+"_title": "Metagenome or environmental sample from Bacteria",
+"_comment": "",
+"isolation_source": "Freshwater Lake",
+"collection_date": "2018-07-11",
+"geo_loc_name": "USA: Provo, Utah Lake",
+"lat_lon": "40.18856667 N 111.7313142 W",
+"_ids": [
+"Genomic DNA, Provo, Utah Lake, After Bloom",
+"SAMN30661462",
+"SRS15877450"
+]
+},
+"SAMN30661461": {
+"_title": "Metagenome or environmental sample from Bacteria",
+"_comment": "",
+"isolation_source": "Freshwater Lake",
+"collection_date": "2018-06-12",
+"geo_loc_name": "USA: Provo, Utah Lake",
+"lat_lon": "40.18856667 N 111.7313142 W",
+"_ids": [
+"Genomic DNA, Provo, Utah Lake (During Bloom)",
+"SAMN30661461",
+"SRS15877449"
+]
+},
+"SAMN30661460": {
+"_title": "Metagenome or environmental sample from Bacteria",
+"_comment": "",
+"isolation_source": "Freshwater Lake",
+"collection_date": "2018-05-16",
+"geo_loc_name": "USA: Provo, Utah Lake",
+"lat_lon": "40.18856667 N 111.7313142 W",
+"_ids": [
+"Genomic DNA- Provo Utah Lake (Before bloom)",
+"SAMN30661460",
+"SRS15877448"
+]
+},
+"SAMN37320801": {
+"_title": "Metagenome-assembled genome of Mycobacteriaceae bacterium ELA337, derived from a water column metagenome of Lake 227 (Sep. 2017, 3 m depth)",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"isolate": "ELA337",
+"collection_date": "2017-09-10",
+"depth": "3 m",
+"env_broad_scale": "freshwater lake biom [ENVO:01000252]",
+"env_local_scale": "holomictic lake [ENVO:01000285]|humic lake [ENVO:01001021]|anoxic lake [ENVO:01001072]",
+"env_medium": "fresh water [ENVO:00002011]",
+"geo_loc_name": "Canada: near Kenora, Ontario",
+"isolation_source": "lake water column",
+"lat_lon": "49.69 N 93.69 W",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the Lake 227 (Sep. 2017, 3 m depth) water column metagenome BioSample: SAMN16221728",
+"diss_oxygen": "8.77 mg/L",
+"samp_collect_device": "0.22 um Sterivex filter",
+"temp": "15.2\u00b0C",
+"tot_depth_water_col": "10 m",
+"down_par": "3.76 \u00b5mol/m^2/s",
+"elev": "416 m",
+"lake_name": "Lake 227",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "freshwater metagenome",
+"_ids": [
+"Mycobacteriaceae_bacterium_ELA337_MAG",
+"SAMN37320801"
+]
+},
+"SAMN37320800": {
+"_title": "Metagenome-assembled genome of Mycobacteriaceae bacterium ELA191, derived from a water column metagenome of Lake 227 (Sep. 2017, 3 m depth)",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"isolate": "ELA191",
+"collection_date": "2017-09-10",
+"depth": "3 m",
+"env_broad_scale": "freshwater lake biom [ENVO:01000252]",
+"env_local_scale": "holomictic lake [ENVO:01000285]|humic lake [ENVO:01001021]|anoxic lake [ENVO:01001072]",
+"env_medium": "fresh water [ENVO:00002011]",
+"geo_loc_name": "Canada: near Kenora, Ontario",
+"isolation_source": "lake water column",
+"lat_lon": "49.69 N 93.69 W",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the Lake 227 (Sep. 2017, 3 m depth) water column metagenome BioSample: SAMN16221728",
+"diss_oxygen": "8.77 mg/L",
+"samp_collect_device": "0.22 um Sterivex filter",
+"temp": "15.2\u00b0C",
+"tot_depth_water_col": "10 m",
+"down_par": "3.76 \u00b5mol/m^2/s",
+"elev": "416 m",
+"lake_name": "Lake 227",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "freshwater metagenome",
+"_ids": [
+"Mycobacteriaceae_bacterium_ELA191_MAG",
+"SAMN37320800"
+]
+},
+"SAMN37320463": {
+"_title": "Metagenome-assembled genome of Mycobacteriaceae bacterium ELA354, derived from a water column metagenome of Lake 626 (Sep. 2016, 11 m depth)",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"isolate": "ELA354",
+"collection_date": "2016-09-21",
+"depth": "11 m",
+"env_broad_scale": "freshwater lake biom [ENVO:01000252]",
+"env_local_scale": "holomictic lake [ENVO:01000285]|humic lake [ENVO:01001021]|anoxic lake [ENVO:01001072]",
+"env_medium": "fresh water [ENVO:00002011]",
+"geo_loc_name": "Canada: Ontario",
+"isolation_source": "freshwater from boreal shield lake",
+"lat_lon": "49.7530 N 93.7980 W",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Anoxic zone",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the Lake 626 (Sep. 2016, 11 m depth) water column metagenome BioSample: SAMN08779086",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "freshwater metagenome",
+"_ids": [
+"Mycobacteriaceae_bacterium_ELA354_MAG",
+"SAMN37320463"
+]
+},
+"SAMN37320340": {
+"_title": "Metagenome-assembled genome of Mycobacteriaceae bacterium ELA652, derived from a water column metagenome of Lake 239 (Sep. 2016, 20 m depth)",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"isolate": "ELA652",
+"collection_date": "2016-09-20",
+"depth": "20 m",
+"env_broad_scale": "freshwater lake biom [ENVO:01000252]",
+"env_local_scale": "holomictic lake [ENVO:01000285]|humic lake [ENVO:01001021]",
+"env_medium": "fresh water [ENVO:00002011]",
+"geo_loc_name": "Canada: Ontario",
+"isolation_source": "freshwater from boreal shield lake",
+"lat_lon": "49.6630 N 93.7230 W",
+"GOLD Ecosystem Classification": "Environmental | Aquatic | Freshwater | Lake | Anoxic zone",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the Lake 239 (Sep. 2016, 20 m depth) water column metagenome BioSample: SAMN08779084",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "freshwater metagenome",
+"_ids": [
+"Mycobacteriaceae_bacterium_ELA652_MAG",
+"SAMN37320340"
+]
+},
+"SAMN21174351": {
+"_title": "MIMAG Metagenome-assembled Genome sample from Actinomycetes bacterium",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"collection_date": "2015",
+"env_broad_scale": "anaerobic digester microbiome",
+"env_local_scale": "thermophilic| wastewater treatment plant",
+"env_medium": "Wastewater",
+"geo_loc_name": "USA: Oakland",
+"lat_lon": "missing",
+"isolate": "USOA5_maxbin.032",
+"isolation_source": "thermophilic anaerobic digester",
+"sample_type": "metagenomic assembly",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the thermophilic anaerobic digester metagenome BioSample: SAMN21160436.",
+"metagenomic": "1",
+"environmental-sample": "1",
+"metagenome_source": "anaerobic digester metagenome",
+"_ids": [
+"SAMN21174351",
+"USOA5_maxbin.032"
+]
+},
+"SAMN20447806": {
+"_title": "Actinobacteria bacterium O_S4.2_bin.13",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"collection_date": "2008-12-03",
+"env_broad_scale": "estuarine biome",
+"env_local_scale": "sponge-associated",
+"env_medium": "estuarine water",
+"geo_loc_name": "Netherlands: Oosterschelde estury, Oosterschelde/East",
+"host": "Haliclona oculata",
+"lat_lon": "51.649464 N 3.884753 E",
+"isolate": "O_S4.2_bin.13",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the Halichondria panicea O_S4.2 sponge metagenome BioSample: SAMN20424373.",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "sponge metagenome",
+"isolation_source": "missing",
+"_ids": [
+"Actinobacteria bacterium O_S4.2_bin.13",
+"SAMN20447806"
+]
+},
+"SAMN33999977": {
+"_title": "Microbe sample from Actinomycetota bacterium",
+"_comment": "",
+"isolation_source": "urban river",
+"collection_date": "2018",
+"geo_loc_name": "Germany: Brandenburg, Erpe River",
+"lat_lon": "52.476416 N 13.6257143 E",
+"isolate": "erpe_2018_pw_24hr_WHONDRS-PP48-000093_B_bin.4",
+"ID": "erpe_2018_pw_24hr_WHONDRS-PP48-000093_B_bin.4",
+"derived_from": "This biosample is a metagenome assembled genome (MAG) obtained from the metagenome Biosample: SAMN33846832",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "freshwater metagenome",
+"_ids": [
+"SAMN33999977",
+"erpe_2018_pw_24hr_WHONDRS-PP48-000093_B_bin.4"
+]
+},
+"SAMN33846832": {
+"_title": "Metagenome or environmental sample from freshwater metagenome",
+"_comment": "",
+"isolation_source": "Pore water metagenome hour 24",
+"collection_date": "2018",
+"geo_loc_name": "Germany: Brandenburg, Erpe River",
+"lat_lon": "52.476416 N 13.6257102 E",
+"source_material_id": "erpe_2018_pw_24hr_WHONDRS-PP48-000093",
+"_ids": [
+"SAMN33846832",
+"SRS17174424",
+"erpe_2018_pw_24hr_WHONDRS-PP48-000093"
+]
+},
+"SAMN31727328": {
+"_title": "MIMAG Metagenome-assembled Genome sample from Mycobacteriaceae bacterium",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"collection_date": "2011/2012",
+"depth": "surface",
+"env_broad_scale": "estuarine biome [ENVO: 01000020]",
+"env_local_scale": "estuarine coastal surface layer [ENVO: 01001302]",
+"env_medium": "estuarine water [ENVO: 01000301]",
+"geo_loc_name": "China: the Pearl River Estuary",
+"lat_lon": "not applicable",
+"isolate": "bin79",
+"isolation_source": "Water column in the Pearl River Estuary",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "estuary metagenome",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the estuary metagenome BioSamples: SAMN30788590, SAMN30788591, SAMN30788592, SAMN30788593, SAMN30788594, SAMN30788595, SAMN30788596, SAMN30788597, SAMN30788598, SAMN30788599 and SAMN30788600",
+"_ids": [
+"SAMN31727328",
+"bin79"
+]
+},
+"SAMN31727269": {
+"_title": "MIMAG Metagenome-assembled Genome sample from Mycobacteriaceae bacterium",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"collection_date": "2011/2012",
+"depth": "surface",
+"env_broad_scale": "estuarine biome [ENVO: 01000020]",
+"env_local_scale": "estuarine coastal surface layer [ENVO: 01001302]",
+"env_medium": "estuarine water [ENVO: 01000301]",
+"geo_loc_name": "China: the Pearl River Estuary",
+"lat_lon": "not applicable",
+"isolate": "bin19",
+"isolation_source": "Water column in the Pearl River Estuary",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "estuary metagenome",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the estuary metagenome BioSamples: SAMN30788590, SAMN30788591, SAMN30788592, SAMN30788593, SAMN30788594, SAMN30788595, SAMN30788596, SAMN30788597, SAMN30788598, SAMN30788599 and SAMN30788600",
+"_ids": [
+"SAMN31727269",
+"bin19"
+]
+},
+"SAMN30788600": {
+"_title": "MIMS Environmental/Metagenome sample from estuary metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-10-01",
+"depth": "0",
+"env_broad_scale": "estuarine biome [ENVO: 01000020]",
+"env_local_scale": "estuarine coastal surface layer [ENVO: 01001302]",
+"env_medium": "estuarine water [ENVO: 01000301]",
+"geo_loc_name": "China: the Pearl River Estuary",
+"lat_lon": "21.6236 N 114.417 E",
+"_ids": [
+"PR11",
+"SAMN30788600",
+"SRS15071280"
+]
+},
+"SAMN30788599": {
+"_title": "MIMS Environmental/Metagenome sample from estuary metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-01-03",
+"depth": "0",
+"env_broad_scale": "estuarine biome [ENVO: 01000020]",
+"env_local_scale": "estuarine coastal surface layer [ENVO: 01001302]",
+"env_medium": "estuarine water [ENVO: 01000301]",
+"geo_loc_name": "China: the Pearl River Estuary",
+"lat_lon": "21.94305 N 113.69668333 E",
+"_ids": [
+"PR10",
+"SAMN30788599",
+"SRS15071288"
+]
+},
+"SAMN30788598": {
+"_title": "MIMS Environmental/Metagenome sample from estuary metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-01-03",
+"depth": "0",
+"env_broad_scale": "estuarine biome [ENVO: 01000020]",
+"env_local_scale": "estuarine coastal surface layer [ENVO: 01001302]",
+"env_medium": "estuarine water [ENVO: 01000301]",
+"geo_loc_name": "China: the Pearl River Estuary",
+"lat_lon": "21.95305 N 113.69668333 E",
+"_ids": [
+"PR9",
+"SAMN30788598",
+"SRS15071287"
+]
+},
+"SAMN30788597": {
+"_title": "MIMS Environmental/Metagenome sample from estuary metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-10-01",
+"depth": "0",
+"env_broad_scale": "estuarine biome [ENVO: 01000020]",
+"env_local_scale": "estuarine coastal surface layer [ENVO: 01001302]",
+"env_medium": "estuarine water [ENVO: 01000301]",
+"geo_loc_name": "China: the Pearl River Estuary",
+"lat_lon": "21.9322 N 113.7075 E",
+"_ids": [
+"PR8",
+"SAMN30788597",
+"SRS15071286"
+]
+},
+"SAMN30788596": {
+"_title": "MIMS Environmental/Metagenome sample from estuary metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-01-06",
+"depth": "0",
+"env_broad_scale": "estuarine biome [ENVO: 01000020]",
+"env_local_scale": "estuarine coastal surface layer [ENVO: 01001302]",
+"env_medium": "estuarine water [ENVO: 01000301]",
+"geo_loc_name": "China: the Pearl River Estuary",
+"lat_lon": "22.57053333 N 113.71741666 E",
+"_ids": [
+"PR7",
+"SAMN30788596",
+"SRS15071285"
+]
+},
+"SAMN30788595": {
+"_title": "MIMS Environmental/Metagenome sample from estuary metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2011-06-15",
+"depth": "0",
+"env_broad_scale": "estuarine biome [ENVO: 01000020]",
+"env_local_scale": "estuarine coastal surface layer [ENVO: 01001302]",
+"env_medium": "estuarine water [ENVO: 01000301]",
+"geo_loc_name": "China: the Pearl River Estuary",
+"lat_lon": "21.95165 N 113.70448333 E",
+"_ids": [
+"PR6",
+"SAMN30788595",
+"SRS15071284"
+]
+},
+"SAMN30788594": {
+"_title": "MIMS Environmental/Metagenome sample from estuary metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2011-06-17",
+"depth": "0",
+"env_broad_scale": "estuarine biome [ENVO: 01000020]",
+"env_local_scale": "estuarine coastal surface layer [ENVO: 01001302]",
+"env_medium": "estuarine water [ENVO: 01000301]",
+"geo_loc_name": "China: the Pearl River Estuary",
+"lat_lon": "22.45368333 N 113.75128333 E",
+"_ids": [
+"PR5",
+"SAMN30788594",
+"SRS15071283"
+]
+},
+"SAMN30788593": {
+"_title": "MIMS Environmental/Metagenome sample from estuary metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-01-07",
+"depth": "0",
+"env_broad_scale": "estuarine biome [ENVO: 01000020]",
+"env_local_scale": "estuarine coastal surface layer [ENVO: 01001302]",
+"env_medium": "estuarine water [ENVO: 01000301]",
+"geo_loc_name": "China: the Pearl River Estuary",
+"lat_lon": "23.05466666 N 113.16008333 E",
+"_ids": [
+"PR4",
+"SAMN30788593",
+"SRS15071282"
+]
+},
+"SAMN30788592": {
+"_title": "MIMS Environmental/Metagenome sample from estuary metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2011-06-19",
+"depth": "0",
+"env_broad_scale": "estuarine biome [ENVO: 01000020]",
+"env_local_scale": "estuarine coastal surface layer [ENVO: 01001302]",
+"env_medium": "estuarine water [ENVO: 01000301]",
+"geo_loc_name": "China: the Pearl River Estuary",
+"lat_lon": "22.87745 N 113.57081666 E",
+"_ids": [
+"PR3",
+"SAMN30788592",
+"SRS15071281"
+]
+},
+"SAMN30788591": {
+"_title": "MIMS Environmental/Metagenome sample from estuary metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-01-09",
+"depth": "0",
+"env_broad_scale": "estuarine biome [ENVO: 01000020]",
+"env_local_scale": "estuarine coastal surface layer [ENVO: 01001302]",
+"env_medium": "estuarine water [ENVO: 01000301]",
+"geo_loc_name": "China: the Pearl River Estuary",
+"lat_lon": "23.16115 N 112.8251 E",
+"_ids": [
+"PR2",
+"SAMN30788591",
+"SRS15071279"
+]
+},
+"SAMN30788590": {
+"_title": "MIMS Environmental/Metagenome sample from estuary metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-01-09",
+"depth": "0",
+"env_broad_scale": "estuarine biome [ENVO: 01000020]",
+"env_local_scale": "estuarine coastal surface layer [ENVO: 01001302]",
+"env_medium": "estuarine water [ENVO: 01000301]",
+"geo_loc_name": "China: the Pearl River Estuary",
+"lat_lon": "23.2189 N 112.80683333 E",
+"_ids": [
+"PR1",
+"SAMN30788590",
+"SRS15071278"
+]
+},
+"SAMN28748227": {
+"_title": "SRX1557323",
+"_comment": "missing Keywords: GSC:MIxS;MIMAG:6.0",
+"isolate": "CTOTU6537",
+"collection_date": "2014-05-28",
+"env_broad_scale": "missing",
+"env_local_scale": "missing",
+"env_medium": "sediment; water",
+"geo_loc_name": "Belgium",
+"isolation_source": "sediment; water",
+"lat_lon": "missing",
+"experimental_factor": "missing",
+"omics_observ_id": "missing",
+"ref_biomaterial": "missing",
+"rel_to_oxygen": "missing",
+"samp_collect_device": "missing",
+"samp_mat_process": "missing",
+"samp_size": "missing",
+"size_frac": "missing",
+"source_material_id": "missing",
+"run_accession": "SRR3139094",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "sediment; water metagenome",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the publicly available reads deposited in SRA accessions: SRR3139094",
+"BioProject for reads": "PRJNA309119",
+"_ids": [
+"CTOTU6537",
+"SAMN28748227"
+]
+},
+"SAMN32185174": {
+"_title": "MIMAG Metagenome-assembled Genome sample from Actinomycetota bacterium",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"collection_date": "2013-10",
+"isolation_source": "Caspian sea 150 m depth",
+"geo_loc_name": "Iran: Caspian Sea near Babolsar",
+"lat_lon": "36.852111 N 52.606306 E",
+"depth": "149 \u2013 160",
+"environmental-sample": "TRUE",
+"metagenomic": "TRUE",
+"metagenome_source": "aquatic metagenome",
+"sample_type": "metagenomic assembly",
+"isolate": "casp150-mb.119",
+"env_broad_scale": "aquatic biome",
+"env_local_scale": "Brackish water",
+"env_medium": "water",
+"SRA for reads": "SRR2027830",
+"derived_from": "SAMN03444961",
+"_ids": [
+"SAMN32185174",
+"casp150-mb.119"
+]
+},
+"SAMN30025985": {
+"_title": "MIMAG Metagenome-assembled Genome sample from Mycobacterium sp.",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"collection_date": "2017-10-10",
+"depth": "45 m",
+"env_broad_scale": "lake water column microbiome",
+"env_local_scale": "not applicable",
+"env_medium": "not applicable",
+"geo_loc_name": "France: Besse-et-Saint-Anastaise, Lac Pavin",
+"lat_lon": "45.4990 N 2.8869 E",
+"size_frac": ">0.2 um",
+"isolate": "LacPavin_0818_WC45_MAG_66_12",
+"isolation_source": "lake water column",
+"altitude": "1200 m",
+"sample_type": "metagenomic assembly",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the freshwater metagenome BioSample: SAMN29853481",
+"isolate_name_alias": "LacPavin_0818_WC45_Mycobacterium_66_12",
+"metagenomic": "1",
+"environmental-sample": "1",
+"metagenome_source": "freshwater metagenome",
+"_ids": [
+"LacPavin_0818_WC45_Mycobacterium_66_12",
+"SAMN30025985"
+]
+},
+"SAMN21160436": {
+"_title": "MIMS Environmental/Metagenome sample from anaerobic digester metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2015-02",
+"env_broad_scale": "anaerobic digester microbiome",
+"env_local_scale": "thermophilic| wastewater treatment plant",
+"env_medium": "Wastewater",
+"geo_loc_name": "USA: Oakland",
+"lat_lon": "missing",
+"_ids": [
+"SAMN21160436",
+"SRS9990321",
+"USOA-DNA"
+]
+},
+"SAMN20424373": {
+"_title": "Haliclona oculata sponge metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2008-12-03",
+"env_broad_scale": "estuarine biome",
+"env_local_scale": "sponge-associated",
+"env_medium": "estuarine water",
+"geo_loc_name": "Netherlands: Oosterschelde estury, Oosterschelde/East",
+"host": "Haliclona oculata",
+"lat_lon": "51.649464 N 3.884753 E",
+"host_subject_id": "O_S4.2",
+"isolate": "O_S4.2",
+"_ids": [
+"O_S4.2",
+"SAMN20424373",
+"SRS9606591"
+]
+},
+"SAMN15687566": {
+"_title": "MIMAG Metagenome-assembled Genome sample from Mycolicibacterium sp.",
+"_comment": "metagenomic assembly Keywords: GSC:MIxS;MIMAG:6.0",
+"isolate": "HK-STAS-ACTI-10",
+"collection_date": "2019-02",
+"env_broad_scale": "wastewater",
+"env_local_scale": "waste treatment plant [ENVO:00002272]",
+"env_medium": "sewage plant [ENVO:00003043]",
+"geo_loc_name": "China: Hong Kong Special Administrative Region",
+"isolation_source": "activated sludge from Hong Kong Shatin wastewater treatment plant",
+"lat_lon": "22.38 N 114.20 E",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the Activated sludge metagenome BioSample:SAMN15648910",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "activated sludge metagenome",
+"_ids": [
+"HK-STAS-ACTI-10",
+"SAMN15687566"
+]
+},
+"SAMN15648910": {
+"_title": "MIMAG Metagenome-assembled Genome sample from HK-STAS",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2019-02",
+"env_broad_scale": "[ENVO:00000428]",
+"env_local_scale": "ENVO:00002030",
+"env_medium": "[ENVO:00010483]",
+"geo_loc_name": "China: Hong Kong Special Administrative Region",
+"isolation_source": "activated sludge from Hong Kong Shatin wastewater treatment plant",
+"lat_lon": "22.3771 N 114.1974 E",
+"_ids": [
+"HK-STAS",
+"SAMN15648910",
+"SRS7120088"
+]
+},
+"SAMN14562792": {
+"_title": "ACTI_42",
+"_comment": "Metagenome assembly obtained from the annually co-assembled of metagenome reads (monthly collected activated sludge) under the BioProject: PRJNA432264.",
+"isolation_source": "activated sludge from Shatin waste water treatment plant collected monthly from 2007 through 2015",
+"collection_date": "missing",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"isolate": "HKST-UBA42",
+"completeness_estimated": "98.7",
+"contamination_estimated": "1.7",
+"quality_assessment_method": "CheckM",
+"quality_assessment_method_version": "v1.0.13",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "activated sludge metagenome",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the activated sludge metagenome BioSamples: SAMN08389165, SAMN08389166, SAMN08389167, SAMN08389168, SAMN08389169, SAMN08389170, SAMN08389171, SAMN08389172, SAMN08389173, SAMN08389174, SAMN08389175, SAMN08389176, SAMN08389177, SAMN08389178, SAMN08389179, SAMN08389180, SAMN08389181, SAMN08389182, SAMN08389183, SAMN08389184, SAMN08389185, SAMN08389186, SAMN08389187, SAMN08389188, SAMN08389189, SAMN08389190, SAMN08389191, SAMN08389192, SAMN08389193, SAMN08389194, SAMN08389195, SAMN08389196, SAMN08389197, SAMN08389198, SAMN08389199, SAMN08389200, SAMN08389201, SAMN08389202, SAMN08389203, SAMN08389204, SAMN08389205, SAMN08389206, SAMN08389207, SAMN08389208, SAMN08389209, SAMN08389210, SAMN08389211, SAMN08389212, SAMN08389213, SAMN08389214, SAMN08389215, SAMN08389216, SAMN08389217, SAMN08389218, SAMN08389219, SAMN08389220, SAMN08389221, SAMN08389222, SAMN08389223, SAMN08389224, SAMN08389225, SAMN08389226, SAMN08389227, SAMN08389228, SAM N08389229, SAMN08389230, SAMN08389231, SAMN08389232, SAMN08389233, SAMN08389234, SAMN08389235, SAMN08389236, SAMN08389237, SAMN08389238, SAMN08389239, SAMN08389240, SAMN08389241, SAMN08389242, SAMN08389243, SAMN08389244, SAMN08389245, SAMN08389246, SAMN08389247, SAMN08389248, SAMN08389249, SAMN08389250, SAMN08389251, SAMN08389252, SAMN08389253, SAMN08389254, SAMN08389255, SAMN08389256, SAMN08389257, SAMN08389258, SAMN08389259, SAMN08389260, SAMN08389261, and SAMN08389262",
+"_ids": [
+"Mycobacterium sp. HKST-UBA42",
+"SAMN14562792"
+]
+},
+"SAMN14562789": {
+"_title": "ACTI_39",
+"_comment": "Metagenome assembly obtained from the annually co-assembled of metagenome reads (monthly collected activated sludge) under the BioProject: PRJNA432264.",
+"isolation_source": "activated sludge from Shatin waste water treatment plant collected monthly from 2007 through 2015",
+"collection_date": "missing",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"isolate": "HKST-UBA39",
+"completeness_estimated": "86.3",
+"contamination_estimated": "1.3",
+"quality_assessment_method": "CheckM",
+"quality_assessment_method_version": "v1.0.13",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "activated sludge metagenome",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the activated sludge metagenome BioSamples: SAMN08389165, SAMN08389166, SAMN08389167, SAMN08389168, SAMN08389169, SAMN08389170, SAMN08389171, SAMN08389172, SAMN08389173, SAMN08389174, SAMN08389175, SAMN08389176, SAMN08389177, SAMN08389178, SAMN08389179, SAMN08389180, SAMN08389181, SAMN08389182, SAMN08389183, SAMN08389184, SAMN08389185, SAMN08389186, SAMN08389187, SAMN08389188, SAMN08389189, SAMN08389190, SAMN08389191, SAMN08389192, SAMN08389193, SAMN08389194, SAMN08389195, SAMN08389196, SAMN08389197, SAMN08389198, SAMN08389199, SAMN08389200, SAMN08389201, SAMN08389202, SAMN08389203, SAMN08389204, SAMN08389205, SAMN08389206, SAMN08389207, SAMN08389208, SAMN08389209, SAMN08389210, SAMN08389211, SAMN08389212, SAMN08389213, SAMN08389214, SAMN08389215, SAMN08389216, SAMN08389217, SAMN08389218, SAMN08389219, SAMN08389220, SAMN08389221, SAMN08389222, SAMN08389223, SAMN08389224, SAMN08389225, SAMN08389226, SAMN08389227, SAMN08389228, SAM N08389229, SAMN08389230, SAMN08389231, SAMN08389232, SAMN08389233, SAMN08389234, SAMN08389235, SAMN08389236, SAMN08389237, SAMN08389238, SAMN08389239, SAMN08389240, SAMN08389241, SAMN08389242, SAMN08389243, SAMN08389244, SAMN08389245, SAMN08389246, SAMN08389247, SAMN08389248, SAMN08389249, SAMN08389250, SAMN08389251, SAMN08389252, SAMN08389253, SAMN08389254, SAMN08389255, SAMN08389256, SAMN08389257, SAMN08389258, SAMN08389259, SAMN08389260, SAMN08389261, and SAMN08389262",
+"_ids": [
+"Mycobacterium sp. HKST-UBA39",
+"SAMN14562789"
+]
+},
+"SAMN14562787": {
+"_title": "ACTI_37",
+"_comment": "Metagenome assembly obtained from the annually co-assembled of metagenome reads (monthly collected activated sludge) under the BioProject: PRJNA432264.",
+"isolation_source": "activated sludge from Shatin waste water treatment plant collected monthly from 2007 through 2015",
+"collection_date": "missing",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"isolate": "HKST-UBA37",
+"completeness_estimated": "87.7",
+"contamination_estimated": "2",
+"quality_assessment_method": "CheckM",
+"quality_assessment_method_version": "v1.0.13",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "activated sludge metagenome",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the activated sludge metagenome BioSamples: SAMN08389165, SAMN08389166, SAMN08389167, SAMN08389168, SAMN08389169, SAMN08389170, SAMN08389171, SAMN08389172, SAMN08389173, SAMN08389174, SAMN08389175, SAMN08389176, SAMN08389177, SAMN08389178, SAMN08389179, SAMN08389180, SAMN08389181, SAMN08389182, SAMN08389183, SAMN08389184, SAMN08389185, SAMN08389186, SAMN08389187, SAMN08389188, SAMN08389189, SAMN08389190, SAMN08389191, SAMN08389192, SAMN08389193, SAMN08389194, SAMN08389195, SAMN08389196, SAMN08389197, SAMN08389198, SAMN08389199, SAMN08389200, SAMN08389201, SAMN08389202, SAMN08389203, SAMN08389204, SAMN08389205, SAMN08389206, SAMN08389207, SAMN08389208, SAMN08389209, SAMN08389210, SAMN08389211, SAMN08389212, SAMN08389213, SAMN08389214, SAMN08389215, SAMN08389216, SAMN08389217, SAMN08389218, SAMN08389219, SAMN08389220, SAMN08389221, SAMN08389222, SAMN08389223, SAMN08389224, SAMN08389225, SAMN08389226, SAMN08389227, SAMN08389228, SAM N08389229, SAMN08389230, SAMN08389231, SAMN08389232, SAMN08389233, SAMN08389234, SAMN08389235, SAMN08389236, SAMN08389237, SAMN08389238, SAMN08389239, SAMN08389240, SAMN08389241, SAMN08389242, SAMN08389243, SAMN08389244, SAMN08389245, SAMN08389246, SAMN08389247, SAMN08389248, SAMN08389249, SAMN08389250, SAMN08389251, SAMN08389252, SAMN08389253, SAMN08389254, SAMN08389255, SAMN08389256, SAMN08389257, SAMN08389258, SAMN08389259, SAMN08389260, SAMN08389261, and SAMN08389262",
+"_ids": [
+"Mycobacterium sp. HKST-UBA37",
+"SAMN14562787"
+]
+},
+"SAMN14562785": {
+"_title": "ACTI_35",
+"_comment": "Metagenome assembly obtained from the annually co-assembled of metagenome reads (monthly collected activated sludge) under the BioProject: PRJNA432264.",
+"isolation_source": "activated sludge from Shatin waste water treatment plant collected monthly from 2007 through 2015",
+"collection_date": "missing",
+"geo_loc_name": "China:Hong Kong SAR, Shatin waste water treatment plant",
+"lat_lon": "22.406236 N 114.213394 E",
+"rel_to_oxygen": "aerobe",
+"samp_size": "1.5 ml",
+"isolate": "HKST-UBA35",
+"completeness_estimated": "84.5",
+"contamination_estimated": "2.1",
+"quality_assessment_method": "CheckM",
+"quality_assessment_method_version": "v1.0.13",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "activated sludge metagenome",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the activated sludge metagenome BioSamples: SAMN08389165, SAMN08389166, SAMN08389167, SAMN08389168, SAMN08389169, SAMN08389170, SAMN08389171, SAMN08389172, SAMN08389173, SAMN08389174, SAMN08389175, SAMN08389176, SAMN08389177, SAMN08389178, SAMN08389179, SAMN08389180, SAMN08389181, SAMN08389182, SAMN08389183, SAMN08389184, SAMN08389185, SAMN08389186, SAMN08389187, SAMN08389188, SAMN08389189, SAMN08389190, SAMN08389191, SAMN08389192, SAMN08389193, SAMN08389194, SAMN08389195, SAMN08389196, SAMN08389197, SAMN08389198, SAMN08389199, SAMN08389200, SAMN08389201, SAMN08389202, SAMN08389203, SAMN08389204, SAMN08389205, SAMN08389206, SAMN08389207, SAMN08389208, SAMN08389209, SAMN08389210, SAMN08389211, SAMN08389212, SAMN08389213, SAMN08389214, SAMN08389215, SAMN08389216, SAMN08389217, SAMN08389218, SAMN08389219, SAMN08389220, SAMN08389221, SAMN08389222, SAMN08389223, SAMN08389224, SAMN08389225, SAMN08389226, SAMN08389227, SAMN08389228, SAM N08389229, SAMN08389230, SAMN08389231, SAMN08389232, SAMN08389233, SAMN08389234, SAMN08389235, SAMN08389236, SAMN08389237, SAMN08389238, SAMN08389239, SAMN08389240, SAMN08389241, SAMN08389242, SAMN08389243, SAMN08389244, SAMN08389245, SAMN08389246, SAMN08389247, SAMN08389248, SAMN08389249, SAMN08389250, SAMN08389251, SAMN08389252, SAMN08389253, SAMN08389254, SAMN08389255, SAMN08389256, SAMN08389257, SAMN08389258, SAMN08389259, SAMN08389260, SAMN08389261, and SAMN08389262",
+"_ids": [
+"Mycobacterium sp. HKST-UBA35",
+"SAMN14562785"
+]
+},
+"SAMN19102007": {
+"_title": "MIMAG Metagenome-assembled Genome sample from Mycobacterium sp.",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"collection_date": "2012-10",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "aquarium",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the aquatic metagenome BioSamples: SAMN19070223, SAMN19070224, SAMN19070225,SAMN19070226, SAMN19070227, SAMN19070228, SAMN19070229, SAMN19070230,SAMN19070231, SAMN19070232, SAMN19070233, SAMN19070234, SAMN19070235,SAMN19070236, SAMN19070237, and SAMN19070238.",
+"isolate": "AQU-06",
+"isolation_source": "aquarium",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "aquatic metagenome",
+"_ids": [
+"Mycobacterium sp. AQU-06",
+"SAMN19102007"
+]
+},
+"SAMN19070238": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Freshwater wipes",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "708.501",
+"isolation_source": "aquarium freshwater wipes",
+"_ids": [
+"AQU_1_374",
+"SAMN19070238",
+"SRS8912256"
+]
+},
+"SAMN19070237": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Freshwater wipes",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "707.501",
+"isolation_source": "aquarium freshwater wipes",
+"_ids": [
+"AQU_1_373",
+"SAMN19070237",
+"SRS8912255"
+]
+},
+"SAMN19070236": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Freshwater wipes",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "706.501",
+"isolation_source": "aquarium freshwater wipes",
+"_ids": [
+"AQU_1_372",
+"SAMN19070236",
+"SRS8912254"
+]
+},
+"SAMN19070235": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Freshwater sediment",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "702.501",
+"isolation_source": "aquarium freshwater sediment",
+"_ids": [
+"AQU_1_359",
+"SAMN19070235",
+"SRS8912253"
+]
+},
+"SAMN19070234": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Freshwater sediment",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "708.508",
+"isolation_source": "aquarium freshwater sediment",
+"_ids": [
+"AQU_1_358",
+"SAMN19070234",
+"SRS8912252"
+]
+},
+"SAMN19070233": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Freshwater sediment",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "701.501",
+"isolation_source": "aquarium freshwater sediment",
+"_ids": [
+"AQU_1_357",
+"SAMN19070233",
+"SRS8912251"
+]
+},
+"SAMN19070232": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Freshwater H2O",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "707.508",
+"isolation_source": "aquarium freshwater H2O",
+"_ids": [
+"AQU_1_356",
+"SAMN19070232",
+"SRS8912264"
+]
+},
+"SAMN19070231": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Freshwater H2O",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "706.508",
+"isolation_source": "aquarium freshwater H2O",
+"_ids": [
+"AQU_1_355",
+"SAMN19070231",
+"SRS8912263"
+]
+},
+"SAMN19070230": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Freshwater H2O",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "705.508",
+"isolation_source": "aquarium freshwater H2O",
+"_ids": [
+"AQU_1_354",
+"SAMN19070230",
+"SRS8912262"
+]
+},
+"SAMN19070229": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Cold reef tank sediment",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "704.508",
+"isolation_source": "Cold reef aquarium tank sediment",
+"_ids": [
+"AQU_1_332",
+"SAMN19070229",
+"SRS8912261"
+]
+},
+"SAMN19070228": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Cold reef tank H22",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "703.508",
+"isolation_source": "Cold reef aquarium tank H22",
+"_ids": [
+"AQU_1_329",
+"SAMN19070228",
+"SRS8912260"
+]
+},
+"SAMN19070227": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Cold reef tank H21",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "702.508",
+"isolation_source": "Cold reef aquarium tank H21",
+"_ids": [
+"AQU_1_328",
+"SAMN19070227",
+"SRS8912259"
+]
+},
+"SAMN19070226": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Cold reef tank H20",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "701.508",
+"isolation_source": "Cold reef aquarium tank H20",
+"_ids": [
+"AQU_1_327",
+"SAMN19070226",
+"SRS8912258"
+]
+},
+"SAMN19070225": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Tropical tank sediment",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "705.501",
+"isolation_source": "Tropical aquarium tank sediment",
+"_ids": [
+"AQU_1_84",
+"SAMN19070225",
+"SRS8912257"
+]
+},
+"SAMN19070224": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Tropical tank sediment",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "704.501",
+"isolation_source": "Tropical aquarium tank sediment",
+"_ids": [
+"AQU_1_83",
+"SAMN19070224",
+"SRS8912250"
+]
+},
+"SAMN19070223": {
+"_title": "MIMS Environmental/Metagenome sample from aquatic metagenome",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2012-08",
+"env_broad_scale": "built environment",
+"env_local_scale": "aquarium",
+"env_medium": "Tropical tank sediment",
+"geo_loc_name": "USA:California",
+"lat_lon": "38.53947376 N 121.75472329 W",
+"originalname": "703.501",
+"isolation_source": "Tropical aquarium tank sediment",
+"_ids": [
+"AQU_1_82",
+"SAMN19070223",
+"SRS8912249"
+]
+},
+"SAMN19005952": {
+"_title": "MAG of Mycobacterium sp. in Shunet",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"isolate": "M30B65",
+"collection_date": "2010-07-21",
+"depth": "3",
+"env_broad_scale": "meromictic lake",
+"env_local_scale": "mixolimnion",
+"env_medium": "saline lake water",
+"geo_loc_name": "Russia: Republic of Khakassia, Shirinsky District, Lake Shunet",
+"isolation_source": "3.0 m mixolimnion layer of meromictic lake",
+"lat_lon": "54.25 N 90.13 E",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the Shunet metagenome BioSample: SAMN18740205.",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "salt lake metagenome",
+"_ids": [
+"Mycobacterium M30B65, Shunet",
+"SAMN19005952"
+]
+},
+"SAMN16655405": {
+"_title": "MIMAG Metagenome-assembled Genome sample from Mycolicibacterium sp.",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"isolation_source": "freshwater cyanobacterial bloom",
+"collection_date": "2018-08-11",
+"geo_loc_name": "USA: western arm Lake Superior",
+"lat_lon": "46.89501 N 91.09353 W",
+"isolate": "SupBloom_Metag_022",
+"depth": "0.5",
+"env_broad_scale": "freshwater lake",
+"env_local_scale": "near shore",
+"env_medium": "freshwater",
+"metagenomic": "1",
+"environmental-sample": "1",
+"sample_type": "metagenomic assembly",
+"metagenome_source": "freshwater metagenome",
+"derived_from": "This BioSample is a metagenomic assembly obtained from the freshwater metagenome BioSample: SAMN16200840",
+"_ids": [
+"Bloom_3_met1_014.contigs",
+"SAMN16655405"
+]
+},
+"SAMN16200840": {
+"_title": "Metagenome or environmental sample from freshwater metagenome",
+"_comment": "",
+"isolation_source": "freshwater cyanobacterial bloom 3",
+"collection_date": "2018-08-11",
+"geo_loc_name": "USA: western arm Lake Superior",
+"lat_lon": "46.89501 N 91.09353 W",
+"_ids": [
+"SAMN16200840",
+"SRS7404531",
+"Superior_Bloom_3"
+]
+},
+"SAMN17496201": {
+"_title": "Metagenome Assembled Genome (MAG) of Mycolicibacterium sp.",
+"_comment": "Keywords: GSC:MIxS;MIMAG:6.0",
+"collection_date": "2014-08-28",
+"geo_loc_name": "USA: Delaware Bay",
+"lat_lon": "39.283 N 75.3633 W",
+"isolation_source": "Bay water",
+"depth": "1.27 m",
+"umbrella_bioproject_accession": "PRJNA432171",
+"isolate": "DEBay_Sum019D_L_G_96",
+"env_broad_scale": "estuarine biome [ENVO:01000020]",
+"env_local_scale": "bay [ENVO:00000032]",
+"env_medium": "estuarine water [ENVO:01000301]",
+"sample_type": "metagenomic assembly",
+"derived_from": "This BioSample is a metagenomic co-assembly obtained from the Delaware Bay metagenome BioSample: SAMN06343919 and SAMN06343920",
+"metagenomic": "1",
+"environmental-sample": "1",
+"metagenome_source": "freshwater metagenome",
+"_ids": [
+"DEBay_Sum019D_L_G_96",
+"SAMN17496201"
+]
+},
+"SAMN16221728": {
+"_title": "Lake 227, Sep 2017, 3 m depth",
+"_comment": "Keywords: GSC:MIxS;MIMS:6.0",
+"collection_date": "2017-09-10",
+"depth": "3 m",
+"env_broad_scale": "freshwater lake biom [ENVO:01000252]",
+"env_local_scale": "holomictic lake [ENVO:01000285]|humic lake [ENVO:01001021]|anoxic lake [ENVO:01001072]",
+"env_medium": "fresh water [ENVO:00002011]",
+"geo_loc_name": "Canada: near Kenora, Ontario",
+"lat_lon": "49.69 N 93.69 W",
+"diss_oxygen": "8.77 mg/L",
+"down_par": "3.76 \u00b5mol/m^2/s",
+"elev": "416 m",
+"isolation_source": "lake water column",
+"lake_name": "Lake 227",
+"samp_collect_device": "0.22 um Sterivex filter",
+"temp": "15.2\u00b0C",
+"tot_depth_water_col": "10 m",
+"_ids": [
+"SAMN16221728",
+"SRS7396544",
+"Sep2017-L227-3m"
+]
+}
+}

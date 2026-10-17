@@ -1,0 +1,12 @@
+Feature	Value
+Opsins detected	94
+Opsin length (median, aa)	273 (range 27-297)
+Near-full-length (≥230 aa)	91%
+Retinal-binding lysine (BR K216)	conserved in all full-length opsins
+Proton acceptor (BR D85)	universal
+Proton donor (BR D96) = Glu, canonical DTE pump motif	67%
+Proton-donor-lost (Gly) subclade	28%
+Opsin loci with neighbourhood data	68 (median harbouring contig 21 kb)
+Carotenoid-pathway gene within 10 kb of opsin	0 / 68
+Transposase/integrase within 10 kb of opsin	2 / 68
+Local (opsin ±5 kb) minus genome GC (median)	-1.1 percentage points

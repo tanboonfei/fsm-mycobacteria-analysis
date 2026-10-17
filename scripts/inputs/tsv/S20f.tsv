@@ -1,0 +1,6 @@
+Metric	Opsin-positive median	Opsin-negative median	Mann–Whitney p	Multivariate coefficient	Multivariate p
+N50 (bp)	28437.5	23931	1	-1.539	0.633
+Contigs per Mb	60.9	66.3	0.833	-0.007	0.831
+Completeness (%)	95.35	95.2	0.433	0.15	0.303
+SPIRE size-estimate ratio	1.028	1.033	0.69
+Genome size (Mb)	3.299	3.652	0.0187	-2.189	0.0018

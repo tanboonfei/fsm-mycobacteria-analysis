@@ -1,0 +1,5 @@
+brute-force check: 60 tree/pattern/prior combinations, max abs difference (loglik, node marginals, edge joints) = 1.78e-15
+castor ER check (20 random 30-tip trees): max abs difference in node marginals = 1.24e-03; in loglik (castor root_prior auto = max_likelihood) = 1.95e-03
+asymmetric (gain=loss/10) 30-tip example: max |castor - stationary-prior posterior| = 0.238; castor vs flat-root posterior = 0.238
+simmap check (gain 0.8, loss 0.8; 4000 maps): max |E[loss events] analytic - simmap| = 0.008 (max analytic 0.787); max |P(1->0 endpoints) analytic - simmap| = 0.007
+simmap check (gain 0.2, loss 1.0; 4000 maps): max |E[loss events] analytic - simmap| = 0.008 (max analytic 0.967); max |P(1->0 endpoints) analytic - simmap| = 0.007

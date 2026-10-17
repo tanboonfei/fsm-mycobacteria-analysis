@@ -1,0 +1,2 @@
+genome_id_or_accession	clade	species	genome_size_Mb	completeness_pct_or_genome_class	pseudogenes	rhodopsin	biome	culture_status	new_status	completeness_used_new	checkm2_this_study_completeness_pct
+GCF_001668625.1	SGM	Mycobacterium sp001668625	3.76	100	1	absent		MAG / uncultured	isolate (cultured, draft)	100.0	99.99

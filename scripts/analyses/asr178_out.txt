@@ -1,0 +1,4 @@
+243-genome panel (as published) (243 tips: FSM 96, RGM 97, SGM 50) threshold 0.95/0.05: stem losses 33 (of the 53 clade-wide: 33); expected (sum p_prec*(1-p_crown)) 75.1
+243-genome panel (as published) (243 tips: FSM 96, RGM 97, SGM 50) threshold 0.90/0.10: stem losses 48 (of the 53 clade-wide: 38); expected (sum p_prec*(1-p_crown)) 75.1
+178-genome panel (>=95% complete) (178 tips: FSM 59, RGM 83, SGM 36) threshold 0.95/0.05: stem losses 36 (of the 53 clade-wide: 30); expected (sum p_prec*(1-p_crown)) 76.6
+178-genome panel (>=95% complete) (178 tips: FSM 59, RGM 83, SGM 36) threshold 0.90/0.10: stem losses 49 (of the 53 clade-wide: 39); expected (sum p_prec*(1-p_crown)) 76.6

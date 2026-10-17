@@ -1,0 +1,33 @@
+fsm_oxygenase	nearest_reference	pct_identity	evalue	reference_class
+FSM_00036704	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	29.668	4.18e-47	non-retinal
+FSM_00036881	ACO_Synechocystis_apocarotenoid__P74334	37.787	8.61e-99	retinal-producing on apocarotenoid substrates
+FSM_00138007	ACO_Synechocystis_apocarotenoid__P74334	28.274	1.41e-46	retinal-producing on apocarotenoid substrates
+FSM_00139887	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	27.926	2.92e-44	non-retinal
+FSM_00193483	ACO_Synechocystis_apocarotenoid__P74334	39.829	1.74e-103	retinal-producing on apocarotenoid substrates
+FSM_00688177	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	32.218	2.08e-58	non-retinal
+FSM_00688367	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	28.431	1.8799999999999997e-42	non-retinal
+FSM_00709104	ACO_Synechocystis_apocarotenoid__P74334	33.468	6.4399999999999996e-68	retinal-producing on apocarotenoid substrates
+FSM_00709371	ACO_Synechocystis_apocarotenoid__P74334	33.333	4.48e-69	retinal-producing on apocarotenoid substrates
+FSM_00863569	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	28.516	1.38e-46	non-retinal
+FSM_01040852	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	28.838	1.2800000000000002e-47	non-retinal
+FSM_01093898	ACO_Synechocystis_apocarotenoid__P74334	27.95	1.43e-45	retinal-producing on apocarotenoid substrates
+FSM_01094475	ACO_Synechocystis_apocarotenoid__P74334	29.079	5.9300000000000004e-49	retinal-producing on apocarotenoid substrates
+FSM_01094744	ACO_Synechocystis_apocarotenoid__P74334	38.559	3.13e-102	retinal-producing on apocarotenoid substrates
+FSM_01104972	ACO_Synechocystis_apocarotenoid__P74334	27.178	3.3199999999999996e-45	retinal-producing on apocarotenoid substrates
+FSM_01108626	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	28.684	6.03e-48	non-retinal
+FSM_01108952	ACO_Synechocystis_apocarotenoid__P74334	39.957	1.6099999999999998e-104	retinal-producing on apocarotenoid substrates
+FSM_01117712	ACO_Synechocystis_apocarotenoid__P74334	26.572	2.3e-44	retinal-producing on apocarotenoid substrates
+FSM_01662118	ACO_Synechocystis_apocarotenoid__P74334	38.972	1.91e-100	retinal-producing on apocarotenoid substrates
+FSM_01743952	ACO_Synechocystis_apocarotenoid__P74334	39.53	4.1899999999999995e-104	retinal-producing on apocarotenoid substrates
+FSM_01748689	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	31.875	1.3800000000000002e-64	non-retinal
+FSM_01776406	ACO_Synechocystis_apocarotenoid__P74334	38.841	2.01e-102	retinal-producing on apocarotenoid substrates
+FSM_01882647	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	29.106	1.19e-46	non-retinal
+FSM_01947641	ACO_Synechocystis_apocarotenoid__P74334	27.423	7.45e-45	retinal-producing on apocarotenoid substrates
+FSM_01948467	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	28.571	4.0899999999999996e-48	non-retinal
+FSM_01949386	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	28.656	1.6e-44	non-retinal
+FSM_01949445	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	31.857	3.4e-63	non-retinal
+FSM_01949778	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	28.778	2.61e-58	non-retinal
+FSM_02005306	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	29.019	4.96e-47	non-retinal
+FSM_02028936	NCED3_Arabidopsis_9cis_NONretinal__Q9LRR7	28.333	2.44e-46	non-retinal
+FSM_02088284	ACO_Synechocystis_apocarotenoid__P74334	40.084	4.49e-113	retinal-producing on apocarotenoid substrates
+FSM_02762480	ACO_Synechocystis_apocarotenoid__P74334	37.901	4.43e-98	retinal-producing on apocarotenoid substrates

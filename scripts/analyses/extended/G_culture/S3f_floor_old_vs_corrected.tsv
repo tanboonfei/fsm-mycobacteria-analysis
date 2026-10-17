@@ -1,0 +1,15 @@
+labels	floor	FSM_MAGs	FSM_median	RGM_MAGs	RGM_median	gap	p
+old	none (all MAGs)	134	3.31	259	5.97	2.66	1.1e-52
+old	>= 95%	67	3.36	207	6.05	2.68	9.7e-33
+old	>= 98%	25	3.38	184	6.05	2.67	2.2e-15
+old	>= 99%	14	3.44	181	6.06	2.62	1.3e-09
+old	>= 99.5%	9	3.49	178	6.05	2.57	1e-06
+old	extrapolation FSM	134	0.0282	8.4e-07	3.53	3.43 - 3.64	
+old	extrapolation RGM	259	0.0573	2e-12	6.03	5.90 - 6.16	
+corrected	none (all MAGs)	134	3.31	168	5.91	2.6	7.9e-42
+corrected	>= 95%	67	3.36	116	6.02	2.65	1.9e-26
+corrected	>= 98%	25	3.38	93	6.04	2.66	2.3e-13
+corrected	>= 99%	14	3.44	90	6.04	2.61	1.2e-08
+corrected	>= 99.5%	9	3.49	87	6.04	2.55	4.5e-06
+corrected	extrapolation FSM	134	0.0282	8.4e-07	3.53	3.43 - 3.64	
+corrected	extrapolation RGM	168	0.0534	1.4e-08	5.96	5.78 - 6.14	

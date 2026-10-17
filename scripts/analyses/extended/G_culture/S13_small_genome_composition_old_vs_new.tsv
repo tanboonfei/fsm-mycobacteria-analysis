@@ -1,0 +1,21 @@
+labels	table	category	n
+old	fate of 59 raw-size small non-FSM genomes	MAG, survives	26
+old	fate of 59 raw-size small non-FSM genomes	MAG, completeness <90%	23
+old	fate of 59 raw-size small non-FSM genomes	isolate/closed (retained)	7
+old	fate of 59 raw-size small non-FSM genomes	MAG, corrected size >=4 Mb	3
+old	59 raw-size small non-FSM genomes	GTDB reference MAG	35
+old	59 raw-size small non-FSM genomes	SPIRE MAG	17
+old	59 raw-size small non-FSM genomes	isolate/closed	7
+old	33 corrected small non-FSM genomes	SPIRE MAG	16
+old	33 corrected small non-FSM genomes	GTDB reference MAG	10
+old	33 corrected small non-FSM genomes	isolate/closed	7
+new	fate of 59 raw-size small non-FSM genomes	MAG, survives	25
+new	fate of 59 raw-size small non-FSM genomes	MAG, completeness <90%	23
+new	fate of 59 raw-size small non-FSM genomes	isolate/closed (retained)	8
+new	fate of 59 raw-size small non-FSM genomes	MAG, corrected size >=4 Mb	3
+new	59 raw-size small non-FSM genomes	GTDB MAG	34
+new	59 raw-size small non-FSM genomes	SPIRE MAG	17
+new	59 raw-size small non-FSM genomes	isolate	8
+new	33 corrected small non-FSM genomes	SPIRE MAG	16
+new	33 corrected small non-FSM genomes	GTDB MAG	9
+new	33 corrected small non-FSM genomes	isolate	8

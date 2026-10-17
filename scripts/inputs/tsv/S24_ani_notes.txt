@@ -1,0 +1,1 @@
+Note. Columns: q, query genome; s, subject genome; ani, average nucleotide identity (%); frag, aligned fragments; total, query fragments; cq and cs, the clade of the query and of the subject. fastANI reports only pairs above its internal identity floor, so low-identity pairs are absent by design.

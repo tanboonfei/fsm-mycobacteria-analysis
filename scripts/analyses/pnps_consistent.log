@@ -1,0 +1,19 @@
+FSM Mycobacterium sp018401645    n=13 genes= 80 piS=0.0078 piN=0.0013 piN/piS=0.162
+FSM Mycobacterium sp037138275    n= 7 genes= 80 piS=0.0134 piN=0.0018 piN/piS=0.133
+FSM Mycobacterium sp903911165    n= 7 genes= 80 piS=0.0245 piN=0.0021 piN/piS=0.088
+FSM Mycobacterium sp945897705    n=13 genes= 80 piS=0.0016 piN=0.0001 piN/piS=0.062
+FSM Mycobacterium sp964202555    n=14 genes= 80 piS=0.0050 piN=0.0005 piN/piS=0.106
+RGM Mycobacterium fallax         n= 4 genes= 80 piS=0.0177 piN=0.0020 piN/piS=0.115
+RGM Mycobacterium poriferae      n= 5 genes= 80 piS=0.0227 piN=0.0018 piN/piS=0.078
+RGM Mycobacterium smegmatis      n= 8 genes= 80 piS=0.0266 piN=0.0024 piN/piS=0.090
+RGM Mycobacterium sp020438785    n= 6 genes= 80 piS=0.0294 piN=0.0036 piN/piS=0.121
+RGM Mycobacterium sp020438865    n= 4 genes= 80 piS=0.0045 piN=0.0002 piN/piS=0.050
+RGM Mycobacterium sp964000695    n=24 genes= 80 piS=0.0033 piN=0.0003 piN/piS=0.078
+FSM Mycobacterium sp017853185    n= 3 genes= 80 piS=0.0152 piN=0.0014 piN/piS=0.094
+RGM Mycobacterium phlei          n= 3 genes= 80 piS=0.0081 piN=0.0031 piN/piS=0.387
+
+=== SUMMARY: within-population piN/piS ===
+FSM: 6 populations, median piN/piS = 0.100, values=[0.062, 0.088, 0.094, 0.106, 0.133, 0.162]
+RGM: 7 populations, median piN/piS = 0.090, values=[0.05, 0.078, 0.078, 0.09, 0.115, 0.121, 0.387]
+Mann-Whitney FSM>RGM piN/piS: p=0.360
+-> wrote pnps_popgen.tsv

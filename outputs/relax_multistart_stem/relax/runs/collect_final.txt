@@ -1,0 +1,43 @@
+FSM  published (RELAX 3.1.1, 1 start)                 null -695164.88 alt -695158.57 LRT 12.61 K 1.0438 t 1987 
+LEP  published (RELAX 3.1.1, 1 start)                 null -695034.55 alt -694943.77 LRT 181.55 K 0.7579 t 2573 
+FSM  extended rerun, identical command                  null -695272.42 alt -695272.07 LRT 0.71 K 1.0080 t 2431 
+FSM  extended conditional refit (branch lengths fixed)  null -694918.80 alt None LRT False K None t None null only; same objective
+FSM  R_FSM_s1_sp5                                     null -694852.37 alt -694849.01 LRT 6.73 K 1.0416 t 8776 
+FSM  R_FSM_s2_sp5                                     null -694872.81 alt -694868.64 LRT 8.35 K 1.0376 t 4170 
+FSM  R_FSM_s3_sp5                                     null -694888.26 alt -694883.36 LRT 9.80 K 1.0390 t 3495 
+FSM  R_FSM_s4_sp1                                     null -695158.05 alt -695151.88 LRT 12.34 K 1.0563 t 3179 
+LEP  R_LEP_s1_sp1                                     null -695030.99 alt -694939.57 LRT 182.83 K 0.7717 t 5473 
+LEP  R_LEP_s1_sp5                                     null -695031.48 alt -694939.85 LRT 183.26 K 0.7815 t 4164 
+LEP  R_LEP_s2_sp5                                     null -695039.13 alt -694948.43 LRT 181.39 K 0.7452 t 4135 
+FSM  W_FSM_cond                                       null -694856.24 alt -694860.94 LRT -9.41 K 1.0318 t 7391 
+FSM  W_FSM_xLEPbest                                   null -694856.28 alt -694873.61 LRT -34.66 K 1.0329 t 5525 
+LEP  W_LEP_cond                                       null -695034.32 alt -694942.34 LRT 183.96 K 0.7795 t 7316 
+LEP  W_LEP_xFSMbest                                   null -695035.12 alt -694942.71 LRT 184.81 K 0.7811 t 7424 
+
+FSM  A_FSM_free_fromK1.04         alt (K free)  HyPhy default   start -694851.50 best -694851.29 K 1.0330 (pass1) deltas  finished
+LEP  A_LEP_free_fromK0.76         alt (K free)  HyPhy default   start -694943.62 best -694942.88 K 0.7731 (pass1) deltas +0.74 / -9.18 finished
+LEP  A_LEP_free_fromRrerun        alt (K free)  HyPhy default   start -694939.57 best -694939.57 K 0.7717 (start) deltas -0.67 finished
+FSM  L_FSM_alt                    alt (K free)  HyPhy default   start -694851.29 best -694851.19 K 1.0330 (pass1) deltas +0.10 / -8.49 finished
+FSM  L_FSM_null                   null (K=1)    HyPhy default   start -694854.90 best -694854.84 K 1.0000 (pass1) deltas +0.06 finished
+FSM  L_FSM_sp5alt_cw              alt (K free)  coordinate-wise start -694849.01 best -694848.99 K 1.0416 (pass1) deltas +0.02 finished
+FSM  L_FSM_sp5null_cw             null (K=1)    coordinate-wise start -694852.37 best -694852.34 K 1.0000 (pass1) deltas +0.03 finished
+LEP  L_LEP_ralt_cw                alt (K free)  coordinate-wise start -694939.57 best -694939.57 K 0.7717 (start) deltas -0.63 finished
+LEP  L_LEP_rnull_cw               null (K=1)    coordinate-wise start -695030.99 best -695030.99 K 1.0000 (start) deltas -0.74 finished
+FSM  P_FSM_K0.96                  profile K=0.96 HyPhy default   start -694875.27 best -694866.94 K 0.9600 (pass1) deltas  finished
+FSM  P_FSM_K1.00_fromK1.04        null (K=1)    HyPhy default   start -694857.84 best -694854.90 K 1.0000 (pass1) deltas  finished
+FSM  P_FSM_K1.00_polish           null (K=1)    HyPhy default   start -694856.24 best -694855.94 K 1.0000 (pass1) deltas +0.30 / -22.04 finished
+FSM  P_FSM_K1.04                  profile K=1.04 HyPhy default   start -694855.99 best -694851.50 K 1.0400 (pass1) deltas  finished
+FSM  P_FSM_K1.08_fromK1.04        profile K=1.08 HyPhy default   start -694859.91 best -694854.11 K 1.0800 (pass1) deltas  finished
+LEP  P_LEP_K0.76                  profile K=0.76 HyPhy default   start -694985.51 best -694943.62 K 0.7600 (pass1) deltas  finished
+LEP  P_LEP_K1.00_fromK0.76        null (K=1)    HyPhy default   start -695081.49 best -695033.87 K 1.0000 (pass1) deltas +47.62 / -9.09 finished
+LEP  P_LEP_K1.00_fromRrerun       null (K=1)    HyPhy default   start -695030.99 best -695030.99 K 1.0000 (start) deltas -0.48 finished
+FSM  Q_FSM_K1.01                  profile K=1.01 coordinate-wise start -694852.28 best -694850.86 K 1.0100 (pass1) deltas +1.42 stopped after pass 1 (slow later pass)
+FSM  Q_FSM_K1.02                  profile K=1.02 coordinate-wise start -694850.49 best -694849.82 K 1.0200 (pass1) deltas +0.67 stopped after pass 1 (slow later pass)
+FSM  Q_FSM_K1.06                  profile K=1.065 coordinate-wise start -694850.70 best -694850.02 K 1.0650 (pass1) deltas +0.69 stopped after pass 1 (slow later pass)
+FSM  Q_FSM_K1.08                  profile K=1.08 coordinate-wise start -694853.49 best -694851.73 K 1.0800 (pass1) deltas +1.76 finished
+LEP  Q_LEP_K0.70                  profile K=0.7 coordinate-wise start -694968.36 best -694955.86 K 0.7000 (pass1) deltas +12.50 finished
+LEP  Q_LEP_K0.73                  profile K=0.73 coordinate-wise start -694948.59 best -694945.45 K 0.7300 (pass1) deltas +3.15 finished
+LEP  Q_LEP_K0.81                  profile K=0.81 coordinate-wise start -694945.78 best -694944.39 K 0.8100 (pass1) deltas +1.40 finished
+LEP  Q_LEP_K0.85                  profile K=0.85 coordinate-wise start -694962.89 best -694956.30 K 0.8500 (pass1) deltas +6.59 finished
+FSM  X_FSM_alt_from_sp5null_cw    alt (K free)  coordinate-wise start -694851.12 best -694848.84 K 1.0401 (pass1) deltas +2.28 stopped after pass 1 (slow later pass)
+FSM  X_FSM_null_from_sp5alt_cw    null (K=1)    coordinate-wise start -694854.79 best -694852.37 K 1.0000 (pass1) deltas +2.43 stopped after pass 1 (slow later pass)

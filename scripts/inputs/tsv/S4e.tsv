@@ -1,0 +1,12 @@
+genome	treatment	size_Mb	contigs	prodigal_coding_density_pct	bakta_coding_density_pct	bakta_pseudogenes
+Mycobacterium leprae	intact	3.268	1	68.96	69.1	25
+Mycobacterium leprae	fragmented	3.268	197	69.18	67.8	25
+Mycobacterium leprae	fragmented + 4.4% deleted	3.124	185	68.99	67.7	25
+Mycobacterium lepromatosis	intact	3.272	1	68.61	68.8	20
+Mycobacterium lepromatosis	fragmented	3.272	197	68.9	67.3	23
+Mycobacterium lepromatosis	fragmented + 4.4% deleted	3.126	189	68.88	67.3	23
+Mycobacterium uberis	intact	3.123	54	72.74	72.4	12
+Mycobacterium uberis	fragmented	3.122	243	73.05	70.1	15
+Mycobacterium uberis	fragmented + 4.4% deleted	2.984	233	73.17	70.1	15
+Median change on shredding plus 4.4% deletion: Prodigal coding density +0.27 points, Bakta coding density -1.50 points, pseudogenes +3. The decayers stay at 69-73% coding density and keep their pseudogene load; FSM MAGs sit at 93.6% with a median of 4 pseudogenes. Assembly artefact therefore cannot move a decayed genome into the FSM range.
+The intact-genome row for Mycobacterium leprae here is a separate Bakta run made for this simulation and gives 69.1% coding density with 3,982 CDSs; the primary annotation of the same genome, reported in Table S6e and quoted in the Results, gives 69.2% and 3,984 CDSs. The 0.1-point difference is run-to-run variation in the annotation, not a disagreement between the tables.

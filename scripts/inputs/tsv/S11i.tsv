@@ -1,0 +1,8 @@
+run	omega test	omega reference	ratio	summed test branch length	K	LRT	AICc null minus alternative
+FSM, terminals + stem	0.0907	0.1071	0.85	0.7453	1.0438	12.61	10.61
+FSM, full stem + crown	0.1011	0.1057	0.96	1.4373	1.0462	13.68	11.681
+FSM, stem alone	0.3628	0.1065	3.41	0.0647	0.9398	2.07	0.07
+Leprosy clade, terminals + stem	0.2132	0.1061	2.01	0.3333	0.7579	181.55	179.553
+Leprosy clade, full stem + crown	0.226	0.1057	2.14	0.4651	0.7709	281.89	279.89
+FSM, leprosy-free 489-orthologue panel	0.1032	0.1113	0.93	1.4465	1.0724	303.05	301.055
+The FSM stem alone carries dN/dS 3.4 times the reference, a larger elevation than the leprosy clade's 2.0, on a single branch of summed length 0.065 against 0.333 for the leprosy set. Pooling that branch with the 14 terminals takes the test-set value from 0.363 to 0.091, at or below the reference. Two things limit what the stem value can support: omega on one short branch is estimated from few substitutions and is upward biased, and the RELAX fit on that branch separates null from alternative by an AICc of 0.07. K there is not identified. The elevation is nonetheless the one statistic in this table that points toward relaxed or shifted selection on the branch carrying the reconstructed gene losses, and it is reported for that reason. Distinguishing relaxation from an episode of adaptive change during the niche shift needs a branch-site model, which is not run here.

@@ -1,0 +1,13 @@
+Trait	FSM (this study)	acI / Nanopelagicales (literature)	Acidiparvus / UBA12189 (literature)
+Phylum (family)	Actinomycetota (Mycobacteriaceae)	Actinomycetota (Nanopelagicaceae)	Acidobacteriota (Holophagaceae)
+Median genome size	3.31 Mb	1.2-1.4 Mb	1.12-1.37 Mb
+GC content	67%	40.2-48.6%	44.3-48.7%
+Coding density	93.6%	~95%	92.2-95.3%
+Microbial rhodopsin	77% of genomes (DTE and DTG motifs)	widespread (actinorhodopsin)	all MAGs (proteorhodopsin, DTE motif)
+Retinal supply	carotenoid pathway present; no dedicated retinal-producing oxygenase (Table S23)	carotenoid-to-retinal genes in clades A and B (blh absent from acI-C); retinal and holo-ActR shown by heterologous reconstitution	crt genes absent entirely; source leaves retinal supply open between environmental uptake and an uncharacterised pathway
+Biosynthetic capacity	broad repertoire retained; catabolic and osmotic modules lost	inferred auxotrophic for several vitamins and reduced sulphur; most Ca. Planktophila are amino-acid prototrophs	auxotrophic for most amino acids and several vitamins; fewer membrane transporters than comparable streamlined lineages
+Primary habitat	freshwater (low-salinity association)	freshwater pelagic	circumneutral freshwater lakes and rivers
+Lifestyle	predicted oligotrophic heterotroph; opsin present but retinal supply unproven	oligotrophic photoheterotroph	slow-growing free-living scavenger
+Cultured	no (MAGs)	largely uncultured	no (66 MAGs, one closed genome)
+Position on the reduction trajectory	early: reduced by roughly half, biosynthesis retained, GC unchanged from large-genome relatives	late: extreme reduction, low GC, extensive dependency, retinal pathway retained in clades A and B	late: extreme reduction, low GC, extensive dependency, retinal pathway lost
+FSM values are from this study; acI and Acidiparvus values are drawn from the cited primary studies and are intended as a qualitative trajectory comparison, not a re-analysis.

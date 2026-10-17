@@ -1,0 +1,15 @@
+Counter({'ok': 3793, 'missing': 147, 'ambiguous': 12})
+CC01_RGM taxa 48 codons 21280 OG occupancy {'spire_mag_02519404': 51, 'spire_mag_01620236': 50, 'spire_mag_01620411': 50, 'spire_mag_01619766': 52, 'spire_mag_01623019': 45, 'spire_mag_02002215': 51, 'spire_mag_02003535': 51, 'spire_mag_01619133': 50, 'spire_mag_01620338': 45, 'spire_mag_01623819': 52, 'spire_mag_01621671': 52}
+CC02_RGM taxa 48 codons 21280 OG occupancy {'spire_mag_00841652': 48, 'spire_mag_01733397': 52, 'spire_mag_01586430': 52, 'spire_mag_01586673': 52, 'spire_mag_00907393': 50, 'spire_mag_00560387': 50, 'spire_mag_00488916': 49, 'spire_mag_01100050': 50, 'spire_mag_00079100': 52, 'spire_mag_00080611': 49, 'spire_mag_00907130': 48}
+CC03_RGM taxa 42 codons 21280 OG occupancy {'spire_mag_01197245': 50, 'spire_mag_00975328': 49, 'spire_mag_01196294': 52, 'spire_mag_02374732': 50, 'spire_mag_02371253': 51}
+CC04_RGM taxa 45 codons 21280 OG occupancy {'spire_mag_01585792': 51, 'spire_mag_01586359': 52, 'spire_mag_01585481': 51, 'spire_mag_01585638': 44, 'spire_mag_01586464': 51, 'spire_mag_01586672': 52, 'spire_mag_01585398': 48, 'spire_mag_02200992': 46}
+CC05_RGM taxa 42 codons 21280 OG occupancy {'spire_mag_01276921': 50, 'spire_mag_02186423': 51, 'spire_mag_02516797': 51, 'spire_mag_02521398': 49, 'spire_mag_01784070': 50}
+CC06_RGM taxa 40 codons 21280 OG occupancy {'spire_mag_01882632': 43, 'spire_mag_00487317': 50, 'spire_mag_00518952': 50}
+CC07_RGM taxa 42 codons 21280 OG occupancy {'spire_mag_01124179': 51, 'spire_mag_02293027': 52, 'spire_mag_02300699': 50, 'spire_mag_02295856': 52, 'spire_mag_02306214': 51}
+CC08_RGM taxa 40 codons 21280 OG occupancy {'spire_mag_02293016': 51, 'spire_mag_02307968': 50, 'spire_mag_02300518': 50}
+CC09_RGM taxa 40 codons 21280 OG occupancy {'spire_mag_02166032': 50, 'spire_mag_02294311': 52, 'spire_mag_02299450': 51}
+CC10_SGM taxa 41 codons 21280 OG occupancy {'spire_mag_01168185': 52, 'spire_mag_01603410': 52, 'spire_mag_02370601': 50, 'spire_mag_01825260': 47}
+CC11_SGM taxa 45 codons 21280 OG occupancy {'spire_mag_02394504': 44, 'spire_mag_01733412': 49, 'spire_mag_01882615': 52, 'spire_mag_00709154': 52, 'spire_mag_00709551': 52, 'spire_mag_02683911': 45, 'spire_mag_02882770': 50, 'spire_mag_02837879': 51}
+CC12_SGM taxa 40 codons 21280 OG occupancy {'spire_mag_02001657': 49, 'spire_mag_02001975': 49, 'spire_mag_00184606': 49}
+CC13_SGM taxa 41 codons 21280 OG occupancy {'spire_mag_02374219': 47, 'spire_mag_01787296': 51, 'spire_mag_01585658': 50, 'spire_mag_01586492': 50}
+CC14_SGM taxa 40 codons 21280 OG occupancy {'spire_mag_01168129': 50, 'spire_mag_01603633': 50, 'spire_mag_01603564': 50}

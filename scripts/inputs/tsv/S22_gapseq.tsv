@@ -1,0 +1,5 @@
+clade	n_genomes	mean_complete_pathways_≥80%	median_complete_pathways_≥80%
+SGM	43	383.4	394
+RGM	58	404.1	413
+FSM	88	324.1	329
+Mann–Whitney FSM vs RGM complete-pathway count: p = 1.3e-20

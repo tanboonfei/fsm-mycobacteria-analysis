@@ -1,0 +1,1 @@
+Note. Clade medians over all genomes of each clade. Pairwise tests between clades are in S2b, which uses the SPIRE MAG panel and therefore different medians; coding density in the last column is the uniform Prodigal call used in the text.

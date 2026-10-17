@@ -1,0 +1,295 @@
+
+Analysis Description
+--------------------
+aBSREL (Adaptive branch-site random effects likelihood) uses an adaptive
+random effects branch-site model framework to test whether each branch
+has evolved under positive selection, using a procedure which infers an
+optimal number of rate categories per branch. v2.2 adds support for
+multiple-hit models. v2.3 adds support for SRV. v2.5 adds support for
+ancestral state reconstruction, identification of sites contributing to
+selection signal, and some diagnostics. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__:  Less Is More: An Adaptive Branch-Site Random Effects Model for
+Efficient Detection of Episodic Diversifying Selection (2015). Mol Biol
+Evol 32 (5): 1342-1353. 
+
+- __Written by__: Sergei L Kosakovsky Pond, Ben Murrell, Steven Weaver and Temple iGEM /
+UCSD viral evolution group
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.5
+
+
+>code => Universal
+/path/to/project/analyses/extended/D_relax/inputs/stems_test.nwk
+/path/to/project/analyses/extended/D_relax/inputs/stems_test.nwk
+
+>Loaded a multiple sequence alignment with **37** sequences, **21280** codons, and **1** partitions from `/path/to/project/analyses/extended/D_relax/inputs/three_way.codon.fa`
+
+>branches => Test
+
+>multiple-hits => None
+
+>srv => No
+
+
+### * Selected 2 branches for testing: `IntNode017, IntNode024`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+
+>kill-zero-lengths => Yes
+
+### Deleted 1 zero-length internal branches: `IntNode062`
+* Log(L) = -777464.82, AIC-c = 1555087.64 (79 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  3.337
+
+### Fitting the baseline model with a single dN/dS class per branch, and no site-to-site variation. 
+* Log(L) = -714563.01, AIC-c = 1429434.09 (154 estimated parameters)
+* Branch-level non-synonymous/synonymous rate ratio distribution has median  0.14, and 95% of the weight in  0.04 -  1.14
+
+### Determining the optimal number of rate classes per branch using a step up procedure
+
+|              Branch               |  Length  |  Rates   |     Max. dN/dS     |    Log(L)     |     AIC-c     |Best AIC-c so far|
+|-----------------------------------|----------|----------|--------------------|---------------|---------------|-----------------|
+|        spire_mag_00709062         |   0.25   |    2     |    1.13 (23.08%)   |  -713713.01   |  1427738.09   |   1427738.09    |
+|        spire_mag_00709062         |   0.25   |    3     |   >1000 ( 4.96%)   |  -713680.25   |  1427676.57   |   1427676.57    |
+|        spire_mag_00709062         |   0.25   |    4     |  171.50 ( 4.95%)   |  -713680.38   |  1427680.83   |   1427676.57    |
+|           IntNode003            |   0.22   |    2     |    2.06 ( 7.13%)   |  -713098.58   |  1426517.22   |   1426517.22    |
+|           IntNode003            |   0.22   |    3     |  192.18 ( 2.83%)   |  -713091.13   |  1426506.32   |   1426506.32    |
+|           IntNode003            |   0.22   |    4     |  647.48 ( 2.75%)   |  -713091.15   |  1426510.36   |   1426506.32    |
+|        spire_mag_02598702         |   0.22   |    2     |    1.12 (18.80%)   |  -712418.77   |  1425165.60   |   1425165.60    |
+|        spire_mag_02598702         |   0.22   |    3     |  118.37 ( 2.92%)   |  -712400.04   |  1425132.15   |   1425132.15    |
+|        spire_mag_02598702         |   0.22   |    4     |   >1000 ( 2.83%)   |  -712400.43   |  1425136.92   |   1425132.15    |
+|        spire_mag_01203432         |   0.19   |    2     |    2.86 ( 6.86%)   |  -711815.50   |  1423967.06   |   1423967.06    |
+|        spire_mag_01203432         |   0.19   |    3     |  206.75 ( 3.15%)   |  -711797.55   |  1423935.18   |   1423935.18    |
+|        spire_mag_01203432         |   0.19   |    4     |  221.65 ( 3.15%)   |  -711797.55   |  1423939.18   |   1423935.18    |
+|        spire_mag_02520786         |   0.18   |    2     |    1.95 (17.55%)   |  -710860.13   |  1422064.33   |   1422064.33    |
+|        spire_mag_02520786         |   0.18   |    3     |  205.01 ( 6.12%)   |  -710803.53   |  1421955.13   |   1421955.13    |
+|        spire_mag_02520786         |   0.18   |    4     |   >1000 ( 6.14%)   |  -710803.54   |  1421959.15   |   1421955.13    |
+|           IntNode044            |   0.18   |    2     |    1.31 (15.90%)   |  -710197.42   |  1420746.92   |   1420746.92    |
+|           IntNode044            |   0.18   |    3     |  231.27 ( 3.45%)   |  -710167.52   |  1420691.12   |   1420691.12    |
+|           IntNode044            |   0.18   |    4     |   >1000 ( 3.44%)   |  -710167.53   |  1420695.15   |   1420691.12    |
+|        spire_mag_01198798         |   0.18   |    2     |    2.96 ( 7.51%)   |  -709541.74   |  1419443.55   |   1419443.55    |
+|        spire_mag_01198798         |   0.18   |    3     |   69.89 ( 4.48%)   |  -709533.35   |  1419430.78   |   1419430.78    |
+|        spire_mag_01198798         |   0.18   |    4     |  304.90 ( 3.30%)   |  -709527.48   |  1419423.06   |   1419423.06    |
+|        spire_mag_01198798         |   0.18   |    5     |  236.98 ( 3.42%)   |  -709527.33   |  1419426.74   |   1419423.06    |
+|        spire_mag_01196792         |   0.17   |    2     |    1.14 (10.92%)   |  -709113.92   |  1418599.93   |   1418599.93    |
+|        spire_mag_01196792         |   0.17   |    3     |  389.19 ( 2.32%)   |  -709093.49   |  1418563.06   |   1418563.06    |
+|        spire_mag_01196792         |   0.17   |    4     |   >1000 ( 2.25%)   |  -709093.65   |  1418567.40   |   1418563.06    |
+|           IntNode017            |   0.17   |    2     |    5.67 ( 8.29%)   |  -708386.19   |  1417152.47   |   1417152.47    |
+|           IntNode017            |   0.17   |    3     |   >1000 ( 6.03%)   |  -708343.92   |  1417071.94   |   1417071.94    |
+|           IntNode017            |   0.17   |    4     |   >1000 ( 6.00%)   |  -708343.92   |  1417075.93   |   1417071.94    |
+|        spire_mag_02184890         |   0.16   |    2     |    3.09 ( 6.08%)   |  -707774.47   |  1415937.05   |   1415937.05    |
+|        spire_mag_02184890         |   0.16   |    3     |  312.54 ( 2.80%)   |  -707753.45   |  1415898.99   |   1415898.99    |
+|        spire_mag_02184890         |   0.16   |    4     |  170.64 ( 2.93%)   |  -707753.10   |  1415902.30   |   1415898.99    |
+|        spire_mag_01882647         |   0.16   |    2     |    2.34 ( 8.32%)   |  -707177.72   |  1414751.53   |   1414751.53    |
+|        spire_mag_01882647         |   0.16   |    3     |  254.64 ( 2.60%)   |  -707158.13   |  1414716.36   |   1414716.36    |
+|        spire_mag_01882647         |   0.16   |    4     |  194.64 ( 2.72%)   |  -707158.20   |  1414720.51   |   1414716.36    |
+|           IntNode057            |   0.16   |    2     |    3.45 ( 5.91%)   |  -706556.37   |  1413516.85   |   1413516.85    |
+|           IntNode057            |   0.16   |    3     |   >1000 ( 3.80%)   |  -706550.68   |  1413509.47   |   1413509.47    |
+|           IntNode057            |   0.16   |    4     |   >1000 ( 2.85%)   |  -706545.30   |  1413502.71   |   1413502.71    |
+|           IntNode057            |   0.16   |    5     |   >1000 ( 2.79%)   |  -706545.24   |  1413506.58   |   1413502.71    |
+|           IntNode037            |   0.15   |    2     |    2.64 ( 6.45%)   |  -706045.12   |  1412506.36   |   1412506.36    |
+|           IntNode037            |   0.15   |    3     |   >1000 ( 2.23%)   |  -706031.64   |  1412483.38   |   1412483.38    |
+|           IntNode037            |   0.15   |    4     |  242.88 ( 2.29%)   |  -706031.56   |  1412487.23   |   1412483.38    |
+|        spire_mag_01822855         |   0.14   |    2     |    1.90 ( 5.23%)   |  -705782.07   |  1411988.25   |   1411988.25    |
+|        spire_mag_01822855         |   0.14   |    3     |   >1000 ( 1.30%)   |  -705770.52   |  1411969.15   |   1411969.15    |
+|        spire_mag_01822855         |   0.14   |    4     |  275.47 ( 1.31%)   |  -705770.06   |  1411972.23   |   1411969.15    |
+|           IntNode019            |   0.13   |    2     |   >1000 (11.17%)   |  -704138.60   |  1408709.31   |   1408709.31    |
+|           IntNode019            |   0.13   |    3     |   >1000 (10.86%)   |  -704137.37   |  1408710.87   |   1408709.31    |
+|           IntNode012            |   0.13   |    2     |    2.71 ( 6.50%)   |  -703808.10   |  1408052.33   |   1408052.33    |
+|           IntNode012            |   0.13   |    3     |    3.13 ( 4.92%)   |  -703808.11   |  1408056.35   |   1408052.33    |
+|           IntNode028            |   0.13   |    2     |    1.88 ( 5.57%)   |  -703557.67   |  1407555.47   |   1407555.47    |
+|           IntNode028            |   0.13   |    3     |   >1000 ( 1.63%)   |  -703555.32   |  1407554.77   |   1407554.77    |
+|           IntNode028            |   0.13   |    4     |   >1000 ( 0.97%)   |  -703550.82   |  1407549.76   |   1407549.76    |
+|           IntNode028            |   0.13   |    5     |   >1000 ( 1.04%)   |  -703550.66   |  1407553.45   |   1407549.76    |
+|        spire_mag_01112767         |   0.12   |    2     |    1.05 (13.37%)   |  -703320.16   |  1407092.45   |   1407092.45    |
+|        spire_mag_01112767         |   0.12   |    3     |   >1000 ( 1.17%)   |  -703310.39   |  1407076.91   |   1407076.91    |
+|        spire_mag_01112767         |   0.12   |    4     |  415.27 ( 1.18%)   |  -703310.41   |  1407080.95   |   1407076.91    |
+|        spire_mag_02001409         |   0.12   |    2     |    2.81 ( 5.58%)   |  -703045.53   |  1406551.20   |   1406551.20    |
+|        spire_mag_02001409         |   0.12   |    3     |  346.83 ( 1.61%)   |  -703029.82   |  1406523.78   |   1406523.78    |
+|        spire_mag_02001409         |   0.12   |    4     |  342.16 ( 1.64%)   |  -703029.73   |  1406527.60   |   1406523.78    |
+|              uberis               |   0.12   |    2     |  510.22 ( 4.28%)   |  -702674.25   |  1405816.64   |   1405816.64    |
+|              uberis               |   0.12   |    3     |   >1000 ( 4.03%)   |  -702669.65   |  1405811.44   |   1405811.44    |
+|              uberis               |   0.12   |    4     |  549.70 ( 3.23%)   |  -702664.68   |  1405805.50   |   1405805.50    |
+|              uberis               |   0.12   |    5     |   >1000 ( 3.25%)   |  -702664.62   |  1405809.38   |   1405805.50    |
+|        spire_mag_02088418         |   0.12   |    2     |    0.87 (12.98%)   |  -702496.78   |  1405473.72   |   1405473.72    |
+|        spire_mag_02088418         |   0.12   |    3     |   >1000 ( 0.60%)   |  -702490.12   |  1405464.39   |   1405464.39    |
+|        spire_mag_02088418         |   0.12   |    4     |  723.09 ( 0.82%)   |  -702487.72   |  1405463.58   |   1405463.58    |
+|        spire_mag_02088418         |   0.12   |    5     |  751.68 ( 0.82%)   |  -702487.72   |  1405467.59   |   1405463.58    |
+|        spire_mag_02088284         |   0.11   |    2     |    0.89 (13.31%)   |  -702361.68   |  1405215.52   |   1405215.52    |
+|        spire_mag_02088284         |   0.11   |    3     |  376.64 ( 0.26%)   |  -702360.17   |  1405216.49   |   1405215.52    |
+|           IntNode040            |   0.09   |    2     |    2.48 ( 9.22%)   |  -702067.69   |  1404631.53   |   1404631.53    |
+|           IntNode040            |   0.09   |    3     |    3.98 ( 4.81%)   |  -702066.89   |  1404633.94   |   1404631.53    |
+|           IntNode010            |   0.08   |    2     |    5.17 ( 4.26%)   |  -701817.20   |  1404134.57   |   1404134.57    |
+|           IntNode010            |   0.08   |    3     |   >1000 ( 2.17%)   |  -701809.16   |  1404122.49   |   1404122.49    |
+|           IntNode010            |   0.08   |    4     |   >1000 ( 2.17%)   |  -701809.37   |  1404126.90   |   1404122.49    |
+|           IntNode027            |   0.08   |    2     |    5.40 ( 4.55%)   |  -701492.86   |  1403493.89   |   1403493.89    |
+|           IntNode027            |   0.08   |    3     |    5.89 ( 3.97%)   |  -701492.92   |  1403498.01   |   1403493.89    |
+|           IntNode024            |   0.07   |    2     |   14.20 ( 7.78%)   |  -700673.32   |  1401858.81   |   1401858.81    |
+|           IntNode024            |   0.07   |    3     |   14.21 ( 7.78%)   |  -700673.32   |  1401862.82   |   1401858.81    |
+|           IntNode004            |   0.06   |    2     |   12.00 ( 3.39%)   |  -700362.75   |  1401241.67   |   1401241.67    |
+|           IntNode004            |   0.06   |    3     |   >1000 ( 2.62%)   |  -700359.05   |  1401238.26   |   1401238.26    |
+|           IntNode004            |   0.06   |    4     |  873.23 ( 2.35%)   |  -700356.62   |  1401237.41   |   1401237.41    |
+|           IntNode004            |   0.06   |    5     |   >1000 ( 2.36%)   |  -700356.59   |  1401241.36   |   1401237.41    |
+|           lepromatosis            |   0.05   |    2     |   >1000 ( 2.65%)   |  -699925.91   |  1400380.00   |   1400380.00    |
+|           lepromatosis            |   0.05   |    3     |   >1000 ( 2.62%)   |  -699925.54   |  1400383.25   |   1400380.00    |
+|           IntNode011            |   0.05   |    2     |    3.24 ( 7.06%)   |  -699801.33   |  1400134.84   |   1400134.84    |
+|           IntNode011            |   0.05   |    3     |    6.61 ( 2.87%)   |  -699799.79   |  1400135.76   |   1400134.84    |
+|              leprae               |   0.05   |    2     |   >1000 ( 1.66%)   |  -699615.32   |  1399766.82   |   1399766.82    |
+|              leprae               |   0.05   |    3     |   >1000 ( 1.64%)   |  -699614.84   |  1399769.86   |   1399766.82    |
+|           IntNode053            |   0.04   |    2     |   >1000 ( 3.65%)   |  -699093.62   |  1398727.43   |   1398727.43    |
+|           IntNode053            |   0.04   |    3     |   >1000 ( 3.64%)   |  -699093.56   |  1398731.31   |   1398727.43    |
+|           IntNode008            |   0.04   |    2     |    9.95 ( 3.99%)   |  -698909.57   |  1398363.33   |   1398363.33    |
+|           IntNode008            |   0.04   |    3     |   >1000 ( 1.86%)   |  -698893.00   |  1398334.20   |   1398334.20    |
+|           IntNode008            |   0.04   |    4     |   >1000 ( 1.83%)   |  -698892.78   |  1398337.75   |   1398334.20    |
+|           IntNode005            |   0.03   |    2     |   26.96 ( 3.39%)   |  -698606.33   |  1397764.86   |   1397764.86    |
+|           IntNode005            |   0.03   |    3     |   >1000 ( 2.24%)   |  -698592.02   |  1397740.23   |   1397740.23    |
+|           IntNode005            |   0.03   |    4     |   >1000 ( 2.21%)   |  -698591.68   |  1397743.57   |   1397740.23    |
+|           IntNode007            |   0.03   |    2     |   >1000 ( 1.72%)   |  -698403.26   |  1397366.73   |   1397366.73    |
+|           IntNode007            |   0.03   |    3     |   >1000 ( 1.71%)   |  -698403.20   |  1397370.60   |   1397366.73    |
+|           IntNode035            |   0.02   |    2     |   12.20 ( 3.31%)   |  -698260.07   |  1397084.34   |   1397084.34    |
+|           IntNode035            |   0.02   |    3     |   12.21 ( 3.31%)   |  -698260.07   |  1397088.34   |   1397084.34    |
+|           IntNode054            |   0.02   |    2     |   14.63 ( 3.51%)   |  -698122.64   |  1396813.49   |   1396813.49    |
+|           IntNode054            |   0.02   |    3     |   21.42 ( 2.32%)   |  -698122.08   |  1396816.37   |   1396813.49    |
+|           IntNode006            |   0.02   |    2     |   >1000 ( 1.42%)   |  -697952.03   |  1396476.26   |   1396476.26    |
+|           IntNode006            |   0.02   |    3     |   >1000 ( 1.41%)   |  -697952.28   |  1396480.78   |   1396476.26    |
+|           IntNode026            |   0.02   |    2     |   31.45 ( 1.51%)   |  -697852.28   |  1396280.77   |   1396280.77    |
+|           IntNode026            |   0.02   |    3     |   >1000 ( 1.14%)   |  -697843.68   |  1396267.57   |   1396267.57    |
+|           IntNode026            |   0.02   |    4     |   >1000 ( 1.14%)   |  -697843.61   |  1396271.44   |   1396267.57    |
+|           IntNode025            |   0.02   |    2     |   42.12 ( 1.60%)   |  -697751.09   |  1396086.39   |   1396086.39    |
+|           IntNode025            |   0.02   |    3     |   42.27 ( 1.59%)   |  -697751.09   |  1396090.40   |   1396086.39    |
+|           IntNode052            |   0.02   |    2     |   >1000 ( 0.94%)   |  -697667.07   |  1395922.35   |   1395922.35    |
+|           IntNode052            |   0.02   |    3     |   >1000 ( 0.95%)   |  -697667.06   |  1395926.35   |   1395922.35    |
+|           IntNode034            |   0.02   |    2     |   30.10 ( 1.84%)   |  -697575.10   |  1395742.43   |   1395742.43    |
+|           IntNode034            |   0.02   |    3     |   30.30 ( 1.82%)   |  -697575.10   |  1395746.43   |   1395742.43    |
+|        spire_mag_00492514         |   0.00   |    2     |    0.25 (23.82%)   |  -697575.08   |  1395746.39   |   1395742.43    |
+|        spire_mag_00493620         |   0.00   |    2     |    6.27 ( 3.48%)   |  -697572.79   |  1395741.81   |   1395741.81    |
+|        spire_mag_00493620         |   0.00   |    3     |    8.91 ( 1.75%)   |  -697572.79   |  1395745.81   |   1395741.81    |
+|        spire_mag_02087828         |   0.00   |    2     |    0.12 (47.25%)   |  -697572.79   |  1395745.81   |   1395741.81    |
+|        spire_mag_01753708         |   0.00   |    2     |   42.61 ( 0.26%)   |  -697563.20   |  1395726.63   |   1395726.63    |
+|        spire_mag_01753708         |   0.00   |    3     |   69.56 ( 0.12%)   |  -697563.19   |  1395730.62   |   1395726.63    |
+|           IntNode013            |   0.00   |    2     |   58.81 ( 0.51%)   |  -697550.88   |  1395705.99   |   1395705.99    |
+|           IntNode013            |   0.00   |    3     |   77.32 ( 0.33%)   |  -697550.89   |  1395710.02   |   1395705.99    |
+|        spire_mag_01679848         |   0.00   |    2     |    0.19 (50.56%)   |  -697550.85   |  1395709.93   |   1395705.99    |
+|        spire_mag_02088330         |   0.00   |    2     |   43.27 ( 0.37%)   |  -697546.13   |  1395700.50   |   1395700.50    |
+|        spire_mag_02088330         |   0.00   |    3     |   62.65 ( 0.19%)   |  -697546.13   |  1395704.49   |   1395700.50    |
+|        spire_mag_02088287         |   0.00   |    2     |    0.77 (10.53%)   |  -697546.14   |  1395704.51   |   1395700.50    |
+|        spire_mag_02100063         |   0.00   |    2     |  100.46 ( 0.15%)   |  -697541.34   |  1395694.92   |   1395694.92    |
+|        spire_mag_02100063         |   0.00   |    3     |  175.43 ( 0.06%)   |  -697541.43   |  1395699.10   |   1395694.92    |
+|           IntNode045            |   0.00   |    2     |  262.44 ( 0.03%)   |  -697537.76   |  1395691.77   |   1395691.77    |
+|           IntNode045            |   0.00   |    3     |  265.67 ( 0.03%)   |  -697537.77   |  1395695.78   |   1395691.77    |
+|        spire_mag_02088507         |   0.00   |    2     |    0.19 (75.44%)   |  -697537.75   |  1395695.74   |   1395691.77    |
+|        spire_mag_02292565         |   0.00   |    2     |    0.26 (24.61%)   |  -697537.76   |  1395695.77   |   1395691.77    |
+|        spire_mag_00871125         |   0.00   |    2     |    0.26 (49.59%)   |  -697537.76   |  1395695.77   |   1395691.77    |
+|           IntNode046            |   0.00   |    2     |    0.20 (97.66%)   |  -697537.76   |  1395695.77   |   1395691.77    |
+|        spire_mag_01680964         |   0.00   |    2     |    0.20 (75.21%)   |  -697537.76   |  1395695.77   |   1395691.77    |
+|        spire_mag_00873124         |   0.00   |    2     |    0.25 (48.44%)   |  -697537.76   |  1395695.76   |   1395691.77    |
+|           IntNode029            |   0.00   |    2     |   >1000 ( 0.03%)   |  -697518.08   |  1395656.41   |   1395656.41    |
+|           IntNode029            |   0.00   |    3     |   >1000 ( 0.01%)   |  -697517.16   |  1395658.58   |   1395656.41    |
+|        spire_mag_01678249         |   0.00   |    2     |    2.00 (25.00%)   |  -697518.08   |  1395660.41   |   1395656.41    |
+|           IntNode058            |   0.00   |    2     |    0.19 (50.38%)   |  -697518.08   |  1395660.41   |   1395656.41    |
+|        spire_mag_00874439         |   0.00   |    2     |    0.20 (75.20%)   |  -697518.05   |  1395660.34   |   1395656.41    |
+|        spire_mag_02296681         |   0.00   |    2     |    0.20 (77.31%)   |  -697518.08   |  1395660.41   |   1395656.41    |
+|        spire_mag_02300785         |   0.00   |    2     |    0.00 ( 3.82%)   |  -697518.08   |  1395660.41   |   1395656.41    |
+|           IntNode061            |   0.00   |    2     |    0.00 ( 3.58%)   |  -697518.08   |  1395660.41   |   1395656.41    |
+|           IntNode059            |   0.00   |    2     |    0.00 ( 3.82%)   |  -697518.08   |  1395660.41   |   1395656.41    |
+|        spire_mag_02298516         |   0.00   |    2     |    0.00 ( 4.44%)   |  -697518.08   |  1395660.41   |   1395656.41    |
+|           IntNode060            |   0.00   |    2     |    0.00 ( 3.33%)   |  -697518.08   |  1395660.41   |   1395656.41    |
+|        spire_mag_02305637         |   0.00   |    2     |   0.80 (100.00%)   |  -697518.42   |  1395661.09   |   1395656.41    |
+|        spire_mag_02307626         |   0.00   |    2     |    0.30 (13.57%)   |  -697519.01   |  1395662.28   |   1395656.41    |
+|        spire_mag_02292667         |   0.00   |    2     |    0.26 ( 3.72%)   |  -697518.08   |  1395660.41   |   1395656.41    |
+
+### Rate class analyses summary
+*  18 branches with **3** rate classes
+*  6 branches with **4** rate classes
+*  24 branches with **2** rate classes
+*  22 branches with **1** rate classes
+
+### Improving parameter estimates of the adaptive rate class model
+* Log(L) = -692295.99, AIC-c = 1385212.22 (310 estimated parameters)
+
+### Testing selected branches for selection
+
+|              Branch               |  Rates   |     Max. dN/dS     | Sites @ EBF>=100 |      Test LRT      |Uncorrected p-value |
+|-----------------------------------|----------|--------------------|------------------|--------------------|--------------------|
+|        spire_mag_00709062         |     3    |  283.61 ( 6.59%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode003            |     3    |   31.86 ( 3.65%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02598702         |     3    |  252.81 ( 4.18%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_01203432         |     3    |  285.95 ( 3.53%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02520786         |     3    |   37.47 ( 7.25%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode044            |     3    |  312.39 ( 4.44%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_01198798         |     4    |   39.24 ( 3.14%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_01196792         |     3    |   49.62 ( 1.77%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode017            |     3    |  573.04 ( 4.71%)   |        287       |       177.88       |       0.00000      |
+|        spire_mag_02184890         |     3    |   64.50 ( 3.42%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_01882647         |     3    |  375.13 ( 3.22%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode057            |     4    |   54.20 ( 2.97%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode037            |     3    |  346.25 ( 2.63%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_01822855         |     3    |  431.89 ( 1.11%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode019            |     2    |   >1000 ( 9.50%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode012            |     2    |    2.06 ( 5.65%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode028            |     4    |  494.49 ( 0.88%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_01112767         |     3    |  432.55 ( 1.05%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02001409         |     3    |  589.52 ( 1.38%)   |       N/A        |    Not selected    |    for testing     |
+|              uberis               |     4    |  841.72 ( 3.31%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02088418         |     4    |  542.65 ( 0.77%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02088284         |     2    |    0.64 (15.10%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode040            |     2    |    3.96 ( 4.19%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode010            |     3    |  795.58 ( 1.15%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode027            |     2    |    6.28 ( 3.34%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode024            |     2    |   87.98 ( 4.99%)   |        304       |       519.88       |       0.00000      |
+|           IntNode004            |     4    |  140.42 ( 1.97%)   |       N/A        |    Not selected    |    for testing     |
+|           lepromatosis            |     2    |   >1000 ( 1.45%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode011            |     2    |    7.56 ( 3.11%)   |       N/A        |    Not selected    |    for testing     |
+|              leprae               |     2    |   >1000 ( 1.77%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode053            |     2    |   >1000 ( 3.09%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode008            |     3    |   >1000 ( 1.49%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode005            |     3    |  217.23 ( 1.52%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode007            |     2    |   >1000 ( 1.63%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode035            |     2    |    8.79 ( 2.82%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode054            |     2    |  429.29 ( 1.37%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode006            |     2    |   >1000 ( 1.45%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode026            |     3    |   >1000 ( 0.89%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode025            |     2    |   27.47 ( 1.89%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode052            |     2    |   >1000 ( 1.09%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode034            |     2    |   >1000 ( 0.98%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_00492514         |     1    |   0.06 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_00493620         |     2    |    5.31 ( 2.53%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02087828         |     1    |   0.10 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_01753708         |     2    |   22.39 ( 0.26%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode013            |     2    |   58.82 ( 0.51%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_01679848         |     1    |   0.08 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02088330         |     2    |   32.26 ( 0.40%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02088287         |     1    |   0.07 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02100063         |     2    |  100.61 ( 0.15%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode045            |     2    |  207.76 ( 0.03%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02088507         |     1    |   0.11 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02292565         |     1    |   0.05 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_00871125         |     1    |   0.11 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode046            |     1    |   0.16 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_01680964         |     1    |   0.13 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_00873124         |     1    |   0.11 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode029            |     2    |   >1000 ( 0.02%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_01678249         |     1    |   1.00 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode058            |     1    |   0.08 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_00874439         |     1    |   0.13 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02296681         |     1    |   0.13 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02300785         |     1    |   0.00 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode061            |     1    |   0.00 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode059            |     1    |   0.00 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02298516         |     1    |   0.00 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|           IntNode060            |     1    |   0.00 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02305637         |     1    |  >1000 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02307626         |     1    |  >1000 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+|        spire_mag_02292667         |     1    |   1.00 (100.00%)   |       N/A        |    Not selected    |    for testing     |
+----
+### Adaptive branch site random effects likelihood test 
+Likelihood ratio test for episodic diversifying positive selection at Holm-Bonferroni corrected _p =   0.0500_ found **2** branches under selection among **2** tested.
+
+* IntNode017, p-value =  0.00000
+* IntNode024, p-value =  0.00000

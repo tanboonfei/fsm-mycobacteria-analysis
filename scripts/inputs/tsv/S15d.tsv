@@ -1,0 +1,5 @@
+panel	genomes	cultured isolates included	conserved families	lost clade-wide	% lost
+named gene families, SPIRE MAGs only (reported)	243	0	1245	53	4.3
+MMseqs2 clusters, SPIRE MAGs only (uniform clustering)	243	0	1179	63	5.3
+MMseqs2 clusters, all ingroup genomes (uniform clustering)	822	260	1292	99	7.7
+FSM contains no cultured isolate, and therefore isolates enter only through the other clades. The reported figure, 53 of 1,245 named families on the MAG panel, is the most conservative of the three. An earlier version of these two rows used a clustering in which MAG proteins were Prodigal calls and reference proteins came from the deposited NCBI annotation; on that mixed protein set the same criteria gave 1,325 conserved clusters with 66 lost on the MAG panel and 1,456 with 107 lost across all genomes. Re-calling every genome with Prodigal changes the counts by a few per cent and changes no conclusion.

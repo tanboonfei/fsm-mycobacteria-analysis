@@ -1,0 +1,7 @@
+run	K	LRT	p	relax_version	output_file	sha256	alignment	n_sequences	n_codons	n_sites_nt	n_genes	n_test_branches	n_reference_branches_fitted	n_unclassified_branches
+FSM, terminals + stem	1.0438	12.61	0.000384	3.1.1 (HyPhy 2.5.59)	common_reference_FSM_tips_stem.json	85fdb15e330032d4a69d44375d64ca1980c6d4d2016cf0e8a07e530d65e8242b	three_way.codon.fa	37	21280	63840	52	15	38	17
+FSM, full stem + crown	1.0462	13.68	0.000217	3.1.1 (HyPhy 2.5.59)	common_reference_FSM_full_crown.json	d6da66cf3c8f1350d80b8d96e8d4365a2910ec9c68a03a86e9accb8681580690	three_way.codon.fa	37	21280	63840	52	27	38	5
+Leprosy clade, terminals + stem	0.7579	181.55	<1e-16	3.1.1 (HyPhy 2.5.59)	common_reference_LEP_tips_stem.json	84bf657d6b26222f416df70d9acc2094292f992ca2aea05a450e3417db09e693	three_way.codon.fa	37	21280	63840	52	4	38	28
+Leprosy clade, full stem + crown	0.7709	281.89	<1e-16	3.1.1 (HyPhy 2.5.59)	common_reference_LEP_full_crown.json	d8c686d7c7dba926b75942716bdac1454302ae6e02b79a6c3bb4847170c36228	three_way.codon.fa	37	21280	63840	52	5	38	27
+Corrected design: in every run the 14 RGM and 6 SGM genomes and their internal branches are the reference (39 labelled, one zero-length branch dropped by HyPhy, 38 fitted); the other reduced lineage is left unclassified so it enters neither set. Supersedes the earlier runs in which the other reduced lineage was included in the reference.
+Superseded runs are retained below as S11e and S11f and are labelled as such; the corrected runs above are the only RELAX results reported in the manuscript.

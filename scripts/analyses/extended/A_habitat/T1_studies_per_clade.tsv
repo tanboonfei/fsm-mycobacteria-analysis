@@ -1,0 +1,28 @@
+clade	genome_set	n_genomes	n_species_units	n_studies	n_source_samples	largest_study	largest_study_n	pct_in_largest_study	n_studies_for_50pct	genomes_per_study_median
+FSM	GTDB MAG (NCBI metagenome-derived)	38	38	22	153	Wang_2018_wastewater	5	13.2	6	1.0
+FSM	SPIRE MAG	96	26	23	89	Linz_2018_lake	15	15.6	4	2.0
+RGM	GTDB MAG (NCBI metagenome-derived)	67	67	29	183	PRJNA682830	15	22.4	4	1.0
+RGM	GTDB genome not flagged metagenome-derived	95	95	58	93	PRJNA305922	19	20.0	11	1.0
+RGM	SPIRE MAG	97	42	30	95	TARA_Oceans_protists_metaG	28	28.9	4	1.0
+SGM	GTDB MAG (NCBI metagenome-derived)	70	70	19	145	Ma_2024_soil	37	52.9	1	1.0
+SGM	GTDB genome not flagged metagenome-derived	51	51	16	49	PRJNA305922	30	58.8	1	1.0
+SGM	SPIRE MAG	50	26	21	49	Woodcroft_2018_permafrost	9	18.0	4	1.0
+FSM	all MAG-labelled genomes	134	50	40	240	Linz_2018_lake	15	11.2	7	2.0
+RGM	all MAG-labelled genomes	259	194	116	363	TARA_Oceans_protists_metaG	28	10.8	13	1.0
+SGM	all MAG-labelled genomes	171	137	54	242	Ma_2024_soil	37	21.6	5	1.0
+FSM	true MAGs (SPIRE + NCBI metagenome-derived)	134	50	40	240	Linz_2018_lake	15	11.2	7	2.0
+RGM	true MAGs (SPIRE + NCBI metagenome-derived)	164	99	58	270	TARA_Oceans_protists_metaG	28	17.1	6	1.0
+SGM	true MAGs (SPIRE + NCBI metagenome-derived)	120	86	38	193	Ma_2024_soil	37	30.8	4	1.0
+FSM	S1 biome annotated	94	24	22	87	Linz_2018_lake	15	16.0	4	2.0
+RGM	S1 biome annotated	85	36	26	83	TARA_Oceans_protists_metaG	28	32.9	3	1.0
+SGM	S1 biome annotated	42	23	20	42	Woodcroft_2018_permafrost	9	21.4	5	1.0
+FSM	S1 salinity annotated	77	19	16	71	Linz_2018_lake	15	19.5	3	2.0
+RGM	S1 salinity annotated	32	7	6	32	TARA_Oceans_protists_metaG	27	84.4	1	1.0
+SGM	S1 salinity annotated	3	3	2	3	Shaffer_2021_EMP500	2	66.7	1	1.5
+FSM	salinity = low salinity	57	13	12	55	Linz_2018_lake	15	26.3	3	1.5
+RGM	salinity = low salinity	3	3	3	3	Schneeberger_2019_wastewater	1	33.3	2	1.0
+SGM	salinity = low salinity	3	3	2	3	Shaffer_2021_EMP500	2	66.7	1	1.5
+FSM	salinity = medium salinity	9	3	3	9	Alneberg_2018_marine_baltic	6	66.7	1	2.0
+RGM	salinity = medium salinity	2	2	2	2	PRJEB19235_salt_marshes	1	50.0	1	1.0
+RGM	salinity = high salinity	27	2	1	27	TARA_Oceans_protists_metaG	27	100.0	1	27.0
+FSM	salinity = very high salinity	11	3	1	7	JGI_Salton_Sea_sediment	11	100.0	1	11.0

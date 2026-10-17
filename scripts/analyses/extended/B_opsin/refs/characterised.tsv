@@ -1,0 +1,44 @@
+accession	label	class	note
+P02945	BR_Halobacterium_salinarum	H+ pump (BR)	bacteriorhodopsin
+P96787	AR3_Halorubrum_sodomense	H+ pump (BR)	archaerhodopsin-3
+P94854	CR3_Haloarcula_vallismortis	H+ pump (BR)	cruxrhodopsin-3 (labelled 'Halorhodopsin' in Table S11d)
+B0R2U4	HR_Halobacterium_salinarum	Cl- pump (HR)	halorhodopsin
+P15647	NpHR_Natronomonas_pharaonis	Cl- pump (HR)	halorhodopsin (labelled 'SensoryRhodopsinI' in Table S11d)
+P42196	SRII_Natronomonas_pharaonis	sensory	sensory rhodopsin II
+P0DMH8	SRI_Halobacterium_salinarum	sensory	sensory rhodopsin I
+A0ACD6B968	ASR_Nostoc_PCC7120	sensory	Anabaena sensory rhodopsin
+Q9F7P4	GPR_EBAC31A08	H+ pump (PR)	green proteorhodopsin
+Q9AFF7	BPR_HOT75m4	H+ pump (PR)	blue proteorhodopsin
+Q4FMZ3	PR_Pelagibacter_ubique_HTCC1062	H+ pump (PR)	SAR11 proteorhodopsin
+N0DLS5	KR1_Dokdonia_eikasta	H+ pump (PR)	KR1 proteorhodopsin
+E0WCL9	PR_Vibrio_campbellii	H+ pump (PR)	Vibrio proteorhodopsin
+B1YFV8	ESR_Exiguobacterium_sibiricum	H+ pump	Exiguobacterium sibiricum rhodopsin
+H9ZSC3	TR_Thermus_thermophilus_JL18	H+ pump (XR-like)	Thermus rhodopsin
+Q2S2F8	XR_Salinibacter_ruber	H+ pump (XR)	xanthorhodopsin
+Q7NP59	GR_Gloeobacter_violaceus	H+ pump (XR)	Gloeobacter rhodopsin
+N0DKS8	KR2_Dokdonia_eikasta	Na+ pump (NDQ)	KR2
+W8VZ79	NaR_Nonlabens_marinus	Na+ pump (NDQ)	NM-R2
+W8VZW3	ClR_Nonlabens_marinus	Cl- pump (NTQ)	NM-R3
+A0A060JDQ1	ActR_Rhodoluna_lacicola_MWH-Ta8	actinorhodopsin	RlR, Keffer et al. 2015
+C0K2L3	ActR_Rhodoluna_lacicola	actinorhodopsin	Sharma et al. 2009
+C0K2L2	ActR_Aquiluna_rubra	actinorhodopsin	Sharma et al. 2009
+A0A1D9E0H1	ActR_Rhodoluna_planktonica	actinorhodopsin	Luna cluster
+C0K2L1	ActR_Rhodoluna_planktonica_C0K2L1	actinorhodopsin	Sharma et al. 2009
+C0K2L0	ActR_actinobacterium_MWH-Uga1	actinorhodopsin	Sharma et al. 2009
+C0K2L4	ActR_actinobacterium_MWH-EgelM2-3.D6	actinorhodopsin	Sharma et al. 2009
+A0A7D4UK75	ActR_Aquiluna_borgnonia	actinorhodopsin	Luna cluster
+A0A2L2BPQ7	ActR_Pontimonas_salivibrio	actinorhodopsin	Luna cluster
+S5DM51	ActR_Actinomarina_minuta	actinorhodopsin (marine)	Ca. Actinomarinales
+A0A2R4S913	HeR_48C12	heliorhodopsin	outgroup; Pushkarev et al. 2018
+A0A089ZH82	HeR_Methanobacterium_formicicum	heliorhodopsin	outgroup
+A0A1A9GKZ5	HeR_Nocardioides_dokdonensis	heliorhodopsin	outgroup
+A0A1B1BQ24	HeR_Cryobacterium_arcticum	heliorhodopsin	outgroup
+A0A249JYW0	ActR_acI_Nanopelagicus_limnae	actinorhodopsin (acI, Nanopelagicales)	Nanopelagicales
+A0A249KA66	ActR_acI_Nanopelagicus_hibericus	actinorhodopsin (acI, Nanopelagicales)	Nanopelagicales
+A0A249KFN1	ActR_acI_Planktophila_sulfonica	actinorhodopsin (acI, Nanopelagicales)	Nanopelagicales
+A0A249KS24	ActR_acI_Planktophila_vernalis	actinorhodopsin (acI, Nanopelagicales)	Nanopelagicales
+A0A249L5J3	ActR_acI_Nanopelagicus_abundans	actinorhodopsin (acI, Nanopelagicales)	Nanopelagicales
+A0A249LGS1	ActR_acI_Planktophila_limnetica	actinorhodopsin (acI, Nanopelagicales)	Nanopelagicales
+A0AAD0E3L4	ActR_acI_Planktophila_lacus	actinorhodopsin (acI, Nanopelagicales)	Nanopelagicales
+A0AAD0E4K6	ActR_acI_Planktophila_dulcis	actinorhodopsin (acI, Nanopelagicales)	Nanopelagicales
+A0AAD0E6D2	ActR_acI_Planktophila_versatilis	actinorhodopsin (acI, Nanopelagicales)	Nanopelagicales

@@ -1,0 +1,6 @@
+Function	RGM positive-control prevalence (%)	Query protein (FSM-format accession)	FSM MAGs searched	FSM credible homologs	Homolog-negative MAGs: median completeness (%)	Best non-credible hit (id% / cov%)	Highest-completeness (≥99%) FSM MAGs with gene	Verdict
+Ectoine synthesis (ectC)	59	spire_mag_02520786|JINAII_03123	95	0	95.6	none	0 / 12	Genuine loss
+Nitrate respiration (narG)	49	spire_mag_01620236|JBMOGA_00719	95	1	95.6	82 / 4 (fragment/paralog)	0 / 12	Genuine loss
+Aromatic catabolism (catA)	19	spire_mag_02520786|JINAII_02761	95	0	95.6	33 / 62 (paralog)	0 / 12	Genuine loss
+Urease (ureC)	81	spire_mag_02519404|CNCKGO_00869	95	1	95.6	32 / 28 (paralog)	0 / 12	Genuine loss
+High-affinity Kdp (kdpB)	70	spire_mag_02519404|CNCKGO_01276	95	9 (operon-validated; 12 by loose threshold incl. paralogs)	95.6	44 / 48 (paralogous P-type ATPase)	0 / 12	Strongly reduced, NOT eliminated (Bakta labels catalytic subunit 'ATP-binding subunit')

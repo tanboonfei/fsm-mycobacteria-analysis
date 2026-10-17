@@ -1,0 +1,7 @@
+alrt.treefile | FSM: 100/100/1 | FSM+sister: 100/100/1 | sister alone: 100/98.7/1
+r1_lg.treefile | FSM: 100/100 | FSM+sister: 100/100 | sister alone: 99.8/100
+r3_pmsf_c20.treefile | FSM: 100 | FSM+sister: 100 | sister alone: 100
+r4_fast10.treefile | FSM: 99.9/100 | FSM+sister: 100/100 | sister alone: 99.2/99
+r4_fast20.treefile | FSM: 99.6/100 | FSM+sister: 98.1/100 | sister alone: 92.7/99
+r4_fast30.treefile | FSM: 93/100 | FSM+sister: 90.9/94 | sister alone: NA
+r5_complete.treefile | FSM: 100/100 | FSM+sister: 100/100 | sister alone: 98.2/99

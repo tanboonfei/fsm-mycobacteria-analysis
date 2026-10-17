@@ -1,0 +1,37 @@
+                               unit                 class  n opsin_pos   pct n_studies
+                             genome   photic water column 50        43  86.0        18
+                             genome  transition (10-20 m) 10        10 100.0         3
+                             genome     dark/anoxic water 20        17  85.0         7
+                             genome              sediment 24        21  87.5         5
+                             genome wastewater/engineered 16         2  12.5         6
+                             genome      other/unresolved 14        10  71.4         6
+ species x study x class (majority)   photic water column 27        23  85.2        18
+ species x study x class (majority)  transition (10-20 m)  3         3 100.0         3
+ species x study x class (majority)     dark/anoxic water 10         9  90.0         7
+ species x study x class (majority)              sediment  8         7  87.5         5
+ species x study x class (majority) wastewater/engineered 12         1   8.3         6
+ species x study x class (majority)      other/unresolved 10         6  60.0         6
+                               unit                                                                       contrast a_pos a_n b_pos b_n     OR  CI_lo   CI_hi        p
+                             genome                                    overall: 5 classes (excl. other/unresolved)    NA  NA    NA  NA     NA     NA      NA 4.52e-08
+                             genome overall: 4 natural aquatic classes (photic, transition, dark/anoxic, sediment)    NA  NA    NA  NA     NA     NA      NA 8.01e-01
+                             genome                                                    photic vs dark/anoxic water    43  50    17  20  1.080 0.1620    5.47 1.00e+00
+                             genome                                               photic vs dark/anoxic+transition    43  50    27  30  0.686 0.1050    3.33 7.36e-01
+                             genome                                                             photic vs sediment    43  50    21  24  0.879 0.1330    4.35 1.00e+00
+                             genome                                       photic vs (dark/anoxic water + sediment)    43  50    38  44  0.970 0.2460    3.71 1.00e+00
+                             genome                             all natural aquatic (water+sediment) vs wastewater    91 104     2  16 46.300 9.1600  465.00 2.82e-09
+ species x study x class (majority)                                    overall: 5 classes (excl. other/unresolved)    NA  NA    NA  NA     NA     NA      NA 5.60e-06
+ species x study x class (majority) overall: 4 natural aquatic classes (photic, transition, dark/anoxic, sediment)    NA  NA    NA  NA     NA     NA      NA 1.00e+00
+ species x study x class (majority)                                                    photic vs dark/anoxic water    23  27     9  10  0.646 0.0117    7.82 1.00e+00
+ species x study x class (majority)                                               photic vs dark/anoxic+transition    23  27    12  13  0.487 0.0090    5.69 1.00e+00
+ species x study x class (majority)                                                             photic vs sediment    23  27     7   8  0.826 0.0146   10.40 1.00e+00
+ species x study x class (majority)                                       photic vs (dark/anoxic water + sediment)    23  27    16  18  0.724 0.0588    5.78 1.00e+00
+ species x study x class (majority)                             all natural aquatic (water+sediment) vs wastewater    42  48     1  12 67.900 7.7600 3310.00 3.85e-07
+                             genome                             sensitivity: documented-photic only vs dark/anoxic    30  34    17  20  1.320 0.1720    8.83 1.00e+00
+                             genome                                  sensitivity: photic+transition vs dark/anoxic    53  60    17  20  1.330 0.2000    6.68 7.05e-01
+    species x study x class (Firth)                                         dark/anoxic water + sediment vs photic    16  18    23  27  1.260 0.2470    7.97 7.82e-01
+                                              Mycobacterium sp005789055                                               Mycobacterium sp017853185                                               Mycobacterium sp018401645 
+       "dark/anoxic water + photic water column + transition (10-20 m)"                           "photic water column + wastewater/engineered" "dark/anoxic water + other/unresolved + photic water column + sediment" 
+                                              Mycobacterium sp030836785                                               Mycobacterium sp037141465                                               Mycobacterium sp903877095 
+                                     "sediment + wastewater/engineered"                               "dark/anoxic water + photic water column"                                  "dark/anoxic water + other/unresolved" 
+                                              Mycobacterium sp903911165                                               Mycobacterium sp945897705 
+                                       "photic water column + sediment"                            "photic water column + transition (10-20 m)" 

@@ -1,0 +1,279 @@
+uniprot_accession	set	label	functional_class	organism	phylum	order	family	pos85	pos89	pos96	pos216	motif
+P02945	characterised	BR_Halobacterium_salinarum	H+ pump (BR)	Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1) (Halobacterium halobium)	Methanobacteriota	Halobacteriales	Halobacteriaceae	D	T	D	K	DTD
+P96787	characterised	AR3_Halorubrum_sodomense	H+ pump (BR)	Halorubrum sodomense	Methanobacteriota	Halobacteriales	Haloferacaceae	D	T	D	K	DTD
+P94854	characterised	CR3_Haloarcula_vallismortis	H+ pump (BR)	Haloarcula vallismortis (Halobacterium vallismortis)	Methanobacteriota	Halobacteriales	Haloarculaceae	D	T	D	K	DTD
+B0R2U4	characterised	HR_Halobacterium_salinarum	Cl- pump (HR)	Halobacterium salinarum (strain ATCC 29341 / DSM 671 / R1)	Methanobacteriota	Halobacteriales	Halobacteriaceae	T	S	A	K	TSA
+P15647	characterised	NpHR_Natronomonas_pharaonis	Cl- pump (HR)	Natronomonas pharaonis (Natronobacterium pharaonis)	Methanobacteriota	Halobacteriales	Natronomonadaceae	T	S	A	K	TSA
+P42196	characterised	SRII_Natronomonas_pharaonis	sensory	Natronomonas pharaonis (Natronobacterium pharaonis)	Methanobacteriota	Halobacteriales	Natronomonadaceae	D	T	F	K	DTF
+P0DMH8	characterised	SRI_Halobacterium_salinarum	sensory	Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1) (Halobacterium halobium)	Methanobacteriota	Halobacteriales	Halobacteriaceae	D	T	Y	K	DTY
+A0ACD6B968	characterised	ASR_Nostoc_PCC7120	sensory	Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576)	Cyanobacteriota	Nostocales	Nostocaceae	D	T	S	K	DTS
+Q9F7P4	characterised	GPR_EBAC31A08	H+ pump (PR)	Gamma-proteobacterium EBAC31A08	Pseudomonadota			D	T	E	K	DTE
+Q9AFF7	characterised	BPR_HOT75m4	H+ pump (PR)	Gamma-proteobacterium Hot 75m4	Pseudomonadota			D	T	E	K	DTE
+Q4FMZ3	characterised	PR_Pelagibacter_ubique_HTCC1062	H+ pump (PR)	Pelagibacter ubique (strain HTCC1062)	Pseudomonadota	Candidatus Pelagibacterales	Candidatus Pelagibacteraceae	D	T	E	K	DTE
+N0DLS5	characterised	KR1_Dokdonia_eikasta	H+ pump (PR)	Dokdonia eikasta	Bacteroidota	Flavobacteriales	Flavobacteriaceae	D	T	E	K	DTE
+E0WCL9	characterised	PR_Vibrio_campbellii	H+ pump (PR)	Vibrio campbellii	Pseudomonadota	Vibrionales	Vibrionaceae	D	T	E	K	DTE
+B1YFV8	characterised	ESR_Exiguobacterium_sibiricum	H+ pump	Exiguobacterium artemiae (strain DSM 17290 / CCUG 55495 / CIP 109462 / JCM 13490 / 255-15) (Exiguobacterium sibiricum)	Bacillota	Caryophanales		D	T	K	K	DTK
+H9ZSC3	characterised	TR_Thermus_thermophilus_JL18	H+ pump (XR-like)	Thermus thermophilus JL-18	Deinococcota	Thermales	Thermaceae	D	T	E	K	DTE
+Q2S2F8	characterised	XR_Salinibacter_ruber	H+ pump (XR)	Salinibacter ruber (strain DSM 13855 / M31)	Rhodothermota	Rhodothermales	Salinibacteraceae	D	T	E	K	DTE
+Q7NP59	characterised	GR_Gloeobacter_violaceus	H+ pump (XR)	Gloeobacter violaceus (strain ATCC 29082 / PCC 7421)	Cyanobacteriota	Gloeobacterales	Gloeobacteraceae	D	T	E	K	DTE
+N0DKS8	characterised	KR2_Dokdonia_eikasta	Na+ pump (NDQ)	Dokdonia eikasta	Bacteroidota	Flavobacteriales	Flavobacteriaceae	N	D	Q	K	NDQ
+W8VZ79	characterised	NaR_Nonlabens_marinus	Na+ pump (NDQ)	Nonlabens marinus S1-08	Bacteroidota	Flavobacteriales	Flavobacteriaceae	N	D	Q	K	NDQ
+W8VZW3	characterised	ClR_Nonlabens_marinus	Cl- pump (NTQ)	Nonlabens marinus S1-08	Bacteroidota	Flavobacteriales	Flavobacteriaceae	N	T	Q	K	NTQ
+A0A060JDQ1	characterised	ActR_Rhodoluna_lacicola_MWH-Ta8	actinorhodopsin	Rhodoluna lacicola	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+C0K2L3	characterised	ActR_Rhodoluna_lacicola	actinorhodopsin	Rhodoluna lacicola	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+C0K2L2	characterised	ActR_Aquiluna_rubra	actinorhodopsin	Candidatus Aquiluna rubra	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0A1D9E0H1	characterised	ActR_Rhodoluna_planktonica	actinorhodopsin	Candidatus Rhodoluna planktonica	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+C0K2L1	characterised	ActR_Rhodoluna_planktonica_C0K2L1	actinorhodopsin	Candidatus Rhodoluna planktonica	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+C0K2L0	characterised	ActR_actinobacterium_MWH-Uga1	actinorhodopsin	actinobacterium MWH-Uga1	Actinomycetota			D	T	E	K	DTE
+C0K2L4	characterised	ActR_actinobacterium_MWH-EgelM2-3.D6	actinorhodopsin	actinobacterium MWH-EgelM2-3.D6	Actinomycetota			D	T	E	K	DTE
+A0A7D4UK75	characterised	ActR_Aquiluna_borgnonia	actinorhodopsin	Aquiluna borgnonia	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0A2L2BPQ7	characterised	ActR_Pontimonas_salivibrio	actinorhodopsin	Pontimonas salivibrio	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+S5DM51	characterised	ActR_Actinomarina_minuta	actinorhodopsin (marine)	Candidatus Actinomarina minuta	Actinomycetota	Candidatus Actinomarinales	Candidatus Actinomarinaceae	D	T	E	K	DTE
+A0A2R4S913	characterised	HeR_48C12	heliorhodopsin					E	S	L	K	ESL
+A0A089ZH82	characterised	HeR_Methanobacterium_formicicum	heliorhodopsin					E	S	I	K	ESI
+A0A1A9GKZ5	characterised	HeR_Nocardioides_dokdonensis	heliorhodopsin					E	S	L	K	ESL
+A0A1B1BQ24	characterised	HeR_Cryobacterium_arcticum	heliorhodopsin					E	S	L	K	ESL
+A0A249JYW0	characterised	ActR_acI_Nanopelagicus_limnae	actinorhodopsin (acI, Nanopelagicales)	Candidatus Nanopelagicus limnae	Actinomycetota	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	D	T	E	K	DTE
+A0A249KA66	characterised	ActR_acI_Nanopelagicus_hibericus	actinorhodopsin (acI, Nanopelagicales)	Candidatus Nanopelagicus hibericus	Actinomycetota	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	D	T	E	K	DTE
+A0A249KFN1	characterised	ActR_acI_Planktophila_sulfonica	actinorhodopsin (acI, Nanopelagicales)	Candidatus Planktophila sulfonica	Actinomycetota	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	D	T	E	K	DTE
+A0A249KS24	characterised	ActR_acI_Planktophila_vernalis	actinorhodopsin (acI, Nanopelagicales)	Candidatus Planktophila vernalis	Actinomycetota	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	D	T	E	K	DTE
+A0A249L5J3	characterised	ActR_acI_Nanopelagicus_abundans	actinorhodopsin (acI, Nanopelagicales)	Candidatus Nanopelagicus abundans	Actinomycetota	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	D	T	E	K	DTE
+A0A249LGS1	characterised	ActR_acI_Planktophila_limnetica	actinorhodopsin (acI, Nanopelagicales)	Candidatus Planktophila limnetica	Actinomycetota	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	D	T	E	K	DTE
+A0AAD0E3L4	characterised	ActR_acI_Planktophila_lacus	actinorhodopsin (acI, Nanopelagicales)	Candidatus Planktophila lacus	Actinomycetota	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	D	T	E	K	DTE
+A0AAD0E4K6	characterised	ActR_acI_Planktophila_dulcis	actinorhodopsin (acI, Nanopelagicales)	Candidatus Planktophila dulcis	Actinomycetota	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	D	T	E	K	DTE
+A0AAD0E6D2	characterised	ActR_acI_Planktophila_versatilis	actinorhodopsin (acI, Nanopelagicales)	Candidatus Planktophila versatilis	Actinomycetota	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	D	T	E	K	DTE
+A0A3A5MJY4	background_actino	Rhodopsin		Cryobacterium melibiosiphilum	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A6W8Z2	background_actino	Rhodopsin		Kineococcus radiotolerans (strain ATCC BAA-149 / DSM 14245 / SRS30216)	Actinomycetota	Kineosporiales	Kineosporiaceae	D	T	E	K	DTE
+A0A917EVA4	background_actino	Rhodopsin		Subtercola lobariae	Actinomycetota	Micrococcales	Microbacteriaceae	E	S	E	K	ESE
+A0A021VV84	background_actino	Xanthorhodopsin		Actinotalea ferrariae CF5-4	Actinomycetota	Micrococcales	Cellulomonadaceae	D	T	E	K	DTE
+A0A1H9ANM8	background_actino	Bacteriorhodopsin		Microlunatus flavus	Actinomycetota	Propionibacteriales	Propionibacteriaceae	D	T	E	K	DTE
+A0A1I1RGN0	background_actino	Bacteriorhodopsin		Klenkia taihuensis	Actinomycetota	Geodermatophilales	Geodermatophilaceae	D	T	E	K	DTE
+A0A4Q7LV87	background_actino	Bacteriorhodopsin		Microcella putealis	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0A4R7FLM5	background_actino	Bacteriorhodopsin		Amnibacterium kyonggiense	Actinomycetota	Micrococcales	Microbacteriaceae	D	S	E	K	DSE
+A0A4R8ZY77	background_actino	Rhodopsin		Cryobacterium frigoriphilum	Actinomycetota	Micrococcales	Microbacteriaceae	E	T	E	K	ETE
+A0A4V3ITU0	background_actino	Xanthorhodopsin		Cryobacterium ruanii	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0A7W3IRS6	background_actino	Bacteriorhodopsin		Microlunatus kandeliicorticis	Actinomycetota	Propionibacteriales	Propionibacteriaceae	D	T	E	K	DTE
+A0A7W3PNF2	background_actino	Bacteriorhodopsin		Alpinimonas psychrophila	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0A839EAY5	background_actino	Bacteriorhodopsin		Microcella alkalica	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0A840XJI7	background_actino	Bacteriorhodopsin		Microcella frigidaquae	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0ABF7PQ03	background_actino	Cryorhodopsin		Subtercola endophyticus	Actinomycetota	Micrococcales	Microbacteriaceae	E	S	E	K	ESE
+A0ABN2H6J2	background_actino	Bacteriorhodopsin-like		Microbacterium lacus	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0ABP8E315	background_actino	Bacteriorhodopsin-like		Frondihabitans peucedani	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0ABP8YZL1	background_actino	Rhodopsin		Amnibacterium soli	Actinomycetota	Micrococcales	Microbacteriaceae	D	S	E	K	DSE
+A0ABP8ZIA9	background_actino	Rhodopsin		Amnibacterium soli	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0ABU8M976	background_actino	Bacteriorhodopsin		Actinomycetospora flava	Actinomycetota	Pseudonocardiales	Pseudonocardiaceae	D	T	E	K	DTE
+A0ABU8RPI4	background_actino	Bacteriorhodopsin		Pseudokineococcus basanitobsidens	Actinomycetota	Kineosporiales	Kineosporiaceae	D	T	E	K	DTE
+A0ABV7WLY6	background_actino	Bacteriorhodopsin-like		Aquipuribacter hungaricus	Actinomycetota	Micrococcales	Intrasporangiaceae	D	T	E	K	DTE
+A0ABX8EJF7	background_actino	Green-light absorbing proteorhodopsin		Nocardioides aquaticus	Actinomycetota	Propionibacteriales	Nocardioidaceae	D	T	E	K	DTE
+A0A1C4U5B3	background_actino	Bacteriorhodopsin		Micromonospora marina	Actinomycetota	Micromonosporales	Micromonosporaceae	D	S	A	K	DSA
+A0A1C4Y292	background_actino	Bacteriorhodopsin		Micromonospora mirobrigensis	Actinomycetota	Micromonosporales	Micromonosporaceae	D	S	A	K	DSA
+A0A1C5GKQ6	background_actino	Bacteriorhodopsin		Micromonospora halophytica	Actinomycetota	Micromonosporales	Micromonosporaceae	D	T	A	K	DTA
+A0A1G4YT99	background_actino	Bacteriorhodopsin		Klenkia marina	Actinomycetota	Geodermatophilales	Geodermatophilaceae	D	T	E	K	DTE
+A0A1H6XB79	background_actino	Bacteriorhodopsin		Micromonospora phaseoli	Actinomycetota	Micromonosporales	Micromonosporaceae	D	T	A	K	DTA
+A0A286GUZ6	background_actino	Bacteriorhodopsin		Blastococcus haudaquaticus	Actinomycetota	Geodermatophilales	Geodermatophilaceae	D	T	E	K	DTE
+A0A2C9A2C3	background_actino	Bacteriorhodopsin		Salinibacterium xinjiangense	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0A3G9A0S2	background_actino	Xanthorhodopsin		Nakamurella antarctica	Actinomycetota	Nakamurellales	Nakamurellaceae	D	T	E	K	DTE
+A0A542E5U8	background_actino	Bacteriorhodopsin		Lapillicoccus jejuensis	Actinomycetota	Micrococcales	Intrasporangiaceae	D	T	E	K	DTE
+A0A6P0EV92	background_actino	Bacteriorhodopsin		Modestobacter muralis	Actinomycetota	Geodermatophilales	Geodermatophilaceae	D	T	E	K	DTE
+A0A7W7PWL5	background_actino	Bacteriorhodopsin		Streptomyces griseomycini	Actinomycetota	Kitasatosporales	Streptomycetaceae	D	T	E	K	DTE
+A0A846LRN5	background_actino	Xanthorhodopsin		Modestobacter marinus	Actinomycetota	Geodermatophilales	Geodermatophilaceae	N	D	Q	K	NDQ
+A0A849BUM1	background_actino	Bacteriorhodopsin		Pseudokineococcus marinus	Actinomycetota	Kineosporiales	Kineosporiaceae	N	D	Q	K	NDQ
+A0A9E8S9I6	background_actino	Bacteriorhodopsin		Microcella daejeonensis	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0ABP8Z7N0	background_actino	Bacteriorhodopsin-like		Amnibacterium soli	Actinomycetota	Micrococcales	Microbacteriaceae	D	S	E	K	DSE
+A0ABP8ZIY2	background_actino	Rhodopsin		Amnibacterium soli	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0ABT1GXG4	background_actino	Bacteriorhodopsin-like protein		Williamsia serinedens	Actinomycetota	Mycobacteriales	Nocardiaceae	D	T	E	K	DTE
+A0ABW4LFL3	background_actino	Bacteriorhodopsin		Amnibacterium endophyticum	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0ABW4LHR6	background_actino	Bacteriorhodopsin		Amnibacterium endophyticum	Actinomycetota	Micrococcales	Microbacteriaceae	D	S	E	K	DSE
+D2SCA9	background_actino	Rhodopsin		Geodermatophilus obscurus (strain ATCC 25078 / DSM 43160 / JCM 3152 / CCUG 61914 / KCC A-0152 / KCTC 9177 / NBRC 13315 / NRRL B-3577 / G-20)	Actinomycetota	Geodermatophilales	Geodermatophilaceae	D	T	E	K	DTE
+A0A1C6RQR7	background_actino	Bacteriorhodopsin		Micromonospora nigra	Actinomycetota	Micromonosporales	Micromonosporaceae	D	T	A	K	DTA
+A0A4V3EB42	background_actino	Bacteriorhodopsin-like protein		Amnibacterium kyonggiense	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0A7Y9DX62	background_actino	Bacteriorhodopsin		Actinomycetospora corticicola	Actinomycetota	Pseudonocardiales	Pseudonocardiaceae	D	T	E	K	DTE
+A0A917CLQ4	background_actino	Xanthorhodopsin		Rhodococcoides trifolii	Actinomycetota	Mycobacteriales	Nocardiaceae	D	T	E	K	DTE
+A0A9W5UP48	background_actino	Rhodopsin		Micromonospora sediminimaris	Actinomycetota	Micromonosporales	Micromonosporaceae	D	S	A	K	DSA
+A0ABP6XK90	background_actino	Sensory rhodopsin II		Microlunatus spumicola	Actinomycetota	Propionibacteriales	Propionibacteriaceae	D	T	G	K	DTG
+A0ABP8YVP6	background_actino	Rhodopsin		Amnibacterium soli	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	Q	K	DTQ
+A0ABU2WSY5	background_actino	Bacteriorhodopsin		Micromonospora reichwaldensis	Actinomycetota	Micromonosporales	Micromonosporaceae	D	T	A	K	DTA
+A0ABU8RI44	background_actino	Bacteriorhodopsin		Pseudokineococcus basanitobsidens	Actinomycetota	Kineosporiales	Kineosporiaceae	D	T	E	K	DTE
+A0ABW4LEU0	background_actino	Bacteriorhodopsin		Amnibacterium endophyticum	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0ABY1EHF9	background_actino	Bacteriorhodopsin		Cryobacterium levicorallinum	Actinomycetota	Micrococcales	Microbacteriaceae	E	A	E	K	EAE
+A0ABY6P2U6	background_actino	Bacteriorhodopsin-like		Rhodococcus antarcticus	Actinomycetota	Mycobacteriales	Nocardiaceae	D	T	E	K	DTE
+A0ABY6P3Z1	background_actino	Bacteriorhodopsin-like		Rhodococcus antarcticus	Actinomycetota	Mycobacteriales	Nocardiaceae	D	T	E	K	DTE
+A0ACD1E2V6	background_actino	Bacteriorhodopsin		Curtobacterium aetherium	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+Q1AUE6	background_actino	Rhodopsin		Rubrobacter xylanophilus (strain DSM 9941 / JCM 11954 / NBRC 16129 / PRD-1)	Actinomycetota	Rubrobacterales	Rubrobacteraceae	D	T	D	K	DTD
+A0A1C5K4S8	background_actino	Bacteriorhodopsin		Micromonospora siamensis	Actinomycetota	Micromonosporales	Micromonosporaceae	D	S	A	K	DSA
+A0A1C6VFX7	background_actino	Bacteriorhodopsin		Micromonospora citrea	Actinomycetota	Micromonosporales	Micromonosporaceae	N	D	Q	K	NDQ
+A0A1H2LSK4	background_actino	Bacteriorhodopsin		Microlunatus sagamiharensis	Actinomycetota	Propionibacteriales	Propionibacteriaceae	D	T	E	K	DTE
+A0A239HH55	background_actino	Bacteriorhodopsin		Geodermatophilus pulveris	Actinomycetota	Geodermatophilales	Geodermatophilaceae	D	T	E	K	DTE
+A0A3A1U0D8	background_actino	Rhodopsin		Amnibacterium setariae	Actinomycetota	Micrococcales	Microbacteriaceae	D	S	E	K	DSE
+A0A3A9Z822	background_actino	Lactococcin		Micromonospora endolithica	Actinomycetota	Micromonosporales	Micromonosporaceae	D	S	A	K	DSA
+A0A4V3ECL7	background_actino	Bacteriorhodopsin		Nesterenkonia aurantiaca	Actinomycetota	Micrococcales	Micrococcaceae	D	T	E	K	DTE
+A0A562IFJ8	background_actino	Bacteriorhodopsin		Micromonospora olivasterospora	Actinomycetota	Micromonosporales	Micromonosporaceae	D	T	S	K	DTS
+A0A5C8ZLK0	background_actino	Rhodopsin		Quadrisphaera setariae	Actinomycetota	Kineosporiales	Kineosporiaceae	D	T	E	K	DTE
+A0A6G8QCE4	background_actino	Rhodopsin		Rubrobacter tropicus	Actinomycetota	Rubrobacterales	Rubrobacteraceae	D	T	D	K	DTD
+A0A7K3WHF5	background_actino	Bacteriorhodopsin		Goekera deserti	Actinomycetota	Geodermatophilales	Geodermatophilaceae	D	T	E	K	DTE
+A0ABP6U7T2	background_actino	Rhodopsin		Streptomyces prasinosporus	Actinomycetota	Kitasatosporales	Streptomycetaceae	D	T	E	K	DTE
+A0ABP8W210	background_actino	Bacteriorhodopsin		Frondihabitans cladoniiphilus	Actinomycetota	Micrococcales	Microbacteriaceae	E	T	E	K	ETE
+A0ABV3XEE1	background_actino	Bacteriorhodopsin-like		Geodermatophilus maliterrae	Actinomycetota	Geodermatophilales	Geodermatophilaceae	D	T	E	K	DTE
+A0ABV9LLB2	background_actino	Bacteriorhodopsin		Geodermatophilus arenarius	Actinomycetota	Geodermatophilales	Geodermatophilaceae	D	T	E	K	DTE
+A0ABY2IBE3	background_actino	Rhodopsin		Cryobacterium algoricola	Actinomycetota	Micrococcales	Microbacteriaceae	E	A	E	K	EAE
+A0ABZ0VBH9	background_actino	Bacteriorhodopsin		Microbacterium invictum	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0ACG7EP78	background_actino	Xanthorhodopsin		Arthrobacter agilis	Actinomycetota	Micrococcales	Micrococcaceae	D	T	E	K	DTE
+A0A1I5JCZ6	background_actino	Bacteriorhodopsin		Geodermatophilus dictyosporus	Actinomycetota	Geodermatophilales	Geodermatophilaceae	D	T	E	K	DTE
+A0A1M4T7S7	background_actino	Bacteriorhodopsin		Ferrithrix thermotolerans DSM 19514	Actinomycetota	Acidimicrobiales	Acidimicrobiaceae	D	T	E	K	DTE
+A0A3A1U445	background_actino	Rhodopsin		Amnibacterium setariae	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0A3E0VLV3	background_actino	Rhodopsin		Subtercola boreus	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0A3M0G769	background_actino	Xanthorhodopsin		Tessaracoccus antarcticus	Actinomycetota	Propionibacteriales	Propionibacteriaceae	D	T	E	K	DTE
+A0A4T2BXG2	background_actino	Rhodopsin		Subtercola vilae	Actinomycetota	Micrococcales	Microbacteriaceae	D	T	E	K	DTE
+A0A4T2CD69	background_actino	Rhodopsin		Subtercola vilae	Actinomycetota	Micrococcales	Microbacteriaceae	D	N	E	K	DNE
+A0A6G8PUX7	background_actino	Rhodopsin		Rubrobacter marinus	Actinomycetota	Rubrobacterales	Rubrobacteraceae	D	T	D	K	DTD
+A0A849BUN6	background_actino	Bacteriorhodopsin		Pseudokineococcus marinus	Actinomycetota	Kineosporiales	Kineosporiaceae	D	T	E	K	DTE
+A0A917WPD8	background_actino	Rhodopsin		Nakamurella endophytica	Actinomycetota	Nakamurellales	Nakamurellaceae	D	T	E	K	DTE
+A0A9W5USH6	background_actino	Bacteriorhodopsin		Micromonospora sediminimaris	Actinomycetota	Micromonosporales	Micromonosporaceae	N	D	Q	K	NDQ
+A0ABQ4EQK3	background_actino	Bacteriorhodopsin		Plantactinospora mayteni	Actinomycetota	Micromonosporales	Micromonosporaceae	D	T	A	K	DTA
+A0ABT2GXM6	background_actino	Bacteriorhodopsin-like		Herbiconiux daphne	Actinomycetota	Micrococcales	Microbacteriaceae	G	S	E	K	GSE
+A0ABU5KE82	background_actino	Bacteriorhodopsin		Nocardioides renjunii	Actinomycetota	Propionibacteriales	Nocardioidaceae	D	T	E	K	DTE
+A0ABU8DWD5	background_actino	Bacteriorhodopsin		Klenkia sesuvii	Actinomycetota	Geodermatophilales	Geodermatophilaceae	D	T	E	K	DTE
+A0ABU8E813	background_actino	Bacteriorhodopsin-like		Klenkia terrae	Actinomycetota	Geodermatophilales	Geodermatophilaceae	D	T	E	K	DTE
+A0ABV4I333	background_actino	Bacteriorhodopsin		Kineococcus mangrovi	Actinomycetota	Kineosporiales	Kineosporiaceae	D	T	E	K	DTE
+A0ABW1T397	background_actino	Bacteriorhodopsin-like		Longivirga aurantiaca	Actinomycetota	Sporichthyales	Sporichthyaceae	D	T	E	K	DTE
+Q6J4G7	background_bact	Green-light absorbing proteorhodopsin		Unknown prokaryotic organism				D	T	E	K	DTE
+A0A8B2P212	background_bact	Bacteriorhodopsin		Acuticoccus sediminis	Pseudomonadota	Hyphomicrobiales	Amorphaceae	I	T	S	L	ITS
+A0ABS9KB67	background_bact	Bacteriorhodopsin-like		Rhodohalobacter sulfatireducens	Balneolota	Balneolales	Balneolaceae	D	T	E	K	DTE
+E8QX23	background_bact	Rhodopsin		Isosphaera pallida (strain ATCC 43644 / DSM 9630 / IS1B)	Planctomycetota	Isosphaerales	Isosphaeraceae	D	T	E	K	DTE
+A0A1U7NV99	background_bact	Proteorhodopsin		Deinococcus marmoris	Deinococcota	Deinococcales	Deinococcaceae	D	T	E	K	DTE
+A0A6F8T163	background_bact	Xanthorhodopsin		Legionella antarctica	Pseudomonadota	Legionellales	Legionellaceae	D	T	E	K	DTE
+U2WRE0	background_bact	LPP20 lipoprotein		Candidatus Micropelagius thuwalensis	Pseudomonadota			D	T	E	K	DTE
+A0ABV6R388	background_bact	Bacteriorhodopsin-like		Brevundimonas balnearis	Pseudomonadota	Caulobacterales	Caulobacteraceae	D	T	E	K	DTE
+A0ABW8X909	background_bact	Bacteriorhodopsin		Tolypothrix campylonemoides VB511288_2	Cyanobacteriota	Nostocales	Tolypothrichaceae	D	T	E	K	DTE
+A0ACH3LEE6	background_bact	Bacteriorhodopsin		Deinococcus altitudinis	Deinococcota	Deinococcales	Deinococcaceae	D	T	A	K	DTA
+I0IBH0	background_bact	Hypothetical membrane protein		Phycisphaera mikurensis (strain DSM 103959 / KCTC 22515 / NBRC 102666 / FYK2301M01)	Planctomycetota	Phycisphaerales	Phycisphaeraceae	N	D	S	K	NDS
+A0A2A2SBC3	background_bact	Rhodopsin		Sphingomonas lenta	Pseudomonadota	Sphingomonadales	Sphingomonadaceae	T	T	G	K	TTG
+A0A2S7XS63	background_bact	Rhodopsin		Chromatium okenii	Pseudomonadota	Chromatiales	Chromatiaceae	Y	T	M	K	YTM
+A0A2T0T873	background_bact	Bacteriorhodopsin		Spirosoma oryzae	Bacteroidota	Cytophagales	Cytophagaceae	D	T	T	K	DTT
+A0A418MHC2	background_bact	Rhodopsin		Fibrisoma montanum	Bacteroidota	Cytophagales	Spirosomataceae	D	T	E	K	DTE
+A0A4Q2U3N5	background_bact	Rhodopsin		Lichenibacterium minor	Pseudomonadota	Hyphomicrobiales	Lichenihabitantaceae	D	T	G	K	DTG
+A0A502HCP0	background_bact	Rhodopsin		Hymenobacter nivis	Bacteroidota	Cytophagales	Hymenobacteraceae	D	T	K	K	DTK
+A0A5C6VX47	background_bact	Lactococcin		Metabacillus litoralis	Bacillota	Caryophanales	Bacillaceae	D	T	A	K	DTA
+A0A5R9JAM4	background_bact	Rhodopsin		Lichenicoccus roseus	Pseudomonadota	Acetobacterales	Acetobacteraceae	D	T	T	K	DTT
+A0A5S9IPH6	background_bact	Xanthorhodopsin		Uabimicrobium amorphum	Planctomycetota	Candidatus Uabimicrobiales	Candidatus Uabimicrobiaceae	D	T	K	K	DTK
+A0A7L5DT13	background_bact	Bacteriorhodopsin		Spirosoma rhododendri	Bacteroidota	Cytophagales	Cytophagaceae	D	T	K	K	DTK
+A0A840I3S2	background_bact	Bacteriorhodopsin		Parvularcula dongshanensis	Pseudomonadota	Parvularculales	Parvularculaceae	N	D	Q	K	NDQ
+A0A259U296	background_bact	Rhodopsin		Rubricoccus marinus	Rhodothermota	Rhodothermales	Rubricoccaceae	T	S	A	K	TSA
+A0A2H3P8Z1	background_bact	Rhodopsin		Longimonas halophila	Rhodothermota	Rhodothermales	Salisaetaceae	N	D	Q	K	NDQ
+A0A395LPE8	background_bact	Rhodopsin		Alteriqipengyuania lutimaris	Pseudomonadota	Sphingomonadales	Erythrobacteraceae	N	T	Q	K	NTQ
+A0A3S9MUF4	background_bact	Rhodopsin		Nonlabens ponticola	Bacteroidota	Flavobacteriales	Flavobacteriaceae	D	T	K	K	DTK
+A0A402BK77	background_bact	Rhodopsin		Dictyobacter alpinus	Chloroflexota	Ktedonobacterales	Dictyobacteraceae	D	T	D	K	DTD
+A0A6C2YMB8	background_bact	Xanthorhodopsin		Tuwongella immobilis	Planctomycetota	Gemmatales	Gemmataceae	D	T	E	K	DTE
+A0A6I1MRX8	background_bact	Lactococcin		Clostridium tarantellae	Bacillota	Eubacteriales	Clostridiaceae	D	T	S	K	DTS
+A0A7V7TUE7	background_bact	Rhodopsin		Plantimonas leprariae	Pseudomonadota	Hyphomicrobiales	Aurantimonadaceae	D	T	G	K	DTG
+A0A926XXW5	background_bact	Bacteriorhodopsin		Spirosoma profusum	Bacteroidota	Cytophagales	Cytophagaceae	S	T	Q	I	STQ
+A0A9E8ZCC3	background_bact	Bacteriorhodopsin		Thermocoleostomius sinensis A174	Cyanobacteriota	Oculatellales	Oculatellaceae	D	T	A	K	DTA
+A0ABT1L4L3	background_bact	Bacteriorhodopsin-like		Candidatus Synchoanobacter obligatus	Pseudomonadota	Candidatus Comchoanobacterales	Candidatus Comchoanobacteraceae	D	T	E	K	DTE
+A0ABW6ADJ1	background_bact	Bacteriorhodopsin		Spirosoma flavum	Bacteroidota	Cytophagales	Cytophagaceae	D	T	Q	K	DTQ
+A0ACE2LP12	background_bact	Bacteriorhodopsin		Deinococcus saxicola	Deinococcota	Deinococcales	Deinococcaceae	D	T	S	K	DTS
+D6U1J0	background_bact	Rhodopsin, a chromoprotein		Ktedonobacter racemifer DSM 44963	Chloroflexota	Ktedonobacterales	Ktedonobacteraceae	D	T	N	K	DTN
+D7CVU5	background_bact	Rhodopsin		Truepera radiovictrix (strain DSM 17093 / CIP 108686 / LMG 22925 / RQ-24)	Deinococcota	Trueperales	Trueperaceae	A	S	L	K	ASL
+I0IGJ9	background_bact	Bacterial rhodopsin family protein		Phycisphaera mikurensis (strain DSM 103959 / KCTC 22515 / NBRC 102666 / FYK2301M01)	Planctomycetota	Phycisphaerales	Phycisphaeraceae	N	T	T	K	NTT
+K7QVE5	background_bact	Bacteriorhodopsin		Thermus oshimai JL-2	Deinococcota	Thermales	Thermaceae	D	T	E	K	DTE
+A0A0M7BDG0	background_bact	Green-light absorbing proteorhodopsin		Jannaschia seosinensis	Pseudomonadota	Rhodobacterales	Roseobacteraceae	N	D	Q	K	NDQ
+A0A2A2SI75	background_bact	Rhodopsin		Sphingomonas lenta	Pseudomonadota	Sphingomonadales	Sphingomonadaceae	N	D	Q	K	NDQ
+A0A2T0T380	background_bact	Bacteriorhodopsin-like protein		Spirosoma oryzae	Bacteroidota	Cytophagales	Cytophagaceae	N	D	Q	K	NDQ
+A0A2W0HIA8	background_bact	Lactococcin		Alteribacter lacisalsi	Bacillota	Caryophanales	Bacillaceae	D	T	A	K	DTA
+A0A401ZCY9	background_bact	Rhodopsin		Dictyobacter aurantiacus	Chloroflexota	Ktedonobacterales	Dictyobacteraceae	D	T	D	K	DTD
+A0A4Q2RG75	background_bact	Rhodopsin		Lichenibacterium ramalinae	Pseudomonadota	Hyphomicrobiales	Lichenihabitantaceae	D	T	G	K	DTG
+A0A4Z0PQC2	background_bact	Rhodopsin		Hymenobacter elongatus	Bacteroidota	Cytophagales	Hymenobacteraceae	D	T	Q	K	DTQ
+A0A4Z0PQJ0	background_bact	Lactococcin		Hymenobacter elongatus	Bacteroidota	Cytophagales	Hymenobacteraceae	D	S	A	K	DSA
+A0A517QXI7	background_bact	Green-light absorbing proteorhodopsin		Stratiformator vulcanicus	Planctomycetota	Planctomycetales	Planctomycetaceae	D	T	K	K	DTK
+A0A5J6MCY9	background_bact	Xanthorhodopsin		Hypericibacter terrae	Pseudomonadota	Rhodospirillales	Dongiaceae	D	T	T	Q	DTT
+A0A6L9LL19	background_bact	Bacteriorhodopsin		Spirosoma terrae	Bacteroidota	Cytophagales	Cytophagaceae	G	T	Q	I	GTQ
+A0A850H4I0	background_bact	Bacteriorhodopsin		Qipengyuania atrilutea	Pseudomonadota	Sphingomonadales	Erythrobacteraceae	D	T	V	K	DTV
+A0A9Q8TYU3	background_bact	Bacteriorhodopsin-like		SAR86 cluster bacterium	Pseudomonadota			D	T	E	K	DTE
+A0A9X2RH94	background_bact	Bacteriorhodopsin-like		Parvularcula maris	Pseudomonadota	Parvularculales	Parvularculaceae	N	D	Q	K	NDQ
+A0A9X9ZA75	background_bact	Synechocystis halorhodopsin		Synechocystis sp. PCC 7509	Cyanobacteriota	Synechococcales	Merismopediaceae	T	S	D	K	TSD
+A0AAJ6N6B2	background_bact	cyanorhodopsin-II		Nodosilinea nodulosa PCC 7104	Cyanobacteriota	Nodosilineales	Nodosilineaceae	D	T	S	K	DTS
+A0ABR5HG14	background_bact	Rhodopsin		Methylobacterium indicum	Pseudomonadota	Hyphomicrobiales	Methylobacteriaceae	D	T	G	K	DTG
+A0ABR7K021	background_bact	Bacteriorhodopsin		Paeniclostridium hominis	Bacillota	Peptostreptococcales	Peptostreptococcaceae	D	T	L	K	DTL
+A0ABT6VEQ3	background_bact	Opsin family protein		Flavobacterium algoritolerans	Bacteroidota	Flavobacteriales	Flavobacteriaceae	G	S	N	F	GSN
+A0ABU5LJT3	background_bact	Bacteriorhodopsin		Pantoea eucrina	Pseudomonadota	Enterobacterales	Erwiniaceae	D	T	G	K	DTG
+A0ABX2PX43	background_bact	Bacteriorhodopsin		Hymenobacter terrestris	Bacteroidota	Cytophagales	Hymenobacteraceae	S	T	T	K	STT
+A0ACG2HDS8	background_bact	Bacteriorhodopsin		Nodularia sphaerocarpa CS-585	Cyanobacteriota	Nostocales	Nodulariaceae	N	D	Q	K	NDQ
+C4L4S1	background_bact	Rhodopsin		Exiguobacterium sp. (strain ATCC BAA-1283 / AT1b)	Bacillota	Caryophanales		D	T	K	K	DTK
+Q2RZF4	background_bact	Sensory rhodopsin		Salinibacter ruber (strain DSM 13855 / M31)	Rhodothermota	Rhodothermales	Salinibacteraceae	D	T	Y	K	DTY
+A0ABS0N1A4	background_bact	Bacteriorhodopsin		Aurantiacibacter sediminis	Pseudomonadota	Sphingomonadales	Erythrobacteraceae	N	D	Q	K	NDQ
+A0ABT1VT19	background_bact	Bacteriorhodopsin		Rhizosaccharibacter radicis	Pseudomonadota	Acetobacterales	Acetobacteraceae	D	T	S	K	DTS
+A0ABU8QK13	background_bact	Bacteriorhodopsin		Cognatishimia coralii	Pseudomonadota	Rhodobacterales	Paracoccaceae	G	S	A	R	GSA
+A0ABV8YAQ0	background_bact	Bacteriorhodopsin		Deinococcus sonorensis	Deinococcota	Deinococcales	Deinococcaceae	D	T	A	K	DTA
+A0ABX5VSN1	background_bact	Xanthorhodopsin		Candidatus Methylopumilus universalis	Pseudomonadota	Nitrosomonadales	Methylophilaceae	D	T	E	K	DTE
+A0ABY5SZY8	background_bact	Bacteriorhodopsin		Qipengyuania spongiae	Pseudomonadota	Sphingomonadales	Erythrobacteraceae	D	T	G	K	DTG
+A0A1P9WTB2	background_bact	Rhodopsin		Spirosoma montaniterrae	Bacteroidota	Cytophagales	Cytophagaceae	D	T	S	K	DTS
+A0A240UNR6	background_bact	Uncharacterized protein		Kushneria marisflavi	Pseudomonadota	Oceanospirillales	Halomonadaceae	D	T	S	K	DTS
+A0A2K8Z4A8	background_bact	Rhodopsin		Spirosoma pollinicola	Bacteroidota	Cytophagales	Cytophagaceae	A	I	Q	I	AIQ
+A0A2S9WQT4	background_bact	Rhodopsin		Nonlabens agnitus	Bacteroidota	Flavobacteriales	Flavobacteriaceae	N	T	Q	K	NTQ
+A0A2T0WPG8	background_bact	Bacteriorhodopsin		Mongoliibacter ruber	Bacteroidota	Cytophagales	Cyclobacteriaceae	N	T	Q	K	NTQ
+A0A366FQZ4	background_bact	Bacteriorhodopsin-like protein		Roseiarcus fermentans	Pseudomonadota	Hyphomicrobiales	Roseiarcaceae	G	S	T	L	GST
+A0A3A5K4I9	background_bact	Bacteriorhodopsin		Mesorhizobium waimense	Pseudomonadota	Hyphomicrobiales	Phyllobacteriaceae	A	V	S	L	AVS
+A0A5P3XBS8	background_bact	Rhodopsin		Paraclostridium bifermentans (Clostridium bifermentans)	Bacillota	Peptostreptococcales	Peptostreptococcaceae	D	I	I	K	DII
+A0A6M5YC09	background_bact	Bacteriorhodopsin		Spirosoma taeanense	Bacteroidota	Cytophagales	Cytophagaceae	D	T	K	K	DTK
+A0A7S8CD58	background_bact	Bacteriorhodopsin		Mangrovibacillus cuniculi	Bacillota	Caryophanales	Bacillaceae	D	T	A	K	DTA
+A0A7Y7PS30	background_bact	Bacteriorhodopsin		Hymenobacter lapidiphilus	Bacteroidota	Cytophagales	Hymenobacteraceae	D	T	E	K	DTE
+A0A840I0A9	background_bact	Bacteriorhodopsin		Parvularcula dongshanensis	Pseudomonadota	Parvularculales	Parvularculaceae	N	T	Q	K	NTQ
+A0A927GGI4	background_bact	Bacteriorhodopsin		Spirosoma validum	Bacteroidota	Cytophagales	Cytophagaceae	D	T	Q	K	DTQ
+A0A934IPV9	background_bact	Bacteriorhodopsin		Acuticoccus mangrovi	Pseudomonadota	Hyphomicrobiales	Amorphaceae	D	T	A	R	DTA
+A0ABM8AE35	background_bact	Xanthorhodopsin		Deinococcus aetherius	Deinococcota	Deinococcales	Deinococcaceae	D	T	A	K	DTA
+A0ABS1DGV3	background_bact	Rhodopsin		Rhodovibrio sodomensis	Pseudomonadota	Rhodospirillales	Rhodovibrionaceae	D	T	M	K	DTM
+A0ABS2QRU6	background_bact	Bacteriorhodopsin		Priestia iocasae	Bacillota	Caryophanales	Bacillaceae	D	T	A	K	DTA
+A0AAN4R3L6	background_bact	Rhodopsin		Asaia bogorensis NBRC 16594	Pseudomonadota	Acetobacterales	Acetobacteraceae	D	T	G	K	DTG
+A0ABM9RL04	background_bact	Bacteriorhodopsin-like family protein		Paraclostridium sordellii (Clostridium sordellii)	Bacillota	Peptostreptococcales	Peptostreptococcaceae	D	T	M	K	DTM
+A0ABR9UUA4	background_bact	Bacteriorhodopsin		Gloeocapsopsis crepidinum LEGE 06123	Cyanobacteriota	Chroococcales	Chroococcaceae	N	D	Q	K	NDQ
+A0ABT1FU62	background_bact	Bacteriorhodopsin-like		Runella salmonicolor	Bacteroidota	Cytophagales	Spirosomataceae	D	T	E	K	DTE
+A0ABT2YYY0	background_bact	Bacteriorhodopsin-like		Albidovulum sediminicola	Pseudomonadota	Rhodobacterales	Paracoccaceae	A	V	A	L	AVA
+A0ABT3JDE1	background_bact	Bacteriorhodopsin		Sphingomonas arvum	Pseudomonadota	Sphingomonadales	Sphingomonadaceae	D	T	G	K	DTG
+A0ABT3JDL8	background_bact	Bacteriorhodopsin		Sphingomonas arvum	Pseudomonadota	Sphingomonadales	Sphingomonadaceae	D	T	G	K	DTG
+A0ABU1H0M5	background_bact	Bacteriorhodopsin-like		Vreelandella vilamensis	Pseudomonadota	Oceanospirillales	Halomonadaceae	D	T	E	K	DTE
+A0ABX2FPZ3	background_bact	Bacteriorhodopsin		Hymenobacter caeli	Bacteroidota	Cytophagales	Hymenobacteraceae	D	T	Q	K	DTQ
+A0ABY5DH19	background_bact	Bacteriorhodopsin-like		Candidatus Comchoanobacter bicostacola	Pseudomonadota	Candidatus Comchoanobacterales	Candidatus Comchoanobacteraceae	D	T	E	K	DTE
+D7CSE2	background_bact	Rhodopsin		Truepera radiovictrix (strain DSM 17093 / CIP 108686 / LMG 22925 / RQ-24)	Deinococcota	Trueperales	Trueperaceae	N	D	Q	K	NDQ
+F6DAL1	background_bact	Rhodopsin		Thiomicrospira cyclica (strain DSM 14477 / JCM 11371 / ALM1) (Thioalkalimicrobium cyclicum)	Pseudomonadota	Thiotrichales	Piscirickettsiaceae	D	T	E	K	DTE
+H2BW50	background_bact	Rhodopsin		Gillisia limnaea (strain DSM 15749 / LMG 21470 / R-8282)	Bacteroidota	Flavobacteriales	Flavobacteriaceae	N	D	Q	K	NDQ
+Q2RZM2	background_bact	Sensory rhodopsin		Salinibacter ruber (strain DSM 13855 / M31)	Rhodothermota	Rhodothermales	Salinibacteraceae	D	T	Y	K	DTY
+Q5UNE6	background_bact	Halorhodopsin		Salinibacter ruber (strain DSM 13855 / M31)	Rhodothermota	Rhodothermales	Salinibacteraceae	T	S	A	K	TSA
+A0A0P6XBM7	background_bact	Rhodopsin		Bellilinea caldifistulae	Chloroflexota	Anaerolineales	Anaerolineaceae	N	D	Q	K	NDQ
+A0A1H9MFN8	background_bact	Bacteriorhodopsin		Rosenbergiella nectarea	Pseudomonadota	Enterobacterales	Erwiniaceae	D	T	G	K	DTG
+A0A1M5IT15	background_bact	Bacteriorhodopsin		Cnuella takakiae	Bacteroidota	Chitinophagales	Chitinophagaceae	D	T	E	K	DTE
+A0A1H0JA11	background_bact	Bacteriorhodopsin		Aureimonas jatrophae	Pseudomonadota	Hyphomicrobiales	Aurantimonadaceae	D	T	S	K	DTS
+A0A1W1VCM2	background_bact	Rhodopsin		Hymenobacter roseosalivarius DSM 11622	Bacteroidota	Cytophagales	Hymenobacteraceae	D	T	A	K	DTA
+A0A271IX38	background_bact	Lactococcin		Rubrivirga marina	Rhodothermota	Rhodothermales	Rubricoccaceae	D	T	A	K	DTA
+A0A3M7TXC9	background_bact	Rhodopsin		Alteribacter keqinensis	Bacillota	Caryophanales	Bacillaceae	N	T	Q	K	NTQ
+A0A433NPX7	background_bact	Rhodopsin		Chlorogloeopsis fritschii PCC 6912	Cyanobacteriota	Nostocales	Chlorogloeopsidaceae	D	T	A	K	DTA
+A0A4P8XNV2	background_bact	Rhodopsin		Paenibacillus algicola	Bacillota	Caryophanales	Paenibacillaceae	D	T	A	K	DTA
+A0A518EPB9	background_bact	Green-light absorbing proteorhodopsin		Saltatorellus ferox	Planctomycetota			D	T	E	K	DTE
+A0A5B1CMS2	background_bact	Green-light absorbing proteorhodopsin		Rubripirellula obstinata	Planctomycetota	Pirellulales	Pirellulaceae	N	D	Q	K	NDQ
+A0A5B2VFD4	background_bact	Rhodopsin		Salinarimonas soli	Pseudomonadota	Hyphomicrobiales	Salinarimonadaceae	T	T	G	K	TTG
+A0A6N8FSK0	background_bact	Rhodopsin		Gloeocapsopsis dulcis AAB1 = 1H9	Cyanobacteriota	Chroococcales	Chroococcaceae	N	D	Q	K	NDQ
+A0A7G5GW02	background_bact	Bacteriorhodopsin		Spirosoma foliorum	Bacteroidota	Cytophagales	Cytophagaceae	A	T	Q	L	ATQ
+A0A7L5DXE8	background_bact	Bacteriorhodopsin		Mucilaginibacter robiniae	Bacteroidota	Sphingobacteriales	Sphingobacteriaceae	D	T	K	K	DTK
+A0A8X6EH36	background_bact	Bacteriorhodopsin-like protein		Pseudomonas putida (Arthrobacter siderocapsulatus)	Pseudomonadota	Pseudomonadales	Pseudomonadaceae	D	T	G	K	DTG
+A0A917Q779	background_bact	Xanthorhodopsin		Salinarimonas ramus	Pseudomonadota	Hyphomicrobiales	Salinarimonadaceae	N	D	Q	K	NDQ
+A0A939K0M9	background_bact	Bacteriorhodopsin		Fibrella aquatilis	Bacteroidota	Cytophagales	Spirosomataceae	D	T	K	K	DTK
+A0A977XLG0	background_bact	Xanthorhodopsin		uncultured Bdellovibrionales bacterium	Bdellovibrionota	Bdellovibrionales		D	T	E	K	DTE
+A0ABM8AJS7	background_bact	Rhodopsin		Deinococcus aetherius	Deinococcota	Deinococcales	Deinococcaceae	T	T	Q	K	TTQ
+P33970	background_arch	Halorhodopsin		Halobacterium halobium (strain mex)	Methanobacteriota	Halobacteriales	Halobacteriaceae	T	S	A	-	TSA
+A0ABD5VGA2	background_arch	Bacteriorhodopsin		Halorubellus litoreus	Methanobacteriota	Halobacteriales	Halorubellaceae	D	T	D	K	DTD
+A0A1U7EVD3	background_arch	Homolog to rhodopsin		Natronomonas pharaonis (strain ATCC 35678 / DSM 2160 / CIP 103997 / JCM 8858 / NBRC 14720 / NCIMB 2260 / Gabara) (Halobacterium pharaonis)	Methanobacteriota	Halobacteriales	Natronomonadaceae	G	A	L	M	GAL
+A0A3P3RCT8	background_arch	Rhodopsin		Halocatena pleomorpha	Methanobacteriota	Halobacteriales	Natronomonadaceae	D	T	A	K	DTA
+A0A6B0T5F9	background_arch	Bacteriorhodopsin		Halovenus carboxidivorans	Methanobacteriota	Halobacteriales	Haloarculaceae	D	T	Y	K	DTY
+A0A7J9SF50	background_arch	Bacteriorhodopsin		Halobellus ruber	Methanobacteriota	Halobacteriales	Haloferacaceae	D	T	Y	K	DTY
+L0AG52	background_arch	Bacteriorhodopsin		Natronobacterium gregoryi (strain ATCC 43098 / DSM 3393 / CCM 3738 / CIP 104747 / IAM 13177 / JCM 8860 / NBRC 102187 / NCIMB 2189 / SP2)	Methanobacteriota	Halobacteriales	Natrialbaceae	G	S	L	F	GSL
+M0E6A6	background_arch	Sensory rhodopsin 1		Halorubrum coriense DSM 10284	Methanobacteriota	Halobacteriales	Haloferacaceae	E	G	G	K	EGG
+A0A1U7EZK0	background_arch	Homolog to rhodopsin		Natronomonas pharaonis (strain ATCC 35678 / DSM 2160 / CIP 103997 / JCM 8858 / NBRC 14720 / NCIMB 2260 / Gabara) (Halobacterium pharaonis)	Methanobacteriota	Halobacteriales	Natronomonadaceae	D	A	F	R	DAF
+A0A495R541	background_arch	Sensory rhodopsin		Haloarcula quadrata	Methanobacteriota	Halobacteriales	Haloarculaceae	D	S	Y	K	DSY
+A0ABD5LYH2	background_arch	Bacteriorhodopsin		Halorubrum miltondacostae	Methanobacteriota	Halobacteriales	Haloferacaceae	D	T	Y	K	DTY
+A0ABT8M6U9	background_arch	Bacteriorhodopsin		Methanoculleus frigidifontis	Methanobacteriota	Methanomicrobiales	Methanomicrobiaceae	Y	S	D	K	YSD
+M1XK96	background_arch	Halorhodopsin		Natronomonas moolapensis (strain DSM 18674 / CECT 7526 / JCM 14361 / 8.8.11)	Methanobacteriota	Halobacteriales	Natronomonadaceae	T	S	A	K	TSA
+A0A1H6G2Z8	background_arch	Bacteriorhodopsin		Natronorubrum sediminis	Methanobacteriota	Halobacteriales	Natrialbaceae	E	A	L	R	EAL
+A0A9Q4C304	background_arch	Bacteriorhodopsin		Halorutilus salinus	Methanobacteriota	Halorutilales	Halorutilaceae	D	T	L	K	DTL
+F8DAI6	background_arch	Rhodopsin		Halopiger xanaduensis (strain DSM 18323 / JCM 14033 / SH-6)	Methanobacteriota	Halobacteriales	Natrialbaceae	G	M	V	L	GMV
+A0A1G7GXJ2	background_arch	Bacteriorhodopsin/sensory rhodopsin		Halorientalis regularis	Methanobacteriota	Halobacteriales	Haloarculaceae	D	T	V	K	DTV
+A0A1G7NYS1	background_arch	Sensory rhodopsin		Halorientalis regularis	Methanobacteriota	Halobacteriales	Haloarculaceae	D	T	Y	K	DTY
+A0ABD6C724	background_arch	Bacteriorhodopsin		Halorientalis brevis	Methanobacteriota	Halobacteriales	Haloarculaceae	V	S	Y	Q	VSY
+M0A1V5	background_arch	Rhodopsin		Natrialba hulunbeirensis JCM 10989	Methanobacteriota	Halobacteriales	Natrialbaceae	G	M	V	I	GMV

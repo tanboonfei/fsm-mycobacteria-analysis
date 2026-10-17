@@ -1,0 +1,5 @@
+threshold (Mb)	non-FSM blocks	genomes in them	largest non-FSM block	single-genome blocks	largest FSM block
+3.5	21	29	3	16	17
+4	43	59	3	31	54
+4.5	66	96	6	53	54
+The 4 Mb cut is descriptive. At 3.5 and 4.0 Mb no block outside FSM exceeds three genomes; at 4.5 Mb the largest is six, still an order of magnitude below FSM. The asymmetry the analysis rests on does not depend on where the threshold is drawn.

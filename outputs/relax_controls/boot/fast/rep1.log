@@ -1,0 +1,5 @@
+fixed branch params 70; fixed thetas 5; free globals 10: {
+{"relax.unclassified.omega3", "relax.unclassified.omega1", "relax.reference.omega3", "relax.reference.omega2", "relax.unclassified.omega2", "relax.reference.omega1", "relax.reference.bsrel_mixture_aux_0", "relax.reference.bsrel_mixture_aux_1", "relax.unclassified.bsrel_mixture_aux_1", "relax.unclassified.bsrel_mixture_aux_0"} 
+}
+logL at saved null MLEs -695087.9346624097
+RESULT	lnL_null	-695080.3853464846	lnL_alt	-695080.2556665314	LRT	0.2593599064275622	K	0.996815355960748	ref_omegas	0.04919235226191531,0.09943862499129368,8.919963673078948

@@ -1,0 +1,37 @@
+panel	threshold_Mb	tips_in_tree	nonFSM_small_genomes	nonFSM_blocks	largest_nonFSM_block	nonFSM_blocks_depth_gt_0.05	FSM_genomes_in_panel	FSM_small_genomes	largest_FSM_block
+A: isolates and closed genomes, raw size	3.5	276	4	2	3	1	0	0	0
+A: isolates and closed genomes, raw size	4	276	7	5	3	1	0	0	0
+A: isolates and closed genomes, raw size	4.5	276	19	12	4	3	0	0	0
+B: all 824, completeness-corrected (MAGs <90% pruned)	3.5	750	14	9	3	1	115	76	15
+B: all 824, completeness-corrected (MAGs <90% pruned)	4	750	33	20	3	3	115	96	20
+B: all 824, completeness-corrected (MAGs <90% pruned)	4.5	750	58	32	6	6	115	109	49
+C: all 824, raw size (paper)	3.5	824	29	21	3	3	134	100	17
+C: all 824, raw size (paper)	4	824	59	43	3	5	134	122	54
+C: all 824, raw size (paper)	4.5	824	96	66	6	7	134	129	54
+Fate of the 59 raw-size non-FSM genomes below 4 Mb under panel B
+category	n
+MAG, completeness <90%	23
+MAG, survives	26
+isolate/closed (retained)	7
+MAG, corrected size ≥4 Mb	3
+Panel B blocks at 4 Mb (members: species, provenance, corrected size Mb, completeness %)
+3	Mycobacterium fallax [SPIRE MAG, 3.60 Mb, 100%]; Mycobacterium fallax [SPIRE MAG, 3.64 Mb, 100%]; Mycobacterium fallax [SPIRE MAG, 3.73 Mb, 96%]
+3	novel sp. [SPIRE MAG, 3.29 Mb, 95%]; novel sp. [SPIRE MAG, 3.45 Mb, 93%]; novel sp. [SPIRE MAG, 3.55 Mb, 94%]
+3	Mycobacterium leprae [isolate, 3.27 Mb, 100%]; Mycobacterium lepromatosis [isolate, 3.27 Mb, 100%]; Mycobacterium uberis [isolate, 3.12 Mb, 100%]
+3	novel sp. [SPIRE MAG, 3.10 Mb, 100%]; novel sp. [SPIRE MAG, 3.13 Mb, 90%]; novel sp. [SPIRE MAG, 3.18 Mb, 90%]
+2	Mycobacterium sp001668625 [ref MAG, 3.76 Mb, 100%]; Mycobacterium triviale [isolate, 3.59 Mb, 100%]
+2	Mycobacterium sp030666145 [SPIRE MAG, 3.87 Mb, 100%]; Mycobacterium sp030666145 [ref MAG, 3.29 Mb, 98%]
+2	Mycobacterium parakoreense [SPIRE MAG, 3.84 Mb, 95%]; Mycobacterium parakoreense [isolate, 3.94 Mb, 100%]
+2	Mycobacterium sp034189785 [SPIRE MAG, 3.82 Mb, 100%]; Mycobacterium sp034189785 [ref MAG, 3.61 Mb, 100%]
+2	novel sp. [SPIRE MAG, 3.13 Mb, 100%]; novel sp. [SPIRE MAG, 3.21 Mb, 94%]
+1	Mycobacterium tilburgii [isolate, 3.24 Mb, 100%]
+1	Mycobacterium sp903927745 [ref MAG, 3.69 Mb, 93%]
+1	Mycobacterium sp008709575 [ref MAG, 3.96 Mb, 99%]
+1	Mycobacterium fallax [SPIRE MAG, 3.92 Mb, 100%]
+1	Mycobacterium sp039583805 [ref MAG, 3.59 Mb, 96%]
+1	Mycobacterium sp011620645 [ref MAG, 3.98 Mb, 100%]
+1	novel sp. [SPIRE MAG, 3.22 Mb, 100%]
+1	Mycobacterium brumae [isolate, 3.99 Mb, 100%]
+1	Mycobacterium sp029961025 [ref MAG, 3.74 Mb, 100%]
+1	Mycobacterium sp022601275 [ref MAG, 3.68 Mb, 93%]
+1	Mycobacterium sp019751635 [ref MAG, 3.49 Mb, 91%]

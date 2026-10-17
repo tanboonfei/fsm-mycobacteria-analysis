@@ -1,0 +1,19 @@
+Per-genome Wright's Nc and GC3 (243 MAGs); expected Nc from GC3 alone by Wright's curve
+Nc_exp = 2 + s + 29/(s^2 + (1-s)^2), s = GC3/100. Residual = Nc_observed - Nc_expected.
+A more negative residual means MORE codon bias than base composition alone predicts, i.e. stronger selected bias.
+Clade	n	Nc median	GC3 median	Nc_exp median	Residual median
+FSM	96	38.34	82.58	43.31	-4.97
+RGM	97	36.42	86.21	40.93	-4.51
+SGM	50	40.34	80.97	44.43	-4.09
+Statistic	Raw Mann–Whitney p	Pagel lambda	PGLS beta (FSM vs RGM)	PGLS p
+Nc	1.1e-06	0.999	+1.200	0.40
+GC3	3.2e-10	0.999	-2.032	0.24
+ENC residual	9.1e-10	0.998	-0.241	0.37
+Two results, both negative for a simple reduced-Ne reading of the raw Nc gap:
+(1) The residual is slightly MORE negative in FSM than RGM, the opposite of the direction predicted if
+    selection on codon usage were less efficient in FSM. The higher raw Nc in FSM tracks its lower GC3.
+(2) After phylogenetic correction none of the three differs between clades (lambda ~ 1; FSM is one origin).
+The Wright curve is also a weak null at the extreme GC3 of this genus (81-86%), which limits how much
+weight the residual itself can carry. The conclusion is that genome-wide codon statistics do not provide
+independent support for reduced Ne in FSM; the branch-based RELAX contrast, which models the tree, does.
+Note on bases: the per-genome block above ships 95 FSM and 97 RGM MAGs, the genomes carrying the 20 ribosomal-protein genes the bulk-minus-ribosomal gap requires; its medians are 38.39 (FSM) and 36.56 (RGM), the values plotted in Fig. 4b and quoted in the text as a 1.8-codon difference. The S12b and S12c summary rows are computed on a 96/97/50-genome panel that also covers SGM and give 38.3 and 36.4; the two bases differ by about 0.1 codons and must not be mixed. The three Decay rows are the host-restricted clade (Mycobacterium leprae, M. lepromatosis, M. uberis), computed by the same procedure from the same Bakta 1.11.4 / database 6.0 annotation; their bulk Nc reproduces the 51.3-51.6 recorded in Table S10.

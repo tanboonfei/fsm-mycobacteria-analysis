@@ -1,0 +1,5 @@
+treatment	d_size_Mb	d_GC_pct	d_prodigal_coding_density_pct	d_prodigal_CDS	d_bakta_coding_density_pct	d_bakta_pseudogenes	gene_recovery_pct
+fragmented	0	0	-0.04	287.5	-3	1	95.8
+fragmented + 4.4% deleted	-0.263	0	-0.04	26	-3	1	91.5
+Set against these offsets, the differences to be explained are 2.73 Mb of genome size, 1.0 point of coding density and 2,428 CDS between FSM and RGM. The CDS offset runs the wrong way: fragmentation raises the count by splitting genes at contig ends, while FSM carries fewer genes than RGM.
+Coding density here is the uniform Prodigal call. On the deposited annotations the same comparison appeared to show isolates about one point less dense than same-clade MAGs (RGM -0.91, SGM -0.99); that offset is an artefact of comparing PGAP with Prodigal output and disappears under one gene caller.

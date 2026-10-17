@@ -1,0 +1,25 @@
+Method	Tips	Trait scale	Tree	Selection criterion	Shifts selected	alpha (per tree height)	Shift on FSM stem	FSM shift (tip-mean, trait units)	FSM shift ratio (log scale)	FSM optimum (Mb)	42-genome sister-clade optimum (Mb)	Criterion cost of removing FSM shift	FSM-shift bootstrap detection rate	Shift on leprosy clade	Leprosy shift (tip-mean)	Single-tip shifts
+l1ou	824 ingroup	log Mb	chronos (λ=1) ultrametric	pBIC	15	360.4	yes	-0.5191	0.595	3.476	5.841	425.39	0.98	yes	-0.4622	2
+l1ou	824 ingroup	log Mb	chronos	BIC	16	366.8	yes	-0.5191	0.595	3.476	5.841			yes	-0.4661	3
+l1ou	824 ingroup	Mb	chronos	pBIC	13	124.3	yes	-1.322		3.326	6.241	136.61		yes	-2.056	2
+l1ou	525 FSM+RGM	log Mb	chronos	pBIC	17	514.1	yes	-0.374	0.688	3.377	6.217	121.29		no		5
+l1ou	648 (one genome per species)	log Mb	chronos	pBIC	9	796.2	yes	-0.5771	0.562	3.401	6.057	453.54		yes	-0.4886	1
+l1ou	824 ingroup	log Mb	phylogram with terminals extended (force.ultrametric)	pBIC	7	1e-07	yes	-0.4833	0.617	0	5.27			yes	-0.4471	1
+PhylogeneticEM (scOU)	824 ingroup	log Mb	chronos	DDSE	6	1.92	no							no		5
+PhylogeneticEM (scOU)	824 ingroup	log Mb	chronos	Djump	6	1.92	no							no		5
+PhylogeneticEM (scOU)	824 ingroup	log Mb	chronos	BGHuni	20	0.8	no							no		17
+PhylogeneticEM (BM)	824 ingroup	log Mb	phylogram	DDSE	8	0	no							no		7
+PhylogeneticEM (BM)	824 ingroup	log Mb	phylogram	Djump	8	0	no							no		7
+PhylogeneticEM (BM)	824 ingroup	log Mb	phylogram	BGHuni	20	0	no							no		17
+PhylogeneticEM (BM)	648 (one genome per species)	log Mb	phylogram + tip-error term	DDSE	2	0	no							no		2
+PhylogeneticEM (BM)	648 (one genome per species)	log Mb	phylogram + tip-error term	Djump	2	0	no							no		2
+PhylogeneticEM (BM)	648 (one genome per species)	log Mb	phylogram + tip-error term	BGHuni	8	0	no							no		6
+PhylogeneticEM (scOU)	648 (one genome per species)	log Mb	chronos + tip-error term	DDSE	0	0.517	no							no		0
+PhylogeneticEM (scOU)	648 (one genome per species)	log Mb	chronos + tip-error term	Djump	0	0.517	no							no		0
+PhylogeneticEM (scOU)	648 (one genome per species)	log Mb	chronos + tip-error term	BGHuni	13	0.517	yes	-0.4503	0.637					yes	-0.4383	8
+PhylogeneticEM (BM)	824 ingroup	log Mb	phylogram + tip-error term	DDSE	2	0	no							no		2
+PhylogeneticEM (BM)	824 ingroup	log Mb	phylogram + tip-error term	Djump	2	0	no							no		2
+PhylogeneticEM (BM)	824 ingroup	log Mb	phylogram + tip-error term	BGHuni	18	0	no							no		14
+PhylogeneticEM (scOU)	824 ingroup	log Mb	chronos + tip-error term	DDSE	0	0.599	no							no		0
+PhylogeneticEM (scOU)	824 ingroup	log Mb	chronos + tip-error term	Djump	0	0.599	no							no		0
+PhylogeneticEM (scOU)	824 ingroup	log Mb	chronos + tip-error term	BGHuni	20	0.333	yes	-0.4389	0.645					yes	-0.4269	13

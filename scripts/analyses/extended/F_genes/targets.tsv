@@ -1,0 +1,193 @@
+point	system	gene	KOs	eggnog_names	note
+1_osmo	Ectoine synthesis	ectA	K06718	ectA	
+1_osmo	Ectoine synthesis	ectB	K00836	ectB	
+1_osmo	Ectoine synthesis	ectC	K06720	ectC	reference absence (Table S8)
+1_osmo	Ectoine synthesis	ectD	K10674	-	KO only; eggNOG name ectD hits = PhyH-family dioxygenase (excluded)
+1_osmo	Glycine betaine/proline ABC (ProU)	proV	K02000	proV	ProU-type; KOfam profiles fail in sister control; see opu rows (same mycobacterial ProXVWZ/OsmU system)
+1_osmo	Glycine betaine/proline ABC (ProU)	proW	K02001	proW	permease
+1_osmo	Glycine betaine/proline ABC (ProU)	proX	K02002	proX	substrate-binding
+1_osmo	Osmoprotectant ABC (OpuA/OpuC/OsmU type)	opuA_ATPase	K05847	opuAA,opuCA,opuBA	ATPase
+1_osmo	Osmoprotectant ABC (OpuA/OpuC/OsmU type)	opuB_permease	K05846	opuAB,opuBB,opuCB,opuCD,opuBD	permease
+1_osmo	Osmoprotectant ABC (OpuA/OpuC/OsmU type)	opuC_SBP	K05845	opuAC,opuCC,opuBC	substrate-binding
+1_osmo	BCCT betaine/choline transporters	betP/betT	K02168,K03451,K05020	betP,betT,betL,opuD,betS	BCCT family
+1_osmo	MFS proline/betaine transporter	proP	K03762	proP	osmosensing ProP (Rv1999c? / M.tb ProP)
+1_osmo	Glycine betaine synthesis from choline	betA	K00108	-	KO only; eggNOG name betA hits = generic GMC oxidoreductases (excluded)
+1_osmo	Glycine betaine synthesis from choline	betB	K00130	-	KO only; eggNOG name betB hits = generic aldehyde dehydrogenases (excluded)
+1_osmo	Trehalose OtsAB	otsA	K00697,K16055	otsA	
+1_osmo	Trehalose OtsAB	otsB	K01087,K16055	otsB,otsB1,otsB2	
+1_osmo	Trehalose TreS	treS	K05343	treS	
+1_osmo	Trehalose TreYZ	treY	K06044	treY	
+1_osmo	Trehalose TreYZ	treZ	K01236	treZ	
+1_osmo	Trehalose ABC (LpqY-SugABC)	lpqY/sugA/sugB/sugC	K10236,K10237,K10238	lpqY,sugA,sugB,sugC	trehalose recycling
+1_osmo	Mannosylglycerate	mpgS	K05947	mpgS	
+1_osmo	Mannosylglycerate	mpgP	K07026	mpgP	
+1_osmo	Glucosylglycerate	gpgS	K13693	gpgS	
+1_osmo	Glucosylglycerate	gpgP	K22306	gpgP	
+1_osmo	K+ uptake Trk/Ktr	trkA/ktrA	K03499	trkA,ktrA,ceoB	
+1_osmo	K+ uptake Trk/Ktr	trkH/ktrB	K03498	trkH,trkG,ktrB,ceoC	
+1_osmo	K+ uptake Kup	kup	K03549	kup	
+1_osmo	K+ uptake Kdp	kdpA	K01546	kdpA	
+1_osmo	K+ uptake Kdp	kdpB	K01547	kdpB	reference (Table S8)
+1_osmo	K+ uptake Kdp	kdpC	K01548	kdpC	
+1_osmo	Proline synthesis	proA	K00147	proA	
+1_osmo	Proline synthesis	proB	K00931	proB,proJ	
+1_osmo	Proline synthesis	proC	K00286	proC,proH	
+1_osmo	Proline uptake	putP	K11928	putP	
+1_osmo	Mechanosensitive channels	mscL	K03282	mscL	
+1_osmo	Mechanosensitive channels	mscS	K03442,K22044,K16053	mscS,ynaI,yggB	
+1_osmo	Na+/H+ antiport	nhaA	K03313	nhaA	
+1_osmo	Na+/H+ antiport	nhaP	K03316	nhaP,nhaP2	
+1_osmo	Na+/H+ antiport (Mrp)	mrpA	K05565	mrpA,mnhA	
+1_osmo	Na+/H+ antiport (Mrp)	mrpD	K05568	mrpD,mnhD	
+2_transport	Oligopeptide ABC (Opp)	oppA	K15580	oppA	SBP
+2_transport	Oligopeptide ABC (Opp)	oppB	K15581	oppB	
+2_transport	Oligopeptide ABC (Opp)	oppC	K15582	oppC	
+2_transport	Oligopeptide ABC (Opp)	oppD	K15583	oppD	
+2_transport	Oligopeptide ABC (Opp)	oppF	K10823	oppF	
+2_transport	Dipeptide ABC (Dpp)	dppA	K12368	dppA	
+2_transport	Dipeptide ABC (Dpp)	dppB	K12369	dppB	
+2_transport	Dipeptide ABC (Dpp)	dppC	K12370	dppC	
+2_transport	Dipeptide ABC (Dpp)	dppD	K12371	dppD	
+2_transport	Peptide/Ni ABC generic	ABC.PE.S	K02035	-	generic peptide SBP
+2_transport	Peptide/Ni ABC generic	ABC.PE.P	K02033,K02034	-	
+2_transport	Peptide/Ni ABC generic	ABC.PE.A	K02031,K02032	-	
+2_transport	POT peptide symporter	dtpT	K03305	dtpT,yjdL,dtpA	
+2_transport	Polyamine ABC (Pot)	potA	K11072	potA	
+2_transport	Polyamine ABC (Pot)	potB	K11071	potB	
+2_transport	Polyamine ABC (Pot)	potC	K11070	potC	
+2_transport	Polyamine ABC (Pot)	potD	K11069	potD	
+2_transport	Polyamine ABC (Pot, putative)	potF-I/spuD	K02055,K02052,K02053,K02054,K11073,K11074,K11075,K11076	potF,potG,potH,potI	
+2_transport	Polyamine APA antiporter	potE/APA	K03294	potE	
+2_transport	Amino acid ABC branched-chain	livK	K01999	livK,livJ	
+2_transport	Amino acid ABC branched-chain	livHM	K01997,K01998	livH,livM	
+2_transport	Amino acid ABC branched-chain	livGF	K01995,K01996	livG,livF	
+2_transport	Amino acid ABC polar	glnH	K02030	glnH	
+2_transport	Amino acid ABC polar	glnP	K02029	glnP	
+2_transport	Amino acid ABC polar	glnQ	K02028	glnQ	
+2_transport	Amino acid ABC general L-aa	aapJQMP	K09969,K09970,K09971,K09972	aapJ,aapQ,aapM,aapP	
+2_transport	Amino acid ABC glutamate	gluABCD	K10005,K10006,K10007,K10008	gluA,gluB,gluC,gluD	
+2_transport	Amino acid permease AAT	aroP/ansP/cycA	K03293,K11737,K16237,K24917	aroP,ansP,cycA,gabP,lysP	APC family
+2_transport	Amino acid symporter LIVCS	brnQ	K03311	brnQ	
+2_transport	Amino acid symporter AGCS	dagA	K03310	dagA	
+2_transport	Amino acid symporter DAACS	gltP/dctA	K03309,K11102,K11103	gltP,dctA,gltT	
+2_transport	Amino acid symporter	sstT	K07862	sstT	
+2_transport	Amino acid efflux	brnFE	-	brnF,brnE	
+2_transport	Nucleoside ABC (BMP/Nup)	bmpA	K07335	bmpA,tmpC	
+2_transport	Nucleoside ABC (BMP/Nup)	nupBC	K23535,K23536	nupB,nupC	
+2_transport	Nucleoside ABC (BMP/Nup)	nupA	K23537	nupA	
+2_transport	Nucleoside CNT	nupC_CNT	K03317	nupC,yeiJ	
+2_transport	Nucleoside NHS	nupG/xapB	K03289,K11537	nupG,xapB	
+2_transport	Nicotinamide riboside PnuC	pnuC	K03811	pnuC	FSM-enriched (Table S14)
+2_transport	Nucleobase NCS2	NCS2	K03458,K02824	uraA,pyrP,pbuX,xanP	
+2_transport	Nucleobase NCS1	codB	K10974	codB	
+2_transport	Sugar PTS	ptsI	K08483	ptsI	EI
+2_transport	Sugar PTS	ptsH	K02784	ptsH	HPr
+2_transport	Sugar PTS	crr	K02777	crr,ptsG	EIIA glc
+2_transport	Sugar PTS	ptsG	K02779,K02778,K02791	ptsG	EIICB glucose
+2_transport	Sugar PTS	nagE	K02804,K02803	nagE	EIICB GlcNAc
+2_transport	Sugar PTS	fruA	K02768,K02769,K02770	fruA,fruB	fructose
+2_transport	Sugar ABC CUT1 (multiple sugar)	ABC.MS.S	K02027,K10546	-	SBP
+2_transport	Sugar ABC CUT1 (multiple sugar)	ABC.MS.P	K02025,K02026,K10547	-	
+2_transport	Sugar ABC ATPase	msmK/malK	K10111,K10112	msmK,malK,sugC	
+2_transport	Sugar ABC maltose	malEFG	K10108,K10109,K10110	malE,malF,malG	
+2_transport	Sugar ABC glycerol-3-P	ugpBAEC	K05813,K05814,K05815,K05816	ugpB,ugpA,ugpE,ugpC	
+2_transport	Sugar ABC ribose (CUT2)	rbsABC	K10439,K10440,K10441	rbsA,rbsB,rbsC	
+2_transport	Sugar ABC xylose (CUT2)	xylFGH	K10543,K10544,K10545	xylF,xylG,xylH	
+2_transport	Glycerol facilitator	glpF	K02440	glpF	FSM-enriched (Table S14)
+2_transport	Sugar MFS	sugar_MFS	K08137,K06610,K08369	galP,xylE,iolT	
+2_transport	Phosphate ABC	pstSCAB	K02040,K02037,K02038,K02036	pstS,pstC,pstA,pstB	
+2_transport	Phosphonate ABC	phnCDE	K02044,K02041,K02042	phnC,phnD,phnE	
+2_transport	Sulfate ABC	cysPUWA	K02048,K02046,K02047,K02045	cysP,subI,cysU,cysT,cysW,cysA	
+2_transport	Molybdate ABC	modABC	K02020,K02018,K02017	modA,modB,modC	
+3_nitrogen	Ammonium uptake	amtB	K03320	amt,amtB	FSM-enriched (Table S14)
+3_nitrogen	PII/GS regulation	glnB/glnK	K04751,K04752	glnB,glnK	
+3_nitrogen	PII/GS regulation	glnD	K00990	glnD	
+3_nitrogen	PII/GS regulation	glnE	K00982	glnE	
+3_nitrogen	Ammonium assimilation	glnA	K01915	glnA	includes paralogues by KO
+3_nitrogen	Ammonium assimilation	gltB	K00265	gltB	
+3_nitrogen	Ammonium assimilation	gltD	K00266	gltD	
+3_nitrogen	Ammonium assimilation	gdh	K00261,K00262,K15371	gdh,gdhA,gudB	
+3_nitrogen	Ammonium assimilation	ald	K00259	ald	alanine dehydrogenase
+3_nitrogen	Urea	ureC	K01428	ureC	reference absence (Table S8)
+3_nitrogen	Urea	ureA	K01430	ureA	
+3_nitrogen	Urea	urtA-E	K11959,K11960,K11961,K11962,K11963	urtA,urtB,urtC,urtD,urtE	urea ABC
+3_nitrogen	Urea	uca/atzF	K01941,K01457	uca,atzF	urea carboxylase/allophanate hydrolase
+3_nitrogen	Nitrate respiration	narG	K00370	narG	reference absence (Table S8)
+3_nitrogen	Nitrate respiration	narH	K00371	narH	
+3_nitrogen	Nitrate/nitrite transport	narK/nasA_MFS	K02575	narK,narU,nasA	NNP family
+3_nitrogen	Nitrate/nitrite transport	nrtABC	K15576,K15577,K15578	nrtA,nrtB,nrtC	
+3_nitrogen	Assimilatory nitrate reduction	nasA_cat	K00372,K00360	nasA,nasC,nasB	catalytic
+3_nitrogen	Assimilatory nitrite reduction	nirB	K00362	nirB	NADH nitrite reductase large
+3_nitrogen	Assimilatory nitrite reduction	nirD	K00363	nirD	small
+3_nitrogen	Assimilatory nitrite reduction	nirA	K00366	nirA	K00366 hits are the mycobacterial sulfite reductase SirA (Rv2391, formerly NirA); not nitrite assimilation
+3_nitrogen	Denitrification	nirK	K00368	nirK	
+3_nitrogen	Denitrification	norB	K04561	norB	
+3_nitrogen	Cyanate	cynS	K01725	cynS	cyanase
+3_nitrogen	Cyanate	cynX	K03449	cynX	
+3_nitrogen	Nitrile/amide	nthA	K01721	nthA	nitrile hydratase
+3_nitrogen	Nitrile/amide	amiF	K01455	amiF	formamidase
+3_nitrogen	Amino acid deamination	hutH	K01745	hutH	
+3_nitrogen	Amino acid deamination	ansA	K01424	ansA,ansB	
+3_nitrogen	Amino acid deamination	glsA	K01425	glsA	
+3_nitrogen	N2 fixation	nifH	K02588	nifH	
+4_metal	Ferrous iron	feoA	K04758	feoA	
+4_metal	Ferrous iron	feoB	K04759	feoB	
+4_metal	EfeUOB	efeU	K07243	efeU	
+4_metal	EfeUOB	efeO	K07224	efeO,efeN	
+4_metal	EfeUOB	efeB	K16301	efeB	
+4_metal	Ferric ABC (FbpABC)	fbpABC	K02010,K02011,K02012	fbpA,fbpB,fbpC,afuA,afuB,afuC	
+4_metal	Iron-complex ABC (Fhu/Fec, siderophore/heme)	ABC.FEV.S	K02016,K25109,K23181,K23227,K25308	fhuD,fecB,yclQ	SBP lipoprotein
+4_metal	Iron-complex ABC (Fhu/Fec, siderophore/heme)	ABC.FEV.P	K02015,K23182,K23183,K23228,K25288,K25289	fhuB,fhuG,fecC,fecD	
+4_metal	Iron-complex ABC (Fhu/Fec, siderophore/heme)	ABC.FEV.A	K02013,K10829,K25290	fhuC,fecE	
+4_metal	Siderophore import IrtAB	irtA	K14698	irtA	
+4_metal	Siderophore import IrtAB	irtB	K14699	irtB	
+4_metal	Mycobactin	mbtB	K04788	mbtB	reference (Table S16l)
+4_metal	Exochelin/siderophore export	mmpL4/mmpS4	-	mmpL4,mmpS4,mmpS5,mmpL5	
+4_metal	Iron regulation	ideR	K03709	ideR,dtxR	
+4_metal	Iron regulation	fur	K03711	fur,furA	
+4_metal	Iron storage	bfr	K03594	bfr,bfrA	
+4_metal	Iron storage	bfrB/ftn	K02217	bfrB,ftn,ftnA	
+4_metal	Iron storage	dps	K04047	dps	
+4_metal	Heme degradation	mhuD/isdG	K07145	mhuD,isdG	
+4_metal	Zinc ABC (ZnuABC)	znuA	K09815	znuA	
+4_metal	Zinc ABC (ZnuABC)	znuB	K09816	znuB	
+4_metal	Zinc ABC (ZnuABC)	znuC	K09817	znuC	
+4_metal	Zinc/Mn ABC (Psa/Mnt type)	ABC.ZM	K02077,K02075,K02074	-	ambiguous Zn/Mn
+4_metal	Zinc regulation	zur	K09823,K02076	zur,furB	
+4_metal	ZIP zinc transporter	zupT	K07238	zupT	
+4_metal	Zinc-independent ribosomal paralogues	rpmB2/rpmE2/rpmG	-	rpmE2,rpmB2,rpmG	zinc-sparing (C- paralogues)
+4_metal	Manganese	mntH	K03322	mntH	
+4_metal	Manganese/iron ABC (Sit)	sitABCD	K11604,K11605,K11606,K11607	sitA,sitB,sitC,sitD	
+5_vitamin	Thiamine pyrimidine synthesis	thiC	K03147	thiC	reference absence (Table S7h/S16k)
+5_vitamin	Thiamine pyrimidine salvage	thiD	K00941,K00877,K14153,K21219	thiD	HMP/HMP-P kinase
+5_vitamin	Thiamine pyrimidine salvage	tenA	K20896,K03707	tenA	HMP salvage
+5_vitamin	Thiamine thiazole synthesis	thiG	K03149	thiG	
+5_vitamin	Thiamine thiazole synthesis	thiO	K03153	thiO	
+5_vitamin	Thiamine thiazole synthesis	thiS	K03154	thiS	
+5_vitamin	Thiamine thiazole synthesis	thiF	K03148	thiF,moeB	
+5_vitamin	Thiamine thiazole salvage	thiM	K00878,K14154	thiM	
+5_vitamin	Thiamine coupling	thiE	K00788,K14153,K14154,K21220	thiE	
+5_vitamin	Thiamine phosphorylation	thiL	K00946	thiL	TMP kinase
+5_vitamin	Thiamine phosphorylation	tpk	K00949	thiN,tpk	
+5_vitamin	Thiamine uptake	thiT/yuaJ	K16789	thiT,yuaJ	ECF S-component
+5_vitamin	Thiamine uptake	pnuT	K28079	pnuT	thiamine transporter (PnuT family)
+5_vitamin	Thiamine uptake	thiBPQ	K02064,K02063,K02062	thiB,thiP,thiQ,tbpA	only K02062 ATPase detected, best TCDB/Swiss-Prot hit FbpC-type Fe3+ ATPase; no thiamine SBP/permease: not a thiamine transporter
+5_vitamin	Thiamine uptake	ykoEDC/HMP ECF	K16925,K16926,K16927,K16785,K16786,K16787	ykoE,ykoD,ykoC,ecfA,ecfT	ECF modules
+5_vitamin	Thiamine uptake	thiXYZ (HMP ABC)	K15598,K15599,K15600	-	KO only; eggNOG name thiX = thioredoxin (excluded)
+5_vitamin	Thiamine uptake	putative thiamine ABC	K05777,K05778,K05779	-	
+5_vitamin	Pantothenate	panB	K00606	panB	
+5_vitamin	Pantothenate	panC	K01918	panC	
+5_vitamin	Pantothenate	panD	K01579	panD	reference absence (Table S7h/S16k)
+5_vitamin	Pantothenate	panE	K00077	panE,panE1	
+5_vitamin	Pantothenate	coaA/coaX	K00867,K03525,K09680	coaA,coaX	
+5_vitamin	Pantothenate uptake	panF	K14392	panF	Na+/pantothenate symporter
+5_vitamin	Pantothenate uptake	panT/panS (ECF)	-	panT	
+5_vitamin	beta-Alanine alternative	pydBC	K01464,K01431	pydB,pydC,hydA	dihydropyrimidinase/beta-ureidopropionase
+5_vitamin	beta-Alanine alternative	beta-Ala aminotransferase	K00822	pydD	
+5_vitamin	Ergothioneine	egtA	-	egtA	
+5_vitamin	Ergothioneine	egtB	K18912,K20246	egtB	
+5_vitamin	Ergothioneine	egtC	-	egtC	
+5_vitamin	Ergothioneine	egtD	K18911,K20246	egtD	
+5_vitamin	Ergothioneine	egtE	K18913	egtE	
+5_vitamin	Mycothiol (control LMW thiol)	mshA	K15521	mshA	
+5_vitamin	Mycothiol (control LMW thiol)	mshC	K15526	mshC	

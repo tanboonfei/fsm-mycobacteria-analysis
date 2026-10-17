@@ -1,0 +1,23 @@
+comparison	metric	n_isolate_old	n_isolate_new	median_isolate_old	median_isolate_new	n_MAG_old	n_MAG_new	median_MAG_old	median_MAG_new	difference_old	difference_new	MannWhitney_p_old	MannWhitney_p_new	n_gtdb_old	n_gtdb_new	median_gtdb_old	median_gtdb_new	n_spire_old	n_spire_new	median_spire_old	median_spire_new
+FSM MAGs ≥99% complete vs all FSM MAGs	Genome size (Mb)	12.0	12.0	3.41	3.41	96.0	96.0	3.32	3.32	0.09	0.09										
+FSM MAGs: metric vs estimated completeness	Coding density (%)	96.0	96.0							rho = -0.00	rho = -0.00	0.98	0.98								
+FSM MAGs: metric vs estimated completeness	GC content (%)	96.0	96.0							rho = +0.33	rho = +0.33	0.001	0.001								
+FSM MAGs: metric vs estimated completeness	Genome size (Mb)	96.0	96.0							rho = +0.26	rho = +0.26	0.01	0.01								
+FSM vs RGM effect against the largest binning offset	Coding density (%), uniform Prodigal									+1.02 vs 0.61	+1.02 vs 0.74										
+FSM vs RGM effect against the largest binning offset	GC content (%)									-0.04 vs 0.80	-0.04 vs 1.35										
+FSM vs RGM effect against the largest binning offset	Genome size (Mb)									-2.73 vs 0.36	-2.73 vs 0.76										
+FSM: GTDB-deposited MAG vs SPIRE MAG	Coding density (%)									-0.42	-0.42	0.022	0.022	38.0	38.0	93.16	93.16	96.0	96.0	93.58	93.58
+FSM: GTDB-deposited MAG vs SPIRE MAG	GC content (%)									0.92	0.92	0.051	0.051	38.0	38.0	67.53	67.53	96.0	96.0	66.6	66.6
+FSM: GTDB-deposited MAG vs SPIRE MAG	Genome size (Mb)									-0.03	-0.03	0.44	0.44	38.0	38.0	3.29	3.29	96.0	96.0	3.32	3.32
+RGM: GTDB-deposited MAG vs SPIRE MAG	Coding density (%)									-1.05	-1.25	2.9e-18	1.4e-09	162.0	71.0	91.47	91.27	97.0	97.0	92.52	92.52
+RGM: GTDB-deposited MAG vs SPIRE MAG	GC content (%)									-1.06	-1.18	6.2e-07	3.7e-06	162.0	71.0	66.76	66.64	97.0	97.0	67.82	67.82
+RGM: GTDB-deposited MAG vs SPIRE MAG	Genome size (Mb)									-0.03	-0.36	0.42	0.31	162.0	71.0	5.97	5.63	97.0	97.0	6.0	6.0
+RGM: cultured isolate vs MAG	Coding density (%), uniform Prodigal	130.0	221.0	92.72	92.75	97.0	97.0	92.52	92.52	0.2	0.23	0.94	0.36								
+RGM: cultured isolate vs MAG	GC content (%)	132.0	223.0	67.18	66.92	259.0	168.0	67.05	67.38	0.13	-0.46	0.37	0.41								
+RGM: cultured isolate vs MAG	Genome size (Mb)	132.0	223.0	6.18	6.14	259.0	168.0	5.97	5.91	0.21	0.23	0.0016	2.7e-05								
+SGM: GTDB-deposited MAG vs SPIRE MAG	Coding density (%)									-1.39	-1.5	6.9e-06	4.2e-05	121.0	70.0	89.58	89.47	50.0	50.0	90.97	90.97
+SGM: GTDB-deposited MAG vs SPIRE MAG	GC content (%)									1.03	0.34	8e-06	0.012	121.0	70.0	66.66	65.97	50.0	50.0	65.62	65.62
+SGM: GTDB-deposited MAG vs SPIRE MAG	Genome size (Mb)									0.16	-0.58	0.44	0.11	121.0	70.0	5.25	4.52	50.0	50.0	5.1	5.1
+SGM: cultured isolate vs MAG	Coding density (%), uniform Prodigal	128.0	179.0	91.58	91.71	50.0	50.0	90.97	90.97	0.61	0.74	0.046	0.0077								
+SGM: cultured isolate vs MAG	GC content (%)	128.0	179.0	67.0	67.25	171.0	120.0	66.21	65.9	0.8	1.35	0.00025	1.3e-12								
+SGM: cultured isolate vs MAG	Genome size (Mb)	128.0	179.0	5.55	5.61	171.0	120.0	5.19	4.84	0.36	0.76	0.00048	3.2e-09								

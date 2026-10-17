@@ -1,0 +1,740 @@
+{
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond, Ben Murrell, Steven Weaver and Temple iGEM / UCSD viral evolution g",
+   "citation":"RELAX: Detecting Relaxed Selection in a Phylogenetic Framework (2015). Mol Biol Evol 32 (3): 820-832",
+   "contact":"spond@temple.edu",
+   "info":"RELAX (a random effects test of selection relaxation) uses a random effects branch-site model framework to test whether a set of 'Test' branches evolves under relaxed selection relative to a set of 'Reference' branches (R), as measured by the relaxation parameter (K).\n                                                Version 2.1 adds a check for stability in K estimates to try to mitigate convergence problems. \n                                                Version 3 provides support for >2 branch sets.\n                                                Version 3.1 adds LHC + Nedler-Mead initial fit phase and keyword support.\n                                                Version 3.1.1 adds some bug fixes for better convergence.\n                                                Version 4.0 adds support for synonymous rate variation.\n                                                Version 4.1 adds further support for multiple hit models.\n                                                Version 4.1.1 adds reporting for convergence diagnostics",
+   "requirements":"in-frame codon alignment and a phylogenetic tree, with at least two groups of branches defined using the {} notation (one group can be defined as all unlabeled branches)",
+   "settings":{
+     "convergence-flat-surface":-0.5723456451996753,
+     "convergence-unstable":      [
+[2.891319144871392, -10216.16916357827],
+      [0.89276607049255, -10222.42545062133] 
+      ]
+    },
+   "version":"3.1.1"
+  },
+ "branch attributes":{
+   "0":{
+     "IntNode003":{
+       "MG94xREV with separate rates for branch sets":0.1418838939255505,
+       "Nucleotide GTR":0.1177760013313338,
+       "RELAX alternative":0.2073402792494265,
+       "RELAX null":0.2336637395590354
+      },
+     "IntNode004":{
+       "MG94xREV with separate rates for branch sets":0.03023524146283848,
+       "Nucleotide GTR":0.02873226640235507,
+       "RELAX alternative":0.02286366266863218,
+       "RELAX null":0.02880177796408036
+      },
+     "IntNode005":{
+       "MG94xREV with separate rates for branch sets":0.01608567466716737,
+       "Nucleotide GTR":0.01132231450929626,
+       "RELAX alternative":0,
+       "RELAX null":0
+      },
+     "IntNode006":{
+       "MG94xREV with separate rates for branch sets":0.01562427413662884,
+       "Nucleotide GTR":0.02172851700476211,
+       "RELAX alternative":0.026514691835225,
+       "RELAX null":0.02713325704188772
+      },
+     "IntNode007":{
+       "MG94xREV with separate rates for branch sets":0.04212726383660031,
+       "Nucleotide GTR":0.02474953072722099,
+       "RELAX alternative":0.04608168104831872,
+       "RELAX null":0.04381555694129687
+      },
+     "IntNode008":{
+       "MG94xREV with separate rates for branch sets":0.02562995324550777,
+       "Nucleotide GTR":0.02575987428081164,
+       "RELAX alternative":0.01604338401963792,
+       "RELAX null":0.01707691011753227
+      },
+     "IntNode010":{
+       "MG94xREV with separate rates for branch sets":0.1150120557657144,
+       "Nucleotide GTR":0.07522147249795505,
+       "RELAX alternative":0.1341625294592954,
+       "RELAX null":0.1611565458838464
+      },
+     "IntNode011":{
+       "MG94xREV with separate rates for branch sets":0.04985874154833425,
+       "Nucleotide GTR":0.04534039746898405,
+       "RELAX alternative":0.05036702170548232,
+       "RELAX null":0.05245299887801726
+      },
+     "IntNode012":{
+       "MG94xREV with separate rates for branch sets":0.09174153695015207,
+       "Nucleotide GTR":0.07630243966328377,
+       "RELAX alternative":0.09738564854385447,
+       "RELAX null":0.1158176195284868
+      },
+     "IntNode013":{
+       "MG94xREV with separate rates for branch sets":0.00439702347000897,
+       "Nucleotide GTR":0.004747825128708674,
+       "RELAX alternative":0.00484587299895369,
+       "RELAX null":0.005070356426319469
+      },
+     "IntNode017":{
+       "MG94xREV with separate rates for branch sets":0.1139188694337634,
+       "Nucleotide GTR":0.1069531262205311,
+       "RELAX alternative":0.1315335605859664,
+       "RELAX null":0.1289783134362078
+      },
+     "IntNode019":{
+       "MG94xREV with separate rates for branch sets":0.04044647987875014,
+       "Nucleotide GTR":0.04365804471178587,
+       "RELAX alternative":0.04189634397738386,
+       "RELAX null":0.04199743965697485
+      },
+     "IntNode024":{
+       "MG94xREV with separate rates for branch sets":0.07158702614555464,
+       "Nucleotide GTR":0.03851190606018143,
+       "RELAX alternative":0.2843691683573986,
+       "RELAX null":0.06756609185315599
+      },
+     "IntNode025":{
+       "MG94xREV with separate rates for branch sets":0.03401971394550675,
+       "Nucleotide GTR":0.02539571399472328,
+       "RELAX alternative":0.03087000525765601,
+       "RELAX null":0.02910955808882067
+      },
+     "IntNode026":{
+       "MG94xREV with separate rates for branch sets":0.02993323712458859,
+       "Nucleotide GTR":0.01604406263784989,
+       "RELAX alternative":0.02464987158399235,
+       "RELAX null":0.0237835816853429
+      },
+     "IntNode027":{
+       "MG94xREV with separate rates for branch sets":0.09391926660496829,
+       "Nucleotide GTR":0.06743113972956226,
+       "RELAX alternative":0.09043028285398177,
+       "RELAX null":0.09234797688685994
+      },
+     "IntNode028":{
+       "MG94xREV with separate rates for branch sets":0.1233150539262305,
+       "Nucleotide GTR":0.09998399302034271,
+       "RELAX alternative":0.1565198367720267,
+       "RELAX null":0.1579732487996137
+      },
+     "IntNode034":{
+       "MG94xREV with separate rates for branch sets":0.01935080600160225,
+       "Nucleotide GTR":0.01444749524408272,
+       "RELAX alternative":0.0263945870864511,
+       "RELAX null":0.02527631083048605
+      },
+     "IntNode035":{
+       "MG94xREV with separate rates for branch sets":0.03823546961985102,
+       "Nucleotide GTR":0.025607706149143,
+       "RELAX alternative":0.03343078667445347,
+       "RELAX null":0.03472068173578591
+      },
+     "IntNode037":{
+       "MG94xREV with separate rates for branch sets":0.1731352192540734,
+       "Nucleotide GTR":0.121776520670283,
+       "RELAX alternative":0.1941340340422596,
+       "RELAX null":0.1956074098637809
+      },
+     "IntNode040":{
+       "MG94xREV with separate rates for branch sets":0.09965913697810036,
+       "Nucleotide GTR":0.07035393683880921,
+       "RELAX alternative":0.10740517849218,
+       "RELAX null":0.1104465764478778
+      },
+     "IntNode044":{
+       "MG94xREV with separate rates for branch sets":0.1946952709665794,
+       "Nucleotide GTR":0.1305522172925656,
+       "RELAX alternative":0.214514673702127,
+       "RELAX null":0.2098116403936034
+      },
+     "IntNode052":{
+       "MG94xREV with separate rates for branch sets":0.02778861514436767,
+       "Nucleotide GTR":0.01758758483891459,
+       "RELAX alternative":0.02618951975310858,
+       "RELAX null":0.02742193707534823
+      },
+     "IntNode053":{
+       "MG94xREV with separate rates for branch sets":0.03127211574443872,
+       "Nucleotide GTR":0.02104149123770619,
+       "RELAX alternative":0.03023730456929439,
+       "RELAX null":0.0323502402764627
+      },
+     "IntNode054":{
+       "MG94xREV with separate rates for branch sets":0.01783339302706401,
+       "Nucleotide GTR":0.01904299983317374,
+       "RELAX alternative":0.009061121391233291,
+       "RELAX null":0.008301981970363328
+      },
+     "IntNode057":{
+       "MG94xREV with separate rates for branch sets":0.1611836555595051,
+       "Nucleotide GTR":0.1125517471235533,
+       "RELAX alternative":0.2070065270784897,
+       "RELAX null":0.2344804907853059
+      },
+     "leprae":{
+       "MG94xREV with separate rates for branch sets":0.04755292282300286,
+       "Nucleotide GTR":0.05128661119640017,
+       "RELAX alternative":0.05024661967982942,
+       "RELAX null":0.05013851221234425,
+       "original name":"leprae"
+      },
+     "lepromatosis":{
+       "MG94xREV with separate rates for branch sets":0.02488144579376488,
+       "Nucleotide GTR":0.03056446729282815,
+       "RELAX alternative":0.0249400682041234,
+       "RELAX null":0.02498043158501192,
+       "original name":"lepromatosis"
+      },
+     "spire_mag_00492514":{
+       "MG94xREV with separate rates for branch sets":0.006982371931294958,
+       "Nucleotide GTR":0.004677074257980965,
+       "RELAX alternative":0.007394105840221829,
+       "RELAX null":0.008150891719395568,
+       "original name":"spire_mag_00492514"
+      },
+     "spire_mag_00493620":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0.002340118732831794,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_00493620"
+      },
+     "spire_mag_00709062":{
+       "MG94xREV with separate rates for branch sets":0.2414453604476203,
+       "Nucleotide GTR":0.1707119168084827,
+       "RELAX alternative":0.2849540648626707,
+       "RELAX null":0.324367112337946,
+       "original name":"spire_mag_00709062"
+      },
+     "spire_mag_00871125":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_00871125"
+      },
+     "spire_mag_00873124":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_00873124"
+      },
+     "spire_mag_00874439":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_00874439"
+      },
+     "spire_mag_01112767":{
+       "MG94xREV with separate rates for branch sets":0.1122804674321547,
+       "Nucleotide GTR":0.09337695334273767,
+       "RELAX alternative":0.9766500000011007,
+       "RELAX null":0.1568560117809381,
+       "original name":"spire_mag_01112767"
+      },
+     "spire_mag_01196792":{
+       "MG94xREV with separate rates for branch sets":0.1446577465202919,
+       "Nucleotide GTR":0.1112105511049388,
+       "RELAX alternative":0.2234709101303145,
+       "RELAX null":0.2515958349601522,
+       "original name":"spire_mag_01196792"
+      },
+     "spire_mag_01198798":{
+       "MG94xREV with separate rates for branch sets":0.1662888028740699,
+       "Nucleotide GTR":0.1103832146972832,
+       "RELAX alternative":0.2124150501789324,
+       "RELAX null":0.2395383945820508,
+       "original name":"spire_mag_01198798"
+      },
+     "spire_mag_01203432":{
+       "MG94xREV with separate rates for branch sets":0.1705721388014397,
+       "Nucleotide GTR":0.1337152163505155,
+       "RELAX alternative":0.2286241362315784,
+       "RELAX null":0.2581930002128635,
+       "original name":"spire_mag_01203432"
+      },
+     "spire_mag_01678249":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_01678249"
+      },
+     "spire_mag_01679848":{
+       "MG94xREV with separate rates for branch sets":0.003529418266242653,
+       "Nucleotide GTR":0.00351274469439463,
+       "RELAX alternative":0.003300274694846163,
+       "RELAX null":0.003491449293579221,
+       "original name":"spire_mag_01679848"
+      },
+     "spire_mag_01680964":{
+       "MG94xREV with separate rates for branch sets":0.002238188023875994,
+       "Nucleotide GTR":0.00235464773269566,
+       "RELAX alternative":0.002262117361753253,
+       "RELAX null":0.002304765133314468,
+       "original name":"spire_mag_01680964"
+      },
+     "spire_mag_01753708":{
+       "MG94xREV with separate rates for branch sets":0.002460014217188761,
+       "Nucleotide GTR":0.00248899100877474,
+       "RELAX alternative":0.002285262845374022,
+       "RELAX null":0.002312004830775395,
+       "original name":"spire_mag_01753708"
+      },
+     "spire_mag_01822855":{
+       "MG94xREV with separate rates for branch sets":0.1075705904722464,
+       "Nucleotide GTR":0.094481576375681,
+       "RELAX alternative":0.8553145817867343,
+       "RELAX null":0.1420742205927837,
+       "original name":"spire_mag_01822855"
+      },
+     "spire_mag_01882647":{
+       "MG94xREV with separate rates for branch sets":0.1895465206098332,
+       "Nucleotide GTR":0.1403954718106594,
+       "RELAX alternative":1.715385432855228,
+       "RELAX null":0.2857304688641654,
+       "original name":"spire_mag_01882647"
+      },
+     "spire_mag_02001409":{
+       "MG94xREV with separate rates for branch sets":0.1432655659225759,
+       "Nucleotide GTR":0.1149090365740289,
+       "RELAX alternative":0.1545562864332017,
+       "RELAX null":0.181849009249366,
+       "original name":"spire_mag_02001409"
+      },
+     "spire_mag_02087828":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_02087828"
+      },
+     "spire_mag_02088284":{
+       "MG94xREV with separate rates for branch sets":0.1327187269472733,
+       "Nucleotide GTR":0.1134953324059832,
+       "RELAX alternative":1.16592566114154,
+       "RELAX null":0.1939460658556475,
+       "original name":"spire_mag_02088284"
+      },
+     "spire_mag_02088287":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_02088287"
+      },
+     "spire_mag_02088330":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_02088330"
+      },
+     "spire_mag_02088418":{
+       "MG94xREV with separate rates for branch sets":0.1331185923678383,
+       "Nucleotide GTR":0.1125552550071867,
+       "RELAX alternative":1.072160573582988,
+       "RELAX null":0.1772123782426563,
+       "original name":"spire_mag_02088418"
+      },
+     "spire_mag_02088507":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_02088507"
+      },
+     "spire_mag_02100063":{
+       "MG94xREV with separate rates for branch sets":0.001143157714064414,
+       "Nucleotide GTR":0.001079479838458556,
+       "RELAX alternative":0.001271121661297087,
+       "RELAX null":0.00115607808673817,
+       "original name":"spire_mag_02100063"
+      },
+     "spire_mag_02184890":{
+       "MG94xREV with separate rates for branch sets":0.153877785140375,
+       "Nucleotide GTR":0.1081305609339435,
+       "RELAX alternative":0.1704382189878746,
+       "RELAX null":0.2002702879007712,
+       "original name":"spire_mag_02184890"
+      },
+     "spire_mag_02292565":{
+       "MG94xREV with separate rates for branch sets":0.001355936256527738,
+       "Nucleotide GTR":0.001294221044607937,
+       "RELAX alternative":0.001356105853907597,
+       "RELAX null":0.001381761304603106,
+       "original name":"spire_mag_02292565"
+      },
+     "spire_mag_02292667":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_02292667"
+      },
+     "spire_mag_02296681":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_02296681"
+      },
+     "spire_mag_02298516":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_02298516"
+      },
+     "spire_mag_02300785":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_02300785"
+      },
+     "spire_mag_02305637":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_02305637"
+      },
+     "spire_mag_02307626":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "original name":"spire_mag_02307626"
+      },
+     "spire_mag_02520786":{
+       "MG94xREV with separate rates for branch sets":0.1993327775180899,
+       "Nucleotide GTR":0.1223080779566503,
+       "RELAX alternative":0.2616329960976176,
+       "RELAX null":0.2953491304895013,
+       "original name":"spire_mag_02520786"
+      },
+     "spire_mag_02598702":{
+       "MG94xREV with separate rates for branch sets":0.2231938017289926,
+       "Nucleotide GTR":0.1509124153962722,
+       "RELAX alternative":0.2585084624661353,
+       "RELAX null":0.301973171331488,
+       "original name":"spire_mag_02598702"
+      },
+     "uberis":{
+       "MG94xREV with separate rates for branch sets":0.09803141776247133,
+       "Nucleotide GTR":0.1012008215237593,
+       "RELAX alternative":0.09321214056110831,
+       "RELAX null":0.09266240916928058,
+       "original name":"uberis"
+      }
+    },
+   "attributes":{
+     "MG94xREV with separate rates for branch sets":{
+       "attribute type":"branch length",
+       "display order":1
+      },
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "RELAX alternative":{
+       "attribute type":"branch length",
+       "display order":2
+      },
+     "RELAX null":{
+       "attribute type":"branch length",
+       "display order":3
+      },
+     "original name":{
+       "attribute type":"node label",
+       "display order":-1
+      }
+    }
+  },
+ "data partitions":{
+   "0":{
+     "coverage":      [
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299] 
+      ],
+     "name":"relax.filter.default"
+    }
+  },
+ "fits":{
+   "MG94xREV with separate rates for branch sets":{
+     "AIC-c":20935.6051878068,
+     "Equilibrium frequencies":      [
+[0.002172626107085155],
+      [0.01357999410051224],
+      [0.009804819224859217],
+      [0.002807441243313618],
+      [0.003014833239720776],
+      [0.01884420769681549],
+      [0.01360560605074248],
+      [0.003895731139059344],
+      [0.001963263629199019],
+      [0.01227137445109784],
+      [0.008859989720395528],
+      [0.00253690557530195],
+      [0.002936997745510213],
+      [0.01835769713305908],
+      [0.01325434314935167],
+      [0.003795153052508776],
+      [0.003723844948123982],
+      [0.02327588362389311],
+      [0.01680529678746507],
+      [0.004811907514585791],
+      [0.005167373940945857],
+      [0.03229865801775302],
+      [0.02331978207985176],
+      [0.006677218263246632],
+      [0.003365001149340317],
+      [0.02103293134848967],
+      [0.01518587475918246],
+      [0.004348213887169985],
+      [0.005033965200732566],
+      [0.03146478701751731],
+      [0.02271772331946871],
+      [0.006504829098690475],
+      [0.008810156256094695],
+      [0.05506785985503566],
+      [0.03975925224872819],
+      [0.01138437762150499],
+      [0.01222536719106413],
+      [0.0764146273442252],
+      [0.05517171816862947],
+      [0.01579747198789477],
+      [0.007961176241390431],
+      [0.0497613123761395],
+      [0.03592790016170874],
+      [0.01028733588926352],
+      [0.01190973862339244],
+      [0.07444179176383846],
+      [0.05374732165690104],
+      [0.01538962056073948],
+      [0.01251311178826989],
+      [0.002586880808383975],
+      [0.002777979509593083],
+      [0.01736375404336396],
+      [0.01253671159206764],
+      [0.003589671606577119],
+      [0.01130730095799632],
+      [0.008163924151487626],
+      [0.00233759917898941],
+      [0.002706258989470377],
+      [0.01691546510999627],
+      [0.01221304488649746],
+      [0.003496995215767048] 
+      ],
+     "Log Likelihood":-10387.21451876046,
+     "Rate Distributions":{
+       "non-synonymous/synonymous rate ratio for *Reference*":        [
+[0.1015516541054056, 1] 
+        ],
+       "non-synonymous/synonymous rate ratio for *Test*":        [
+[0.1112269362665444, 1] 
+        ],
+       "non-synonymous/synonymous rate ratio for *Unclassified*":        [
+[0.09564088558023302, 1] 
+        ]
+      },
+     "display order":1,
+     "estimated parameters":80
+    },
+   "Nucleotide GTR":{
+     "AIC-c":23203.70649581814,
+     "Equilibrium frequencies":      [
+[0.1375896100556145],
+      [0.3376731925290128],
+      [0.3570257498312277],
+      [0.1677114475841451] 
+      ],
+     "Log Likelihood":-11522.66300106982,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.6515483732633456,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.2309335411651678,
+       "Substitution rate from nucleotide C to nucleotide G":0.8623407028715208,
+       "Substitution rate from nucleotide C to nucleotide T":1.182687543468873,
+       "Substitution rate from nucleotide G to nucleotide T":0.2334852462205253
+      },
+     "display order":0,
+     "estimated parameters":79
+    },
+   "RELAX alternative":{
+     "AIC-c":20609.76090457911,
+     "Log Likelihood":-10216.16916357827,
+     "Rate Distributions":{
+       "Reference":{
+         "0":{
+           "omega":0,
+           "proportion":0.8509389133593785
+          },
+         "1":{
+           "omega":0.9054156751202037,
+           "proportion":0.1325993858783169
+          },
+         "2":{
+           "omega":6.299454195855151,
+           "proportion":0.01646170076230451
+          }
+        },
+       "Test":{
+         "0":{
+           "omega":0,
+           "proportion":0.8509389133593785
+          },
+         "1":{
+           "omega":0.7502980578616625,
+           "proportion":0.1325993858783169
+          },
+         "2":{
+           "omega":204.6632386701154,
+           "proportion":0.01646170076230451
+          }
+        }
+      },
+     "display order":2,
+     "estimated parameters":88
+    },
+   "RELAX null":{
+     "AIC-c":20615.11368502937,
+     "Log Likelihood":-10219.86160096002,
+     "Rate Distributions":{
+       "Reference":{
+         "0":{
+           "omega":0.002449770046612524,
+           "proportion":0.852208222954424
+          },
+         "1":{
+           "omega":0.8434287681153095,
+           "proportion":0.1359007931349177
+          },
+         "2":{
+           "omega":14.69482260771766,
+           "proportion":0.01189098391065827
+          }
+        },
+       "Test":{
+         "0":{
+           "omega":0.002449770046612524,
+           "proportion":0.852208222954424
+          },
+         "1":{
+           "omega":0.8434287681153095,
+           "proportion":0.1359007931349177
+          },
+         "2":{
+           "omega":14.69482260771766,
+           "proportion":0.01189098391065827
+          }
+        }
+      },
+     "display order":3,
+     "estimated parameters":87
+    }
+  },
+ "input":{
+   "file name":"/path/to/project/analyses/extended/D_relax/boot/test/small.fa",
+   "number of sequences":37,
+   "number of sites":300,
+   "partition count":1,
+   "trees":{
+     "0":"(spire_mag_00492514,spire_mag_00493620,((((((spire_mag_00709062,((((spire_mag_01678249,spire_mag_01680964)IntNode013,spire_mag_01679848)IntNode012,(uberis,(leprae,lepromatosis)IntNode019)IntNode017)IntNode011,spire_mag_02001409)IntNode010)IntNode008,spire_mag_02598702)IntNode007,(((((spire_mag_00874439,spire_mag_00871125,spire_mag_00873124)IntNode028,spire_mag_01822855)IntNode027,((spire_mag_01112767,(spire_mag_01753708,spire_mag_02100063)IntNode037)IntNode035,(spire_mag_02088284,spire_mag_02088418)IntNode040)IntNode034)IntNode026,spire_mag_01882647)IntNode025,(spire_mag_02088507,spire_mag_02088330,spire_mag_02087828,spire_mag_02088287)IntNode044)IntNode024)IntNode006,spire_mag_02520786)IntNode005,(((spire_mag_01196792,spire_mag_02184890)IntNode054,(spire_mag_02307626,spire_mag_02300785,spire_mag_02305637,spire_mag_02292667,spire_mag_02296681,spire_mag_02292565,spire_mag_02298516)IntNode057)IntNode053,spire_mag_01203432)IntNode052)IntNode004,spire_mag_01198798)IntNode003)"
+    }
+  },
+ "runtime":"2.5.59",
+ "test results":{
+   "LRT":7.384874763498374,
+   "p-value":0.006577464975617286,
+   "relaxation or intensification parameter":2.891319144871392
+  },
+ "tested":{
+   "0":{
+     "IntNode003":"Reference",
+     "IntNode004":"Reference",
+     "IntNode005":"Reference",
+     "IntNode006":"Reference",
+     "IntNode007":"Reference",
+     "IntNode008":"Reference",
+     "IntNode010":"Reference",
+     "IntNode011":"Reference",
+     "IntNode012":"Reference",
+     "IntNode013":"Reference",
+     "IntNode017":"Unclassified",
+     "IntNode019":"Unclassified",
+     "IntNode024":"Test",
+     "IntNode025":"Unclassified",
+     "IntNode026":"Unclassified",
+     "IntNode027":"Unclassified",
+     "IntNode028":"Unclassified",
+     "IntNode034":"Unclassified",
+     "IntNode035":"Unclassified",
+     "IntNode037":"Unclassified",
+     "IntNode040":"Unclassified",
+     "IntNode044":"Unclassified",
+     "IntNode052":"Reference",
+     "IntNode053":"Reference",
+     "IntNode054":"Reference",
+     "IntNode057":"Reference",
+     "leprae":"Unclassified",
+     "lepromatosis":"Unclassified",
+     "spire_mag_00492514":"Reference",
+     "spire_mag_00493620":"Reference",
+     "spire_mag_00709062":"Reference",
+     "spire_mag_00871125":"Test",
+     "spire_mag_00873124":"Test",
+     "spire_mag_00874439":"Test",
+     "spire_mag_01112767":"Test",
+     "spire_mag_01196792":"Reference",
+     "spire_mag_01198798":"Reference",
+     "spire_mag_01203432":"Reference",
+     "spire_mag_01678249":"Reference",
+     "spire_mag_01679848":"Reference",
+     "spire_mag_01680964":"Reference",
+     "spire_mag_01753708":"Test",
+     "spire_mag_01822855":"Test",
+     "spire_mag_01882647":"Test",
+     "spire_mag_02001409":"Reference",
+     "spire_mag_02087828":"Test",
+     "spire_mag_02088284":"Test",
+     "spire_mag_02088287":"Test",
+     "spire_mag_02088330":"Test",
+     "spire_mag_02088418":"Test",
+     "spire_mag_02088507":"Test",
+     "spire_mag_02100063":"Test",
+     "spire_mag_02184890":"Reference",
+     "spire_mag_02292565":"Reference",
+     "spire_mag_02292667":"Reference",
+     "spire_mag_02296681":"Reference",
+     "spire_mag_02298516":"Reference",
+     "spire_mag_02300785":"Reference",
+     "spire_mag_02305637":"Reference",
+     "spire_mag_02307626":"Reference",
+     "spire_mag_02520786":"Reference",
+     "spire_mag_02598702":"Reference",
+     "uberis":"Unclassified"
+    }
+  },
+ "timers":{
+   "Overall":{
+     "order":0,
+     "timer":256
+    },
+   "Preliminary model fitting":{
+     "order":1,
+     "timer":13
+    },
+   "RELAX alternative model fitting":{
+     "order":3,
+     "timer":226
+    },
+   "RELAX null model fitting":{
+     "order":4,
+     "timer":17
+    }
+  }
+}

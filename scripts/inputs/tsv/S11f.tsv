@@ -1,0 +1,6 @@
+Test branch set	Synonymous rate variation	K	LRT	p-value	Interpretation
+FSM	Not modelled	1.043	12.6	3.9e-4	Selection intensity maintained (K>1)
+FSM	Modelled (--srv Yes)	1.065	72.3	<1e-10	Estimate moves further from 1; robust to codon-usage differences
+Leprosy clade (M. leprae, M. lepromatosis, M. uberis)	Not modelled	0.724	229.0	<1e-10	Relaxed selection (K<1)
+Leprosy clade (M. leprae, M. lepromatosis, M. uberis)	Modelled (--srv Yes)	0.789	252.4	<1e-10	Remains strongly relaxed; SRV control is conservative for this contrast
+Alignment: 52 single-copy orthologues, 37 taxa, 63,840 nt. M. lepraemurium is excluded from the leprosy test set.

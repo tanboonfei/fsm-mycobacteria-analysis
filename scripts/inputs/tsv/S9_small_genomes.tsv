@@ -1,0 +1,60 @@
+genome_id_or_accession	clade	species	genome_size_Mb	completeness_pct_or_genome_class	pseudogenes	rhodopsin	biome
+GCA_040511335.1	RGM	Mycobacterium sp040511335	2.39	61.8	26	absent
+GCA_964195655.1	RGM	Mycobacterium sp964195655	2.71	65.7	15	absent
+spire_mag_00709550	RGM	novel sp.	3.02	94	3	absent
+spire_mag_00709164	RGM	novel sp.	3.13	100	3	absent
+GCA_030666145.1	RGM	Mycobacterium sp030666145	3.21	97.7	19	absent
+GCA_036273805.1	RGM	Mycobacterium sp036273805	3.25	67.3	4	absent
+GCA_020438915.1	RGM	Mycobacterium sp020438915	3.33	64.3	17	absent
+GCA_022601275.1	RGM	Mycobacterium sp022601275	3.41	92.6	4	present
+spire_mag_01040802	RGM	Mycobacterium fallax	3.58	96	6	absent	anthropogenic
+spire_mag_01041225	RGM	Mycobacterium fallax	3.59	100	3	absent	anthropogenic
+GCA_034189785.1	RGM	Mycobacterium sp034189785	3.61	99.8	12	absent
+spire_mag_01041320	RGM	Mycobacterium fallax	3.64	100	0	absent	anthropogenic
+GCA_029256565.1	RGM	Mycobacterium sp029256565	3.69	57.6	25	absent
+GCA_036263935.1	RGM	Mycobacterium sp036263935	3.76	82.2	5	absent
+spire_mag_01244826	RGM	Mycobacterium sp034189785	3.82	100	12	absent	aquatic
+spire_mag_01584542	RGM	Mycobacterium sp030666145	3.87	100	19	absent	aquatic
+GCA_022601135.1	RGM	Mycobacterium sp022601135	3.88	95.8	3	absent
+spire_mag_00877932	RGM	Mycobacterium fallax	3.92	100	3	absent
+GCA_035345915.1	RGM	Mycobacterium sp035345915	3.98	74.3	5	absent
+GCF_011620645.1	RGM	Mycobacterium sp011620645	3.98	100	9	absent
+GCF_025215495.1	RGM	Mycobacterium brumae	3.99	isolate	1	absent
+GCA_036519055.1	SGM	Mycobacterium sp036519055	2.66	66.7	5	absent
+spire_mag_00709337	SGM	novel sp.	2.82	90	6	absent
+spire_mag_02370757	SGM	novel sp.	2.87	90	7	absent	host-associated
+GCA_036500645.1	SGM	Mycobacterium sp036500645	3.01	62	7	absent
+GCA_035721065.1	SGM	Mycobacterium sp035721065	3.03	79.5	1	absent
+GCA_039935195.1	SGM	Mycobacterium sp039935195	3.04	84.5	7	absent
+spire_mag_00709062	SGM	novel sp.	3.10	100	5	absent
+GCF_003408705.1	SGM	Mycobacterium uberis	3.12	isolate	12	absent
+spire_mag_00709072	SGM	novel sp.	3.13	95	2	absent
+GCA_019751635.1	SGM	Mycobacterium sp019751635	3.16	90.6	10	absent
+spire_mag_00709178	SGM	novel sp.	3.21	93	3	absent
+spire_mag_02374351	SGM	novel sp.	3.21	100	6	absent	host-associated
+GCF_902168065.1	SGM	Mycobacterium tilburgii	3.24	isolate	213	absent
+GCA_039922455.1	SGM	Mycobacterium sp039922455	3.26	85.4	10	absent
+GCF_000195855.1	SGM	Mycobacterium leprae	3.27	isolate	25	absent
+GCF_000975265.2	SGM	Mycobacterium lepromatosis	3.27	isolate	20	absent
+spire_mag_00709327	SGM	novel sp.	3.33	92	2	absent
+GCA_028706695.1	SGM	Mycobacterium sp028706695	3.35	81	28	absent
+GCA_903927745.1	SGM	Mycobacterium sp903927745	3.44	93.3	7	present
+GCF_039583805.1	SGM	Mycobacterium sp039583805	3.45	96	8	present
+GCA_035693385.1	SGM	Mycobacterium sp035693385	3.46	70	7	absent
+GCA_035472875.1	SGM	Mycobacterium sp035472875	3.50	67.3	34	absent
+GCA_035552835.1	SGM	Mycobacterium sp035552835	3.55	71.2	19	absent
+GCA_037140245.1	SGM	Mycobacterium sp037140245	3.58	87.1	6	present
+GCF_002102395.1	SGM	Mycobacterium triviale	3.59	isolate	2	absent
+spire_mag_01959179	SGM	Mycobacterium parakoreense	3.65	95	6	absent	host-associated
+GCF_029961025.1	SGM	Mycobacterium sp029961025	3.74	100	12	absent
+GCA_036746615.1	SGM	Mycobacterium sp036746615	3.75	71.1	46	absent
+GCA_035606475.1	SGM	Mycobacterium sp035606475	3.75	82.4	4	absent
+GCF_001668625.1	SGM	Mycobacterium sp001668625	3.76	100	1	absent
+GCA_035642315.1	SGM	Mycobacterium sp035642315	3.81	71.4	18	absent
+GCA_019242135.1	SGM	Mycobacterium sp019242135	3.81	83.8	5	absent
+GCA_019246375.1	SGM	Mycobacterium sp019246375	3.86	82	8	absent
+GCF_008709575.1	SGM	Mycobacterium sp008709575	3.91	98.7	12	present
+GCF_022370835.2	SGM	Mycobacterium parakoreense	3.94	isolate	2	absent
+GCA_039583405.1	SGM	Mycobacterium sp039583405	3.96	82.1	13	absent
+GCA_035651275.1	SGM	Mycobacterium sp035651275	3.96	92.4	6	absent
+spire_mag_00709385	SGM	novel sp.	4.00	93	6	absent

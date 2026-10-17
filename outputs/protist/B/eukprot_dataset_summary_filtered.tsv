@@ -1,0 +1,211 @@
+EukProt_ID	name	supergroup	taxogroup	data_type	source	n_prot_myco_ge90	n_ge95_nonFSM	n_ge95_FSM_best	clades_of_ge95_hits	FSM_positive
+EP01133	Synstelium_polycarpum	Amoebozoa	Dictyostelia	genome	ASM90009225v1	175	31	2	RGM:25;SGM:4;FSM:2;Outside ingroup:1;Outgroup:1	True
+EP01030	Chromulinospumella_sphaerica	Stramenopiles	Chrysophyceae	genome	ASM1514496v1	48	16	0	RGM:16	False
+EP01110	Echinostelium_bisporum	Amoebozoa	Myxogastria	transcriptome	Echinostelium bisporum Nx14-A1-A Transcriptome	42	25	0	Outside ingroup:19;RGM:4;Outgroup:2	False
+EP00300	Choanocystis_sp_HF-7	Centroplasthelida	Centroplasthelida	transcriptome	Transcriptome assembly of Choanocystis sp	38	14	0	RGM:13;Outgroup:1	False
+EP01012	Entosiphon_sulcatum	Euglenozoa	core-euglenids	transcriptome	PRJNA663625	38	5	2	RGM:5;FSM:2	True
+EP01136	Pigoraptor_vietnamica	Opisthokonta	Pigoraptor	transcriptome	Opistho-1_predicted_peptides	34	3	0	SGM:1;RGM:1;Outgroup:1	False
+EP00456	Euglypha_rotunda	Rhizaria	Euglyphida	transcriptome	Transcriptome of Euglypha rotunda CCAP 1520/1	33	3	0	RGM:2;SGM:1	False
+EP01132	Coremiostelium_polycephalum	Amoebozoa	Dictyostelia	genome	ASM90009226v1	33	16	0	RGM:16	False
+EP01034	Spumella_vulgaris	Stramenopiles	Chrysophyceae	genome	ASM1514856v1	27	4	0	RGM:3;Outside ingroup:1	False
+EP01106	Pelomyxa_sp_JSP	Amoebozoa	Pelobiontida	transcriptome	Pelomyxa sp. JSP Transcriptome	25	17	0	Outside ingroup:12;RGM:5	False
+EP01035	Chromulina_nebulosa	Stramenopiles	Chrysophyceae	genome	ASM1514860v1	23	3	0	RGM:3	False
+EP00659	Diplonema_papillatum	Euglenozoa	Diplonemidae	genome	ASM165507v1	22	10	0	RGM:10	False
+EP01137	Pigoraptor_chileana	Opisthokonta	Pigoraptor	transcriptome	Opistho-2_predicted_peptides	20	1	0	Outgroup:1	False
+EP00918	Siedleckia_nematoides	Alveolata	gregarinomorphea	single-cell transcriptome	GHVU00000000	19	9	0	RGM:9	False
+EP01022	Parablepharisma_sp_SALTPOND	Alveolata	Cariacotrichea	transcriptome	Metagenomic raw reads of Parablepharisma sp.: 50 ciliate cells from an enrichmen	19	11	0	RGM:11	False
+EP01031	Cornospumella_fuschlensis	Stramenopiles	Chrysophyceae	genome	ASM1514611v1	19	3	0	RGM:2;SGM:1	False
+EP01032	Pedospumella_encystans	Stramenopiles	Chrysophyceae	genome	ASM1514368v1	18	2	0	RGM:2	False
+EP00160	Parvularia_atlantis	Opisthokonta	Parvularia	transcriptome	a-Unigene Version 4	16	4	0	RGM:3;SGM:1	False
+EP01036	Dinobryon_divergens	Stramenopiles	Chrysophyceae	genome	ASM1514609v1	16	2	1	RGM:2;FSM:1	False
+EP01043	Picozoa_sp_COSAG02	Picozoa	picomonads	single-cell genome	Picozoa: final SAGs and COSAGs	16	8	0	RGM:8	False
+EP01083	Nonionella_stella	Rhizaria	Foraminifera	transcriptome	Nonionella stella_PolyA sequences/gene-calls-NstellaConcatTrinityAll	16	5	0	Outside ingroup:2;RGM:2;SGM:1	False
+EP00611	Tribonema_gayanum	Stramenopiles	Xanthophyceae	transcriptome	Transcriptomic data of uninfected Tribonema gayanum culture with bacteria	14	3	0	RGM:3	False
+EP00042	Codosiga_hollandica	Opisthokonta	Craspedida	transcriptome	Codosiga_hollandica Version 2	13	4	0	RGM:4	False
+EP00264	Hordeum_vulgare	Chloroplastida	Embryophyta	genome	IBSC_v2	13	0	0		False
+EP00389	Voromonas_pontica	Alveolata	Colpodellida	transcriptome	GDKH01000000	12	2	0	SGM:1;RGM:1	False
+EP01041	Mallomonas_annulata	Stramenopiles	Chrysophyceae	genome	ASM1514334v1	12	1	0	RGM:1	False
+EP01013	Petalomonas_cantuscygni	Euglenozoa	Petalomonadida	transcriptome	PRJNA663625	11	1	0	RGM:1	False
+EP01047	Picozoa_sp_COSAG01	Picozoa	picomonads	single-cell genome	Picozoa: final SAGs and COSAGs	11	0	0		False
+EP01009	Symbiontida_sp_KSa7	Euglenozoa	Symbiontida	single-cell transcriptome	4-transcriptome_assemblies	10	5	0	RGM:3;SGM:1;Outside ingroup:1	False
+EP01037	Dinobryon_pediforme	Stramenopiles	Chrysophyceae	genome	ASM1514370v1	10	4	0	SGM:2;RGM:2	False
+EP01086	Lenisia_limosa	Breviatea	Breviatea	transcriptome	mRNA library of an enriched Lenisia limosa culture with bacterial symbionts	10	4	0	RGM:4	False
+EP00038	Savillea_parva	Opisthokonta	Acanthoecida	transcriptome	Savillea_parva Version 2	9	2	0	RGM:2	False
+EP01002	Notosolenus_urceolatus	Euglenozoa	Petalomonadida	transcriptome	4-transcriptome_assemblies	9	0	0		False
+EP01038	Epipyxis_sp_PR26KG	Stramenopiles	Chrysophyceae	genome	ASM1514497v1	9	2	0	RGM:2	False
+EP01048	Picozoa_sp_COSAG05	Picozoa	picomonads	single-cell genome	Picozoa: final SAGs and COSAGs	9	0	0		False
+EP01092	Planopodium_desertum	Amoebozoa	Himatismenida	transcriptome	Ovalopodium desertum CCAP 1530/1 Transcriptome	9	1	0	RGM:1	False
+EP00747	Dinoflagellata_sp_TGD	Alveolata	Dinophyceae	transcriptome	v5/TRD_trinity.fasta	8	0	1	FSM:1	False
+EP00920	Eleutheroschizon_duboscqi	Alveolata	coccidiomorphea	single-cell transcriptome	GHVT00000000	8	3	0	RGM:3	False
+EP00811	Abedinium_folium	Alveolata	Abedinium	single-cell transcriptome	Abedinium_folium_DICHO17_03_rnaspades	7	0	1	FSM:1	False
+EP01045	Picozoa_sp_COSAG04	Picozoa	picomonads	single-cell genome	Picozoa: final SAGs and COSAGs	7	1	0	RGM:1	False
+EP00494	Astrolonche_serrata	Rhizaria	Acantharea	transcriptome	OrfPredictor.pep	6	0	0		False
+EP00614	Pseudopedinella_elastica	Stramenopiles	Dictyochophyceae	transcriptome	MMETSP1068,MMETSP1097	6	2	1	RGM:2;FSM:1	False
+EP00825	Cyclidium_porcatum	Alveolata	Oligohymenophorea	transcriptome	RNA-Seq of Cyclidium porcatum: cultured isolate 4	6	0	0		False
+EP01044	Picomonas_judraskeda	Picozoa	picomonads	single-cell genome	Picozoa: final SAGs and COSAGs	6	6	0	RGM:4;SGM:2	False
+EP00004	Rigifila_ramosa	Rigifilida	Rigifilida	transcriptome	Rigifila ramosa CCAP 1967/1 transcriptome	5	2	0	SGM:1;RGM:1	False
+EP00054	Salpingoeca_dolichothecata	Opisthokonta	Craspedida	transcriptome	Salpingoeca_dolichothecata Version 2	5	2	0	SGM:1;RGM:1	False
+EP00521	Asterionellopsis_glacialis	Stramenopiles	Diatomeae	transcriptome	MMETSP0705,MMETSP0706,MMETSP0707,MMETSP0708	5	1	1	SGM:1;FSM:1	False
+EP00558	Chaetoceros_sp_UNC1202	Stramenopiles	Diatomeae	transcriptome	MMETSP1429	5	0	0		False
+EP00998	Keelungia_sp_KM082	Euglenozoa	core-euglenids	transcriptome	4-transcriptome_assemblies	5	0	0		False
+EP01039	Chlorochromonas_danica	Stramenopiles	Chrysophyceae	genome	ASM1514665v1	5	1	0	SGM:1	False
+EP00043	Microstomoeca_roanoka	Opisthokonta	Craspedida	transcriptome	Microstomoeca_roanoka Version 2	4	1	0	RGM:1	False
+EP00164	Ancoracysta_twista	Ancoracysta	Ancoracysta	transcriptome	GFYU01000000	4	0	0		False
+EP00320	Phaeocystis_rex	Haptophyta	Prymnesiophyceae	transcriptome	MMETSP1178	4	0	0		False
+EP00449	Zooxanthella_nutricula	Alveolata	Dinophyceae	transcriptome	MMETSP1462	4	0	0		False
+EP01001	Neometanema_parovale	Euglenozoa	core-euglenids	single-cell transcriptome	4-transcriptome_assemblies	4	1	0	RGM:1	False
+EP01046	Picozoa_sp_COSAG06	Picozoa	picomonads	single-cell genome	Picozoa: final SAGs and COSAGs	4	0	0		False
+EP01139	Manchomonas_bermudensis	Apusomonadida	Apusomonadida	EST	PhyloFisher_v1.0_input_proteomes/Manchomonas_bermudensis	4	2	0	RGM:2	False
+EP01155	Anaeramoeba_flamelloides	Anaeramoebidae	Anaeramoebidae	transcriptome	Anaeramoeba_flamelloides_transcriptomeData	4	0	0		False
+EP00030	Apusomonadida_sp_AF-17	Apusomonadida	Apusomonadida	transcriptome	Transcriptome assembly of Amastigomonas sp	3	1	0	RGM:1	False
+EP00055	Hartaetosiga_balthica	Opisthokonta	Craspedida	transcriptome	Hartaetosiga_balthica Version 2	3	0	0		False
+EP00110	Nematostella_vectensis	Opisthokonta	Cnidaria	genome	ASM20922v1	3	0	0		False
+EP00163	Fabomonas_tropica	Ancyromonadida	Ancyromonadida	transcriptome	Fabomonas tropica NYK3C transcriptome	3	0	0		False
+EP00418	Pyrodinium_bahamense	Alveolata	Dinophyceae	transcriptome	MMETSP0796	3	1	0	Outgroup:1	False
+EP00475	Leptophrys_vorax	Rhizaria	Vampyrellida	transcriptome	Transcriptome of Leptophrys_vorax	3	0	0		False
+EP00481	Brizalina_sp_1-RS-2013	Rhizaria	Foraminifera	transcriptome	Transcriptome of Brizalina sp.	3	0	0		False
+EP00490	Sorites_sp_Unknown	Rhizaria	Foraminifera	transcriptome	MMETSP0191	3	0	0		False
+EP00534	Pseudo-nitzschia_fraudulenta	Stramenopiles	Diatomeae	transcriptome	MMETSP0850,MMETSP0851,MMETSP0852,MMETSP0853	3	0	0		False
+EP00581	Thalassiosira_minuscula	Stramenopiles	Diatomeae	transcriptome	MMETSP0737,MMETSP0738,MMETSP0739,MMETSP0740	3	1	0	RGM:1	False
+EP00680	Strigomonas_culicis	Euglenozoa	Metakinetoplastina	genome	Strigomonas_culicis_Genome	3	0	0		False
+EP00744	Colponema_vietnamica	Alveolata	Colponemidae	transcriptome	GILI01000000	3	0	0		False
+EP00914	Ancora_sagittata	Alveolata	gregarinomorphea	single-cell transcriptome	GHVO00000000	3	3	0	RGM:3	False
+EP00919	Chromeraceae_sp_WS-2016	Alveolata	Colpodellida	single-cell transcriptome	GHVR00000000	3	0	0		False
+EP00933	Yihiella_yeosuensis	Alveolata	Dinophyceae	transcriptome	RNA-Seq of Yihiella yeosuensis : non-motile,RNA-Seq of Yihiella yeosuensis : mot	3	0	0		False
+EP00952	Eustigmatos_sp_NYUAD-ZCMA	Stramenopiles	Eustigmatophyceae	genome	Dataset_S4-cds-aa	3	0	0		False
+EP01011	Urceolus_sp_BLP5	Euglenozoa	core-euglenids	single-cell transcriptome	4-transcriptome_assemblies	3	0	0		False
+EP01023	Acetabularia_acetabulum	Chloroplastida	Ulvophyceae	transcriptome	PRJEB40441	3	0	0		False
+EP01042	Synura_sphagnicola	Stramenopiles	Chrysophyceae	genome	ASM1514373v1	3	0	0		False
+EP01089	Gocevia_fonbrunei	Amoebozoa	Pellitida	transcriptome	Gocevia fonbrunei ATCC 50196 transcriptome	3	0	0		False
+EP01128	Nolandella_sp_AFSM9	Amoebozoa	Euamoebida	transcriptome	Nolandella sp. AFSM9 Transcriptome	3	0	0		False
+EP01135	Chromosphaera_perkinsii	Opisthokonta	Rhinosporidaceae	genome	Nk52_long.pep	3	0	0		False
+EP00003	Mantamonas_plastica	Mantamonas	Mantamonas	transcriptome	Mantamonas plastica CCAP 1946/1 transcriptome	2	0	0		False
+EP00010	Vexillifera_abyssalis	Amoebozoa	Dactylopodida	transcriptome	MMETSP0173	2	1	0	SGM:1	False
+EP00029	Vermamoeba_vermiformis	Amoebozoa	Echinamoebidia	transcriptome	4391-Kostka transcriptome	2	1	0	Outside ingroup:1	False
+EP00036	Acanthoecidae_sp_10tr	Opisthokonta	Acanthoecida	transcriptome	MMETSP0105,MMETSP0106	2	0	1	FSM:1	False
+EP00268	Persea_americana	Chloroplastida	Embryophyta	transcriptome	Persea americana cultivar:mill Raw sequence reads	2	0	0		False
+EP00284	Hemiselmis_tepida	Cryptophyceae	Cryptomonadales	transcriptome	MMETSP1355	2	0	0		False
+EP00353	Schmidingerella_taraikaensis	Alveolata	Spirotrichea	transcriptome	MMETSP0434,MMETSP0436	2	0	0		False
+EP00360	Condylostoma_magnum	Alveolata	Heterotrichea	transcriptome	MMETSP0210	2	0	0		False
+EP00672	Neobodo_designis	Euglenozoa	Metakinetoplastina	transcriptome	MMETSP1114	2	0	0		False
+EP00742	Colponemidia_sp_Colp-10	Alveolata	Colponemidae	transcriptome	GILJ01000000	2	1	0	RGM:1	False
+EP00743	Colponemidia_sp_Colp-15	Alveolata	Colponemidae	transcriptome	GILK01000000	2	0	0		False
+EP00750	Incisomonas_marina	Stramenopiles	Nanomonadea	transcriptome	Imarina.fa	2	0	0		False
+EP00764	Aduncisulcus_paluster	Fornicata	Fornicata	transcriptome	Fasta files with assembled transcriptomes of Carpediemonas-like organisms	2	0	0		False
+EP00953	Heterococcus_sp_UTEX-ZZ885	Stramenopiles	Xanthophyceae	genome	Dataset_S4-cds-aa	2	0	0		False
+EP00959	Pyramimonas_sp_CCMP1952	Chloroplastida	Pyramimonadales	genome	Dataset_S4-cds-aa	2	0	0		False
+EP00964	Phaeocystis_antarctica	Haptophyta	Prymnesiophyceae	genome	Dataset_S4-cds-aa	2	0	0		False
+EP00975	Prorocentrum_lima	Alveolata	Dinophyceae	genome	Dataset_S4-cds-aa	2	0	0		False
+EP01000	Liburna_glaciale	Euglenozoa	core-euglenids	single-cell transcriptome	4-transcriptome_assemblies	2	0	0		False
+EP01025	Chloroclados_australasicus	Chloroplastida	Ulvophyceae	transcriptome	PRJEB40441	2	0	0		False
+EP01026	Neomeris_dumetosa	Chloroplastida	Ulvophyceae	transcriptome	PRJEB40441	2	0	0		False
+EP01088	Endostelium_zonatum	Amoebozoa	Pellitida	transcriptome	Endostelium zonatum PRA-191 Transcriptome	2	1	0	RGM:1	False
+EP01113	Clastostelium_recurvatum	Amoebozoa	Protosporangiida	transcriptome	Clastostelium recurvatum ATCC PRA-189 Transcriptome	2	0	0		False
+EP01114	Cavostelium_apophysatum	Amoebozoa	Variosea	transcriptome	Cavostelium apophysatum ATCC 38567 transcriptome	2	1	0	RGM:1	False
+EP00006	Acanthamoeba_castellanii	Amoebozoa	Acanthopodida	genome	Acastellanii.strNEFF v1	1	0	0		False
+EP00019	Armaparvus_languidus	Amoebozoa	Cutosea	transcriptome	MMETSP0420	1	0	0		False
+EP00035	Acanthoeca_spectabilis	Opisthokonta	Acanthoecida	transcriptome	Acanthoeca_spectabilis Version 2	1	0	0		False
+EP00037	Helgoeca_nana	Opisthokonta	Acanthoecida	transcriptome	Helgoeca_nana Version 2	1	0	0		False
+EP00039	Didymoeca_costata	Opisthokonta	Acanthoecida	transcriptome	Didymoeca_costata Version 2	1	0	0		False
+EP00041	Stephanoeca_diplocostata	Opisthokonta	Acanthoecida	transcriptome	Stephanoeca_diplocostata.France Version 2	1	0	0		False
+EP00049	Salpingoeca_infusionum	Opisthokonta	Craspedida	transcriptome	Salpingoeca_infusionum Version 2	1	0	0		False
+EP00050	Salpingoeca_kvevrii	Opisthokonta	Craspedida	transcriptome	Salpingoeca_kvevrii Version 2	1	0	0		False
+EP00053	Salpingoeca_punica	Opisthokonta	Craspedida	transcriptome	Salpingoeca_punica Version 2	1	0	0		False
+EP00088	Acartia_fossae	Opisthokonta	Arthropoda	transcriptome	Acartia_fossae_transcriptome	1	0	0		False
+EP00124	Ichthyophonus_hoferi	Opisthokonta	Ichthyophonida	genome	Ihof_long.pep	1	0	0		False
+EP00126	Sphaerothecum_destruens	Opisthokonta	Rhinosporidaceae	transcriptome	clean	1	1	0	SGM:1	False
+EP00193	Tetraselmis_chui	Chloroplastida	Chlorodendrophyceae	transcriptome	MMETSP0491	1	0	0		False
+EP00198	Chlamydomonas_reinhardtii	Chloroplastida	Chlorophyceae	genome	v3.0	1	0	0		False
+EP00202	Volvox_carteri	Chloroplastida	Chlorophyceae	genome	v1.0	1	1	0	RGM:1	False
+EP00211	Chloroparvula_japonica	Chloroplastida	Chloropicophyceae	transcriptome	MMETSP1310	1	0	0		False
+EP00213	Chloropicon_mariensis	Chloroplastida	Chloropicophyceae	transcriptome	MMETSP1309	1	0	0		False
+EP00217	Crustomastix_stigmatica	Chloroplastida	Mamiellophyceae	transcriptome	MMETSP0803	1	0	0		False
+EP00218	Dolichomastix_sp_CCMP3274	Chloroplastida	Mamiellophyceae	transcriptome	MMETSP0033	1	0	0		False
+EP00227	Mantoniella_beaufortii	Chloroplastida	Mamiellophyceae	transcriptome	MMETSP1326	1	0	0		False
+EP00237	Pycnococcus_provasolii	Chloroplastida	Pycnococcaceae	transcriptome	MMETSP1316,MMETSP1459,MMETSP1471,MMETSP1472	1	0	0		False
+EP00238	Polyblepharides_amylifera	Chloroplastida	Pyramimonadales	transcriptome	MMETSP1081	1	0	0		False
+EP00243	Klebsormidium_subtile	Chloroplastida	Klebsormidiophyceae	transcriptome	Population Genomics of Klebsormidium subtile	1	0	0		False
+EP00265	Oryza_sativa	Chloroplastida	Embryophyta	genome	Build 4.0	1	0	0		False
+EP00286	Rhodomonas_abbreviata	Cryptophyceae	Cryptomonadales	transcriptome	MMETSP1101	1	0	0		False
+EP00293	Proteomonas_sulcata	Cryptophyceae	Cryptomonadales	transcriptome	MMETSP1049	1	0	0		False
+EP00321	Phaeocystis_globosa	Haptophyta	Prymnesiophyceae	transcriptome	MMETSP1162	1	0	0		False
+EP00322	Chrysochromulina_rotalis	Haptophyta	Prymnesiophyceae	transcriptome	MMETSP0287	1	0	0		False
+EP00325	Prymnesiales_sp_UTEX-LB-985	Haptophyta	Prymnesiophyceae	transcriptome	MMETSP1094	1	0	0		False
+EP00339	Tiarina_fusa	Alveolata	Colepidae	transcriptome	MMETSP0472	1	0	0		False
+EP00341	Mesodinium_pulex	Alveolata	Mesodiniidae	transcriptome	MMETSP0467	1	0	0		False
+EP00349	Pseudokeronopsis_sp_Brazil	Alveolata	Spirotrichea	transcriptome	MMETSP1396	1	0	0		False
+EP00355	Strombidium_rassoulzadegani	Alveolata	Spirotrichea	transcriptome	MMETSP0449	1	0	0		False
+EP00388	Colpodella_angusta	Alveolata	Colpodellida	transcriptome	GDKJ01000000,GDKK01000000	1	0	0		False
+EP00403	Amphidinium_massartii	Alveolata	Dinophyceae	transcriptome	MMETSP0689	1	0	0		False
+EP00405	Crypthecodinium_cohnii	Alveolata	Dinophyceae	transcriptome	MMETSP0323,MMETSP0324,MMETSP0325,MMETSP0326	1	0	0		False
+EP00406	Dinophysis_acuminata	Alveolata	Dinophyceae	transcriptome	MMETSP0797	1	0	0		False
+EP00425	Heterocapsa_triquetra	Alveolata	Dinophyceae	transcriptome	MMETSP0448	1	0	0		False
+EP00437	Effrenium_voratum	Alveolata	Dinophyceae	transcriptome	MMETSP1110	1	0	0		False
+EP00443	Scrippsiella_acuminata	Alveolata	Dinophyceae	transcriptome	MMETSP0270,MMETSP0271,MMETSP0272	1	0	0		False
+EP00448	Togula_jolla	Alveolata	Dinophyceae	transcriptome	MMETSP0224	1	0	0		False
+EP00453	Perkinsus_chesapeaki	Alveolata	Perkinsea	transcriptome	MMETSP0924	1	0	0		False
+EP00455	Lapot_gusevi	Rhizaria	Aquavolonida	transcriptome	Transcriptome of Lapot gusevi	1	0	0		False
+EP00487	Bulimina_marginata	Rhizaria	Foraminifera	transcriptome	Transcriptome of Bulimina marginata	1	0	0		False
+EP00493	Phyllostaurus_siculus	Rhizaria	Acantharea	transcriptome	OrfPredictor.pep	1	0	0		False
+EP00526	Cylindrotheca_closterium	Stramenopiles	Diatomeae	transcriptome	MMETSP0017	1	1	0	Outgroup:1	False
+EP00527	Entomoneis_sp_CCMP2396	Stramenopiles	Diatomeae	transcriptome	MMETSP1443	1	0	0		False
+EP00541	Cyclophora_tenuis	Stramenopiles	Diatomeae	transcriptome	MMETSP0397	1	0	0		False
+EP00543	Licmophora_paradoxa	Stramenopiles	Diatomeae	transcriptome	MMETSP1360	1	0	0		False
+EP00552	Chaetoceros_brevis	Stramenopiles	Diatomeae	transcriptome	MMETSP1435	1	0	0		False
+EP00553	Chaetoceros_curvisetus	Stramenopiles	Diatomeae	transcriptome	MMETSP0716,MMETSP0717,MMETSP0718,MMETSP0719	1	0	0		False
+EP00555	Chaetoceros_dichaeta	Stramenopiles	Diatomeae	transcriptome	MMETSP1447	1	0	0		False
+EP00566	Odontella_aurita	Stramenopiles	Diatomeae	transcriptome	MMETSP0015	1	0	0		False
+EP00567	Pseudictyota_dubia	Stramenopiles	Diatomeae	transcriptome	MMETSP1175	1	0	0		False
+EP00593	Proboscia_inermis	Stramenopiles	Diatomeae	transcriptome	MMETSP0816	1	0	0		False
+EP00594	Rhizosolenia_setigera	Stramenopiles	Diatomeae	transcriptome	MMETSP0789	1	0	0		False
+EP00597	Dinobryon_sp_UTEXLB2267	Stramenopiles	Chrysophyceae	transcriptome	MMETSP0019,MMETSP0020,MMETSP0812	1	0	0		False
+EP00598	Pedospumella_elongata	Stramenopiles	Chrysophyceae	transcriptome	MMETSP1098	1	1	0	RGM:1	False
+EP00616	Rhizochromulina_sp_CCMP1243	Stramenopiles	Dictyochophyceae	transcriptome	MMETSP1173	1	0	0		False
+EP00618	Florenciella_parvula	Stramenopiles	Dictyochophyceae	transcriptome	MMETSP1344	1	0	0		False
+EP00621	Florenciella_sp_RCC1693	Stramenopiles	Dictyochophyceae	transcriptome	MMETSP1323	1	0	0		False
+EP00636	Phaeomonas_parva	Stramenopiles	Pinguiophyceae	transcriptome	MMETSP1163	1	1	0	SGM:1	False
+EP00639	Heterosigma_akashiwo	Stramenopiles	Raphidophyceae	transcriptome	MMETSP0292,MMETSP0294,MMETSP0295,MMETSP0296	1	0	0		False
+EP00640	Fibrocapsa_japonica	Stramenopiles	Raphidophyceae	transcriptome	MMETSP1339	1	0	0		False
+EP00649	Plasmopara_halstedii	Stramenopiles	Peronosporomycetes	genome	Plasmopara halstedii genome	1	1	0	SGM:1	False
+EP00662	Eupelagonemidae_sp_cell21	Euglenozoa	Eupelagonemidae	single-cell genome	cell_21_SPAdes-scaffolds.final	1	0	0		False
+EP00729	Bicosta_minor	Opisthokonta	Acanthoecida	single-cell genome	B.minor.tetranucleotide.filtered.Choano-contigs.fa	1	0	0		False
+EP00730	Choanoeca_flexa	Opisthokonta	Craspedida	transcriptome	Version 2	1	0	0		False
+EP00746	Dinoflagellata_sp_MGD	Alveolata	MGD-lineage	transcriptome	v5/MRD_trinity.fasta	1	0	0		False
+EP00768	Dysnectes_brevis	Fornicata	Fornicata	transcriptome	Fasta files with assembled transcriptomes of Carpediemonas-like organisms	1	0	0		False
+EP00775	Hariotina_reticulata	Chloroplastida	Chlorophyceae	genome	Hariotina-reticulata	1	0	0		False
+EP00792	Barthelona_sp_PAP020	Barthelona	Barthelona	transcriptome	Trinity_BarthelonaPAP020_Miseq	1	0	0		False
+EP00806	Schmidingerella_arcuata	Alveolata	Spirotrichea	single-cell transcriptome	MAC_Schmidingerella_arcuata_Macronucleus_Transcriptome	1	0	0		False
+EP00812	Abedinium_dasypus	Alveolata	Abedinium	single-cell transcriptome	Abedinium_dasypus_DSEL18_54_rnaspades	1	0	0		False
+EP00824	Muranothrix_gubernata	Alveolata	Muranotrichea	transcriptome	RNA-Seq raw reads of Muranothrix gubernata: cultured isolate of anaerobic ciliat	1	0	0		False
+EP00826	Nyctotherus_ovalis	Alveolata	Armophorea	transcriptome	RNA-Seq of Nyctotherus ovalis: isolate 1,RNA-Seq of Nyctotherus ovalis: isolate 	1	1	0	RGM:1	False
+EP00827	Trimyema_finlayi	Alveolata	Plagiopylea	transcriptome	RNA-Seq of Trimyema finlayi: cultured isolate 1,RNA-Seq of Trimyema finlayi: cul	1	0	0		False
+EP00866	Antonospora_locustae	Opisthokonta	Microsporidia	genome	Antlo1	1	0	0		False
+EP00874	Dunaliella_salina	Chloroplastida	Chlorophyceae	genome	Dunsal1 v. 2	1	0	0		False
+EP00879	Flechtneria_rotunda	Chloroplastida	Chlorophyceae	transcriptome	GHRR00000000	1	0	1	FSM:1	False
+EP00882	Tetradesmus_deserticola	Chloroplastida	Chlorophyceae	transcriptome	GHRQ00000000	1	0	1	FSM:1	False
+EP00929	Paragymnodinium_shiwhaense	Alveolata	Dinophyceae	transcriptome	Paragymnodinium shiwhaense strain:PSSW0605 Transcriptome or Gene expression	1	0	1	FSM:1	False
+EP00930	Biecheleria_cincta	Alveolata	Dinophyceae	transcriptome	Biecheleria cincta strain:BCSH0906 Transcriptome or Gene expression	1	0	0		False
+EP00951	Prasinocladus_malaysianus	Chloroplastida	Chlorodendrophyceae	genome	Dataset_S4-cds-aa	1	0	0		False
+EP00955	Chlamydomonas_euryale	Chloroplastida	Chlorophyceae	genome	Dataset_S4-cds-aa	1	0	0		False
+EP00961	Rhodomonas_salina	Cryptophyceae	Cryptomonadales	genome	Dataset_S4-cds-aa	1	0	0		False
+EP00966	Prymnesium_polylepis	Haptophyta	Prymnesiophyceae	genome	Dataset_S4-cds-aa	1	0	0		False
+EP00971	Amphidinium_carterae	Alveolata	Dinophyceae	genome	Dataset_S4-cds-aa	1	0	0		False
+EP00972	Heterocapsa_arctica	Alveolata	Dinophyceae	genome	Dataset_S4-cds-aa	1	0	0		False
+EP00974	Lingulodinium_polyedra	Alveolata	Dinophyceae	genome	Dataset_S4-cds-aa	1	0	0		False
+EP00994	Dinema_validum	Euglenozoa	core-euglenids	single-cell transcriptome	4-transcriptome_assemblies	1	0	0		False
+EP00995	Heteronema_vittatum	Euglenozoa	core-euglenids	single-cell transcriptome	4-transcriptome_assemblies	1	0	0		False
+EP00997	Jenningsia_sp_PLL12	Euglenozoa	core-euglenids	single-cell transcriptome	4-transcriptome_assemblies	1	0	0		False
+EP01016	Furgasonia_blochmanni	Alveolata	Nassulida	single-cell transcriptome	Furgasonia blochmanni RNA-seq	1	0	0		False
+EP01029	Cantina_marsupialis	Stramenopiles	Cantina	transcriptome	Illumina HiSeq 2000 paired end sequencing of SAMD00025435	1	0	0		False
+EP01033	Poteriospumella_lacustris	Stramenopiles	Chrysophyceae	genome	ASM800037v1	1	1	0	RGM:1	False
+EP01049	Picozoa_sp_SAG25	Picozoa	picomonads	single-cell genome	Picozoa: final SAGs and COSAGs	1	1	0	RGM:1	False
+EP01051	Picozoa_sp_SAG22	Picozoa	picomonads	single-cell genome	Picozoa: final SAGs and COSAGs	1	0	0		False
+EP01052	Picozoa_sp_SAG31	Picozoa	picomonads	single-cell genome	Picozoa: final SAGs and COSAGs	1	0	0		False
+EP01053	Blabericola_migrator	Alveolata	gregarinomorphea	single-cell transcriptome	OurData	1	0	0		False
+EP01059	Diplonema_ambulator	Euglenozoa	Diplonemidae	transcriptome	PRJNA392339	1	0	0		False
+EP01064	Diplonema_japonicum	Euglenozoa	Diplonemidae	transcriptome	PRJNA525750	1	0	0		False
+EP01084	Bolivina_argentea	Rhizaria	Foraminifera	transcriptome	Bolivina argentea_polyA/gene-calls-BargTrinityAll	1	0	0		False
+EP01093	Parvamoeba_rugata	Amoebozoa	Himatismenida	transcriptome	Parvamoeba rugata CCAP 1556/1 Transcriptome	1	0	0		False
+EP01096	Ripella_sp_DP13-Kostka	Amoebozoa	Vannellida	transcriptome	Ripella sp. DP13-Kostka Transcriptome	1	0	0		False
+EP01115	Flamella_aegyptia	Amoebozoa	Variosea	transcriptome	Flamella aegyptia CCAP 1525/1 Transcriptome	1	0	0		False
+EP01116	Phalansterium_solitarium	Amoebozoa	Variosea	transcriptome	Phalasterium solitarium TexasCypress Transcriptome	1	0	0		False

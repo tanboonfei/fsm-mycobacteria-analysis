@@ -1,0 +1,8 @@
+Salinity association of FSM vs RGM MAGs (from sample metadata, S1 'salinity_habitat')
+Clade	Low salinity (freshwater)	Medium salinity	High / very-high salinity	Total annotated	% low-salinity
+FSM	57	9	11	77	74.0
+RGM	3	2	27	32	9.4
+Fisher exact test, low-salinity vs not-low (2x2 = [[57, 20], [3, 29]]), two-sided:
+odds ratio (conditional MLE; the value reported in the main text)	26.6
+p-value	2.9e-10
+sample (unconditional) odds ratio from the 2x2 above	27.6

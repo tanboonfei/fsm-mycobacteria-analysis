@@ -1,0 +1,170 @@
+quantity	value	source	filter_or_model
+genomes in phylogeny	862	S1	all tips
+ingroup genomes	824	S1	SGM + RGM + FSM crown clade
+Tsukamurella rooting taxa	19	S1	rooting taxa, excluded from all clade comparisons
+basal GTDB-Mycobacterium outside ingroup	19	S1	M. abscessus-M. chelonae lineage (18) + Mycobacterium sp021213805; excluded
+SPIRE MAGs retrieved	246	S1	GTDB R226 g__Mycobacterium, near-complete (CheckM2 ≥90% complete, ≤5% contaminated); only 32 of 246 annotated MAGs meet full MIMAG high-quality criteria, see S1b
+SPIRE MAGs inside the ingroup	243	S1	3 of the 246 fall outside the crown clade
+SGM genomes (all)	299	S1	all tips
+SGM MAGs	50	S1	MAGs only
+RGM genomes (all)	391	S1	all tips
+RGM MAGs	97	S1	MAGs only
+FSM genomes (all)	134	S1	all tips
+FSM MAGs	96	S1	MAGs only
+SGM median genome size (Mb)	5.36	S1	824 ingroup genomes
+SGM median genome size (Mb), MAG subset	5.1	S1	SPIRE MAGs only
+SGM median GC (%)	66.66	S1	824 ingroup genomes
+SGM median GC (%), MAG subset	65.62	S1	SPIRE MAGs only
+SGM median coding density (%), deposited annotation	89.63	S1	824 ingroup genomes; superseded for all reported comparisons by the uniform Prodigal rows below
+SGM median coding density (%), deposited annotation, MAG subset	90.97	S1	SPIRE MAGs only
+RGM median genome size (Mb)	6.05	S1	824 ingroup genomes
+RGM median genome size (Mb), MAG subset	6.0	S1	SPIRE MAGs only
+RGM median GC (%)	67.12	S1	824 ingroup genomes
+RGM median GC (%), MAG subset	67.82	S1	SPIRE MAGs only
+RGM median coding density (%), deposited annotation	91.73	S1	824 ingroup genomes; superseded for all reported comparisons by the uniform Prodigal rows below
+RGM median coding density (%), deposited annotation, MAG subset	92.52	S1	SPIRE MAGs only
+FSM median genome size (Mb)	3.31	S1	824 ingroup genomes
+FSM median genome size (Mb), MAG subset	3.32	S1	SPIRE MAGs only
+FSM median GC (%)	67.08	S1	824 ingroup genomes
+FSM median GC (%), MAG subset	66.6	S1	SPIRE MAGs only
+FSM median coding density (%), deposited annotation	93.47	S1	824 ingroup genomes; superseded for all reported comparisons by the uniform Prodigal rows below
+FSM median coding density (%), deposited annotation, MAG subset	93.58	S1	SPIRE MAGs only
+SGM median pseudogenes, MAG	18	S5	Bakta 1.11.4 / db 6.0
+SGM median pseudogenes, cultured isolate	6	S5	Bakta 1.11.4 / db 6.0
+RGM median pseudogenes, MAG	10	S5	Bakta 1.11.4 / db 6.0
+RGM median pseudogenes, cultured isolate	7	S5	Bakta 1.11.4 / db 6.0
+FSM median pseudogenes, MAG	4	S5	Bakta 1.11.4 / db 6.0
+Mycobacterium leprae pseudogenes (Bakta)	25	S5	Bakta under-calls in decayed genomes; see S6
+Mycobacterium lepromatosis pseudogenes (Bakta)	20	S5	Bakta under-calls in decayed genomes; see S6
+Mycobacterium uberis pseudogenes (Bakta)	12	S5	Bakta under-calls in decayed genomes; see S6
+M. leprae pseudogenes (NCBI PGAP)	1133	S6	PGAP; the value used in the text and the Fig. 2b reference line; the Bakta count for the same genome is in S6
+RELAX K, FSM, terminals + stem	1.0438	S11	15 test branches; common_reference_FSM_tips_stem.json
+RELAX LRT, FSM, terminals + stem	12.61	S11	common_reference_FSM_tips_stem.json
+RELAX K, FSM, full stem + crown	1.0462	S11	27 test branches; common_reference_FSM_full_crown.json
+RELAX LRT, FSM, full stem + crown	13.68	S11	common_reference_FSM_full_crown.json
+RELAX K, Leprosy clade, terminals + stem	0.7579	S11	4 test branches; common_reference_LEP_tips_stem.json
+RELAX LRT, Leprosy clade, terminals + stem	181.55	S11	common_reference_LEP_tips_stem.json
+RELAX K, Leprosy clade, full stem + crown	0.7709	S11	5 test branches; common_reference_LEP_full_crown.json
+RELAX LRT, Leprosy clade, full stem + crown	281.89	S11	common_reference_LEP_full_crown.json
+genome size PGLS beta, FSM vs RGM	-2.034	S7a	phylolm Pagel lambda, 525 genomes (FSM+RGM)
+genome size PGLS p, FSM vs RGM	0.025	S7a	phylolm Pagel lambda, 525 genomes (FSM+RGM)
+genome size PGLS coef, FSM vs full ingroup	-1.96	S8	phylolm Pagel lambda ML, 824-tip ingroup
+genome size PGLS p, FSM vs full ingroup	0.025	S8	phylolm Pagel lambda ML, 824-tip ingroup
+acidic residues PGLS beta, FSM vs RGM	-0.308	S7a	phylolm, 525 genomes
+acidic residues PGLS p, FSM vs RGM	0.013	S7a	phylolm, 525 genomes
+acidic residues PGLS coef, FSM vs full ingroup	-0.29	S8	phylolm Pagel lambda ML, 824-tip ingroup
+acidic residues PGLS p, FSM vs full ingroup	0.039	S8	phylolm Pagel lambda ML, 824-tip ingroup
+rhodopsin phyloglm beta, FSM vs RGM	2.51	S7b	phyloglm logistic_MPLE, 525 genomes
+rhodopsin phyloglm p, FSM vs RGM	5.3e-05	S7b	phyloglm logistic_MPLE, 525 genomes
+rhodopsin phyloglm beta, FSM vs full ingroup	2.05	S8	phyloglm logistic_MPLE, 824-tip ingroup
+rhodopsin phyloglm p, FSM vs full ingroup	0.00046	S8	phyloglm logistic_MPLE, 824-tip ingroup
+ingroup ancestor genome size (Mb)	5.1	phytools ML Brownian	uncalibrated; see Fig. 2a
+FSM stem ancestor genome size (Mb)	4.8	phytools ML Brownian	95% CI 2.1-7.4 Mb (recomputed; the FSM crown node itself gives 4.0 Mb); does not by itself establish direction
+ancestral families lost clade-wide	53	S14	≥80% prevalence in RGM and SGM, ≤10% in FSM ≥95% complete
+stem-mapped losses, preselected 52-family set	48 of 52 (preselected set, S15b)	S15	ML marginal ASR, 178 high-completeness genomes
+salinity-annotated MAGs (FSM / RGM)	77 / 32	S3	MAGs with sample-salinity metadata
+FSM low-salinity MAGs	57 of 77	S3	salinity-annotated FSM MAGs
+RGM low-salinity MAGs	3 of 32	S3	salinity-annotated RGM MAGs
+salinity Fisher p	3e-10	S3	FSM vs RGM; odds ratio 26.6 (conditional MLE, the value in the text) / 27.6 (unconditional)
+aquatic biome, FSM	75 of 94	S1	genomes with biome metadata
+aquatic Fisher p	5e-08	S1	FSM vs RGM, odds ratio 5.9
+Urease (ureC) prevalence, RGM	84	S17	SPIRE MAGs with uniform Bakta annotation only
+Urease (ureC) prevalence, FSM	0	S17	SPIRE MAGs with uniform Bakta annotation only
+Nitrate red. (narG) prevalence, RGM	49	S17	SPIRE MAGs with uniform Bakta annotation only
+Nitrate red. (narG) prevalence, FSM	0	S17	SPIRE MAGs with uniform Bakta annotation only
+Aromatic deg. (catA) prevalence, RGM	19	S17	SPIRE MAGs with uniform Bakta annotation only
+Aromatic deg. (catA) prevalence, FSM	0	S17	SPIRE MAGs with uniform Bakta annotation only
+Ectoine (ectC) prevalence, RGM	59	S17	SPIRE MAGs with uniform Bakta annotation only
+Ectoine (ectC) prevalence, FSM	0	S17	SPIRE MAGs with uniform Bakta annotation only
+Kdp K+ uptake (kdpB) prevalence, RGM	78	S17	SPIRE MAGs with uniform Bakta annotation only
+Kdp K+ uptake (kdpB) prevalence, FSM	8	S17	SPIRE MAGs with uniform Bakta annotation only
+Rhodopsin prevalence, RGM	2	S17	SPIRE MAGs with uniform Bakta annotation only
+Rhodopsin prevalence, FSM	80	S17	SPIRE MAGs with uniform Bakta annotation only
+binning offset, genome size (RGM)	0.21	S4	cultured isolate minus MAG median, Mb
+binning offset, genome size (SGM)	0.36	S4	cultured isolate minus MAG median, Mb
+binning offset, pseudogenes (RGM)	-3	S6	isolate minus MAG median; binning INFLATES counts
+binning offset, pseudogenes (SGM)	-11.5	S6	isolate minus MAG median; binning INFLATES counts
+pseudogene calls vs contig count	rho = +0.48	S6	243 ingroup MAGs, Spearman, p = 1e-15
+RGM bulk Nc (mean)	36.4	S12	per-genome block of S12 (95 FSM, 97 RGM)
+RGM bulk Nc (median)	36.6	S12	median of the 97 RGM MAGs in the per-genome block of S12
+FSM bulk Nc (mean)	38.1	S12	per-genome block of S12 (95 FSM, 97 RGM)
+FSM bulk Nc (median)	38.4	S12	median of the 95 FSM MAGs in the per-genome block of S12; the S12b/S12c summary rows use a 96-genome panel and give 38.3
+Generated by the source-of-truth build script from the final analysis outputs. This table is curated by hand and is the source of truth; do not regenerate it from the exports.
+Tables S8 and S7 are different models, not different versions: S8 is FSM against the full 824-genome ingroup, S7 is FSM against RGM on 525 genomes. Both are current.
+stem-branch losses (unbiased, per-family two-node)	33	S15	present at node preceding the stem AND absent at crown; 5 more absent at crown from an unresolved preceding state
+confidently absent at FSM crown node	44	S15	of 1,245 genus-conserved families; 1,086 confidently present, 115 unresolved
+confidently absent at node preceding the stem	6	S15	same 1,245 families; 1,139 confidently present, 100 unresolved
+extant conserved families carried (median)	RGM 1,219 / FSM 1,124 / SGM 1,212	S15	of the 1,245 genus-conserved set
+opsin presence, Pagel's lambda	0.890	phytools phylosig	824-tip ingroup; binary trait; p = 9.4e-211
+FSM-to-leprosy median patristic distance	0.87	bac120 rooted tree	134 FSM x 3 leprosy tips, substitutions per site
+SGM-to-RGM median patristic distance	0.74	bac120 rooted tree	299 SGM x 391 RGM tips
+mean crown-to-tip depth, FSM	0.264	bac120 rooted tree	134 tips from the FSM crown node
+mean crown-to-tip depth, ingroup	0.380	bac120 rooted tree	824 ingroup tips
+FSM sister clade median genome (Mb)	5.82	bac120 rooted tree + S1	42 genomes, sister to the FSM crown
+leprosy-containing slow-growing clade, median genome (Mb)	5.94	bac120 rooted tree + S1	the 54-tip clade two nodes above the leprosy bacilli; the smallest clade holding them and M. haemophilum has 4 tips, leprosy tips excluded
+coding density, FSM (uniform Prodigal, %)	93.59	uniform Prodigal re-annotation	824 ingroup genomes, one gene caller
+coding density, RGM (uniform Prodigal, %)	92.58	uniform Prodigal re-annotation	824 ingroup genomes, one gene caller
+coding density, SGM (uniform Prodigal, %)	91.53	uniform Prodigal re-annotation	824 ingroup genomes, one gene caller
+coding-density gain from re-calling references with Prodigal (points)	1.70	uniform Prodigal re-annotation	median over the 579 reference genomes carrying both annotations
+coding density FSM vs RGM, phylolm Pagel lambda	p = 0.147	uniform Prodigal re-annotation	beta +1.67 points; uniform values; 523 genomes
+Bakta CDS caller	Pyrodigal v3.6.3, closed mode	Bakta run logs	partial genes at contig ends are not called
+Prodigal minus Bakta coding density (points)	+1.10	821 ingroup genomes	median; 2.44 points in MAGs, 0.46 in reference assemblies
+that difference vs contigs per Mb (Spearman rho)	+0.98	821 ingroup genomes	p < 1e-300; the gap is a fragmentation effect
+standalone Prodigal coding density vs contigs per Mb (Spearman rho)	+0.05	821 ingroup genomes	p = 0.17; insensitive to fragmentation. Used for cross-genome comparison
+root: outgroup used	19 Tsukamurella genomes	bac120 rooted tree	Tsukamurellaceae, outside Mycobacteriaceae, within Mycobacteriales
+outgroup placement	sister to all 843 Mycobacteriaceae tips	bac120 rooted tree	root splits 19 outgroup from 843 ingroup+basal genomes
+deepest ingroup split	SGM (299) | RGM+FSM (525)	bac120 rooted tree	ultrafast bootstrap 100 on the SGM child and 98 on the RGM+FSM child
+Bakta coverage	823 of 824 ingroup genomes	S28	v1.11.4, db v6.0 full; per-genome command lines for all 823 runs in S28 (260 cultured isolates, 320 uncultured reference genomes, 243 SPIRE MAGs). One ingroup assembly (GCA_025965895.1) could not be retrieved. Per-genome pseudogene counts were retained for 503 of the 823 (S5); all reported pseudogene comparisons use that panel.
+Prodigal coverage	822 of 824 ingroup genomes	S1	v2.6.3 -p single; per-genome values in S1. Two ingroup assemblies (GCF_001050015.1, GCF_001050035.1) were not re-called under this pipeline, which means that the uniform coding-density column is populated for 822 genomes.
+genomes with both annotations	821	S1 / S28	the set on which the two callers are compared
+Bakta coding density vs contigs per Mb (Spearman rho)	-0.78	821 ingroup genomes	p = 1e-167; closed-mode calling loses genes at contig ends
+MIMAG high-quality drafts	32 of 246 MAGs	S1b	34 carry all three rRNA genes, 221 carry tRNAs for ≥18 amino acids
+FSM median pseudogenes per Mb, MAG panel	1.17	S6b	96 FSM MAGs
+RGM median pseudogenes per Mb, MAG panel	1.77	S6b	97 RGM MAGs
+SGM median pseudogenes per Mb, MAG panel	3.32	S6b	50 SGM MAGs
+FSM median contigs per Mb	63.18	S6b	96 FSM MAGs; RGM 52.3, SGM 69.0
+pseudogene rate ratio, FSM vs RGM, MAG panel	0.69	S6c	negative binomial, log genome size offset, p = 3e-05; 0.60 with contigs per Mb, p = 2e-09
+pseudogene rate ratio, FSM vs RGM, isolates and MAGs together	0.68	S6c	negative binomial, log genome size offset, p = 0.001; 0.43 with contigs per Mb (p = 1e-11); 503 genomes with a retained per-genome count
+median pseudogenes, isolates and MAGs together	FSM 4 / RGM 9 / SGM 9	S6c	96 / 229 / 178 genomes of the 503 retained panel; the MAG-only SGM median of 18 is inflated by binning
+clade-discriminating gene families	2,477	S19	uniform Prodigal clustering of 822 ingroup genomes; ≥50-point prevalence gap
+conserved clusters, MAG panel	1,179 with 63 lost clade-wide	S15d	uniform clustering read on the 243 MAGs
+conserved clusters, all-genome panel	1,292 with 99 lost clade-wide	S15d	same clustering read on all 822 genomes
+ingroup genomes from cultured isolates	260	S1	culture_status is an isolate class
+ingroup genomes uncultured or metagenome-assembled	564	S1	culture_status MAG / uncultured
+ingroup closed single-contig assemblies	99	S1	assembly_status closed; 83 of them cultured isolates
+FSM genomes from cultured isolates	0	S1	all 134 are MAG / uncultured
+FSM closed single-contig assemblies	0	S1	assembly_status draft for all 134
+RGM / SGM closed single-contig assemblies	55 / 44	S1	assembly_status closed
+Mycobacteriaceae genomes in the phylogeny	843	S1	862 tips minus the 19 Tsukamurella rooting taxa
+Mycobacteriaceae genomes uncultured or metagenome-assembled	574	S1	culture_status MAG / uncultured
+Mycobacteriaceae closed single-contig assemblies	105	S1	assembly_status closed; 89 of them isolate genomes
+genomes carrying a validly published binomial	262	S1	species is genus plus a lowercase alphabetic epithet; GTDB placeholders (sp<digits>) and alphabetic suffixes (_A, _B) excluded
+distinct validly published species	218	S1	same rule, distinct names
+non-FSM genomes <4 Mb, blocks (raw size)	59 genomes / 43 blocks / largest 3	S9c	full 824-genome tree, raw assembly size
+non-FSM genomes <4 Mb, blocks (completeness-corrected)	33 genomes / 20 blocks / largest 3	S9f	panel B: all 824, size / completeness < 4 Mb, MAGs <90% pruned (750 tips); FSM largest block 20
+completeness source, ingroup	260 isolates + 16 closed by definition; 548 uncultured genomes by CheckM2 v1.0.1 (this study)	S1	single tool and version for all MAGs; SPIRE v0.1.3 used for selection only; NCBI CheckM recorded, not used
+non-FSM genomes <4 Mb, blocks (isolates and closed only)	7 genomes / 5 blocks / largest 3	S9f	panel A: 276 cultured isolates and closed assemblies, raw size; largest block is the leprosy clade
+mean crown-to-tip depth, Mycolicibacterium	0.354	bac120 rooted tree	525-tip clade; quoted in the Discussion as 0.35
+mean crown-to-tip depth, leprosy clade	0.124	bac120 rooted tree	3 tips from the leprosy crown node
+completeness-corrected median genome size, FSM (Mb)	3.45	S4	96 FSM SPIRE MAGs; paired panel for the 6.04 Mb RGM value
+completeness-corrected median genome size, RGM (Mb)	6.04	S4	97 RGM SPIRE MAGs
+completeness-corrected FSM vs RGM size test	p = 1.5e-29	S4	two-sided Mann–Whitney on the 96/97 SPIRE MAG panel; quoted as 2 x 10^-29
+pseudogenes per Mb, FSM vs RGM, phylogenetically corrected	beta = -0.794, p = 0.348	S7a	phylolm Pagel lambda = 0.80; 96 FSM / 97 RGM MAG panel
+pseudogene count (log1p), FSM vs RGM, phylogenetically corrected	beta = -1.019, p = 0.039	S7a	phylolm Pagel lambda = 0.83; same panel
+genome size FSM vs RGM, 95% CI (Mb)	-3.81 to -0.26	S7a	beta -2.034, SE 0.906
+coding density FSM vs RGM, 95% CI (points)	-0.59 to +3.93	S7a	beta +1.672, SE 1.152; excludes the 21-41 point fall in the leprosy clade
+Brownian parametric bootstrap, genome-size shift	p = 0.60	S7c	2,000 simulations; permissive null, does not reject a neutral origin
+permutation against comparable-sized clades	p = 0.13-0.75	S8	8 comparable clades; underpowered
+bulk-minus-ribosomal Nc gap, FSM vs RGM	4.33 vs 4.92 codons, p = 2.4e-04	S12d	uncorrected; phylogenetically corrected beta -0.084, p = 0.94
+FSM opsin identity to freshwater actinorhodopsins (%)	63 and 57 (medians)	S20e	Rhodoluna lacicola and Candidatus Aquiluna rubra; closest references in the panel
+RELAX K, leprosy clade tested directly against FSM	0.7596	S11j	LRT 260.30; joint contrast, 51 unclassified branches
+RELAX K, FSM with synonymous rate variation	1.0561	S11k	LRT 54.17, p = 1.8e-13
+RELAX K, leprosy clade with synonymous rate variation	0.8429	S11k	LRT 243.00
+expected stem losses, gain = loss	57.6	S15f	pooled-rate Mk on 1,245 conserved families
+expected stem losses, gain = loss/10	37.0	S15f	stem localisation robust to moderate asymmetry
+expected stem losses, gain = loss/100	12.2	S15f	near-Dollo model; localisation weakens
+opsin presence vs genome size within FSM	beta = -2.19, p = 0.0018	S20f	logistic; no assembly-quality proxy is significant
+polymorphic retention vs completeness, size controlled	beta = 2.38, p = 0.0007	S16b	completeness matters in the joint model
+profile-HMM homologues in 95 FSM MAGs	ureC 1, ectC 0, catA 0, narG 0, kdpB 8	S21d	proteome and six-frame searches agree with tBLASTn
+FSM crown ancestor genome size (Mb)	4.040	phytools ML Brownian	95% CI 1.40-6.68 Mb
+stem-to-crown ancestral difference (Mb)	0.742	phytools ML Brownian	4.782 - 4.040; quoted as 0.74 in the Methods

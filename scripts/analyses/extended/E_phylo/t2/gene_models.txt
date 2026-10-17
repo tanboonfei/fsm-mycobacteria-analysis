@@ -1,0 +1,8 @@
+    142 LG+F+G4
+     49 Q.PFAM+G4
+     32 JTT+G4
+     28 WAG+F+G4
+     22 JTT+F+G4
+     11 Q.PFAM+F+G4
+     11 LG+G4
+      4 WAG+G4

@@ -1,0 +1,3 @@
+Test set	Reference set	Unclassified branches	K	LRT	p	Note
+Leprosy clade (4 branches)	FSM (15 branches)	51	0.7596	260.3	< 1e-15	Well-posed orientation; selection on the leprosy clade is relaxed relative to FSM
+FSM (15 branches)	Leprosy clade (4 branches)	51	0	41.98	9.23e-11	K rails at the lower bound; the reference distribution rests on 4 branches

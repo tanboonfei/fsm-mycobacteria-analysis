@@ -1,0 +1,6 @@
+group	n	shared_OGs	shared_median	specific_median	specific_fs_stop_median
+Closed RGM, intact	20	3	0.282	0.9004	0.4502
+Closed RGM, shredded + 4.4% deleted	20	3	0.2584	0.8421	0.5129
+FSM SPIRE MAG (>=95%)	57	12	0.7557	0.7398	0.3699
+Leprosy clade, intact	3	216	21.45	2.198	1.85
+RGM SPIRE MAG (>=95%), matched	57	1	0.1174	0.7308	0.3681

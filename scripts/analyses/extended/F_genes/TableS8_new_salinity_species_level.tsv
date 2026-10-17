@@ -1,0 +1,23 @@
+gene	saline_species_with_gene	low_species_with_gene	species_fisher_p	saline_MAGs	low_MAGs	salinityNA_genomes	saline_species_list
+betP/betT	4/6	0/13	0.0039	11/20	0/57	11/57	sp001510415:1/1;sp018401645:0/7;unassigned_sp1:5/6;unassigned_sp3:4/4;unassigned_sp7:0/1;unassigned_sp8:1/1
+mrpA	2/6	0/13	0.088	6/20	0/57	11/57	sp001510415:1/1;sp018401645:0/7;unassigned_sp1:1/6;unassigned_sp3:4/4;unassigned_sp7:0/1;unassigned_sp8:0/1
+mrpD	3/6	0/13	0.021	13/20	0/57	17/57	sp001510415:1/1;sp018401645:7/7;unassigned_sp1:1/6;unassigned_sp3:4/4;unassigned_sp7:0/1;unassigned_sp8:0/1
+bfr	3/6	0/13	0.021	11/20	1/57	21/57	sp001510415:1/1;sp018401645:0/7;unassigned_sp1:6/6;unassigned_sp3:4/4;unassigned_sp7:0/1;unassigned_sp8:0/1
+dps	5/6	4/13	0.057	19/20	25/57	29/57	sp001510415:1/1;sp018401645:7/7;unassigned_sp1:6/6;unassigned_sp3:4/4;unassigned_sp7:0/1;unassigned_sp8:1/1
+thiM	1/6	1/13	1	7/20	1/57	8/57	sp001510415:0/1;sp018401645:7/7;unassigned_sp1:0/6;unassigned_sp3:0/4;unassigned_sp7:0/1;unassigned_sp8:0/1
+thiE	4/6	3/13	0.13	12/20	10/57	32/57	sp001510415:1/1;sp018401645:7/7;unassigned_sp1:0/6;unassigned_sp3:3/4;unassigned_sp7:1/1;unassigned_sp8:0/1
+oppB	3/6	3/13	0.32	12/20	9/57	28/57	sp001510415:1/1;sp018401645:1/7;unassigned_sp1:6/6;unassigned_sp3:4/4;unassigned_sp7:0/1;unassigned_sp8:0/1
+dppB	3/6	3/13	0.32	11/20	4/57	22/57	sp001510415:1/1;sp018401645:0/7;unassigned_sp1:6/6;unassigned_sp3:4/4;unassigned_sp7:0/1;unassigned_sp8:0/1
+sitABCD	1/6	0/13	0.32	4/20	0/57	1/57	sp001510415:0/1;sp018401645:0/7;unassigned_sp1:1/6;unassigned_sp3:3/4;unassigned_sp7:0/1;unassigned_sp8:0/1
+mntH	4/6	12/13	0.22	12/20	55/57	46/57	sp001510415:0/1;sp018401645:0/7;unassigned_sp1:6/6;unassigned_sp3:4/4;unassigned_sp7:1/1;unassigned_sp8:1/1
+kup	5/6	12/13	1	13/20	49/57	47/57	sp001510415:1/1;sp018401645:4/7;unassigned_sp1:2/6;unassigned_sp3:4/4;unassigned_sp7:1/1;unassigned_sp8:1/1
+treS	4/6	3/13	0.13	12/20	20/57	19/57	sp001510415:1/1;sp018401645:0/7;unassigned_sp1:6/6;unassigned_sp3:4/4;unassigned_sp7:0/1;unassigned_sp8:1/1
+treY	0/6	4/13	0.26	0/20	9/57	21/57	sp001510415:0/1;sp018401645:0/7;unassigned_sp1:0/6;unassigned_sp3:0/4;unassigned_sp7:0/1;unassigned_sp8:0/1
+feoB	5/6	8/13	0.6	13/20	20/57	37/57	sp001510415:1/1;sp018401645:0/7;unassigned_sp1:6/6;unassigned_sp3:4/4;unassigned_sp7:1/1;unassigned_sp8:1/1
+efeU	0/6	4/13	0.26	0/20	14/57	26/57	sp001510415:0/1;sp018401645:0/7;unassigned_sp1:0/6;unassigned_sp3:0/4;unassigned_sp7:0/1;unassigned_sp8:0/1
+znuA	5/6	8/13	0.6	19/20	44/57	28/57	sp001510415:1/1;sp018401645:7/7;unassigned_sp1:6/6;unassigned_sp3:4/4;unassigned_sp7:0/1;unassigned_sp8:1/1
+zupT	2/6	3/13	1	8/20	12/57	21/57	sp001510415:1/1;sp018401645:7/7;unassigned_sp1:0/6;unassigned_sp3:0/4;unassigned_sp7:0/1;unassigned_sp8:0/1
+nthA	6/6	9/13	0.26	20/20	34/57	39/57	sp001510415:1/1;sp018401645:7/7;unassigned_sp1:6/6;unassigned_sp3:4/4;unassigned_sp7:1/1;unassigned_sp8:1/1
+ectD	1/6	0/13	0.32	4/20	0/57	0/57	sp001510415:0/1;sp018401645:0/7;unassigned_sp1:1/6;unassigned_sp3:3/4;unassigned_sp7:0/1;unassigned_sp8:0/1
+mmpL4/mmpS4	6/6	10/13	0.52	20/20	38/57	51/57	sp001510415:1/1;sp018401645:7/7;unassigned_sp1:6/6;unassigned_sp3:4/4;unassigned_sp7:1/1;unassigned_sp8:1/1
+thiXYZ (HMP ABC)	0/6	0/13	1	0/20	0/57	0/57	sp001510415:0/1;sp018401645:0/7;unassigned_sp1:0/6;unassigned_sp3:0/4;unassigned_sp7:0/1;unassigned_sp8:0/1

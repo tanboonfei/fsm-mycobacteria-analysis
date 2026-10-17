@@ -1,0 +1,135 @@
+t	n	bp	title	iso	env	local	depth	geo	origin	species	biome	salinity_habitat	rhodopsin
+spire_mag_02762480	1		lake Nästjärnen sample Umea1p2	None	lentic water body	lake	3.5	Sweden	SPIR	sp903877095	aquatic	low salinity	present
+spire_mag_00688367	1		Metagenome or environmental sample fro	Sea water	None	None	None	Sweden:Baltic Sea:Asko	SPIR	sp018401645	aquatic	medium salinity	present
+spire_mag_00709104	1		None	None	None	None	None	None	SPIR	novel sp.	nan	nan	absent
+GB_GCA_964203005.1	1		ZE-13nov19-LR-63: freshwater MAG from 	freshwater lake	freshwater biome	None	None	Switzerland	GTDB	sp903911165	nan	nan	present
+GB_GCA_964202555.1	1		MiE-16apr19-173: freshwater MAG from L	freshwater lake	freshwater biome	None	None	Czechia	GTDB	sp964202555	nan	nan	absent
+GB_GCA_945897705.1	1		ERS6344551	Freshwater lake	freshwater lake	None	None	Czech Republic	GTDB	sp945897705	nan	nan	present
+GB_GCA_945882475.1	1		ERS4065084	Freshwater lake	freshwater lake	None	None	Czech Republic	GTDB	sp945882475	nan	nan	present
+GB_GCA_943331415.1	1		ERS11712895	Freshwater lake	freshwater lake	lake	None	Czech Republic	GTDB	sp943331415	nan	nan	present
+GB_GCA_903884065.1	1		MAG Loclat_bin-15077 from assembly ERS	lake water	lentic water body	lake	None	Switzerland	GTDB	sp903884065	nan	nan	present
+GB_GCA_903877095.1	1		MAG Umea_bin-02178 from assembly ERS46	lake water	lentic water body	lake	None	Sweden	GTDB	sp903877095	nan	nan	present
+GB_GCA_903862565.1	1		MAG Loclat_bin-09341 from assembly ERS	lake water	lentic water body	lake	None	Switzerland	GTDB	sp903862565	nan	nan	present
+spire_mag_00709371	1		None	None	None	None	None	None	SPIR	novel sp.	nan	nan	absent
+RS_GCF_020637165.1	1		MIMAG Metagenome-assembled Genome samp	activated sludge from Hong Kong Shatin	[ENVO:00000428]	ENVO:00002030	None	China: Hong Kong Special Administrativ	GTDB	sp020637165	nan	nan	absent
+spire_mag_01662118	1		OTC0.1	None	None	None	None	China	SPIR	novel sp.	anthropogenic	nan	absent
+spire_mag_01663809	1		OTC0.3	None	None	None	None	China	SPIR	novel sp.	anthropogenic	nan	absent
+spire_mag_01117712	1		wastewater metagenome	None	None	None	None	Spain	SPIR	sp030836785	anthropogenic	nan	absent
+spire_mag_01775892	1		Blueprint:MO7_D_1C	None	Brackish water	Pelagic	2,794	Baltic Sea	SPIR	sp018401645	aquatic	medium salinity	present
+GB_GCA_018401645.1	0		None	None	None	None	None	None	GTDB	sp018401645	nan	nan	present
+spire_mag_02005306	1		Metagenome or environmental sample fro	freshwater sample	None	None	None	USA: Lake Houston, TX	SPIR	novel sp.	aquatic	low salinity	present
+GB_GCA_018882545.1	1		Metagenome or environmental sample fro	lake water from Sao Paulo's Zoo	None	None	None	Brazil: Sao Paulo Zoo	GTDB	sp018882545	nan	nan	present
+GB_GCA_018882965.1	1		Metagenome or environmental sample fro	lake water from Sao Paulo's Zoo	None	None	None	Brazil: Sao Paulo Zoo	GTDB	sp018882965	nan	nan	present
+GB_GCA_018883075.1	1		Metagenome or environmental sample fro	lake water from Sao Paulo's Zoo	None	None	None	Brazil: Sao Paulo Zoo	GTDB	sp018883075	nan	nan	present
+spire_mag_01882647	1		Metagenome or environmental sample fro	not applicable	None	None	None	China: Linshu, Shandong	SPIR	novel sp.	aquatic	low salinity	present
+spire_mag_01777835	1		Blueprint:S6_D_11C	None	Brackish water	Pelagic	30,27	Baltic Sea	SPIR	sp018401645	aquatic	medium salinity	present
+spire_mag_01777252	1		Blueprint:AT4_D_13C	None	Freshwater	Pelagic	78,745	Baltic Sea	SPIR	sp018401645	aquatic	medium salinity	present
+spire_mag_01776854	1		Blueprint:AT4_D_11C	None	Freshwater	Pelagic	42,3	Baltic Sea	SPIR	sp018401645	aquatic	medium salinity	present
+spire_mag_01776742	1		Blueprint:S6_D_4C	None	Brackish water	Pelagic	2,999	Baltic Sea	SPIR	sp018401645	aquatic	medium salinity	present
+GB_GCA_026393245.1	0		None	None	None	None	None	None	GTDB	sp026393245	nan	nan	present
+spire_mag_01776406	1		Blueprint:S6_D_13C	None	Brackish water	Pelagic	66,629	Baltic Sea	SPIR	sp001510415	aquatic	medium salinity	present
+spire_mag_01664230	1		OTC0.2	None	None	None	None	China	SPIR	novel sp.	anthropogenic	nan	absent
+spire_mag_00688177	1		Metagenome or environmental sample fro	Sea water	None	None	None	Sweden:Baltic Sea:Asko	SPIR	sp018401645	aquatic	medium salinity	present
+GB_GCA_041303735.1	1	PRJNA1007388	Metagenome or environmental sample fro	wetland soil	None	None	None	USA: North Dakota	GTDB	sp041303735	nan	nan	present
+GB_GCA_041303695.1	1	PRJNA1007388	Metagenome or environmental sample fro	wetland soil	None	None	None	USA: North Dakota	GTDB	sp041303695	nan	nan	absent
+GB_GCA_040398885.1	1	PRJNA1052970	MIMS Environmental/Metagenome sample f	None	ENVO_00000021	ENVO_00000021	0	France: Lac du Tondre	GTDB	sp040398885	nan	nan	present
+GB_GCA_040398865.1	1	PRJNA1052970	MIMS Environmental/Metagenome sample f	None	ENVO_00000021	ENVO_00000021	0	Romania: Bucura	GTDB	sp021413425	nan	nan	present
+GB_GCA_027728805.1	1	PRJNA279271	Caspian Sea 150m Metagenome	Caspian sea 150 m depth	None	None	150 m	Iran: Caspian Sea near Babolsar	GTDB	sp001510415	nan	nan	present
+spire_mag_01093898	1	PRJNA309119	not applicable	Markermeer, Netherlands	None	None	None	Netherlands: Markermeer	SPIR	novel sp.	host-associated	nan	present
+spire_mag_01094475	1	PRJNA309119	not applicable	Western Scheldt, Belgium	None	None	None	Belgium: Western Scheldt, Lillo	SPIR	sp036782595	host-associated	nan	present
+spire_mag_01094744	1	PRJNA309119	not applicable	Ijsselmeer, Netherlands	None	None	None	Netherlands: Ijsselmeer	SPIR	sp036782595	host-associated	nan	present
+spire_mag_01960893	1	PRJNA325574	Metagenome or environmental sample fro	freshwater	freshwater lake	lake	9 meter	Switzerland: lake Rotsee	SPIR	sp903911165	aquatic	low salinity	present
+spire_mag_01960731	1	PRJNA325574	Metagenome or environmental sample fro	Freshwater incubation, methane-supplem	freshwater lake	lake	9 meter	Switzerland: lake Rotsee	SPIR	sp903911165	aquatic	low salinity	present
+spire_mag_00142179	1	PRJNA340503	Active sludge microbial communities of	anaerobic digester from wastewater tre	None	None	None	USA	SPIR	sp017853185	anthropogenic	nan	absent
+spire_mag_00138007	1	PRJNA340504	Active sludge microbial communities of	anaerobic digester from wastewater tre	None	None	None	USA	SPIR	sp017853185	anthropogenic	nan	absent
+spire_mag_00138052	1	PRJNA340504	Active sludge microbial communities of	anaerobic digester from wastewater tre	None	None	None	USA	SPIR	sp030836785	anthropogenic	nan	absent
+spire_mag_00139887	1	PRJNA340774	Active sludge microbial communities of	anaerobic digester from wastewater tre	None	None	None	USA	SPIR	sp029780675	anthropogenic	nan	absent
+RS_GCF_017853185.1	2	PRJNA375617;PRJNA375618	Aqueous microbial communities from the	Bay water	None	None	None	USA: Delaware Bay	GTDB	sp017853185	nan	nan	absent
+spire_mag_02102612	1	PRJNA375618	Aqueous microbial communities from the	Bay water	None	None	None	USA: Delaware Bay	SPIR	sp017853185	aquatic	low salinity	absent
+spire_mag_01583196	1	PRJNA405468	Deep subsurface microbial communities 	Marine sediment (0.45 mbsf) from Aarhu	None	None	None	Denmark:Aarhus Bay	SPIR	sp018401645	aquatic	nan	present
+spire_mag_01040852	1	PRJNA423296	L4S 23/10	wastewater sample	None	None	None	Uganda: Kampala	SPIR	novel sp.	anthropogenic	low salinity	present
+spire_mag_01041266	1	PRJNA423296	L3S 23/10	wastewater sample	None	None	None	Uganda: Kampala	SPIR	novel sp.	anthropogenic	low salinity	present
+GB_GCA_020439025.1	97	PRJNA432264	Metagenome or environmental sample fro	activated sludge sample	None	None	None	China:Hong Kong SAR, Shatin waste wate	GTDB	sp020439025	nan	nan	absent
+GB_GCA_020438895.1	97	PRJNA432264	Metagenome or environmental sample fro	activated sludge sample	None	None	None	China:Hong Kong SAR, Shatin waste wate	GTDB	sp020438895	nan	nan	absent
+GB_GCA_020438845.1	97	PRJNA432264	Metagenome or environmental sample fro	activated sludge sample	None	None	None	China:Hong Kong SAR, Shatin waste wate	GTDB	sp020438845	nan	nan	absent
+GB_GCA_020438905.1	97	PRJNA432264	Metagenome or environmental sample fro	activated sludge sample	None	None	None	China:Hong Kong SAR, Shatin waste wate	GTDB	sp020438905	nan	nan	absent
+spire_mag_01947641	1	PRJNA443323	Anoxic zone freshwater microbial commu	freshwater from boreal shield lake	None	None	None	Canada: Ontario	SPIR	sp037138275	aquatic	low salinity	present
+spire_mag_01949332	1	PRJNA443325	Anoxic zone freshwater microbial commu	freshwater from boreal shield lake	None	None	None	Canada: Ontario	SPIR	sp037138275	aquatic	low salinity	absent
+spire_mag_01949445	1	PRJNA443326	Anoxic zone freshwater microbial commu	freshwater from boreal shield lake	None	None	None	Canada: Ontario	SPIR	sp037138275	aquatic	low salinity	present
+spire_mag_01949938	1	PRJNA443329	Anoxic zone freshwater microbial commu	freshwater from boreal shield lake	None	None	None	Canada: Ontario	SPIR	sp037138275	aquatic	low salinity	present
+GB_GCA_037129875.1	1	PRJNA443331	Anoxic zone freshwater microbial commu	freshwater from boreal shield lake	None	None	None	Canada: Ontario	GTDB	sp037129875	nan	nan	present
+spire_mag_01948467	1	PRJNA443333	Anoxic zone freshwater microbial commu	freshwater from boreal shield lake	None	None	None	Canada: Ontario	SPIR	sp037141465	aquatic	low salinity	absent
+spire_mag_01947849	1	PRJNA443336	Anoxic zone freshwater microbial commu	freshwater from boreal shield lake	None	None	None	Canada: Ontario	SPIR	sp037138275	aquatic	low salinity	absent
+spire_mag_01949386	1	PRJNA443338	Anoxic zone freshwater microbial commu	freshwater from boreal shield lake	None	None	None	Canada: Ontario	SPIR	sp037138275	aquatic	low salinity	present
+spire_mag_01949778	1	PRJNA443339	Anoxic zone freshwater microbial commu	freshwater from boreal shield lake	None	None	None	Canada: Ontario	SPIR	sp037138275	aquatic	low salinity	present
+GB_GCA_037138275.1	1	PRJNA443339	Anoxic zone freshwater microbial commu	freshwater from boreal shield lake	None	None	None	Canada: Ontario	GTDB	sp037138275	nan	nan	present
+spire_mag_00036704	1	PRJNA444011	Hypersaline lake sediment archaeal com	anoxic, hypersaline lake sediments of 	None	None	None	USA: California	SPIR	novel sp.	aquatic	very high salinity	present
+spire_mag_00036881	1	PRJNA444012	Hypersaline lake sediment archaeal com	anoxic, hypersaline lake sediments of 	None	None	None	USA: California	SPIR	novel sp.	aquatic	very high salinity	present
+spire_mag_02088284	1	PRJNA444013	Hypersaline lake sediment archaeal com	anoxic, hypersaline lake sediments of 	None	None	None	USA: California	SPIR	novel sp.	aquatic	very high salinity	present
+spire_mag_02087828	1	PRJNA444013	Hypersaline lake sediment archaeal com	anoxic, hypersaline lake sediments of 	None	None	None	USA: California	SPIR	novel sp.	aquatic	very high salinity	present
+spire_mag_02088828	1	PRJNA444014	Hypersaline lake sediment archaeal com	anoxic, hypersaline lake sediments of 	None	None	None	USA: California	SPIR	novel sp.	aquatic	very high salinity	present
+spire_mag_02088609	1	PRJNA444014	Hypersaline lake sediment archaeal com	anoxic, hypersaline lake sediments of 	None	None	None	USA: California	SPIR	novel sp.	aquatic	very high salinity	present
+spire_mag_02088287	1	PRJNA444016	Hypersaline lake sediment archaeal com	anoxic, hypersaline lake sediments of 	None	None	None	USA: California	SPIR	novel sp.	aquatic	very high salinity	present
+spire_mag_02088219	1	PRJNA444016	Hypersaline lake sediment archaeal com	anoxic, hypersaline lake sediments of 	None	None	None	USA: California	SPIR	novel sp.	aquatic	very high salinity	absent
+spire_mag_02088330	1	PRJNA444017	Hypersaline lake sediment archaeal com	anoxic, hypersaline lake sediments of 	None	None	None	USA: California	SPIR	novel sp.	aquatic	very high salinity	present
+spire_mag_02088507	1	PRJNA444018	Hypersaline lake sediment archaeal com	anoxic, hypersaline lake sediments of 	None	None	None	USA: California	SPIR	novel sp.	aquatic	very high salinity	present
+spire_mag_02088418	1	PRJNA444018	Hypersaline lake sediment archaeal com	anoxic, hypersaline lake sediments of 	None	None	None	USA: California	SPIR	novel sp.	aquatic	very high salinity	absent
+spire_mag_01947705	1	PRJNA445054	Anoxic zone freshwater microbial commu	freshwater from boreal shield lake	None	None	None	Canada: Ontario	SPIR	sp037138275	aquatic	low salinity	present
+spire_mag_02028936	1	PRJNA466875	Freshwater microbial communities from 	lake water	None	None	None	USA: Georgia	SPIR	sp018882965	aquatic	low salinity	present
+spire_mag_00193483	1	PRJNA473136	October 10, brackish river, site MA04	brackish river, site MA04	None	None	None	USA: Mid Atlantic	SPIR	novel sp.	anthropogenic	medium salinity	present
+spire_mag_00874229	1	PRJNA502508	Freshwater microbial communities from 	lake water	None	None	None	Spain: Castile-La Mancha	SPIR	sp945897705	aquatic	low salinity	absent
+spire_mag_00866324	1	PRJNA502509	Freshwater microbial communities from 	lake water	None	None	None	Spain: Castile-La Mancha	SPIR	sp945897705	aquatic	low salinity	present
+spire_mag_00868143	1	PRJNA502510	Freshwater microbial communities from 	lake water	None	None	None	Spain: Castile-La Mancha	SPIR	sp945897705	aquatic	low salinity	present
+spire_mag_00866183	1	PRJNA502511	Freshwater microbial communities from 	lake water	None	None	None	Spain: Castile-La Mancha	SPIR	sp945897705	aquatic	low salinity	present
+spire_mag_00873789	1	PRJNA502512	Freshwater microbial communities from 	lake water	None	None	None	Spain: Castile-La Mancha	SPIR	sp945897705	aquatic	low salinity	present
+spire_mag_00864073	1	PRJNA502513	Freshwater microbial communities from 	lake water	None	None	None	Spain: Castile-La Mancha	SPIR	sp945897705	aquatic	low salinity	present
+spire_mag_00866583	1	PRJNA502514	Freshwater microbial communities from 	lake water	None	None	None	Spain: Castile-La Mancha	SPIR	sp945897705	aquatic	low salinity	present
+spire_mag_00863569	1	PRJNA502515	Freshwater microbial communities from 	lake water	None	None	None	Spain: Castile-La Mancha	SPIR	sp945897705	aquatic	low salinity	present
+spire_mag_00869002	1	PRJNA502516	Freshwater microbial communities from 	lake water	None	None	None	Spain: Castile-La Mancha	SPIR	sp945897705	aquatic	low salinity	present
+spire_mag_00874439	1	PRJNA502517	Freshwater microbial communities from 	lake water	None	None	None	Spain: Castile-La Mancha	SPIR	sp945897705	aquatic	low salinity	present
+spire_mag_00873124	1	PRJNA502518	Freshwater microbial communities from 	lake water	None	None	None	Spain: Castile-La Mancha	SPIR	sp945897705	aquatic	low salinity	present
+spire_mag_00874085	1	PRJNA502519	Freshwater microbial communities from 	lake water	None	None	None	Spain: Castile-La Mancha	SPIR	sp945897705	aquatic	low salinity	present
+spire_mag_01822349	1	PRJNA518250	Soil microbial communities from Risofl	soil from transition zone	None	None	None	Finland: Risofladan, Vaasa	SPIR	sp018401645	terrestrial	nan	present
+spire_mag_01824983	1	PRJNA518251	Soil microbial communities from Risofl	soil from transition zone	None	None	None	Finland: Risofladan, Vaasa	SPIR	sp018401645	terrestrial	nan	present
+spire_mag_01822855	1	PRJNA518252	Soil microbial communities from Risofl	soil from un-oxidized zone	None	None	None	Finland: Risofladan, Vaasa	SPIR	sp018401645	terrestrial	nan	present
+spire_mag_01824889	1	PRJNA518253	Soil microbial communities from Risofl	soil from un-oxidized zone	None	None	None	Finland: Risofladan, Vaasa	SPIR	sp018401645	terrestrial	nan	present
+spire_mag_01830074	1	PRJNA518254	Soil microbial communities from Risofl	soil from un-oxidized zone	None	None	None	Finland: Risofladan, Vaasa	SPIR	sp018401645	terrestrial	nan	present
+spire_mag_00871125	1	PRJNA518413	Freshwater microbial communities from 	lake water	None	None	None	Spain: Castile-La Mancha	SPIR	sp945897705	aquatic	low salinity	present
+GB_GCA_005789055.1	1	PRJNA531348	MAGs of Lake Fuxian sample	freshwater	None	None	None	China: Fuxian Lake, Yuxi	GTDB	sp005789055	nan	nan	present
+spire_mag_01632252	1	PRJNA531348	rawdata of Lake Fuxian sample	freshwater sample F1-140	None	None	None	China: Fuxian Lake, Yuxi	SPIR	sp005789055	aquatic	low salinity	present
+spire_mag_01107416	1	PRJNA539313	Sediment microbial communities from Ye	Lake sediments	None	None	None	USA: Wyoming	SPIR	sp903911165	aquatic	low salinity	present
+spire_mag_01104972	1	PRJNA539314	Sediment microbial communities from Ye	Lake sediments	None	None	None	USA: Wyoming	SPIR	sp903911165	aquatic	low salinity	present
+spire_mag_01112767	1	PRJNA539316	Sediment microbial communities from Ye	Lake sediments	None	None	None	USA: Wyoming	SPIR	novel sp.	aquatic	low salinity	present
+spire_mag_01112928	1	PRJNA539316	Sediment microbial communities from Ye	Lake sediments	None	None	None	USA: Wyoming	SPIR	sp903911165	aquatic	low salinity	present
+spire_mag_01104521	1	PRJNA539325	Sediment microbial communities from Ye	Lake sediments	None	None	None	USA: Wyoming	SPIR	sp903911165	aquatic	low salinity	present
+spire_mag_01108461	1	PRJNA539327	Sediment microbial communities from Ye	Lake sediments	None	None	None	USA: Wyoming	SPIR	sp903911165	aquatic	low salinity	present
+spire_mag_01108626	1	PRJNA539327	Sediment microbial communities from Ye	Lake sediments	None	None	None	USA: Wyoming	SPIR	novel sp.	aquatic	low salinity	present
+spire_mag_01112215	1	PRJNA539330	Sediment microbial communities from Ye	Lake sediments	None	None	None	USA: Wyoming	SPIR	novel sp.	aquatic	low salinity	present
+spire_mag_01108952	1	PRJNA539333	Sediment microbial communities from Ye	Lake sediments	None	None	None	USA: Wyoming	SPIR	novel sp.	aquatic	low salinity	present
+spire_mag_01111439	1	PRJNA539336	Sediment microbial communities from Ye	Lake sediments	None	None	None	USA: Wyoming	SPIR	novel sp.	aquatic	low salinity	present
+spire_mag_01752215	1	PRJNA567586	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	present
+spire_mag_01753708	1	PRJNA567587	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	present
+spire_mag_01755240	1	PRJNA567590	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	present
+spire_mag_01750747	1	PRJNA567591	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	present
+spire_mag_01749319	1	PRJNA567598	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	present
+spire_mag_01747196	1	PRJNA567599	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	present
+spire_mag_01753944	1	PRJNA567610	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	present
+spire_mag_01744298	1	PRJNA567612	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	absent
+spire_mag_01753570	1	PRJNA567613	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp005789055	aquatic	low salinity	present
+spire_mag_01743952	1	PRJNA567614	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	present
+spire_mag_01744910	1	PRJNA567625	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	present
+spire_mag_01759821	1	PRJNA567629	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	present
+spire_mag_01748232	1	PRJNA567640	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	present
+spire_mag_02100063	1	PRJNA567645	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	present
+spire_mag_01748689	1	PRJNA567650	Freshwater microbial communities from 	lake water from pelagic integrated epi	freshwater lake biome[ENVO_01000252]	None	None	USA: Wisconsin	SPIR	sp964202555	aquatic	low salinity	present
+RS_GCF_016462945.1	1	PRJNA663590	Metagenome or environmental sample fro	freshwater cyanobacterial bloom 3	None	None	None	USA: western arm Lake Superior	GTDB	sp016462945	nan	nan	present
+GB_GCA_037138615.1	1	PRJNA664486	Lake 227, Sep 2017, 3 m depth	lake water column	freshwater lake biom [ENVO:01000252]	holomictic lake [ENVO:01000285]|humic 	3 m	Canada: near Kenora, Ontario	GTDB	sp037138615	nan	nan	present
+GB_GCA_037141465.1	1	PRJNA664486	Lake 227, Sep 2017, 3 m depth	lake water column	freshwater lake biom [ENVO:01000252]	holomictic lake [ENVO:01000285]|humic 	3 m	Canada: near Kenora, Ontario	GTDB	sp037141465	nan	nan	present
+GB_GCA_018500005.2	16	PRJNA728121	MIMS Environmental/Metagenome sample f	Tropical aquarium tank sediment	built environment	aquarium	None	USA:California	GTDB	sp018500005	nan	nan	present
+GB_GCA_022600695.1	1	PRJNA742377	Haliclona oculata sponge metagenome	None	estuarine biome	sponge-associated	None	Netherlands: Oosterschelde estury, Oos	GTDB	sp022600695	nan	nan	absent
+GB_GCA_029780675.1	1	PRJNA759242	MIMS Environmental/Metagenome sample f	None	anaerobic digester microbiome	thermophilic| wastewater treatment pla	None	USA: Oakland	GTDB	sp029780675	nan	nan	absent
+GB_GCA_036782595.1	1	PRJNA843551	SRX1557323	sediment; water	missing	missing	None	Belgium	GTDB	sp036782595	nan	nan	present
+RS_GCF_032117575.1	3	PRJNA876583	Metagenome or environmental sample fro	Freshwater Lake	None	None	None	USA: Provo, Utah Lake	GTDB	sp032117575	nan	nan	absent
+GB_GCA_029979305.1	11	PRJNA878949	MIMS Environmental/Metagenome sample f	None	estuarine biome [ENVO: 01000020]	estuarine coastal surface layer [ENVO:	0	China: the Pearl River Estuary	GTDB	sp029979305	nan	nan	absent
+GB_GCA_029977845.1	11	PRJNA878949	MIMS Environmental/Metagenome sample f	None	estuarine biome [ENVO: 01000020]	estuarine coastal surface layer [ENVO:	0	China: the Pearl River Estuary	GTDB	sp029977845	nan	nan	present
+GB_GCA_030836785.1	1	PRJNA946291	Metagenome or environmental sample fro	Pore water metagenome hour 24	None	None	None	Germany: Brandenburg, Erpe River	GTDB	sp030836785	nan	nan	absent

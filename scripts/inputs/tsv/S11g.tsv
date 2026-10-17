@@ -1,0 +1,13 @@
+quantity	value
+orthologue groups	489
+codons	170,788
+taxa	34 (14 FSM, 14 RGM, 6 SGM)
+test branches	27 (stem, internal crown and terminals)
+reference branches	36
+K	1.0724
+LRT	303.1
+p	< 1e-16
+dominant site class, reference	omega 0.0154 at 85% of codons
+dominant site class, test	omega 0.0114 at 85% of codons
+output checksum (md5)	a2054296ffc07eb7c3e1ef0ce86221c3
+K is above 1 on this panel as on the primary one (1.072 against 1.044), and the site class holding 85% of codons moves toward stronger constraint in FSM (omega 0.0154 to 0.0114), not toward neutrality. Removing the leprosy-clade requirement therefore does not produce the relaxation signal that the primary panel might have been unable to detect.

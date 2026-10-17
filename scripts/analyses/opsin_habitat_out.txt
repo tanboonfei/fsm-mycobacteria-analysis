@@ -1,0 +1,71 @@
+FSM opsin by biome:
+                 
+                   0  1
+  anthropogenic    8  3
+  aquatic          8 67
+  host-associated  0  3
+  terrestrial      0  5
+  <NA>            15 25
+   
+     0  1
+  0  8  3
+  1  8 67
+
+	Fisher's Exact Test for Count Data
+
+data:  tb
+p-value = 2.995e-05
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+   4.050815 148.231802
+sample estimates:
+odds ratio 
+   20.9002 
+
+n species among anthropogenic: 4 ; aquatic: 12 
+                                        tip                   species    gs
+spire_mag_00193483.fa spire_mag_00193483.fa                 novel sp. 3.592
+spire_mag_01662118.fa spire_mag_01662118.fa                 novel sp. 4.610
+spire_mag_01663809.fa spire_mag_01663809.fa                 novel sp. 4.534
+spire_mag_01664230.fa spire_mag_01664230.fa                 novel sp. 4.512
+spire_mag_00138007.fa spire_mag_00138007.fa Mycobacterium sp017853185 3.787
+spire_mag_00142179.fa spire_mag_00142179.fa Mycobacterium sp017853185 3.777
+spire_mag_00139887.fa spire_mag_00139887.fa Mycobacterium sp029780675 4.148
+spire_mag_00138052.fa spire_mag_00138052.fa Mycobacterium sp030836785 3.879
+spire_mag_01117712.fa spire_mag_01117712.fa Mycobacterium sp030836785 3.906
+spire_mag_01040852.fa spire_mag_01040852.fa                 novel sp. 3.356
+spire_mag_01041266.fa spire_mag_01041266.fa                 novel sp. 3.301
+                      opsin
+spire_mag_00193483.fa     1
+spire_mag_01662118.fa     0
+spire_mag_01663809.fa     0
+spire_mag_01664230.fa     0
+spire_mag_00138007.fa     0
+spire_mag_00142179.fa     0
+spire_mag_00139887.fa     0
+spire_mag_00138052.fa     0
+spire_mag_01117712.fa     0
+spire_mag_01040852.fa     1
+spire_mag_01041266.fa     1
+
+phyloglm opsin ~ aquatic
+             Estimate    StdErr   z.value      p.value
+(Intercept) -1.020783 0.6972992 -1.463909 0.1432187398
+aq           2.990847 0.8590657  3.481511 0.0004985934
+alpha 203.9678 
+
+phyloglm opsin ~ aquatic + genome size
+             Estimate   StdErr   z.value    p.value
+(Intercept)  4.935666 4.274552  1.154663 0.24822856
+aq           2.388490 1.009173  2.366780 0.01794358
+gs          -1.525872 1.101202 -1.385643 0.16585607
+alpha 204.6653 
+
+One genome per species: n = 37   
+     0  1
+  0  5  3
+  1  4 25
+[1] 0.01154022
+              Estimate    StdErr   z.value    p.value
+(Intercept) -0.3966506 0.7889195 -0.502777 0.61512107
+aq           2.0846677 1.0173947  2.049026 0.04045961

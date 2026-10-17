@@ -1,0 +1,32 @@
+Additional file 2: Supplementary Tables S1 to S28
+One worksheet per table; lettered sub-tables (e.g. S9f) are stacked below the main table on the same sheet, and analysis notes are appended below the data. Table and figure numbers cited in the notes refer to the main text.
+Terminology. 'Panel' in these notes means a defined set of genomes used for one comparison, for example the 243-MAG panel in which assembly type is constant across clades, or the 822-genome all-genome panel. The main text uses the same word.
+Provided as Supplementary_Tables.xlsx, one worksheet per table.
+Table S1. Per-genome metadata: accession, taxonomy, clade, culture status, contig count and closed-or-draft assembly status, quality and trait values. S1b, MIMAG rRNA and tRNA criteria per MAG. CheckM2 v1.0.1 completeness and contamination for the 548 uncultured ingroup genomes that are not closed assemblies (this study), NCBI CheckM values for reference, and the completeness value used and its source for every ingroup genome.
+Table S2. Clade summary statistics. S2b, pairwise statistical comparisons between clades.
+Table S3. Habitat (salinity) association. S3b, the same associations corrected for the clade’s single origin; S3c, clade-specific Sandpiper ecology; S3d, habitat composition of the clade-dominant metagenome grid cells plotted in Fig. 3b.
+Table S4. Binning-artefact control: cultured isolates versus MAGs. S4b to S4d, the fragmentation and incompleteness simulation on twenty closed reference genomes; S4e, the same treatment applied to the three leprosy-clade genomes; S4f, the completeness-floor and extrapolation analysis.
+Table S5. Per-genome Bakta pseudogene counts. S5b, the MAG panel plotted in Fig. 2b.
+Table S6. Pseudogene load in cultured isolates versus MAGs. S6b, fragmentation by clade; S6c, negative-binomial models with and without a genome-size offset; S6d, the protein-length proxy; S6e, Bakta CDS calls in a decayer genome.
+Table S7. Phylogenetically corrected comparisons. S7a, FSM against RGM; S7b, binary traits; S7c, the parametric bootstrap for the single-origin genome-size shift; S7d, the same tests against FSM’s sister clade.
+Table S8. Phylogenetic trait association (PGLS, phyloglm) and Sandpiper abundance.
+Table S9. Non-FSM genomes below 4 Mb. S9b, the three-way control comparison with the parsimony origin count; S9c, small-genome blocks outside FSM on the ingroup tree, with sister-group size and crown-to-tip depth; S9d, how many genomes a clade must contribute before a persistent reduction can be recognised; S9e, the block analysis repeated at 3.5 and 4.5 Mb. S9f, the block analysis on three panels: isolates and closed assemblies only, all genomes corrected for completeness, and all genomes by raw size.
+Table S10. Reduction regimes compared across the family. S10b, decayer genome statistics recomputed with Prodigal.
+Table S11. HyPhy RELAX run check for the corrected design, in which RGM plus SGM are the only reference branches. S11b, negative controls on unreduced RGM subclades; S11c, synonymous-site saturation by branch set; S11d, the branch-label rule, branch counts and test tips, with the annotated Newick trees; S11e and S11f, superseded runs from the earlier design, retained for transparency; S11g, the test repeated on a 489-orthologue panel defined without reference to the leprosy clade; S11h, the FSM stem branch tested on its own; S11i, the stem-branch-only run; S11j, the two reduced lineages fitted directly against each other; S11k, both primary tests repeated with synonymous rate variation modelled.
+Table S12. Ribosomal-versus-bulk codon-usage test. S12b, per-genome codon-usage signature; S12c, ENC-plot residual: selected codon bias against base composition; S12d, the translational-selection gap test.
+Table S13. Within-population πN/πS.
+Table S14. Ancestral gene families lost on the FSM stem, with family_id distinguishing paralogues.
+Table S15. Ancestral gene-family reconstruction. S15a, unbiased reconstruction over all 1,245 conserved families; S15b, the preselected clade-wide-lost set; S15c, per-family marginal probabilities at both nodes; S15d, panel sensitivity; S15e, equal-rates against all-rates-different reconstruction at the FSM crown node; S15f, stem-loss count under asymmetric gain and loss rates.
+Table S16. Ongoing gene loss within FSM; S16b, retention against genome size, completeness and assembly quality.
+Table S17. Functional-module prevalence by clade.
+Table S18. FSM-enriched genes with p, FDR and COG category. S18b, COG functional-category enrichment.
+Table S19. Clade-discriminating gene families with eggNOG annotation.
+Table S20. Rhodopsin check. S20a, assembly quality of opsin-positive against opsin-negative FSM MAGs; S20b, opsin sequence and neighbourhood features; S20c, proton-donor motif classes and carotenoid co-occurrence; S20d, the characterised rhodopsin reference panel; S20e, amino-acid identity of the FSM opsins to that panel; S20f, opsin presence against assembly quality within FSM.
+Table S21. Homology (tblastn) validation of gene losses. S21a, per lost function; S21b, per credible hit; S21c, hit counts per query across the 95 FSM MAGs searched; S21d, profile-HMM validation of the absence calls.
+Table S22. gapseq MetaCyc pathway completeness. S22b, pathway counts tested against genome size.
+Table S23. FSM carotenoid-oxygenase nearest characterised reference.
+Table S24. Average nucleotide identity on clade-verified genomes.
+Table S25. Novelty-boundary comparison with other reduced freshwater lineages. S25b, FSM against the acI/Nanopelagicales comparison set.
+Table S26. Summary of the literature search underlying the statements that no comparable lineage and no size-matched comparison have been reported; S26a, the prior-art comparison; S26b, the literature-search queries; S26c, the screening record.
+Table S27. Source of truth: each reported value with its source table and filter.
+Table S28. Bakta version, database and command line for all 823 annotated ingroup genomes: 260 cultured isolates, 320 uncultured reference genomes and 243 SPIRE MAGs.

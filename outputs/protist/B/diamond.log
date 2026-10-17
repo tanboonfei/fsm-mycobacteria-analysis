@@ -1,0 +1,68 @@
+diamond v2.1.13.167 (C) Max Planck Society for the Advancement of Science, Benjamin Buchfink, University of Tuebingen
+Documentation, support and updates available at http://www.diamondsearch.org
+Please cite: http://dx.doi.org/10.1038/s41592-021-01101-x Nature Methods (2021)
+
+#CPU threads: 24
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Temporary directory: /path/to/project/analyses/protist/B
+#Target sequences to report alignments for: 25
+Opening the database...  [0.999s]
+Database: mycodb/myco862 (type: Diamond database, sequences: 4324758, letters: 1358592302)
+Block size = 6000000000
+Opening the input file...  [0.019s]
+Opening the output file...  [0s]
+Loading query sequences...  [25.172s]
+Masking queries...  [11.963s]
+Algorithm: Double-indexed
+Building query histograms...  [7.032s]
+Seeking in database...  [0s]
+Loading reference sequences...  [4.987s]
+Masking reference...  [2.537s]
+Initializing temporary storage...  [0.018s]
+Building reference histograms...  [1.662s]
+Allocating buffers...  [0s]
+Processing query block 1, reference block 1/1, shape 1/1.
+Building reference seed array...  [1.571s]
+Building query seed array...  [7.485s]
+Computing hash join...  [15.954s]
+Masking low complexity seeds...  [0.415s]
+Searching alignments...  [7.365s]
+Deallocating memory...  [0s]
+Deallocating buffers...  [6.079s]
+Clearing query masking...  [0.421s]
+Computing alignments...  [778.422s]
+Deallocating reference...  [0.055s]
+Loading reference sequences...  [0.003s]
+Deallocating buffers...  [0s]
+Deallocating queries...  [0.442s]
+Loading query sequences...  [30.825s]
+Masking queries...  [5.91s]
+Building query histograms...  [3.575s]
+Seeking in database...  [0s]
+Loading reference sequences...  [7.582s]
+Masking reference...  [2.967s]
+Initializing temporary storage...  [0.017s]
+Building reference histograms...  [2.75s]
+Allocating buffers...  [0s]
+Processing query block 2, reference block 1/1, shape 1/1.
+Building reference seed array...  [2.072s]
+Building query seed array...  [3.569s]
+Computing hash join...  [7.633s]
+Masking low complexity seeds...  [0.29s]
+Searching alignments...  [4.56s]
+Deallocating memory...  [0s]
+Deallocating buffers...  [3.444s]
+Clearing query masking...  [0.243s]
+Computing alignments...  [399.329s]
+Deallocating reference...  [0.077s]
+Loading reference sequences...  [0s]
+Deallocating buffers...  [0s]
+Deallocating queries...  [0.257s]
+Loading query sequences...  [0s]
+Closing the input file...  [0.003s]
+Closing the output file...  [0s]
+Closing the database...  [0.003s]
+Cleaning up...  [0s]
+Total time = 1347.73s
+Reported 14256 pairwise alignments, 14256 HSPs.
+7756 queries aligned.

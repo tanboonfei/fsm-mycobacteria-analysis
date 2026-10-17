@@ -1,0 +1,6 @@
+Gene	RGM reference sequences in profile	RGM genomes above cut	RGM median best bitscore	Score cut	FSM genomes above cut (proteome)	FSM best bitscore (proteome)	FSM genomes above cut (six-frame contigs)	FSM best bitscore (six-frame)	tBLASTn result (Table S21c)
+ureC	79	81	1146.5	573.3	1	819.1	1	819	1 / 95
+ectC	57	57	281.1	140.6	0	14.8	0	13.8	0 / 95
+catA	18	26	98.4	49.2	0	24.1	0	26.4	0 / 95
+narG	43	43	2645.4	1322.7	0	1117.2	0	1126.9	1 / 95 (paralog-level)
+kdpB	60	69	1326.2	663.1	8	1306.5	not run	not run	9 / 95 (operon-validated)

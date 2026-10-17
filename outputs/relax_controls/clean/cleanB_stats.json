@@ -1,0 +1,307 @@
+{
+ "masked_residues": 1846,
+ "residues": 677342,
+ "cols_in": 21280,
+ "cols_kept": 17817,
+ "per_taxon_masked": {
+  "spire_mag_00492514": 24,
+  "spire_mag_00493620": 25,
+  "spire_mag_00709062": 95,
+  "spire_mag_00871125": 17,
+  "spire_mag_00873124": 20,
+  "spire_mag_00874439": 21,
+  "spire_mag_01112767": 65,
+  "spire_mag_01196792": 39,
+  "spire_mag_01198798": 96,
+  "spire_mag_01203432": 48,
+  "spire_mag_01678249": 7,
+  "spire_mag_01679848": 7,
+  "spire_mag_01680964": 8,
+  "spire_mag_01753708": 11,
+  "spire_mag_01822855": 55,
+  "spire_mag_01882647": 38,
+  "spire_mag_02001409": 69,
+  "spire_mag_02087828": 0,
+  "spire_mag_02088284": 36,
+  "spire_mag_02088287": 0,
+  "spire_mag_02088330": 0,
+  "spire_mag_02088418": 61,
+  "spire_mag_02088507": 0,
+  "spire_mag_02100063": 12,
+  "spire_mag_02184890": 21,
+  "spire_mag_02292565": 0,
+  "spire_mag_02292667": 0,
+  "spire_mag_02296681": 0,
+  "spire_mag_02298516": 0,
+  "spire_mag_02300785": 0,
+  "spire_mag_02305637": 0,
+  "spire_mag_02307626": 0,
+  "spire_mag_02520786": 50,
+  "spire_mag_02598702": 29,
+  "uberis": 266,
+  "leprae": 390,
+  "lepromatosis": 336
+ },
+ "per_og": {
+  "OG0001290": {
+   "cols": 439,
+   "kept": 418,
+   "masked_residues": 0
+  },
+  "OG0001293": {
+   "cols": 447,
+   "kept": 390,
+   "masked_residues": 142
+  },
+  "OG0001299": {
+   "cols": 528,
+   "kept": 473,
+   "masked_residues": 41
+  },
+  "OG0001300": {
+   "cols": 522,
+   "kept": 298,
+   "masked_residues": 51
+  },
+  "OG0001301": {
+   "cols": 417,
+   "kept": 392,
+   "masked_residues": 75
+  },
+  "OG0001302": {
+   "cols": 429,
+   "kept": 365,
+   "masked_residues": 95
+  },
+  "OG0001303": {
+   "cols": 679,
+   "kept": 489,
+   "masked_residues": 285
+  },
+  "OG0001304": {
+   "cols": 680,
+   "kept": 539,
+   "masked_residues": 106
+  },
+  "OG0001305": {
+   "cols": 283,
+   "kept": 259,
+   "masked_residues": 49
+  },
+  "OG0001310": {
+   "cols": 375,
+   "kept": 311,
+   "masked_residues": 0
+  },
+  "OG0001313": {
+   "cols": 463,
+   "kept": 423,
+   "masked_residues": 19
+  },
+  "OG0001314": {
+   "cols": 238,
+   "kept": 231,
+   "masked_residues": 0
+  },
+  "OG0001315": {
+   "cols": 491,
+   "kept": 408,
+   "masked_residues": 53
+  },
+  "OG0001318": {
+   "cols": 1162,
+   "kept": 752,
+   "masked_residues": 18
+  },
+  "OG0001320": {
+   "cols": 347,
+   "kept": 322,
+   "masked_residues": 52
+  },
+  "OG0001321": {
+   "cols": 442,
+   "kept": 412,
+   "masked_residues": 58
+  },
+  "OG0001322": {
+   "cols": 407,
+   "kept": 402,
+   "masked_residues": 0
+  },
+  "OG0001323": {
+   "cols": 245,
+   "kept": 157,
+   "masked_residues": 0
+  },
+  "OG0001324": {
+   "cols": 300,
+   "kept": 297,
+   "masked_residues": 0
+  },
+  "OG0001325": {
+   "cols": 177,
+   "kept": 162,
+   "masked_residues": 0
+  },
+  "OG0001328": {
+   "cols": 286,
+   "kept": 233,
+   "masked_residues": 10
+  },
+  "OG0001329": {
+   "cols": 313,
+   "kept": 264,
+   "masked_residues": 27
+  },
+  "OG0001335": {
+   "cols": 189,
+   "kept": 170,
+   "masked_residues": 0
+  },
+  "OG0001336": {
+   "cols": 481,
+   "kept": 295,
+   "masked_residues": 13
+  },
+  "OG0001337": {
+   "cols": 695,
+   "kept": 525,
+   "masked_residues": 10
+  },
+  "OG0001338": {
+   "cols": 333,
+   "kept": 300,
+   "masked_residues": 0
+  },
+  "OG0001340": {
+   "cols": 151,
+   "kept": 142,
+   "masked_residues": 0
+  },
+  "OG0001341": {
+   "cols": 165,
+   "kept": 153,
+   "masked_residues": 32
+  },
+  "OG0001343": {
+   "cols": 550,
+   "kept": 504,
+   "masked_residues": 0
+  },
+  "OG0001344": {
+   "cols": 343,
+   "kept": 277,
+   "masked_residues": 6
+  },
+  "OG0001345": {
+   "cols": 531,
+   "kept": 412,
+   "masked_residues": 39
+  },
+  "OG0001346": {
+   "cols": 554,
+   "kept": 515,
+   "masked_residues": 10
+  },
+  "OG0001347": {
+   "cols": 363,
+   "kept": 286,
+   "masked_residues": 233
+  },
+  "OG0001348": {
+   "cols": 202,
+   "kept": 192,
+   "masked_residues": 0
+  },
+  "OG0001349": {
+   "cols": 233,
+   "kept": 205,
+   "masked_residues": 5
+  },
+  "OG0001350": {
+   "cols": 534,
+   "kept": 490,
+   "masked_residues": 29
+  },
+  "OG0001353": {
+   "cols": 429,
+   "kept": 427,
+   "masked_residues": 0
+  },
+  "OG0001354": {
+   "cols": 181,
+   "kept": 163,
+   "masked_residues": 0
+  },
+  "OG0001355": {
+   "cols": 397,
+   "kept": 354,
+   "masked_residues": 6
+  },
+  "OG0001356": {
+   "cols": 885,
+   "kept": 738,
+   "masked_residues": 38
+  },
+  "OG0001357": {
+   "cols": 579,
+   "kept": 405,
+   "masked_residues": 40
+  },
+  "OG0001358": {
+   "cols": 335,
+   "kept": 307,
+   "masked_residues": 0
+  },
+  "OG0001359": {
+   "cols": 257,
+   "kept": 242,
+   "masked_residues": 5
+  },
+  "OG0001360": {
+   "cols": 219,
+   "kept": 160,
+   "masked_residues": 37
+  },
+  "OG0001361": {
+   "cols": 254,
+   "kept": 245,
+   "masked_residues": 0
+  },
+  "OG0001362": {
+   "cols": 183,
+   "kept": 159,
+   "masked_residues": 7
+  },
+  "OG0001363": {
+   "cols": 223,
+   "kept": 180,
+   "masked_residues": 5
+  },
+  "OG0001364": {
+   "cols": 633,
+   "kept": 439,
+   "masked_residues": 76
+  },
+  "OG0001365": {
+   "cols": 348,
+   "kept": 318,
+   "masked_residues": 7
+  },
+  "OG0001366": {
+   "cols": 227,
+   "kept": 213,
+   "masked_residues": 36
+  },
+  "OG0001367": {
+   "cols": 775,
+   "kept": 711,
+   "masked_residues": 48
+  },
+  "OG0001368": {
+   "cols": 361,
+   "kept": 293,
+   "masked_residues": 83
+  }
+ }
+}

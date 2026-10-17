@@ -1,0 +1,115 @@
+IQ-TREE multicore version 2.0.7 for Linux 64-bit built Apr  1 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    host (AVX512, FMA3, 249 GB RAM)
+Command: iqtree2 -s CC05_RGM.codon.fa -m GTR+F+G4 -g /path/to/project/analyses/extended/D_relax/inputs/constraint.nwk -T 1 -fast --prefix CC05_RGM -redo -quiet
+Seed:    197472 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Oct 14 20:15:14 2026
+Kernel:  AVX+FMA - 1 threads (32 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 32 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file CC05_RGM.codon.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 42 sequences with 63840 columns, 35722 distinct patterns
+34032 parsimony-informative, 5811 singleton sites, 23997 constant sites
+                    Gap/Ambiguity  Composition  p-value
+   1  spire_mag_00492514   12.44%    failed      0.00%
+   2  spire_mag_00493620   12.90%    failed      0.00%
+   3  spire_mag_00709062   14.31%    failed      0.01%
+   4  spire_mag_00871125   16.56%    failed      0.10%
+   5  spire_mag_00873124   13.43%    failed      0.05%
+   6  spire_mag_00874439   13.36%    failed      0.04%
+   7  spire_mag_01112767   14.96%    failed      0.00%
+   8  spire_mag_01196792   12.53%    failed      0.04%
+   9  spire_mag_01198798   12.17%    failed      0.00%
+  10  spire_mag_01203432   13.71%    passed      6.32%
+  11  spire_mag_01678249   13.51%    failed      0.00%
+  12  spire_mag_01679848   12.89%    failed      0.00%
+  13  spire_mag_01680964   12.74%    failed      0.00%
+  14  spire_mag_01753708   12.74%    failed      4.49%
+  15  spire_mag_01822855   12.44%    failed      0.00%
+  16  spire_mag_01882647   15.60%    failed      0.00%
+  17  spire_mag_02001409   12.73%    failed      0.18%
+  18  spire_mag_02087828   15.26%    failed      0.00%
+  19  spire_mag_02088284   14.46%    failed      2.62%
+  20  spire_mag_02088287   12.76%    failed      0.00%
+  21  spire_mag_02088330   13.64%    failed      0.00%
+  22  spire_mag_02088418   13.21%    failed      0.05%
+  23  spire_mag_02088507   12.86%    failed      0.00%
+  24  spire_mag_02100063   13.07%    passed      7.77%
+  25  spire_mag_02184890   12.52%    failed      0.00%
+  26  spire_mag_02292565   11.95%    failed      0.00%
+  27  spire_mag_02292667   11.90%    failed      0.00%
+  28  spire_mag_02296681   12.41%    failed      0.00%
+  29  spire_mag_02298516   12.10%    failed      0.00%
+  30  spire_mag_02300785   12.10%    failed      0.00%
+  31  spire_mag_02305637   11.90%    failed      0.00%
+  32  spire_mag_02307626   11.90%    failed      0.00%
+  33  spire_mag_02520786   14.71%    failed      0.00%
+  34  spire_mag_02598702   14.66%    failed      0.00%
+  35  uberis               21.01%    failed      0.00%
+  36  leprae               23.52%    failed      0.00%
+  37  lepromatosis         22.05%    failed      0.00%
+  38  spire_mag_01276921   18.51%    failed      0.00%
+  39  spire_mag_02186423   17.79%    failed      0.00%
+  40  spire_mag_02516797   15.08%    passed     37.94%
+  41  spire_mag_02521398   21.43%    passed     35.21%
+  42  spire_mag_01784070   19.23%    failed      0.00%
+****  TOTAL                14.50%  38 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading constraint tree /path/to/project/analyses/extended/D_relax/inputs/constraint.nwk...
+Creating fast initial parsimony tree by random order stepwise addition...
+0.039 seconds, parsimony score: 182217 (based on 39843 sites)
+
+NOTE: 194 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -839383.412
+2. Current log-likelihood: -815999.226
+3. Current log-likelihood: -815800.920
+4. Current log-likelihood: -815798.845
+Optimal log-likelihood: -815798.673
+Rate parameters:  A-C: 1.68092  A-G: 3.51521  A-T: 1.56297  C-G: 2.27696  C-T: 4.10662  G-T: 1.00000
+Base frequencies:  A: 0.164  C: 0.336  G: 0.340  T: 0.160
+Gamma shape alpha: 0.519
+Parameters optimization took 4 rounds (30.040 sec)
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 1 parsimony trees... 0.057 second
+Computing log-likelihood of 1 initial trees ... 0.913 seconds
+Current best score: -815798.673
+
+Do NNI search on 2 best initial trees
+Finish initializing candidate tree set (2)
+Current best tree score: -815798.673 / CPU time: 3.571
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:33s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -815798.673
+Optimal log-likelihood: -815798.628
+Rate parameters:  A-C: 1.68224  A-G: 3.51703  A-T: 1.56256  C-G: 2.27385  C-T: 4.10795  G-T: 1.00000
+Base frequencies:  A: 0.164  C: 0.336  G: 0.340  T: 0.160
+Gamma shape alpha: 0.519
+Parameters optimization took 1 rounds (4.984 sec)
+BEST SCORE FOUND : -815798.628
+Total tree length: 4.721
+
+Total number of iterations: 2
+CPU time used for tree search: 3.437 sec (0h:0m:3s)
+Wall-clock time used for tree search: 3.571 sec (0h:0m:3s)
+Total CPU time used: 37.141 sec (0h:0m:37s)
+Total wall-clock time used: 38.665 sec (0h:0m:38s)
+
+Analysis results written to: 
+  IQ-TREE report:                CC05_RGM.iqtree
+  Maximum-likelihood tree:       CC05_RGM.treefile
+  Screen log file:               CC05_RGM.log
+
+Date and Time: Wed Oct 14 20:15:53 2026

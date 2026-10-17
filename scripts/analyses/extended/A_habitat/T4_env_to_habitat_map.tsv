@@ -1,0 +1,3877 @@
+habitat_label	environment	n_runs
+aquatic (unspecified)	aquatic	4380
+aquatic (unspecified)	water	136
+estuary/brackish	estuary	944
+estuary/brackish	lagoon	18
+freshwater (unspecified)	freshwater	10686
+groundwater/drinking water	groundwater	2845
+groundwater/drinking water	drinking water	870
+groundwater/drinking water	subsurface	444
+groundwater/drinking water	aquifer	95
+host-associated	human gut	238829
+host-associated	gut	67639
+host-associated	human	41820
+host-associated	Homo sapiens	25309
+host-associated	mouse gut	24500
+host-associated	feces	21828
+host-associated	human feces	14141
+host-associated	human oral	12361
+host-associated	pig gut	8977
+host-associated	human skin	7653
+host-associated	plant	6011
+host-associated	bovine gut	5639
+host-associated	Mus musculus	4151
+host-associated	mouse	3998
+host-associated	skin	3964
+host-associated	chicken gut	3349
+host-associated	insect	2920
+host-associated	oral	2522
+host-associated	human nasopharyngeal	2512
+host-associated	human vaginal	2471
+host-associated	bovine	2413
+host-associated	vaginal	2368
+host-associated	clinical	2112
+host-associated	Bos taurus	2088
+host-associated	invertebrate	1962
+host-associated	human lung	1645
+host-associated	human saliva	1558
+host-associated	fish gut	1551
+host-associated	Gallus gallus	1467
+host-associated	Equus caballus	1428
+host-associated	human blood	1410
+host-associated	mollusc	1393
+host-associated	pig	1299
+host-associated	root	1243
+host-associated	Arabidopsis thaliana	1208
+host-associated	insect gut	1086
+host-associated	nervous system	1034
+host-associated	coral	1026
+host-associated	rat gut	989
+host-associated	oyster	888
+host-associated	bee	845
+host-associated	sheep gut	841
+host-associated	phyllosphere	797
+host-associated	milk	795
+host-associated	canine gut	791
+host-associated	respiratory tract	714
+host-associated	upper respiratory tract	701
+host-associated	mammal	700
+host-associated	canine	645
+host-associated	human viral	561
+host-associated	bird	533
+host-associated	sponge	531
+host-associated	rumen	479
+host-associated	algae	476
+host-associated	tick	476
+host-associated	moss	445
+host-associated	rodent	445
+host-associated	Severe acute respiratory syndrome coronavirus 2	443
+host-associated	human sputum	432
+host-associated	eye	430
+host-associated	human tracheal	429
+host-associated	primate	428
+host-associated	human eye	426
+host-associated	Sus scrofa	424
+host-associated	bat	416
+host-associated	lichen	384
+host-associated	sheep	384
+host-associated	annelid	382
+host-associated	leaf	378
+host-associated	human urinary tract	336
+host-associated	Homo sapiens neanderthalensis	333
+host-associated	Macaca mulatta	333
+host-associated	ant	320
+host-associated	goat gut	305
+host-associated	fish	293
+host-associated	leaf litter	289
+host-associated	blood	282
+host-associated	human respiratory syncytial virus	280
+host-associated	Tetrao urogallus	238
+host-associated	human milk	227
+host-associated	whole organism	227
+host-associated	rat	217
+host-associated	mosquito	212
+host-associated	lung	200
+host-associated	Lactiplantibacillus plantarum	193
+host-associated	uncultured human fecal virus	184
+host-associated	human reproductive system	180
+host-associated	bat gut	172
+host-associated	macroalgae	161
+host-associated	shrimp gut	156
+host-associated	invertebrate gut	143
+host-associated	termite gut	141
+host-associated	Equus asinus asinus	116
+host-associated	rabbit gut	111
+host-associated	gill	106
+host-associated	horse	100
+host-associated	human bile	89
+host-associated	root nodule	69
+host-associated	Human alphaherpesvirus 3	66
+host-associated	bear gut	63
+host-associated	Human rhinovirus sp.	46
+host-associated	crab	46
+host-associated	Equus asinus	44
+host-associated	nematode	41
+host-associated	urinary tract	37
+host-associated	Human parvovirus B19	29
+host-associated	Sus scrofa domesticus	27
+host-associated	Human adenovirus 41	24
+host-associated	termite	23
+host-associated	Human respirovirus 3	22
+host-associated	Viridiplantae	22
+host-associated	sea cucumber	22
+host-associated	oral-nasopharyngeal	21
+host-associated	human brain	20
+host-associated	Erythroparvovirus primate1	19
+host-associated	mouse brain	19
+host-associated	Bovine orthopneumovirus	18
+host-associated	Human coronavirus OC43	18
+host-associated	Human picobirnavirus	18
+host-associated	human metapneumovirus	18
+host-associated	uncultured organism	18
+host-associated	Juglans sigillata	16
+host-associated	Ligilactobacillus salivarius	16
+host-associated	Mus musculus albula	16
+host-associated	uncultured microorganism	16
+host-associated	Equus hemionus	15
+host-associated	ant fungus garden	13
+host-associated	root associated fungus	13
+host-associated	invertebrate environmental sample	12
+host-associated	power plant	12
+host-associated	Gallus gallus gallus	11
+host-associated	zooplankton	11
+host-associated	Aspergillus coreanus	10
+host-associated	Human gammaherpesvirus 8	10
+host-associated	Human papillomavirus	9
+host-associated	Human immunodeficiency virus 1	8
+host-associated	Human pegivirus 2	7
+host-associated	Equus przewalskii	6
+host-associated	Lumpy skin disease virus	6
+host-associated	mouse skin	6
+host-associated	phytoplankton	6
+host-associated	Homo sapiens environmental sample	5
+host-associated	Mammalian orthoreovirus	5
+host-associated	Ornithomya fringillina	5
+host-associated	Squash leaf curl virus	5
+host-associated	microalgae	5
+host-associated	sea squirt	5
+host-associated	Macaca fascicularis	4
+host-associated	sea urchin	4
+host-associated	unidentified prokaryotic organism	4
+host-associated	zooplankton environmental sample	4
+host-associated	Bacillus licheniformis	3
+host-associated	Bat paramyxovirus	3
+host-associated	Crocodylus niloticus	3
+host-associated	Equus hemionus kulan	3
+host-associated	Equus quagga burchellii	3
+host-associated	Geobacter argillaceus	3
+host-associated	Human adenovirus 31	3
+host-associated	Human betaherpesvirus 5	3
+host-associated	Nocardioides coralli	3
+host-associated	Viridiplantae environmental sample	3
+host-associated	Azolla nilotica	2
+host-associated	Bacillus paralicheniformis	2
+host-associated	Cucurbit leaf crumple virus	2
+host-associated	Human adenovirus 89	2
+host-associated	Human alphaherpesvirus 1	2
+host-associated	Human blood-associated dicistrovirus	2
+host-associated	Insecta	2
+host-associated	Morganella morganii	2
+host-associated	Oreochromis niloticus	2
+host-associated	Solemya velum gill symbiont	2
+host-associated	Telmatochromis temporalis	2
+host-associated	Tick-associated circular DNA virus	2
+host-associated	organismal metagenomes	2
+host-associated	Aspergillus fumigatus	1
+host-associated	Aspergillus terreus	1
+host-associated	Bat alphacoronavirus	1
+host-associated	Bat betacoronavirus	1
+host-associated	Bat coronavirus	1
+host-associated	Bat coronavirus RaTG13	1
+host-associated	Bovine polyomavirus 2	1
+host-associated	Candidatus Paraburkholderia schumanniana	1
+host-associated	Candidatus Regiella insecticola	1
+host-associated	Clerodendrum leaf spot virus	1
+host-associated	Corynactis coral adintovirus	1
+host-associated	Dysgonomonas mossii	1
+host-associated	Faecalibaculum rodentium	1
+host-associated	Gardnerella vaginalis	1
+host-associated	Hodotermes mossambicus	1
+host-associated	Human adenovirus 12	1
+host-associated	Human adenovirus 5	1
+host-associated	Human adenovirus 7	1
+host-associated	Human adenovirus C108	1
+host-associated	Human alphaherpesvirus 2	1
+host-associated	Human orthorubulavirus 2	1
+host-associated	Human pegivirus genotype 1	1
+host-associated	Lichena dealbata	1
+host-associated	Miniopterus mossambicus	1
+host-associated	Myotis bat morbillivirus	1
+host-associated	Rodent Torque teno virus 2	1
+host-associated	Rousettus bat coronavirus	1
+host-associated	Streptococcus oralis	1
+host-associated	Streptococcus salivarius	1
+host-associated	Tomato yellow leaf curl virus	1
+host-associated	Vibrio coralliilyticus	1
+host-associated	Xylographa soralifera	1
+host-associated	Zoarces gillii	1
+host-associated	human skeleton	1
+host-associated	plant fiber	1
+host-associated	vaginal_metagenome 130325R	1
+host-associated	vaginal_metagenome 130525R	1
+host-associated	vaginal_metagenome 130612R	1
+host-associated	vaginal_metagenome 130705R	1
+host-associated	vaginal_metagenome 130708R	1
+host-associated	vaginal_metagenome 130801R	1
+host-associated	vaginal_metagenome 131011R	1
+host-associated	vaginal_metagenome 131015R	1
+host-associated	vaginal_metagenome UAB003_10_1	1
+host-associated	vaginal_metagenome UAB003_10_3	1
+host-associated	vaginal_metagenome UAB003_1_3	1
+host-associated	vaginal_metagenome UAB003_1_6	1
+host-associated	vaginal_metagenome UAB003_2_1	1
+host-associated	vaginal_metagenome UAB003_2_2	1
+host-associated	vaginal_metagenome UAB003_2_3	1
+host-associated	vaginal_metagenome UAB003_2_5	1
+host-associated	vaginal_metagenome UAB003_2_7	1
+host-associated	vaginal_metagenome UAB003_3_2	1
+host-associated	vaginal_metagenome UAB003_3_3	1
+host-associated	vaginal_metagenome UAB003_8_3	1
+host-associated	vaginal_metagenome UAB003_8_5	1
+host-associated	vaginal_metagenome UAB003_9_3	1
+host-associated	vaginal_metagenome UAB003_9_4	1
+host-associated	vaginal_metagenome UAB003_9_5	1
+host-associated	vaginal_metagenome UAB005_2_4	1
+host-associated	vaginal_metagenome UAB005_2_6	1
+host-associated	vaginal_metagenome UAB005_3_1	1
+host-associated	vaginal_metagenome UAB005_3_2	1
+host-associated	vaginal_metagenome UAB040_8_4	1
+host-associated	vaginal_metagenome UAB053_3_3	1
+host-associated	vaginal_metagenome UAB053_3_7	1
+host-associated	vaginal_metagenome UAB053_6_2	1
+host-associated	vaginal_metagenome UAB053_7_2	1
+host-associated	vaginal_metagenome UAB127_3_6	1
+host-associated	vaginal_metagenome UAB127_3_7	1
+host-associated	vaginal_metagenome UAB127_5_1	1
+host-associated	vaginal_metagenome UAB127_5_2	1
+host-associated	vaginal_metagenome UAB127_5_4	1
+host-associated	vaginal_metagenome UAB127_5_6	1
+host-associated	vaginal_metagenome UAB127_6_2	1
+host-associated	vaginal_metagenome UAB128_2_1	1
+host-associated	vaginal_metagenome UAB128_2_2	1
+host-associated	vaginal_metagenome UAB128_2_4	1
+host-associated	vaginal_metagenome UAB128_2_7	1
+host-associated	vaginal_metagenome UAB128_3_2	1
+host-associated	vaginal_metagenome UAB128_3_3	1
+host-associated	vaginal_metagenome UAB128_5_7	1
+host-associated	vaginal_metagenome UAB128_6_1	1
+host-associated	vaginal_metagenome UAB128_6_4	1
+host-associated	vaginal_metagenome UAB128_6_5	1
+host-associated	vaginal_metagenome UAB128_7_1	1
+host-associated	vaginal_metagenome UAB128_7_4	1
+host-associated	vaginal_metagenome UAB128_7_7	1
+host-associated	vaginal_metagenome UAB130_5_5	1
+host-associated	vaginal_metagenome UAB130_5_6	1
+host-associated	vaginal_metagenome UAB130_5_7	1
+host-associated	vaginal_metagenome UAB130_6_2	1
+host-associated	vaginal_metagenome UAB130_7_3	1
+host-associated	vaginal_metagenome UAB130_7_4	1
+host-associated	vaginal_metagenome UAB135_4_3	1
+host-associated	vaginal_metagenome UAB135_4_4	1
+host-associated	vaginal_metagenome UAB135_6_5	1
+host-associated	vaginal_metagenome UAB135_6_6	1
+host-associated	vaginal_metagenome UAB135_7_1	1
+host-associated	vaginal_metagenome UAB135_7_6	1
+host-associated	vaginal_metagenome UAB135_7_7	1
+lake/reservoir	lake water	2830
+lake/reservoir	pond	474
+lake/reservoir	lake	28
+lake/reservoir	reservoir	11
+lake/reservoir	glacier lake	2
+marine	marine	17451
+marine	seawater	4774
+marine	marine plankton	1260
+marine	hydrothermal vent	977
+marine	coral reef	510
+marine	plankton	78
+marine	bacterioplankton	15
+marine	uncultured marine virus	12
+marine	uncultured marine microorganism	4
+marine	Oceanitalea stevensii	1
+marine	Woeseia oceani	1
+other/unspecified	metagenome	101008
+other/unspecified	viral	7606
+other/unspecified	synthetic	4438
+other/unspecified	food	4406
+other/unspecified	unidentified	3776
+other/unspecified	air	3414
+other/unspecified	bacterium	3049
+other/unspecified	food fermentation	2636
+other/unspecified	hot springs	2556
+other/unspecified	biofilm	2531
+other/unspecified	Escherichia coli	1896
+other/unspecified	food production	1892
+other/unspecified	urban	1874
+other/unspecified	Pseudomonas aeruginosa	1643
+other/unspecified	compost	1576
+other/unspecified	fermentation	1212
+other/unspecified	Streptococcus pneumoniae	1200
+other/unspecified	indoor	1123
+other/unspecified	Chlamydia trachomatis	1117
+other/unspecified	Sinorhizobium meliloti	975
+other/unspecified	manure	913
+other/unspecified	microbial mat	760
+other/unspecified	Klebsiella pneumoniae	683
+other/unspecified	Canis lupus familiaris	611
+other/unspecified	surface	502
+other/unspecified	mixed culture	490
+other/unspecified	plastic	486
+other/unspecified	Treponema pallidum subsp. pallidum	452
+other/unspecified	metagenomes	446
+other/unspecified	aquaculture	440
+other/unspecified	honey	432
+other/unspecified	plastisphere	408
+other/unspecified	dust	403
+other/unspecified	fossil	385
+other/unspecified	Treponema pallidum subsp. pallidum SS14	384
+other/unspecified	Treponema pallidum subsp. pertenue	369
+other/unspecified	mixed sample	346
+other/unspecified	Rattus norvegicus	334
+other/unspecified	meat	334
+other/unspecified	Mycoplasmoides pneumoniae	327
+other/unspecified	nan	323
+other/unspecified	rock	315
+other/unspecified	Treponema pallidum	305
+other/unspecified	factory	300
+other/unspecified	Punctelia rudecta	295
+other/unspecified	Riemerella anatipestifer	279
+other/unspecified	fungus	272
+other/unspecified	Canis lupus	270
+other/unspecified	uncultured virus	268
+other/unspecified	mine drainage	267
+other/unspecified	cold seep	262
+other/unspecified	Gossypium hirsutum	245
+other/unspecified	mangrove	241
+other/unspecified	poultry litter	240
+other/unspecified	Lepraria finkii	238
+other/unspecified	museum specimen	237
+other/unspecified	marsh	235
+other/unspecified	silage	230
+other/unspecified	cave	229
+other/unspecified	Ovis aries	228
+other/unspecified	symbiont	227
+other/unspecified	Drosophila melanogaster	224
+other/unspecified	Streptococcus agalactiae	222
+other/unspecified	biofilter	221
+other/unspecified	coal	220
+other/unspecified	phycosphere	220
+other/unspecified	urine	199
+other/unspecified	Acinetobacter baumannii	198
+other/unspecified	Tomato brown rugose fruit virus	195
+other/unspecified	Punctelia appalachensis	187
+other/unspecified	crustacean	180
+other/unspecified	glacier	180
+other/unspecified	Solanum tuberosum	179
+other/unspecified	Solanum lycopersicum	178
+other/unspecified	phage	178
+other/unspecified	Oryza sativa Japonica Group	173
+other/unspecified	Deformed wing virus	172
+other/unspecified	Yersinia pestis	169
+other/unspecified	snake	168
+other/unspecified	Neisseria meningitidis	159
+other/unspecified	spacecraft	158
+other/unspecified	ice	155
+other/unspecified	Campylobacter jejuni	150
+other/unspecified	Spinacia oleracea	150
+other/unspecified	hospital	147
+other/unspecified	outdoor	145
+other/unspecified	Acrocephalus sechellensis	143
+other/unspecified	Porcine epidemic diarrhea virus	142
+other/unspecified	oil production facility	141
+other/unspecified	probiotic	140
+other/unspecified	hydrocarbon	136
+other/unspecified	tailings	136
+other/unspecified	Sinorhizobium	135
+other/unspecified	Zea mays	134
+other/unspecified	beach sand	129
+other/unspecified	Oryctolagus cuniculus	128
+other/unspecified	wood	128
+other/unspecified	Synchytrium endobioticum	127
+other/unspecified	ciliate	127
+other/unspecified	parchment	126
+other/unspecified	Gorilla gorilla gorilla	122
+other/unspecified	runoff	122
+other/unspecified	Pseudomonadota	121
+other/unspecified	Polyplax serrata	117
+other/unspecified	Sulfurovum	117
+other/unspecified	Capra hircus	115
+other/unspecified	Lepraria lanata	115
+other/unspecified	Pan troglodytes schweinfurthii	115
+other/unspecified	wine	109
+other/unspecified	straw	108
+other/unspecified	Dictyostelium discoideum	107
+other/unspecified	Bacillota	105
+other/unspecified	cetacean	102
+other/unspecified	oil field	101
+other/unspecified	Bifidobacterium	97
+other/unspecified	Bordetella pertussis	97
+other/unspecified	fertilizer	97
+other/unspecified	hyphosphere	97
+other/unspecified	Bacteroides intestinalis	96
+other/unspecified	Burkholderia cenocepacia	94
+other/unspecified	Montipora	94
+other/unspecified	Salmo salar	94
+other/unspecified	uncultured bacterium	94
+other/unspecified	tobacco	93
+other/unspecified	Bacteroides	91
+other/unspecified	Pan troglodytes	91
+other/unspecified	farm	91
+other/unspecified	Felis catus	89
+other/unspecified	Boletus edulis	86
+other/unspecified	Saccharomyces cerevisiae	85
+other/unspecified	aquatic viral	85
+other/unspecified	Pseudomonas fluorescens	84
+other/unspecified	halite	84
+other/unspecified	Mycobacterium leprae	82
+other/unspecified	Usnea subfusca	82
+other/unspecified	Prevotella	81
+other/unspecified	mine	80
+other/unspecified	blank sample	79
+other/unspecified	liver	79
+other/unspecified	Enterobacter cloacae	78
+other/unspecified	abattoir	78
+other/unspecified	epibiont	77
+other/unspecified	feline	77
+other/unspecified	Acidobacteriota bacterium	76
+other/unspecified	Ixodes scapularis	75
+other/unspecified	Apis mellifera	74
+other/unspecified	Treponema pallidum subsp. pallidum str. Nichols	74
+other/unspecified	Danio rerio	72
+other/unspecified	clothing	72
+other/unspecified	frog	72
+other/unspecified	wildlife	72
+other/unspecified	solid waste	71
+other/unspecified	Caenorhabditis elegans	68
+other/unspecified	Nicotiana tabacum	68
+other/unspecified	Rinodina peloleuca	68
+other/unspecified	Sorghum bicolor	68
+other/unspecified	Coilia nasus	66
+other/unspecified	food contamination	66
+other/unspecified	Lactuca sativa	65
+other/unspecified	Desmodus rotundus	62
+other/unspecified	protist	62
+other/unspecified	Actinomycetota	61
+other/unspecified	Monochamus saltuarius	61
+other/unspecified	dairy	61
+other/unspecified	Escherichia	59
+other/unspecified	Gigantidas platifrons	59
+other/unspecified	Staphylococcus epidermidis	59
+other/unspecified	uncultured Gammaproteobacteria bacterium	59
+other/unspecified	sand	58
+other/unspecified	Porcine rotavirus A	57
+other/unspecified	Pseudomonas fragi	57
+other/unspecified	biofloc	57
+other/unspecified	Gorilla beringei graueri	56
+other/unspecified	Mycobacterium lepromatosis	56
+other/unspecified	Powassan virus	56
+other/unspecified	Ostreid herpesvirus 1	55
+other/unspecified	Phytophthora infestans	55
+other/unspecified	Aplysina aerophoba	54
+other/unspecified	Prochlorococcus marinus	54
+other/unspecified	environmental samples	54
+other/unspecified	Bacillota bacterium	53
+other/unspecified	Branta bernicla hrota	53
+other/unspecified	Ebrechtella tricuspidata	53
+other/unspecified	Macrobrachium rosenbergii	53
+other/unspecified	pollen	53
+other/unspecified	uncultured prokaryote	53
+other/unspecified	Bacteroides fragilis	52
+other/unspecified	Bos indicus	52
+other/unspecified	Caudoviricetes	52
+other/unspecified	Mycobacteroides abscessus	52
+other/unspecified	Rickettsia conorii subsp. raoultii	51
+other/unspecified	Bos grunniens	50
+other/unspecified	Mycobacteroides abscessus subsp. abscessus	50
+other/unspecified	Oncorhynchus mykiss	50
+other/unspecified	oil	50
+other/unspecified	oil sands	50
+other/unspecified	Lactobacillus iners	49
+other/unspecified	Norwalk virus	49
+other/unspecified	Streptococcus mutans	49
+other/unspecified	West Nile virus	49
+other/unspecified	Synechococcus sp.	48
+other/unspecified	Lateolabrax maculatus	46
+other/unspecified	Usnea strigosa	46
+other/unspecified	wood decay	46
+other/unspecified	Ixodes ricinus	45
+other/unspecified	ovine	45
+other/unspecified	snow	45
+other/unspecified	Aedes albopictus	44
+other/unspecified	Glycine max	44
+other/unspecified	Gracilariopsis lemaneiformis	44
+other/unspecified	Hordeum vulgare	44
+other/unspecified	enrichment culture	44
+other/unspecified	Culex quinquefasciatus	43
+other/unspecified	microbial fuel cell	43
+other/unspecified	Agathobacter rectalis	42
+other/unspecified	Lacticaseibacillus rhamnosus	42
+other/unspecified	cow dung	42
+other/unspecified	Haemophilus influenzae R2846	41
+other/unspecified	Ligilactobacillus murinus	41
+other/unspecified	Neisseria gonorrhoeae	41
+other/unspecified	Protaetia brevitarsis	41
+other/unspecified	Staphylococcus	41
+other/unspecified	Staphylococcus aureus	41
+other/unspecified	Akkermansia muciniphila	39
+other/unspecified	Canis lupus lupus	39
+other/unspecified	Mycoplasmoides genitalium	39
+other/unspecified	Periconia sp. OUCMBI110093	39
+other/unspecified	Aurelia aurita	38
+other/unspecified	Brochothrix thermosphacta	38
+other/unspecified	Gadus morhua	38
+other/unspecified	Hydra vulgaris	37
+other/unspecified	Salmonella enterica	37
+other/unspecified	Treponema pallidum subsp. pertenue str. SamoaD	37
+other/unspecified	Legionella pneumophila str. Paris	36
+other/unspecified	Salmonella	36
+other/unspecified	Enterococcus faecium	35
+other/unspecified	Escherichia coli str. K-12 substr. MG1655	35
+other/unspecified	Rhizopus arrhizus	35
+other/unspecified	Streptococcus	35
+other/unspecified	uncultured Acidobacteriia bacterium	35
+other/unspecified	volcano	35
+other/unspecified	Bacteriophage sp.	34
+other/unspecified	Brassica oleracea var. capitata	34
+other/unspecified	Gorilla beringei beringei	34
+other/unspecified	Mammuthus primigenius	34
+other/unspecified	Mycobacterium tuberculosis	34
+other/unspecified	Vitis vinifera	34
+other/unspecified	bioanode	34
+other/unspecified	prokaryote coculture	34
+other/unspecified	Candidatus Pelagibacter sp.	33
+other/unspecified	Cyprinus carpio	33
+other/unspecified	Eastern equine encephalitis virus	33
+other/unspecified	Helicobacter pylori	33
+other/unspecified	Lactobacillus	33
+other/unspecified	Nitratidesulfovibrio vulgaris str. Hildenborough	33
+other/unspecified	Candida albicans	32
+other/unspecified	Ailuropoda melanoleuca	31
+other/unspecified	Bacteroides uniformis	31
+other/unspecified	Norovirus 02/2010/Nanjing	31
+other/unspecified	cold spring	31
+other/unspecified	parasite	31
+other/unspecified	Banana mild mosaic virus	30
+other/unspecified	Haemaphysalis longicornis	30
+other/unspecified	Lecanora polytropa	30
+other/unspecified	dietary supplements	30
+other/unspecified	Faecalibacterium prausnitzii	29
+other/unspecified	Snodgrassella alvi	29
+other/unspecified	Candidatus Poseidoniales archaeon	28
+other/unspecified	Lawsonella clevelandensis	28
+other/unspecified	Rattus	28
+other/unspecified	Synechococcus sp. WH 7803	28
+other/unspecified	placenta	28
+other/unspecified	synthetic construct	28
+other/unspecified	winery	28
+other/unspecified	Candidatus Brocadia	27
+other/unspecified	Magallana gigas	27
+other/unspecified	Methylobacterium komagatae	27
+other/unspecified	Phaseoleae environmental sample	27
+other/unspecified	Serratia marcescens	27
+other/unspecified	Shewanella baltica	27
+other/unspecified	electrolysis cell	27
+other/unspecified	medical device	27
+other/unspecified	Brassica oleracea	26
+other/unspecified	Clostridium perfringens	26
+other/unspecified	Raphanus sativus chrysovirus 1	26
+other/unspecified	Rhizoplaca arbuscula	26
+other/unspecified	Rhynchocypris lagowskii	26
+other/unspecified	amphibian	26
+other/unspecified	decomposition	26
+other/unspecified	starfish	26
+other/unspecified	Anaerostipes hadrus	25
+other/unspecified	Cladonia rangiferina	25
+other/unspecified	Lawsonia intracellularis	25
+other/unspecified	Morus alba	25
+other/unspecified	Acinetobacter	24
+other/unspecified	Anas platyrhynchos	24
+other/unspecified	Anoplophora glabripennis	24
+other/unspecified	Enterococcus gallinarum	24
+other/unspecified	Methanoculleus sediminis	24
+other/unspecified	Paris polyphylla var. yunnanensis	24
+other/unspecified	Pseudoflavonifractor capillosus	24
+other/unspecified	Stylosanthes guianensis	24
+other/unspecified	money	24
+other/unspecified	Alviniconcha marisindica	23
+other/unspecified	Cupriavidus pauculus	23
+other/unspecified	Fagopyrum cymosum	23
+other/unspecified	Firmicutes bacterium ASF500	23
+other/unspecified	Micromonospora tulbaghiae	23
+other/unspecified	Moschus berezovskii	23
+other/unspecified	cnidarian	23
+other/unspecified	echinoderm	23
+other/unspecified	Alistipes	22
+other/unspecified	Azolla filiculoides	22
+other/unspecified	Loripes orbiculatus	22
+other/unspecified	Manis javanica	22
+other/unspecified	Populus x canadensis	22
+other/unspecified	Roseovarius sp. AK1035	22
+other/unspecified	Streptophyta	22
+other/unspecified	Triticum aestivum	22
+other/unspecified	marsupial	22
+other/unspecified	reproductive system	22
+other/unspecified	Chryseobacterium gregarium	21
+other/unspecified	Ctenopharyngodon idella	21
+other/unspecified	Diceros bicornis	21
+other/unspecified	Erysipelotrichia	21
+other/unspecified	Metazoa environmental sample	21
+other/unspecified	Methanobrevibacter	21
+other/unspecified	Microbacterium proteolyticum	21
+other/unspecified	Murine hepatitis virus	21
+other/unspecified	Papio anubis	21
+other/unspecified	Penaeus vannamei	21
+other/unspecified	Phascolarctobacterium	21
+other/unspecified	Pseudomonas	21
+other/unspecified	Tamias sibiricus	21
+other/unspecified	biocathode	21
+other/unspecified	stromatolite	21
+other/unspecified	Bifidobacterium adolescentis	20
+other/unspecified	Ferruginibacter	20
+other/unspecified	Mandrillus sphinx	20
+other/unspecified	Musculus	20
+other/unspecified	Planktothrix agardhii	20
+other/unspecified	Procambarus clarkii	20
+other/unspecified	Pygoscelis adeliae	20
+other/unspecified	Theobroma cacao	20
+other/unspecified	aerosol	20
+other/unspecified	claw, hoof, horn & nail	20
+other/unspecified	eukaryotic	20
+other/unspecified	Apis mellifera ligustica	19
+other/unspecified	Parabacteroides	19
+other/unspecified	Paraprevotella	19
+other/unspecified	Roseburia	19
+other/unspecified	seed	19
+other/unspecified	Banana streak virus	18
+other/unspecified	Candidatus Brocadia sapporoensis	18
+other/unspecified	Faecalibacterium	18
+other/unspecified	Lecanoromycetes sp. SL-2023a	18
+other/unspecified	Liriope muscari	18
+other/unspecified	Microbiota	18
+other/unspecified	Nematostella vectensis	18
+other/unspecified	Nicotiana benthamiana	18
+other/unspecified	Staphylococcus sp. HMSC066C03	18
+other/unspecified	Telenomus remus	18
+other/unspecified	retting	18
+other/unspecified	Aphis craccivora	17
+other/unspecified	Bacillus subtilis subsp. subtilis str. 168	17
+other/unspecified	Bacteroides thetaiotaomicron	17
+other/unspecified	Barnesiella	17
+other/unspecified	Cebus imitator	17
+other/unspecified	Citrobacter portucalensis	17
+other/unspecified	Leishmania braziliensis	17
+other/unspecified	Neodon fuscus	17
+other/unspecified	Porites lutea	17
+other/unspecified	mite	17
+other/unspecified	shale gas	17
+other/unspecified	shark	17
+other/unspecified	unclassified bacterial viruses	17
+other/unspecified	Acropora millepora	16
+other/unspecified	Akkermansia	16
+other/unspecified	Bacteroides acidifaciens	16
+other/unspecified	Camelus dromedarius	16
+other/unspecified	Canis aureus	16
+other/unspecified	Clathrolucina costata	16
+other/unspecified	Influenza A virus	16
+other/unspecified	Mammarenavirus lassaense	16
+other/unspecified	Mandrillus leucophaeus	16
+other/unspecified	Mediterraneibacter gnavus	16
+other/unspecified	Phaseolus vulgaris	16
+other/unspecified	Phocaeicola vulgatus	16
+other/unspecified	Rhizoplaca haydenii	16
+other/unspecified	Roseobacter denitrificans	16
+other/unspecified	Stenotrophobacter namibiensis	16
+other/unspecified	Streptococcus pyogenes	16
+other/unspecified	microbial eukaryotic	16
+other/unspecified	Acinetobacter johnsonii	15
+other/unspecified	Carpinus betulus	15
+other/unspecified	Monkeypox virus	15
+other/unspecified	Myzus persicae	15
+other/unspecified	Norovirus GI.1	15
+other/unspecified	Plenodomus lingam	15
+other/unspecified	Pyrops lathburii	15
+other/unspecified	Ruminiclostridium cellulolyticum H10	15
+other/unspecified	Tamarix hispida	15
+other/unspecified	Theropithecus gelada	15
+other/unspecified	ballast water	15
+other/unspecified	beetle	15
+other/unspecified	Argopecten irradians irradians	14
+other/unspecified	Candidatus Phytoplasma pruni	14
+other/unspecified	Culex pipiens	14
+other/unspecified	Culex pipiens sensu lato	14
+other/unspecified	Dengue virus	14
+other/unspecified	Dichorhavirus orchidaceae	14
+other/unspecified	Enterococcus	14
+other/unspecified	Enterovirus	14
+other/unspecified	Escherichia coli K-12	14
+other/unspecified	Euphrasia sp.	14
+other/unspecified	Musa acuminata AAA Group	14
+other/unspecified	Pan troglodytes verus	14
+other/unspecified	Porphyromonas gingivalis	14
+other/unspecified	Sclerodermus guani	14
+other/unspecified	Syntrichia ruralis	14
+other/unspecified	Thoracostomopsidae sp.	14
+other/unspecified	Trichosurus vulpecula	14
+other/unspecified	Andrias davidianus	13
+other/unspecified	Bacteroidota	13
+other/unspecified	Camellia sinensis	13
+other/unspecified	Candidatus Kuenenia stuttgartensis	13
+other/unspecified	Caragana jubata	13
+other/unspecified	Carassius auratus	13
+other/unspecified	Citrullus lanatus	13
+other/unspecified	Clostridioides difficile	13
+other/unspecified	Coffea arabica	13
+other/unspecified	Enterococcus faecalis	13
+other/unspecified	Listeria monocytogenes	13
+other/unspecified	Lyssavirus rabies	13
+other/unspecified	Musa AAB Group	13
+other/unspecified	Rhizopus delemar	13
+other/unspecified	Ruminococcus sp. 5_1_39BFAA	13
+other/unspecified	Anser anser	12
+other/unspecified	Anser cygnoides	12
+other/unspecified	Balaenoptera acutorostrata	12
+other/unspecified	Bordetella bronchiseptica	12
+other/unspecified	Camellia luteoflora	12
+other/unspecified	Candidatus Magnetominusculus dajiuhuensis	12
+other/unspecified	Chrysopogon zizanioides	12
+other/unspecified	Coelastrea aspera	12
+other/unspecified	Feline calicivirus	12
+other/unspecified	Hermetia illucens	12
+other/unspecified	Lactobacillus gasseri	12
+other/unspecified	Lactococcus lactis subsp. lactis bv. diacetylactis	12
+other/unspecified	Musa hybrid cultivar	12
+other/unspecified	Mussaenda shikokiana	12
+other/unspecified	Nakaseomyces glabratus	12
+other/unspecified	Norovirus 05/2010/Nanjing	12
+other/unspecified	Populus davidiana x Populus alba var. pyramidalis	12
+other/unspecified	Porites compressa	12
+other/unspecified	Rangifer tarandus	12
+other/unspecified	Roseburia intestinalis	12
+other/unspecified	Segatella copri	12
+other/unspecified	Sparus aurata	12
+other/unspecified	Streptococcus thermophilus	12
+other/unspecified	gonad	12
+other/unspecified	industrial waste	12
+other/unspecified	membrane	12
+other/unspecified	shoot	12
+other/unspecified	spider	12
+other/unspecified	Alveopora daedalea	11
+other/unspecified	Bacillus subtilis	11
+other/unspecified	Bacillus velezensis	11
+other/unspecified	Cherax quadricarinatus	11
+other/unspecified	Citrus wilsonii	11
+other/unspecified	Clostridia bacterium	11
+other/unspecified	Clostridium sp. CAG:138	11
+other/unspecified	Crocuta crocuta	11
+other/unspecified	Dama dama	11
+other/unspecified	Diploria labyrinthiformis	11
+other/unspecified	Elaeagnus angustifolia	11
+other/unspecified	Medicago sativa	11
+other/unspecified	Methanobrevibacter smithii	11
+other/unspecified	Parabacteroides distasonis	11
+other/unspecified	Phocaeicola dorei	11
+other/unspecified	Phocaeicola plebeius	11
+other/unspecified	Pithoviridae	11
+other/unspecified	Porites cylindrica	11
+other/unspecified	Pseudomonas aeruginosa PAO1	11
+other/unspecified	Pseudomonas sp.	11
+other/unspecified	Pseudomonas sp. CFA	11
+other/unspecified	Rattus rattus	11
+other/unspecified	Rosa chinensis	11
+other/unspecified	Zanthoxylum armatum	11
+other/unspecified	Zika virus	11
+other/unspecified	anchialine	11
+other/unspecified	watershed	11
+other/unspecified	Brachymyrmex patagonicus	10
+other/unspecified	Candidatus Sedimenticola endophacoides	10
+other/unspecified	Cercocebus agilis	10
+other/unspecified	Cervus elaphus	10
+other/unspecified	Citrus junos	10
+other/unspecified	Citrus x paradisi x Citrus trifoliata	10
+other/unspecified	Cladonia submitis	10
+other/unspecified	Cosavirus	10
+other/unspecified	Cutibacterium acnes	10
+other/unspecified	Cutibacterium avidum	10
+other/unspecified	Cutibacterium granulosum	10
+other/unspecified	Eubacterium	10
+other/unspecified	Fusobacteriaceae	10
+other/unspecified	Galaxea fascicularis	10
+other/unspecified	Helicobacter typhlonius	10
+other/unspecified	Macropus giganteus	10
+other/unspecified	Megamonas	10
+other/unspecified	Muribaculaceae bacterium	10
+other/unspecified	Nidovirales sp.	10
+other/unspecified	Pachyseris speciosa	10
+other/unspecified	Pan troglodytes ellioti	10
+other/unspecified	Phasianus colchicus	10
+other/unspecified	Populus	10
+other/unspecified	Populus alba	10
+other/unspecified	Pycnopodia helianthoides	10
+other/unspecified	Rhipicephalus microplus	10
+other/unspecified	Rhizoplaca sp. SL-2022a	10
+other/unspecified	Ruminococcus	10
+other/unspecified	Shewanella oneidensis	10
+other/unspecified	Trisopterus esmarkii	10
+other/unspecified	hydroponics	10
+other/unspecified	rock porewater	10
+other/unspecified	uncultured eukaryote	10
+other/unspecified	Acutalibacter muris	9
+other/unspecified	Aeromonas hydrophila	9
+other/unspecified	Aeromonas salmonicida	9
+other/unspecified	Agropyron sp.	9
+other/unspecified	Arbacia lixula	9
+other/unspecified	Arcobacter	9
+other/unspecified	Bacillus cereus	9
+other/unspecified	Bacteroides eggerthii	9
+other/unspecified	Bacteroides ovatus	9
+other/unspecified	Bacteroidota bacterium	9
+other/unspecified	Candidatus Altarchaeales archaeon	9
+other/unspecified	Chikungunya virus	9
+other/unspecified	Cymbidium mastersii	9
+other/unspecified	Enterococcus casseliflavus	9
+other/unspecified	Fibrobacteria	9
+other/unspecified	Harmonia axyridis	9
+other/unspecified	Lachnospiraceae	9
+other/unspecified	Lactococcus lactis	9
+other/unspecified	Megalobrama amblycephala	9
+other/unspecified	Petaurus gracilis	9
+other/unspecified	Phascolarctos cinereus	9
+other/unspecified	Taxus mairei	9
+other/unspecified	Treponema paraluiscuniculi	9
+other/unspecified	Vibrio	9
+other/unspecified	Xanthomonas perforans	9
+other/unspecified	microbialite	9
+other/unspecified	simulated	9
+other/unspecified	steel	9
+other/unspecified	uncultured environmental isolates	9
+other/unspecified	Acinetobacter sp. ANC 3813	8
+other/unspecified	Acyrthosiphon pisum	8
+other/unspecified	Alistipes onderdonkii	8
+other/unspecified	Alistipes putredinis	8
+other/unspecified	Alteromonas macleodii	8
+other/unspecified	Anoplolepis gracilipes	8
+other/unspecified	Barley yellow dwarf virus	8
+other/unspecified	Brassica napus	8
+other/unspecified	Brassica oleracea var. italica	8
+other/unspecified	Capra ibex	8
+other/unspecified	Cephus cinctus	8
+other/unspecified	Chlorocebus tantalus	8
+other/unspecified	Coprococcus	8
+other/unspecified	Coronaviridae sp.	8
+other/unspecified	Cycloneda sanguinea	8
+other/unspecified	Cyclopterus lumpus	8
+other/unspecified	Gadiculus argenteus thori	8
+other/unspecified	Giraffa camelopardalis	8
+other/unspecified	Helicobacter	8
+other/unspecified	Lactobacillus helveticus	8
+other/unspecified	Lepus europaeus	8
+other/unspecified	Lissoclinum sp. TIC-2013-079	8
+other/unspecified	Neotoma albigula	8
+other/unspecified	Plasmodium falciparum	8
+other/unspecified	Pseudomonas asiatica	8
+other/unspecified	Raphanus sativus var. sativus	8
+other/unspecified	Rickettsia slovaca	8
+other/unspecified	Suaeda salsa	8
+other/unspecified	Subdoligranulum	8
+other/unspecified	Thermodesulfobacterium sp.	8
+other/unspecified	Tricholoma matsutake	8
+other/unspecified	Varicellovirus	8
+other/unspecified	Xanthoparmelia chlorochroa	8
+other/unspecified	endophyte	8
+other/unspecified	slag	8
+other/unspecified	termitarium	8
+other/unspecified	tree	8
+other/unspecified	Alouatta palliata	7
+other/unspecified	Alphaproteobacteria bacterium	7
+other/unspecified	Blautia	7
+other/unspecified	Calcarina hispida	7
+other/unspecified	Candidatus Moeniiplasma glomeromycotorum	7
+other/unspecified	Chlorella variabilis	7
+other/unspecified	Coleoptera	7
+other/unspecified	Dendrolagus lumholtzi	7
+other/unspecified	Echovirus E30	7
+other/unspecified	Epinephelus coioides	7
+other/unspecified	Erinaceus europaeus	7
+other/unspecified	Eubacteriales bacterium	7
+other/unspecified	Gigantidas childressi	7
+other/unspecified	Haematococcus rubicundus	7
+other/unspecified	Hathewaya proteolytica	7
+other/unspecified	Ipomoea batatas	7
+other/unspecified	Lasiorhinus latifrons	7
+other/unspecified	Microviricetes	7
+other/unspecified	Nitrospira sp.	7
+other/unspecified	Panicum virgatum	7
+other/unspecified	Paslahepevirus balayani	7
+other/unspecified	Rotavirus A	7
+other/unspecified	Rusa unicolor	7
+other/unspecified	Stigmatella aurantiaca	7
+other/unspecified	Sus	7
+other/unspecified	Thalassiosira punctigera	7
+other/unspecified	Verrucomicrobiota	7
+other/unspecified	Xanthoparmelia camtschadalis	7
+other/unspecified	Xanthoparmelia coloradoensis	7
+other/unspecified	ammonia-oxidizing enrichment culture	7
+other/unspecified	biosolids	7
+other/unspecified	crude oil	7
+other/unspecified	enterovirus D68	7
+other/unspecified	salt	7
+other/unspecified	Abutilon fruticosum	6
+other/unspecified	Alphatorquevirus	6
+other/unspecified	Ancylonema sp.	6
+other/unspecified	Apis cerana	6
+other/unspecified	Arthrospira	6
+other/unspecified	Atractylodes lancea	6
+other/unspecified	Axis porcinus	6
+other/unspecified	Bathymodiolus septemdierum	6
+other/unspecified	Betapapillomavirus	6
+other/unspecified	Bifidobacterium animalis	6
+other/unspecified	Bison priscus	6
+other/unspecified	Bittarella massiliensis (ex Durand et al. 2017)	6
+other/unspecified	Borrelia recurrentis	6
+other/unspecified	Brucella melitensis B115	6
+other/unspecified	Brucella melitensis F15/06-7	6
+other/unspecified	Caliacis cf. nutans	6
+other/unspecified	Calotriton asper	6
+other/unspecified	Camellia chekiangoleosa	6
+other/unspecified	Candidatus Aenigmatarchaeota archaeon	6
+other/unspecified	Candidatus Walczuchella monophlebidarum	6
+other/unspecified	Cercopithecus mona	6
+other/unspecified	Cercopithecus nictitans	6
+other/unspecified	Cervus albirostris	6
+other/unspecified	Chlorella sorokiniana	6
+other/unspecified	Chlorella virus	6
+other/unspecified	Clostridium sp.	6
+other/unspecified	Crassvirales	6
+other/unspecified	Cucumis sativus	6
+other/unspecified	Dermacentor steini	6
+other/unspecified	Dipterophagus daci	6
+other/unspecified	Elaphurus davidianus	6
+other/unspecified	Enterobacteriaceae bacterium	6
+other/unspecified	Enterococcus mundtii	6
+other/unspecified	Eriobotrya japonica	6
+other/unspecified	Eunicella gazella	6
+other/unspecified	Lachnospiraceae bacterium A2	6
+other/unspecified	Lachnospiraceae bacterium A4	6
+other/unspecified	Lactobacillus acidophilus	6
+other/unspecified	Lactobacillus johnsonii	6
+other/unspecified	Lactobacillus sp.	6
+other/unspecified	Larimichthys crocea	6
+other/unspecified	Ligia exotica	6
+other/unspecified	Lipoptena cervi	6
+other/unspecified	Marmota marmota	6
+other/unspecified	Measles morbillivirus	6
+other/unspecified	Mediterraneibacter torques	6
+other/unspecified	Methanobrevibacter sp. YE315	6
+other/unspecified	Miniopterus inflatus	6
+other/unspecified	Monoraphidium sp. QLZ-3	6
+other/unspecified	Montipora aequituberculata	6
+other/unspecified	Moringa oleifera	6
+other/unspecified	Nocardioides	6
+other/unspecified	Pelomyxa schiedti	6
+other/unspecified	Perimyotis subflavus	6
+other/unspecified	Petauroides volans	6
+other/unspecified	Phasivirus phasiense	6
+other/unspecified	Piromyces sp. E2	6
+other/unspecified	Pistacia terebinthus	6
+other/unspecified	Psammosilene tunicoides	6
+other/unspecified	Rhipicephalus sanguineus	6
+other/unspecified	Rhipicephalus sp.	6
+other/unspecified	Rhizoplaca polymorpha	6
+other/unspecified	Rimicaris exoculata	6
+other/unspecified	Solidesulfovibrio magneticus	6
+other/unspecified	Tenacibaculum maritimum	6
+other/unspecified	Thylogale stigmatica	6
+other/unspecified	Trisopterus minutus	6
+other/unspecified	Vombatus ursinus	6
+other/unspecified	Xanthoparmelia neocumberlandia	6
+other/unspecified	algal bloom	6
+other/unspecified	gas well	6
+other/unspecified	psyllid	6
+other/unspecified	Actinomycetota bacterium	5
+other/unspecified	Azolla caroliniana	5
+other/unspecified	Banana bunchy top virus	5
+other/unspecified	Bifidobacterium pseudolongum	5
+other/unspecified	Blautia pseudococcoides	5
+other/unspecified	Brassica rapa subsp. chinensis	5
+other/unspecified	Candidatus Brocadia sp.	5
+other/unspecified	Candidatus Liberibacter solanacearum	5
+other/unspecified	Candidatus Lokiarchaeum ossiferum	5
+other/unspecified	Candidatus Phytoplasma vitis	5
+other/unspecified	Candidatus Scalindua sp.	5
+other/unspecified	Cinara cuneomaculata	5
+other/unspecified	Clostridiales bacterium	5
+other/unspecified	Clostridium	5
+other/unspecified	Connochaetes taurinus	5
+other/unspecified	Corynebacterium simulans	5
+other/unspecified	Cucumis melo	5
+other/unspecified	Cytomegalovirus	5
+other/unspecified	Dehalococcoides mccartyi	5
+other/unspecified	Dermacentor silvarum	5
+other/unspecified	Dialister invisus	5
+other/unspecified	Duncaniella dubosii	5
+other/unspecified	Enterobacteriaceae	5
+other/unspecified	Faucicola osloensis	5
+other/unspecified	Fusobacterium ulcerans	5
+other/unspecified	Halichondria panicea	5
+other/unspecified	Hippopotamus amphibius	5
+other/unspecified	Hydropotes inermis	5
+other/unspecified	Ixodes ovatus	5
+other/unspecified	Kluyveromyces marxianus	5
+other/unspecified	Lachnospiraceae bacterium	5
+other/unspecified	Lactococcus	5
+other/unspecified	Lasallia pustulata	5
+other/unspecified	Luteitalea pratensis	5
+other/unspecified	Macropus fuliginosus	5
+other/unspecified	Mammarenavirus chapareense	5
+other/unspecified	Martes foina	5
+other/unspecified	Mastomys erythroleucus	5
+other/unspecified	Micrococcus luteus	5
+other/unspecified	Muntiacus reevesi	5
+other/unspecified	Murine mastadenovirus B	5
+other/unspecified	Norovirus 06-AV-9/2006/GII.P7/GII.6	5
+other/unspecified	Norovirus GII	5
+other/unspecified	Notamacropus rufogriseus	5
+other/unspecified	Nyctereutes procyonoides	5
+other/unspecified	Ornithomya avicularia	5
+other/unspecified	Phoca vitulina	5
+other/unspecified	Phocaeicola coprocola	5
+other/unspecified	Pinellia ternata	5
+other/unspecified	Prasinovirus	5
+other/unspecified	Prevotella sp. MSX73	5
+other/unspecified	Prevotella sp. Rep29	5
+other/unspecified	Pseudochirops archeri	5
+other/unspecified	Rhizoplaca porteri	5
+other/unspecified	Rhizopus microsporus	5
+other/unspecified	Roseburia inulinivorans	5
+other/unspecified	Rugalucina vietnamica	5
+other/unspecified	Ruminococcus bromii	5
+other/unspecified	Salmonella enterica subsp. enterica serovar Typhi	5
+other/unspecified	Setaria viridis	5
+other/unspecified	Trichoplax sp. H2	5
+other/unspecified	Veillonella parvula	5
+other/unspecified	Wolbachia pipientis	5
+other/unspecified	Xanthomonas campestris	5
+other/unspecified	biochar	5
+other/unspecified	food waste	5
+other/unspecified	rhizoplane	5
+other/unspecified	stomach	5
+other/unspecified	uncultured crAssphage	5
+other/unspecified	Anisomitus miae	4
+other/unspecified	Apodemus flavicollis	4
+other/unspecified	Bacteroides caccae	4
+other/unspecified	Bacteroides cellulosilyticus	4
+other/unspecified	Bacteroides stercoris	4
+other/unspecified	Bergerden gammacytorhabdovirus 1	4
+other/unspecified	Bifidobacterium longum	4
+other/unspecified	Blautia obeum	4
+other/unspecified	Candidatus Accumulibacter phosphatis	4
+other/unspecified	Candidatus Amarolinea aalborgensis	4
+other/unspecified	Candidatus Argoarchaeum ethanivorans	4
+other/unspecified	Candidatus Bathyarchaeota archaeon	4
+other/unspecified	Candidatus Brocadia fulgida	4
+other/unspecified	Candidatus Phytoplasma zeae	4
+other/unspecified	Cercopithecus cephus	4
+other/unspecified	Cercopithecus erythrotis	4
+other/unspecified	Cervus nippon	4
+other/unspecified	Chlorocebus pygerythrus	4
+other/unspecified	Chloroflexota bacterium	4
+other/unspecified	Chondrostoma nasus	4
+other/unspecified	Citrobacter freundii	4
+other/unspecified	Clostridium kluyveri	4
+other/unspecified	Corynebacterium macginleyi	4
+other/unspecified	Corynebacterium ureicelerivorans	4
+other/unspecified	Coxiella-like endosymbiont	4
+other/unspecified	Cucumber mosaic virus	4
+other/unspecified	Cucurbita moschata	4
+other/unspecified	Cylindrotermes parvignathus	4
+other/unspecified	Danafungia horrida	4
+other/unspecified	Dehalogenimonas sp.	4
+other/unspecified	Enterobacter asburiae	4
+other/unspecified	Enterocloster bolteae	4
+other/unspecified	Eshraghiella crossota	4
+other/unspecified	Euanodontia ovum	4
+other/unspecified	Flavobacterium sp.	4
+other/unspecified	Gorilla gorilla	4
+other/unspecified	Haematococcus lacustris	4
+other/unspecified	Haliaeetus albicilla	4
+other/unspecified	Hipposideros jonesi	4
+other/unspecified	Ifremeria nautilei	4
+other/unspecified	Ixodes sinensis	4
+other/unspecified	Klebsiella oxytoca	4
+other/unspecified	Lactococcus cremoris	4
+other/unspecified	Loripes clausus	4
+other/unspecified	Loripinus fragilis	4
+other/unspecified	Loxodonta africana	4
+other/unspecified	Lutra lutra	4
+other/unspecified	Manihot esculenta	4
+other/unspecified	Mastadenovirus	4
+other/unspecified	Mesotoga infera	4
+other/unspecified	Methanosarcinaceae	4
+other/unspecified	Methyloversatilis discipulorum	4
+other/unspecified	Microbacterium barkeri	4
+other/unspecified	Mumps orthorubulavirus	4
+other/unspecified	Muribaculum	4
+other/unspecified	Musa ABB Group	4
+other/unspecified	Mylodon darwinii	4
+other/unspecified	Myxococcota	4
+other/unspecified	Osphranter rufus	4
+other/unspecified	Pepper mild mottle virus	4
+other/unspecified	Perilla frutescens	4
+other/unspecified	Petaurus norfolcensis	4
+other/unspecified	Phaeodactylum tricornutum	4
+other/unspecified	Prevotella sp. CAG:732	4
+other/unspecified	Priestia megaterium	4
+other/unspecified	Prunus persica	4
+other/unspecified	Pseudocheirus peregrinus	4
+other/unspecified	Pseudomonadota bacterium	4
+other/unspecified	Pseudomonas plecoglossicida	4
+other/unspecified	Psychrobacter	4
+other/unspecified	Rhipicephalus haemaphysaloides	4
+other/unspecified	Rhizoplaca melanophthalma	4
+other/unspecified	Rhizoplaca parilis	4
+other/unspecified	Rhizoplaca shushanii	4
+other/unspecified	Rhodopseudomonas sp. SX2	4
+other/unspecified	Scleracis cf. guadalupensis	4
+other/unspecified	Scleracis sp.	4
+other/unspecified	Spermophilus citellus	4
+other/unspecified	Spongia sp. 1 158 KU-2008	4
+other/unspecified	Streptococcus gordonii str. Challis substr. CH1	4
+other/unspecified	Sycanus bifidus	4
+other/unspecified	Trichodesmium erythraeum IMS101	4
+other/unspecified	Ursus arctos	4
+other/unspecified	Verrucomicrobiota bacterium	4
+other/unspecified	Wallabia bicolor	4
+other/unspecified	Xanthoparmelia cumberlandia	4
+other/unspecified	Xanthoparmelia dierythra	4
+other/unspecified	Xanthoparmelia mexicana	4
+other/unspecified	Xanthoparmelia stenophylla	4
+other/unspecified	[Bacteroides] pectinophilus	4
+other/unspecified	gamma proteobacterium symbiont of Ctena orbiculata	4
+other/unspecified	nitrifying bacterium enrichment culture	4
+other/unspecified	nitrous oxide-reducing enrichment culture	4
+other/unspecified	salt mine	4
+other/unspecified	salt pan	4
+other/unspecified	sugarcane bagasse	4
+other/unspecified	tar pit	4
+other/unspecified	Acacia mangium	3
+other/unspecified	Acidobacteriota	3
+other/unspecified	Aepyceros melampus	3
+other/unspecified	Aeromicrobium terrae	3
+other/unspecified	Agropyron desertorum	3
+other/unspecified	Alistipes finegoldii	3
+other/unspecified	Allochrocebus lhoesti	3
+other/unspecified	Alviniconcha boucheti	3
+other/unspecified	Alviniconcha kojimai	3
+other/unspecified	Alviniconcha strummeri	3
+other/unspecified	Amitermes californicus	3
+other/unspecified	Anthozoaphila gnarlus	3
+other/unspecified	Arenaria interpres	3
+other/unspecified	Arma custos	3
+other/unspecified	Ascomycota	3
+other/unspecified	Aves	3
+other/unspecified	Azolla mexicana	3
+other/unspecified	Azolla microphylla	3
+other/unspecified	Azolla rubra	3
+other/unspecified	Bacteroides finegoldii	3
+other/unspecified	Bacteroides fluxus	3
+other/unspecified	Bacteroides sp.	3
+other/unspecified	Bacteroides sp. CAG:927	3
+other/unspecified	Bactrocera neohumeralis	3
+other/unspecified	Balaenoptera borealis	3
+other/unspecified	Basidiomycota	3
+other/unspecified	Betacoronavirus	3
+other/unspecified	Betaproteobacteria	3
+other/unspecified	Betula pendula	3
+other/unspecified	Blicca bjoerkna	3
+other/unspecified	Bombyx mori	3
+other/unspecified	Bos frontalis	3
+other/unspecified	Branta leucopsis	3
+other/unspecified	Brassica juncea	3
+other/unspecified	Cairina moschata	3
+other/unspecified	Candida tropicalis	3
+other/unspecified	Candidatus Brocadia sinica	3
+other/unspecified	Candidatus Heimdallarchaeota archaeon	3
+other/unspecified	Candidatus Heimdallarchaeum endolithica	3
+other/unspecified	Candidatus Kuenenia sp.	3
+other/unspecified	Candidatus Liberibacter asiaticus	3
+other/unspecified	Candidatus Nitrospira nitrosa	3
+other/unspecified	Candidatus Rokuibacteriota	3
+other/unspecified	Candidatus Solirubrobacter pratensis	3
+other/unspecified	Candidatus Thiobius zoothamnicola	3
+other/unspecified	Canis sp.	3
+other/unspecified	Carassius auratus cantonensis	3
+other/unspecified	Cervus canadensis canadensis	3
+other/unspecified	Chlamydia	3
+other/unspecified	Chlamydia abortus	3
+other/unspecified	Chloroflexota	3
+other/unspecified	Ciconia ciconia	3
+other/unspecified	Cinara pseudotaxifoliae	3
+other/unspecified	Cinara pseudotsugae	3
+other/unspecified	Circus aeruginosus	3
+other/unspecified	Cladonia	3
+other/unspecified	Cladonia arbuscula	3
+other/unspecified	Cladonia stygia	3
+other/unspecified	Clostridium beijerinckii NCIMB 8052	3
+other/unspecified	Corynebacterium pseudogenitalium	3
+other/unspecified	Cricetus cricetus	3
+other/unspecified	Crocodylus moreletii	3
+other/unspecified	Ctenocephalides orientis	3
+other/unspecified	Cyanobacteriota	3
+other/unspecified	Cyclotella cryptica	3
+other/unspecified	DAMO enrichment culture	3
+other/unspecified	Daemvirus	3
+other/unspecified	Delftia tsuruhatensis	3
+other/unspecified	Dentispicotermes sp.	3
+other/unspecified	Dermacentor marginatus	3
+other/unspecified	Dermacentor sinicus	3
+other/unspecified	Diaphanosoma celebensis	3
+other/unspecified	Dolichorhinotermes longilabius	3
+other/unspecified	Dorylus sp.	3
+other/unspecified	Drepanotermes perniger	3
+other/unspecified	Dromaius novaehollandiae	3
+other/unspecified	Drosophila sp. (in: flies)	3
+other/unspecified	Durganda rubra	3
+other/unspecified	Dysidea avara	3
+other/unspecified	Dysosmobacter welbionis	3
+other/unspecified	Echovirus E11	3
+other/unspecified	Echovirus E6	3
+other/unspecified	Egretta	3
+other/unspecified	Eliomys quercinus	3
+other/unspecified	Elysia papillosa	3
+other/unspecified	Enterobacter hormaechei	3
+other/unspecified	Eriocheir sinensis	3
+other/unspecified	Erwinia amylovora	3
+other/unspecified	Erythroparvovirus	3
+other/unspecified	Esox lucius	3
+other/unspecified	Eukaryota sp. AJZ1	3
+other/unspecified	Falco tinnunculus	3
+other/unspecified	Fusarium venenatum	3
+other/unspecified	Gemmatimonadales bacterium	3
+other/unspecified	Gemmatimonadota bacterium	3
+other/unspecified	Glis glis	3
+other/unspecified	Haemaphysalis qinghaiensis	3
+other/unspecified	Halichoerus grypus	3
+other/unspecified	Hassallia sp.	3
+other/unspecified	Hominimerdicola alba	3
+other/unspecified	Hyphomicrobium	3
+other/unspecified	Influenza B virus	3
+other/unspecified	Ixodes persulcatus	3
+other/unspecified	Klebsiella pneumoniae phage	3
+other/unspecified	Lacerta agilis	3
+other/unspecified	Lachnospira eligens	3
+other/unspecified	Lacrimispora saccharolytica	3
+other/unspecified	Latilactobacillus	3
+other/unspecified	Leptogorgia sarmentosa	3
+other/unspecified	Lutjanus erythropterus	3
+other/unspecified	Lymnaea stagnalis	3
+other/unspecified	Lynx lynx	3
+other/unspecified	Magnolia patungensis	3
+other/unspecified	Martes martes	3
+other/unspecified	Mayaro virus	3
+other/unspecified	Mentha alphacytorhabdovirus 2	3
+other/unspecified	Mesoplodon bidens	3
+other/unspecified	Methanobrevibacter sp.	3
+other/unspecified	Methanothrix sp.	3
+other/unspecified	Microtus arvalis	3
+other/unspecified	Mucoromycota	3
+other/unspecified	Musa acuminata	3
+other/unspecified	Mustela eversmannii	3
+other/unspecified	Mycobacterium	3
+other/unspecified	Myodes glareolus	3
+other/unspecified	Neisseriaceae bacterium	3
+other/unspecified	Neoassilina ammonoides	3
+other/unspecified	Nocardioides euryhalodurans	3
+other/unspecified	Norovirus	3
+other/unspecified	Notamacropus agilis	3
+other/unspecified	Notamacropus eugenii	3
+other/unspecified	Notamacropus parma	3
+other/unspecified	Nyctalus noctula	3
+other/unspecified	Ondatra zibethicus	3
+other/unspecified	Onychogalea unguifera	3
+other/unspecified	Orthoflavivirus	3
+other/unspecified	Orthognathotermes aduncus	3
+other/unspecified	Oryzaephilus surinamensis	3
+other/unspecified	Pahabengkakia piliceps	3
+other/unspecified	Pan paniscus	3
+other/unspecified	Panthera leo	3
+other/unspecified	Pasteurella multocida	3
+other/unspecified	Pegivirus	3
+other/unspecified	Peltigera leucophlebia	3
+other/unspecified	Phocoena phocoena	3
+other/unspecified	Phylloscopus collybita	3
+other/unspecified	Planicapritermes sp.	3
+other/unspecified	Pocillopora acuta	3
+other/unspecified	Prevotella sp.	3
+other/unspecified	Proteus mirabilis	3
+other/unspecified	Pseudoblepharisma tenue	3
+other/unspecified	Psilocybe caerulipes	3
+other/unspecified	Ramlibacter sp.	3
+other/unspecified	Rana temporaria	3
+other/unspecified	Rhabdoviridae sp.	3
+other/unspecified	Rhinoceros unicornis	3
+other/unspecified	Rhinovirus A	3
+other/unspecified	Rhizoplaca cf. porteri	3
+other/unspecified	Rhodococcus pyridinivorans	3
+other/unspecified	Rothia mucilaginosa	3
+other/unspecified	Ruthenibacterium lactatiformans	3
+other/unspecified	Scardinius erythrophthalmus	3
+other/unspecified	Schistosoma japonicum	3
+other/unspecified	Sciurus vulgaris	3
+other/unspecified	Scolopax rusticola	3
+other/unspecified	Sedum atratum	3
+other/unspecified	Solanum berthaultii	3
+other/unspecified	Solanum boliviense	3
+other/unspecified	Solanum brevicaule	3
+other/unspecified	Solanum bulbocastanum	3
+other/unspecified	Solanum candolleanum	3
+other/unspecified	Solanum capsicibaccatum	3
+other/unspecified	Solanum cardiophyllum	3
+other/unspecified	Solanum chacoense	3
+other/unspecified	Solanum doddsii	3
+other/unspecified	Solanum ehrenbergii	3
+other/unspecified	Solanum immite	3
+other/unspecified	Solanum kurtzianum	3
+other/unspecified	Solanum laxissimum	3
+other/unspecified	Solanum lignicaule	3
+other/unspecified	Solanum malmeanum	3
+other/unspecified	Solanum morelliforme	3
+other/unspecified	Solanum pinnatisectum	3
+other/unspecified	Solanum polyadenium	3
+other/unspecified	Solanum raphanifolium	3
+other/unspecified	Solanum stenophyllidium	3
+other/unspecified	Solanum trifidum	3
+other/unspecified	Solanum venturii	3
+other/unspecified	Solanum verrucosum	3
+other/unspecified	Solirubrobacter ginsenosidimutans	3
+other/unspecified	Solobacterium moorei	3
+other/unspecified	Sphingomonas	3
+other/unspecified	Sphingomonas caseinilytica	3
+other/unspecified	Sphingomonas edaphi	3
+other/unspecified	Sphingomonas sediminicola	3
+other/unspecified	Squalius cephalus	3
+other/unspecified	Strix uralensis	3
+other/unspecified	Stutzerimonas stutzeri	3
+other/unspecified	Syncerus caffer	3
+other/unspecified	Tachyglossus aculeatus	3
+other/unspecified	Tamandua mexicana	3
+other/unspecified	Testudo hermanni boettgeri	3
+other/unspecified	Tettigades chilensis	3
+other/unspecified	Thalassiosira antarctica	3
+other/unspecified	Thermococcus sp.	3
+other/unspecified	Thermodesulfobacteriota	3
+other/unspecified	Thermomonas sp.	3
+other/unspecified	Thermoproteota archaeon	3
+other/unspecified	Tribolium confusum	3
+other/unspecified	Trichosurus caninus	3
+other/unspecified	Tupaia belangeri	3
+other/unspecified	Uroviricota	3
+other/unspecified	Veillonella dispar	3
+other/unspecified	Vibrio alginolyticus	3
+other/unspecified	Vibrio cholerae	3
+other/unspecified	Vicugna pacos	3
+other/unspecified	Vulcanimicrobiota bacterium	3
+other/unspecified	Whispovirus xiabaidian	3
+other/unspecified	Xanthomonas euvesicatoria	3
+other/unspecified	Xanthonycticebus pygmaeus	3
+other/unspecified	Xanthoparmelia ajoensis	3
+other/unspecified	Xanthoparmelia plittii	3
+other/unspecified	Xanthoparmelia sublaevis	3
+other/unspecified	avian paramyxovirus 1	3
+other/unspecified	cassava Congo cheravirus	3
+other/unspecified	ear	3
+other/unspecified	rhinovirus A12	3
+other/unspecified	rhinovirus C20	3
+other/unspecified	unclassified Caudoviricetes	3
+other/unspecified	'Camptotheca acuminata' phytoplasma	2
+other/unspecified	Abditibacteriota	2
+other/unspecified	Abramis brama	2
+other/unspecified	Acanalonia conica	2
+other/unspecified	Acanthamoeba castellanii	2
+other/unspecified	Acarus siro	2
+other/unspecified	Acidaminococcus fermentans	2
+other/unspecified	Acidaminococcus intestini	2
+other/unspecified	Acinetobacter beijerinckii	2
+other/unspecified	Acorhinotermes subfusciceps	2
+other/unspecified	Acromyrmex echinatior	2
+other/unspecified	Actinia equina	2
+other/unspecified	Aedes japonicus	2
+other/unspecified	Aedes sp. BOLD:ABY6840	2
+other/unspecified	Aedes vexans	2
+other/unspecified	Agarivorans albus	2
+other/unspecified	Alteromonas stellipolaris	2
+other/unspecified	Amblyomma javanense	2
+other/unspecified	Amblyomma testudinarium	2
+other/unspecified	Anaerolineaceae bacterium	2
+other/unspecified	Anodontia alba	2
+other/unspecified	Anoplotermes banksi	2
+other/unspecified	Apodemus sylvaticus	2
+other/unspecified	Apostichopus japonicus	2
+other/unspecified	Arctocephalus galapagoensis	2
+other/unspecified	Ardea cinerea	2
+other/unspecified	Argas persicus	2
+other/unspecified	Asparagales alphanucleorhabdovirus 1	2
+other/unspecified	Axinella corrugata	2
+other/unspecified	Babesia sp.	2
+other/unspecified	Bacillus sp. (in: firmicutes)	2
+other/unspecified	Bacteroides faecis	2
+other/unspecified	Bacteroides sp. 2_1_22	2
+other/unspecified	Bacteroides sp. 2_2_4	2
+other/unspecified	Bacteroides xylanisolvens	2
+other/unspecified	Bacteroidia bacterium	2
+other/unspecified	Bactrocera dorsalis	2
+other/unspecified	Banana bract mosaic virus	2
+other/unspecified	Barnesiella intestinihominis	2
+other/unspecified	Beak and feather disease virus	2
+other/unspecified	Betapolyomavirus secuhominis	2
+other/unspecified	Betatorquevirus	2
+other/unspecified	Bifidobacterium pseudocatenulatum	2
+other/unspecified	Bilophila wadsworthia	2
+other/unspecified	Bolivina spissa	2
+other/unspecified	Bradypus variegatus	2
+other/unspecified	Brevinema andersonii	2
+other/unspecified	Bubo bubo	2
+other/unspecified	Buchnera aphidicola (Aphis aurantii)	2
+other/unspecified	Buchnera aphidicola (Astegopteryx bambusae)	2
+other/unspecified	Buchnera aphidicola (Kurisakia onigurumii)	2
+other/unspecified	Buchnera aphidicola (Periphyllus koelreuteriae)	2
+other/unspecified	Buchnera aphidicola (Pseudoregma panicola)	2
+other/unspecified	Buckwheat alphacytorhabdovirus	2
+other/unspecified	Bufo bufo	2
+other/unspecified	Burkholderia pseudomallei	2
+other/unspecified	Calidris pusilla	2
+other/unspecified	Callistephanus simplex	2
+other/unspecified	Calyx sp.	2
+other/unspecified	Candidatus Accumulibacter vicinus	2
+other/unspecified	Candidatus Aquirickettsiella gammari	2
+other/unspecified	Candidatus Arthromitus sp. SFB-turkey	2
+other/unspecified	Candidatus Iainarchaeum sp.	2
+other/unspecified	Candidatus Jettenia sp.	2
+other/unspecified	Candidatus Mycobacterium methanotrophicum	2
+other/unspecified	Candidatus Nitrosocosmicus sp.	2
+other/unspecified	Candidatus Nitrosoglobus sp.	2
+other/unspecified	Candidatus Pacearchaeota archaeon	2
+other/unspecified	Candidatus Rhabdochlamydia sp. T3358	2
+other/unspecified	Candidatus Thiothrix phosphatis	2
+other/unspecified	Candidatus Woesearchaeota archaeon	2
+other/unspecified	Canis lupus arctos	2
+other/unspecified	Capreolus capreolus	2
+other/unspecified	Capsicum orthotospovirus 1	2
+other/unspecified	Carassius gibelio	2
+other/unspecified	Carijoa riisei	2
+other/unspecified	Carios vespertilionis	2
+other/unspecified	Carpoglyphus lactis	2
+other/unspecified	Cassidulina limbata	2
+other/unspecified	Castor fiber	2
+other/unspecified	Catenibacterium mitsuokai	2
+other/unspecified	Cavatidens bullula	2
+other/unspecified	Ceratotherium simum	2
+other/unspecified	Cercopithecus pogonias	2
+other/unspecified	Cetobacterium somerae	2
+other/unspecified	Chlamydomonas reinhardtii	2
+other/unspecified	Chloris chloris	2
+other/unspecified	Chlorobium sp.	2
+other/unspecified	Choloepus hoffmanni	2
+other/unspecified	Chondracanthus chamissoi	2
+other/unspecified	Chromis notata	2
+other/unspecified	Chrysococcyx basalis	2
+other/unspecified	Chrysogorgia sp.	2
+other/unspecified	Chrysoperla externa	2
+other/unspecified	Cimex lectularius	2
+other/unspecified	Cinachyrella alloclada	2
+other/unspecified	Cinara cf. splendens/pseudotsugae 3390	2
+other/unspecified	Cinara curtihirsuta	2
+other/unspecified	Cinara curvipes	2
+other/unspecified	Cinara laricifoliae	2
+other/unspecified	Cinara piceae	2
+other/unspecified	Circus cyaneus	2
+other/unspecified	Citrifermentans bemidjiense	2
+other/unspecified	Citrus pararetrovirus	2
+other/unspecified	Cladonia oricola	2
+other/unspecified	Cladonia rangiferina subsp. rangiferina	2
+other/unspecified	Clostridium nigeriense	2
+other/unspecified	Clostridium paraputrificum	2
+other/unspecified	Clostridium sp. D5	2
+other/unspecified	Clostridium sporogenes	2
+other/unspecified	Coleofasciculus chthonoplastes	2
+other/unspecified	Collinsella stercoris	2
+other/unspecified	Columba livia	2
+other/unspecified	Constrictotermes cyphergaster	2
+other/unspecified	Cornitermes pugnax	2
+other/unspecified	Corvus frugilegus	2
+other/unspecified	Coxiella burnetii	2
+other/unspecified	Crenetermes albotarsalis	2
+other/unspecified	Crepititermes verruculosus	2
+other/unspecified	Crocidura suaveolens	2
+other/unspecified	Crucivirus sp.	2
+other/unspecified	Cryptotympana atrata	2
+other/unspecified	Cucumis melo var. cantalupo	2
+other/unspecified	Cutibacterium modestum	2
+other/unspecified	Cycloseris costulata	2
+other/unspecified	Cylindrotermes flangiatus	2
+other/unspecified	Dactylopsila trivirgata	2
+other/unspecified	Deconica caespitosa	2
+other/unspecified	Deconica coprophila	2
+other/unspecified	Deconica sp.	2
+other/unspecified	Deltaproteobacteria	2
+other/unspecified	Dendrocopos major	2
+other/unspecified	Dependoparvovirus	2
+other/unspecified	Dermacentor niveus	2
+other/unspecified	Desulfovibrio sp.	2
+other/unspecified	Dethiosulfovibrio peptidovorans	2
+other/unspecified	Dicyema sp. Vostok-2010	2
+other/unspecified	Didelphis marsupialis	2
+other/unspecified	Dorea formicigenerans	2
+other/unspecified	Dorea longicatena	2
+other/unspecified	Dromaeolus sp. ZM-2022	2
+other/unspecified	Elizabethkingia miricola	2
+other/unspecified	Ellisella sp.	2
+other/unspecified	Endomicrobiaceae bacterium	2
+other/unspecified	Entamoeba gingivalis	2
+other/unspecified	Enterocloster clostridioformis	2
+other/unspecified	Enterococcus lacertideformus	2
+other/unspecified	Eocanthecona furcellata	2
+other/unspecified	Escherichia coli O25b:H4-ST131	2
+other/unspecified	Eubacteriales	2
+other/unspecified	Eubacterium ventriosum	2
+other/unspecified	Eunicella verrucosa	2
+other/unspecified	Ficus alphacytorhabdovirus 2	2
+other/unspecified	Firmicutes bacterium CAG:176	2
+other/unspecified	Flavobacterium sp. A3	2
+other/unspecified	Fungia fungites	2
+other/unspecified	Gaiella occulta	2
+other/unspecified	Gastrodia elata	2
+other/unspecified	Gazella subgutturosa	2
+other/unspecified	Gemmatimonadota	2
+other/unspecified	Geobacter	2
+other/unspecified	Gigantidas haimaensis	2
+other/unspecified	Globobulimina pacifica	2
+other/unspecified	Gomesa flexuosa	2
+other/unspecified	Gymnocephalus cernua	2
+other/unspecified	Haemaphysalis concinna	2
+other/unspecified	Haemaphysalis cornigera	2
+other/unspecified	Haemaphysalis doenitzi	2
+other/unspecified	Haemaphysalis punctata	2
+other/unspecified	Haemaphysalis tibetensis	2
+other/unspecified	Haemaphysalis yeni	2
+other/unspecified	Haematococcus sp.	2
+other/unspecified	Halapricum salinum	2
+other/unspecified	Halothiobacillus sp.	2
+other/unspecified	Hemidactylus frenatus	2
+other/unspecified	Hepatitis B virus	2
+other/unspecified	Hepatitis E virus type 3	2
+other/unspecified	Hirudinaria manillensis	2
+other/unspecified	Holdemania filiformis	2
+other/unspecified	Hungatella hathewayi	2
+other/unspecified	Hungatella sp.	2
+other/unspecified	Hyalomma asiaticum	2
+other/unspecified	Hyalomma scupense	2
+other/unspecified	Hydrogenophaga	2
+other/unspecified	Hymeniacidon perlevis	2
+other/unspecified	Ikanecator primus	2
+other/unspecified	Issus coleoptratus	2
+other/unspecified	Ixodes acutitarsus	2
+other/unspecified	Ixodes granulatus	2
+other/unspecified	Klebsiella aerogenes	2
+other/unspecified	Laburnum deltanucleorhabdovirus 1	2
+other/unspecified	Lachnospiraceae bacterium 10-1	2
+other/unspecified	Lactococcus phage P680	2
+other/unspecified	Lagenorhynchus albirostris	2
+other/unspecified	Lagopus muta	2
+other/unspecified	Laminaria abyssalis	2
+other/unspecified	Lepagella	2
+other/unspecified	Lepidoglyphus destructor	2
+other/unspecified	Leptogorgia virgulata	2
+other/unspecified	Leptopilina boulardi	2
+other/unspecified	Leptopilina heterotoma	2
+other/unspecified	Limnospira maxima	2
+other/unspecified	Lophocebus albigena	2
+other/unspecified	Lophuromys chrysopus	2
+other/unspecified	Lucina adansoni	2
+other/unspecified	Lucina grandinata	2
+other/unspecified	Lucinella divaricata	2
+other/unspecified	Luidia clathrata	2
+other/unspecified	Magnolia fordiana var. calcarea	2
+other/unspecified	Magnolia insignis	2
+other/unspecified	Magnolia zhengyiana	2
+other/unspecified	Megamonas funiformis	2
+other/unspecified	Meimuna opalifera	2
+other/unspecified	Melanomys caliginosus	2
+other/unspecified	Methanobacterium sp.	2
+other/unspecified	Methanomassiliicoccaceae archaeon	2
+other/unspecified	Methanosarcina sp.	2
+other/unspecified	Methylomonas sp.	2
+other/unspecified	Meyerozyma guilliermondii	2
+other/unspecified	Ministeria vibrans ATCC 50519	2
+other/unspecified	Moschus moschiferus	2
+other/unspecified	Muricea pendula	2
+other/unspecified	Mustela nivalis	2
+other/unspecified	Mycobacteroides chelonae	2
+other/unspecified	Myrmica rubra	2
+other/unspecified	Myrmica sabuleti	2
+other/unspecified	Neamphius huxleyi	2
+other/unspecified	Neocapritermes araguaia	2
+other/unspecified	Neocapritermes talpa	2
+other/unspecified	Neosalanx taihuensis	2
+other/unspecified	Nephromyces sp. ex Molgula occidentalis	2
+other/unspecified	Nidalia sp.	2
+other/unspecified	Nitrososphaerota	2
+other/unspecified	Nitrospira sp. Nam74	2
+other/unspecified	Nonionella stella	2
+other/unspecified	Nonionellina labradorica	2
+other/unspecified	Norovirus 06-AM-11/2006/GII.4/Yerseke/2006a	2
+other/unspecified	Nucella lapillus	2
+other/unspecified	Odocoileus virginianus	2
+other/unspecified	Odoribacter splanchnicus	2
+other/unspecified	Orthoflavivirus denguei	2
+other/unspecified	Orthognathotermes wheeleri	2
+other/unspecified	Orthohantavirus andesense	2
+other/unspecified	Orthohepacivirus hominis	2
+other/unspecified	Oryza sativa	2
+other/unspecified	Ostrea edulis	2
+other/unspecified	Otis tarda	2
+other/unspecified	Otolemur crassicaudatus	2
+other/unspecified	Ourmiavirus	2
+other/unspecified	Ovis aries musimon	2
+other/unspecified	Papio ursinus	2
+other/unspecified	Parabacteroides johnsonii	2
+other/unspecified	Parabacteroides merdae	2
+other/unspecified	Paramarteilia canceri	2
+other/unspecified	Paraphysoderma sedebokerense	2
+other/unspecified	Parasutterella excrementihominis	2
+other/unspecified	Pea seed-borne mosaic virus	2
+other/unspecified	Peptostreptococcus anaerobius	2
+other/unspecified	Peromyscus coronavirus 2	2
+other/unspecified	Petrusa epilepsis	2
+other/unspecified	Phalacrocorax carbo	2
+other/unspecified	Phodopus sungorus	2
+other/unspecified	Phylloscelis pallescens	2
+other/unspecified	Pigoraptor chileana	2
+other/unspecified	Placogorgia sp.	2
+other/unspecified	Planctomycetota bacterium	2
+other/unspecified	Pogona vitticeps	2
+other/unspecified	Porticoccaceae bacterium	2
+other/unspecified	Prevotella bivia	2
+other/unspecified	Prevotellamassilia timonensis	2
+other/unspecified	Proechimys semispinosus	2
+other/unspecified	Prostephanus truncatus	2
+other/unspecified	Prosthecochloris sp.	2
+other/unspecified	Prunella modularis	2
+other/unspecified	Pseudoalteromonas pernae	2
+other/unspecified	Pseudochirulus herbertensis	2
+other/unspecified	Pseudomonas aeruginosa PA14	2
+other/unspecified	Pseudomonas aeruginosa PACS2	2
+other/unspecified	Pseudomonas koreensis	2
+other/unspecified	Psilocybe aztecorum	2
+other/unspecified	Psilocybe azurescens	2
+other/unspecified	Psilocybe caerulescens	2
+other/unspecified	Psilocybe cubensis	2
+other/unspecified	Psilocybe cyanescens	2
+other/unspecified	Psilocybe hoogshagenii	2
+other/unspecified	Psilocybe sp. AB-2024a	2
+other/unspecified	Psilocybe zapotecorum	2
+other/unspecified	Pyramidobacter piscolens	2
+other/unspecified	Rana dalmatina	2
+other/unspecified	Ranavirus ambystoma1	2
+other/unspecified	Rhabdoviridae	2
+other/unspecified	Rheomys raptor	2
+other/unspecified	Rhinolophus shameli	2
+other/unspecified	Rhipicephalus turanicus	2
+other/unspecified	Rhizobium rosettiformans	2
+other/unspecified	Rhizomucor	2
+other/unspecified	Rhizoplaca cf. idahoensis	2
+other/unspecified	Rhizoplaca idahoensis	2
+other/unspecified	Rhizoplaca melanophthalma subsp. crispa	2
+other/unspecified	Rhizoplaca occulta	2
+other/unspecified	Rickettsia endosymbiont of Dermacentor marginatus	2
+other/unspecified	Romboutsia timonensis	2
+other/unspecified	Roseolovirus	2
+other/unspecified	Rothia dentocariosa	2
+other/unspecified	Ruminococcus sp. CAG:177	2
+other/unspecified	Rupicapra rupicapra	2
+other/unspecified	SAR86 cluster bacterium	2
+other/unspecified	Salmo trutta	2
+other/unspecified	Salmonella bongori	2
+other/unspecified	Salmonella enterica subsp. enterica	2
+other/unspecified	Salmonella enterica subsp. enterica serovar Heidelberg	2
+other/unspecified	Sandalolitha robusta	2
+other/unspecified	Sellimonas intestinalis	2
+other/unspecified	Silvestritermes heyeri	2
+other/unspecified	Solanum acroscopicum	2
+other/unspecified	Solanum gandarillasii	2
+other/unspecified	Solanum huancabambense	2
+other/unspecified	Solanum jamesii	2
+other/unspecified	Solanum medians	2
+other/unspecified	Solanum microdontum	2
+other/unspecified	Solanum mochiquense	2
+other/unspecified	Solanum multiinterruptum	2
+other/unspecified	Solanum neocardenasii	2
+other/unspecified	Solanum neorossii	2
+other/unspecified	Solanum okadae	2
+other/unspecified	Solanum sogarandinum	2
+other/unspecified	Solanum tarnii	2
+other/unspecified	Solanum violaceimarmoratum	2
+other/unspecified	Solanum x blanco-galdosii	2
+other/unspecified	Solirubrobacter	2
+other/unspecified	Sorex alpinus	2
+other/unspecified	Spodoptera frugiperda	2
+other/unspecified	Sporomusa sphaeroides DSM 2875	2
+other/unspecified	Stenotrophomonas	2
+other/unspecified	Stenotrophomonas maltophilia	2
+other/unspecified	Sticta canariensis	2
+other/unspecified	Strix aluco	2
+other/unspecified	Suaeda acuminata	2
+other/unspecified	Subdoligranulum variabile	2
+other/unspecified	Sulfolobus islandicus rod-shaped virus 2	2
+other/unspecified	Sylvia atricapilla	2
+other/unspecified	Synechococcus sp. HK01	2
+other/unspecified	Synechococcus sp. HK02	2
+other/unspecified	Synechococcus sp. HK03	2
+other/unspecified	Synechococcus sp. HK06	2
+other/unspecified	Synechococcus sp. PCC 7002 x Microcystis aeruginosa TAIHU98 coculture	2
+other/unspecified	Tenuirostritermes tenuirostris	2
+other/unspecified	Tephroseris furusei	2
+other/unspecified	Tettigades auropilosa	2
+other/unspecified	Thalasseus sandvicensis	2
+other/unspecified	Thermotomaculum hydrothermale	2
+other/unspecified	Thesea cf. rubra	2
+other/unspecified	Thesea nivea	2
+other/unspecified	Thiopseudomonas	2
+other/unspecified	Thyasira gouldii	2
+other/unspecified	Thymallus arcticus	2
+other/unspecified	Trichlorobacter lovleyi	2
+other/unspecified	Turdus merula	2
+other/unspecified	Tyrophagus putrescentiae	2
+other/unspecified	Vangueria infausta	2
+other/unspecified	Vangueria madagascariensis	2
+other/unspecified	Vangueria pygmaea	2
+other/unspecified	Veillonella atypica	2
+other/unspecified	Vesicular stomatitis virus	2
+other/unspecified	Vibrio parahaemolyticus	2
+other/unspecified	Vibrio ponticus	2
+other/unspecified	Vibrio sp.	2
+other/unspecified	Vipera ursinii	2
+other/unspecified	Vulpes vulpes	2
+other/unspecified	Xylella fastidiosa subsp. multiplex	2
+other/unspecified	Zaire ebolavirus	2
+other/unspecified	Zamenis longissimus	2
+other/unspecified	[Clostridium] piliforme	2
+other/unspecified	[Ruminococcus] lactaris	2
+other/unspecified	adhesive	2
+other/unspecified	animal product	2
+other/unspecified	dinoflagellate	2
+other/unspecified	egg	2
+other/unspecified	hypolithon	2
+other/unspecified	prokaryotic	2
+other/unspecified	unclassified Decacovirus	2
+other/unspecified	unclassified Merbecovirus	2
+other/unspecified	uncultured Cercozoa	2
+other/unspecified	vibrio metagenome HEM_05	2
+other/unspecified	zebrafish	2
+other/unspecified	Abutilon Brazil virus	1
+other/unspecified	Acanalonia bivittata	1
+other/unspecified	Acanthoflata salina	1
+other/unspecified	Acanthogorgia sp.	1
+other/unspecified	Acanthotermes acanthothorax	1
+other/unspecified	Acarospora aff. strigata	1
+other/unspecified	Accipiter nisus	1
+other/unspecified	Accumulibacter sp.	1
+other/unspecified	Acetobacter	1
+other/unspecified	Acetobacter aceti	1
+other/unspecified	Acetobacter ascendens	1
+other/unspecified	Acetobacter cerevisiae	1
+other/unspecified	Acetobacter cibinongensis	1
+other/unspecified	Acetobacter fabarum	1
+other/unspecified	Acetobacter ghanensis	1
+other/unspecified	Acetobacter indonesiensis	1
+other/unspecified	Acetobacter malorum	1
+other/unspecified	Acetobacter nitrogenifigens	1
+other/unspecified	Acetobacteraceae bacterium	1
+other/unspecified	Acetobacterium	1
+other/unspecified	Acetobacterium malicum subsp. dehalogenans	1
+other/unspecified	Achilixius sp. 1-PL2025	1
+other/unspecified	Achromatium	1
+other/unspecified	Achromatium oxaliferum	1
+other/unspecified	Achromobacter denitrificans	1
+other/unspecified	Aciculitermes sp.	1
+other/unspecified	Acidaminococcus	1
+other/unspecified	Acidaminococcus sp. BV3L6	1
+other/unspecified	Acidaminococcus sp. PS058	1
+other/unspecified	Acidaminococcus sp. PS273	1
+other/unspecified	Acidaminococcus sp. PS274	1
+other/unspecified	Acidibrevibacterium fodinaquatile	1
+other/unspecified	Acidicapsa acidisoli	1
+other/unspecified	Acidiferrobacter	1
+other/unspecified	Acidimicrobiales bacterium	1
+other/unspecified	Acidimicrobiia bacterium	1
+other/unspecified	Acidiphilium sp. CAG:727	1
+other/unspecified	Acidithiobacillus	1
+other/unspecified	Acidithiobacillus albertensis	1
+other/unspecified	Acidobacteria bacterium OLB17	1
+other/unspecified	Acidobacteria bacterium SCN 69-37	1
+other/unspecified	Acidobacterium	1
+other/unspecified	Acidobacterium sp.	1
+other/unspecified	Acidocella	1
+other/unspecified	Acinetobacter bohemicus	1
+other/unspecified	Acinetobacter junii	1
+other/unspecified	Acinetobacter nosocomialis	1
+other/unspecified	Acinetobacter tandoii	1
+other/unspecified	Acrocephalus scirpaceus	1
+other/unspecified	Acropora aspera	1
+other/unspecified	Actinacidiphila bryophytorum	1
+other/unspecified	Actinomadura sp. USW1	1
+other/unspecified	Actinomadura sp. USW10	1
+other/unspecified	Actinomadura sp. USW11	1
+other/unspecified	Actinomadura sp. USW12	1
+other/unspecified	Actinomadura sp. USW13	1
+other/unspecified	Actinomadura sp. USW14	1
+other/unspecified	Actinomadura sp. USW15	1
+other/unspecified	Actinomadura sp. USW16	1
+other/unspecified	Actinomadura sp. USW17	1
+other/unspecified	Actinomadura sp. USW18	1
+other/unspecified	Actinomadura sp. USW19	1
+other/unspecified	Actinomadura sp. USW2	1
+other/unspecified	Actinomadura sp. USW20	1
+other/unspecified	Actinomadura sp. USW21	1
+other/unspecified	Actinomadura sp. USW3	1
+other/unspecified	Actinomadura sp. USW4	1
+other/unspecified	Actinomadura sp. USW5	1
+other/unspecified	Actinomadura sp. USW6	1
+other/unspecified	Actinomadura sp. USW7	1
+other/unspecified	Actinomadura sp. USW8	1
+other/unspecified	Actinomadura sp. USW9	1
+other/unspecified	Adlercreutzia equolifaciens	1
+other/unspecified	Aequorivita aquimaris	1
+other/unspecified	Aerangis ugandensis	1
+other/unspecified	Aeromonas caviae	1
+other/unspecified	Aeromonas sp.	1
+other/unspecified	Aeromonas sp. C4	1
+other/unspecified	Aeromonas veronii	1
+other/unspecified	Aerosakkonema funiforme BLCC-F2	1
+other/unspecified	Aerosakkonema sp. BLCC-F183	1
+other/unspecified	Aetalion reticulatum	1
+other/unspecified	Affinirhizobium pseudoryzae	1
+other/unspecified	African swine fever virus	1
+other/unspecified	Afrocimex constrictus	1
+other/unspecified	Afrophysema eutornus	1
+other/unspecified	Agalmatium flavescens	1
+other/unspecified	Agathobacter rectalis ATCC 33656	1
+other/unspecified	Aggregatilineales bacterium	1
+other/unspecified	Agrobacterium	1
+other/unspecified	Agropyron cristatum x Agropyron desertorum	1
+other/unspecified	Agropyron mongolicum	1
+other/unspecified	Agyrium rufum	1
+other/unspecified	Ailurus fulgens	1
+other/unspecified	Ainsliaea latifolia	1
+other/unspecified	Akkermansia sp. CAG 344	1
+other/unspecified	Akkermansia sp. CAG:344	1
+other/unspecified	Akotropis quercicola	1
+other/unspecified	Alarcta quadrimacula	1
+other/unspecified	Alburnus alburnus	1
+other/unspecified	Alcaligenaceae bacterium	1
+other/unspecified	Alcaligenes sp.	1
+other/unspecified	Alectoria ochroleuca	1
+other/unspecified	Alectorobius kelleyi	1
+other/unspecified	Aleurodicus dispersus	1
+other/unspecified	Aleurodicus floccissimus	1
+other/unspecified	Alfalfa cytorhabdovirus 2	1
+other/unspecified	Alfalfa deltapartitivirus	1
+other/unspecified	Alfalfa toti-like virus 1	1
+other/unspecified	Alistipes senegalensis	1
+other/unspecified	Alistipes shahii	1
+other/unspecified	Alistipes sp. CAG:29	1
+other/unspecified	Alkalicoccus luteus	1
+other/unspecified	Allofournierella massiliensis	1
+other/unspecified	Alopecurus pratensis	1
+other/unspecified	Alphapapillomavirus	1
+other/unspecified	Alphapartitivirus	1
+other/unspecified	Alphapolyomavirus	1
+other/unspecified	Alpheus brevicristatus	1
+other/unspecified	Alyxoria varia	1
+other/unspecified	Amblyomma sp. C20	1
+other/unspecified	Amblyomma sp. C21	1
+other/unspecified	Amblyomma sparsum	1
+other/unspecified	Ambragaeana ambra	1
+other/unspecified	Amitermes meridionalis	1
+other/unspecified	Amoebophrya sp. ex Karlodinium veneficum	1
+other/unspecified	Amphiamblys sp. WSBS2006	1
+other/unspecified	Amphicarpaea ferruginea	1
+other/unspecified	Amphisorus sp. A21	1
+other/unspecified	Amphisorus sp. A7	1
+other/unspecified	Amphisorus sp. A8	1
+other/unspecified	Amusiotheres obtusidentatus	1
+other/unspecified	Amycolatopsis sp.	1
+other/unspecified	Anacanthotermes sp.	1
+other/unspecified	Anaerofilum sp. An201	1
+other/unspecified	Anaerolineae bacterium	1
+other/unspecified	Anaeromassilibacillus sp. An172	1
+other/unspecified	Anaeromassilibacillus sp. An250	1
+other/unspecified	Anaerosporobacter mobilis	1
+other/unspecified	Anaerostipes caccae	1
+other/unspecified	Anaerotruncus colihominis	1
+other/unspecified	Anaerovoracaceae bacterium	1
+other/unspecified	Anaplasma	1
+other/unspecified	Anaplasma phagocytophilum	1
+other/unspecified	Anchusa aegyptiaca	1
+other/unspecified	Anchusa affinis	1
+other/unspecified	Anchusa azurea	1
+other/unspecified	Anchusa capellii	1
+other/unspecified	Anchusa capensis	1
+other/unspecified	Anchusa limbata	1
+other/unspecified	Anchusa ochroleuca	1
+other/unspecified	Anchusa samothracica	1
+other/unspecified	Anchusa undulata subsp. hybrida	1
+other/unspecified	Ancyra sp. 1-PL2025	1
+other/unspecified	Ancyra sp. 2-PL2025	1
+other/unspecified	Andes sp. 1-PL2025	1
+other/unspecified	Angustibacter sp.	1
+other/unspecified	Anncaliia algerae	1
+other/unspecified	Anotia kirkaldyi	1
+other/unspecified	Anoxybacillus mongoliensis	1
+other/unspecified	Antheraea assamensis	1
+other/unspecified	Apatura laverna	1
+other/unspecified	Aphaenogaster carolinensis	1
+other/unspecified	Aphanizomenon flos-aquae NIES-4052	1
+other/unspecified	Aphanizomenon flos-aquae UKL13-PB	1
+other/unspecified	Apilitermes longiceps	1
+other/unspecified	Aplos simplex	1
+other/unspecified	Apodemus agrarius	1
+other/unspecified	Apple gammacytorhabdovirus 1	1
+other/unspecified	Aquabacterium sp. A3	1
+other/unspecified	Aquiflexum sp.	1
+other/unspecified	Aquilegia canadensis	1
+other/unspecified	Arcotheres purpureus	1
+other/unspecified	Arcotheres sinensis	1
+other/unspecified	Arctoparmelia centrifuga	1
+other/unspecified	Ardisia cornudentata	1
+other/unspecified	Ardisia mamillata	1
+other/unspecified	Ardisia virens	1
+other/unspecified	Arenavirus	1
+other/unspecified	Arion ater	1
+other/unspecified	Arthrobacter sp. SK	1
+other/unspecified	Arthrobacter sp. ST	1
+other/unspecified	Arthrobacter sp. STL	1
+other/unspecified	Arthrobacter sp. SWH	1
+other/unspecified	Arthrobacter sp. TP	1
+other/unspecified	Arthrobacter sp. YL	1
+other/unspecified	Artibeus jamaicensis paulus	1
+other/unspecified	Artibeus jamaicensis richardsoni	1
+other/unspecified	Asio otus	1
+other/unspecified	Aster fanjingshanicus	1
+other/unspecified	Asthenognathus inaequipes	1
+other/unspecified	Astratotermes hilarus	1
+other/unspecified	Ateles geoffroyi	1
+other/unspecified	Atracis sp. 1-PL2025	1
+other/unspecified	Atractylodes macrocephala	1
+other/unspecified	Aureonarius tofaceus	1
+other/unspecified	Austriella corrugata	1
+other/unspecified	Austrocortinarius victoriaensis	1
+other/unspecified	Babras sonorivox	1
+other/unspecified	Bachmanniomyces sp. S44760	1
+other/unspecified	Bacillaceae bacterium	1
+other/unspecified	Bacillus amyloliquefaciens	1
+other/unspecified	Bacillus anthracis	1
+other/unspecified	Bacillus paranthracis	1
+other/unspecified	Bacillus siamensis	1
+other/unspecified	Bacteria	1
+other/unspecified	Bacteroidales bacterium Barb4	1
+other/unspecified	Bacteroidales bacterium Barb6XT	1
+other/unspecified	Bacteroidales bacterium Barb7	1
+other/unspecified	Bacteroides clarus	1
+other/unspecified	Bacteroides congonensis	1
+other/unspecified	Bacteroides mediterraneensis	1
+other/unspecified	Bacteroides oleiciplenus	1
+other/unspecified	Bacteroides reticulotermitis	1
+other/unspecified	Bacteroides salyersiae	1
+other/unspecified	Bacteroides sp. An269	1
+other/unspecified	Bacteroides sp. CAG:98	1
+other/unspecified	Bacteroides sp. D2	1
+other/unspecified	Bacteroides sp. SM23_62	1
+other/unspecified	Bacteroides sp. SM23_62_1	1
+other/unspecified	Bacteroidetes bacterium endosymbiont of Geopemphigus sp.	1
+other/unspecified	Baeospora myosura	1
+other/unspecified	Balclutha neglecta	1
+other/unspecified	Balclutha rubrostriata	1
+other/unspecified	Balticina cf. californica	1
+other/unspecified	Bambusa tuldoides	1
+other/unspecified	Banana streak OL virus	1
+other/unspecified	Bartonella quintana	1
+other/unspecified	Bassia scoparia	1
+other/unspecified	Bathelium mastoideum	1
+other/unspecified	Bathymodiolus azoricus	1
+other/unspecified	Bdellovibrio sp.	1
+other/unspecified	Bdellovibrio sp. SBM16	1
+other/unspecified	Bdellovibrio sp. ZFWA1	1
+other/unspecified	Bebaiotes sp. 1-PL2025	1
+other/unspecified	Bemisia tabaci	1
+other/unspecified	Betacytorhabdovirus	1
+other/unspecified	Betapolyomavirus	1
+other/unspecified	Betta splendens papillomavirus 1	1
+other/unspecified	Bifidobacterium breve	1
+other/unspecified	Bifidobacterium breve 689b	1
+other/unspecified	Bilophila sp. PS240	1
+other/unspecified	Bladina sp. 1-PL2025	1
+other/unspecified	Bladina sp. 2-PL2025	1
+other/unspecified	Blastocatellia bacterium	1
+other/unspecified	Blatta orientalis	1
+other/unspecified	Blattella germanica	1
+other/unspecified	Blautia hansenii	1
+other/unspecified	Blautia hydrogenotrophica	1
+other/unspecified	Blautia producta	1
+other/unspecified	Blautia sp.	1
+other/unspecified	Blautia sp. CAG:257	1
+other/unspecified	Blautia wexlerae	1
+other/unspecified	Blomia tropicalis	1
+other/unspecified	Bocaparvovirus	1
+other/unspecified	Bogoriella megaspora	1
+other/unspecified	Bolivina plicata	1
+other/unspecified	Bordetella parapertussis	1
+other/unspecified	Bothriocera sp. 1-PL2025	1
+other/unspecified	Bothriocera sp. 2-PL2025	1
+other/unspecified	Brachionus calyciflorus	1
+other/unspecified	Bradyrhizobium sp. BL	1
+other/unspecified	Bradyrhizobium sp. SK17	1
+other/unspecified	Brevefilum sp. UH1	1
+other/unspecified	Brevefilum sp. UH10	1
+other/unspecified	Brevefilum sp. UH11	1
+other/unspecified	Brevefilum sp. UH12	1
+other/unspecified	Brevefilum sp. UH13	1
+other/unspecified	Brevefilum sp. UH14	1
+other/unspecified	Brevefilum sp. UH15	1
+other/unspecified	Brevefilum sp. UH16	1
+other/unspecified	Brevefilum sp. UH17	1
+other/unspecified	Brevefilum sp. UH18	1
+other/unspecified	Brevefilum sp. UH19	1
+other/unspecified	Brevefilum sp. UH2	1
+other/unspecified	Brevefilum sp. UH20	1
+other/unspecified	Brevefilum sp. UH21	1
+other/unspecified	Brevefilum sp. UH22	1
+other/unspecified	Brevefilum sp. UH23	1
+other/unspecified	Brevefilum sp. UH24	1
+other/unspecified	Brevefilum sp. UH25	1
+other/unspecified	Brevefilum sp. UH26	1
+other/unspecified	Brevefilum sp. UH27	1
+other/unspecified	Brevefilum sp. UH3	1
+other/unspecified	Brevefilum sp. UH4	1
+other/unspecified	Brevefilum sp. UH5	1
+other/unspecified	Brevefilum sp. UH6	1
+other/unspecified	Brevefilum sp. UH7	1
+other/unspecified	Brevefilum sp. UH8	1
+other/unspecified	Brevefilum sp. UH9	1
+other/unspecified	Brevibacillus laterosporus	1
+other/unspecified	Brevibacterium sediminis	1
+other/unspecified	Breznakibacter xylanolyticus	1
+other/unspecified	Brixia sp. 1-PL2025	1
+other/unspecified	Bromus biebersteinii	1
+other/unspecified	Bruchomorpha oculata	1
+other/unspecified	Bruchomorpha sp. 1-PL2025	1
+other/unspecified	Bubarida sp. SCS-44	1
+other/unspecified	Buchnera aphidicola (Acyrthosiphon lactucae)	1
+other/unspecified	Buchnera aphidicola (Anoecia oenotherae)	1
+other/unspecified	Buchnera aphidicola (Aphis craccivora)	1
+other/unspecified	Buchnera aphidicola (Aphis helianthi)	1
+other/unspecified	Buchnera aphidicola (Aphis nasturtii)	1
+other/unspecified	Buchnera aphidicola (Aphis nerii)	1
+other/unspecified	Buchnera aphidicola (Brachycaudus cardui)	1
+other/unspecified	Buchnera aphidicola (Brevicoryne brassicae)	1
+other/unspecified	Buchnera aphidicola (Ceratoglyphina bambusae)	1
+other/unspecified	Buchnera aphidicola (Ceratovacuna keduensis)	1
+other/unspecified	Buchnera aphidicola (Chaitoregma tattakana)	1
+other/unspecified	Buchnera aphidicola (Eriosoma harunire)	1
+other/unspecified	Buchnera aphidicola (Formosaphis micheliae)	1
+other/unspecified	Buchnera aphidicola (Greenidea ficicola)	1
+other/unspecified	Buchnera aphidicola (Hyadaphis tataricae)	1
+other/unspecified	Buchnera aphidicola (Hyperomyzus lactucae)	1
+other/unspecified	Buchnera aphidicola (Lipaphis pseudobrassicae)	1
+other/unspecified	Buchnera aphidicola (Macrosiphoniella sanborni)	1
+other/unspecified	Buchnera aphidicola (Macrosiphum euphorbiae)	1
+other/unspecified	Buchnera aphidicola (Macrosiphum gaurae)	1
+other/unspecified	Buchnera aphidicola (Melaphis rhois)	1
+other/unspecified	Buchnera aphidicola (Mindarus japonicus)	1
+other/unspecified	Buchnera aphidicola (Mindarus keteleerifoliae)	1
+other/unspecified	Buchnera aphidicola (Mollitrichosiphum nigrofasciatum)	1
+other/unspecified	Buchnera aphidicola (Muscaphis stroyani)	1
+other/unspecified	Buchnera aphidicola (Neophyllaphis podocarpi)	1
+other/unspecified	Buchnera aphidicola (Neophyllaphis varicolor)	1
+other/unspecified	Buchnera aphidicola (Nippolachnus piri)	1
+other/unspecified	Buchnera aphidicola (Rhopalosiphum padi)	1
+other/unspecified	Buchnera aphidicola (Sarucallis kahawaluokalani)	1
+other/unspecified	Buchnera aphidicola (Shivaphis celti)	1
+other/unspecified	Buchnera aphidicola (Sitobion avenae)	1
+other/unspecified	Buchnera aphidicola (Stegophylla sp.)	1
+other/unspecified	Buchnera aphidicola (Taiwanaphis decaspermi)	1
+other/unspecified	Buchnera aphidicola (Takecallis taiwana)	1
+other/unspecified	Buchnera aphidicola (Tetraneura akinire)	1
+other/unspecified	Buchnera aphidicola (Tetraneura sorini)	1
+other/unspecified	Buchnera aphidicola (Thelaxes californica)	1
+other/unspecified	Buchnera aphidicola (Therioaphis trifolii)	1
+other/unspecified	Buchnera aphidicola (Tuberolachnus salignus)	1
+other/unspecified	Bulbothrix sp. DP-2024a	1
+other/unspecified	Burkholderiaceae bacterium	1
+other/unspecified	Bursaphelenchus xylophilus	1
+other/unspecified	Butyricicoccus pullicaecorum	1
+other/unspecified	Butyricimonas virosa	1
+other/unspecified	Butyrivibrio sp.	1
+other/unspecified	Buyisa sp.	1
+other/unspecified	Cacodmus vicinus	1
+other/unspecified	Cacodmus villosus	1
+other/unspecified	Caeruleum heppii	1
+other/unspecified	Caliginopsalta percola	1
+other/unspecified	Caliscelis bonellii	1
+other/unspecified	Calliopsida cinnabarina	1
+other/unspecified	Calliphora vicina	1
+other/unspecified	Calliphora vomitoria	1
+other/unspecified	Calochortus amabilis	1
+other/unspecified	Calocybe gambosa	1
+other/unspecified	Calonarius typicus	1
+other/unspecified	Calonectria sp. AR2652	1
+other/unspecified	Calystegia collina	1
+other/unspecified	Calystegia macrostegia	1
+other/unspecified	Camarops petersii	1
+other/unspecified	Camelus ferus	1
+other/unspecified	Campylobacter coli	1
+other/unspecified	Cancris carmenensis	1
+other/unspecified	Candelaria pacifica	1
+other/unspecified	Candelina mexicana	1
+other/unspecified	Candelina submexicana	1
+other/unspecified	Candida parapsilosis	1
+other/unspecified	Candidatus Accumulibacter cognatus	1
+other/unspecified	Candidatus Anammoximicrobium sp.	1
+other/unspecified	Candidatus Bathyoplasma sp. NZ	1
+other/unspecified	Candidatus Burkholderia brachyanthoides	1
+other/unspecified	Candidatus Burkholderia crenata	1
+other/unspecified	Candidatus Burkholderia humilis	1
+other/unspecified	Candidatus Burkholderia pumila	1
+other/unspecified	Candidatus Burkholderia verschuerenii	1
+other/unspecified	Candidatus Caldatribacterium saccharofermentans	1
+other/unspecified	Candidatus Colwellia aromaticivorans	1
+other/unspecified	Candidatus Electronema sp. V4	1
+other/unspecified	Candidatus Electronema sp. VV	1
+other/unspecified	Candidatus Electrothrix gigas	1
+other/unspecified	Candidatus Electrothrix scaldis	1
+other/unspecified	Candidatus Electrothrix sp. GW3-4	1
+other/unspecified	Candidatus Endonucleibacter bathymodioli	1
+other/unspecified	Candidatus Entotheonella	1
+other/unspecified	Candidatus Epulonipiscium	1
+other/unspecified	Candidatus Gaiellasilicea maunaloa	1
+other/unspecified	Candidatus Gastranaerophilales bacterium HUM_9	1
+other/unspecified	Candidatus Halichondribacter symbioticus	1
+other/unspecified	Candidatus Harpocratesius repetitus	1
+other/unspecified	Candidatus Heimdallarchaeum aukensis	1
+other/unspecified	Candidatus Hydrogenosomobacter endosymbioticus	1
+other/unspecified	Candidatus Loosdrechtia sp.	1
+other/unspecified	Candidatus Methanospirare jalkutatii	1
+other/unspecified	Candidatus Methanovorans sp.	1
+other/unspecified	Candidatus Methylacidiphilum fumarolicum	1
+other/unspecified	Candidatus Methylomirabilis sp.	1
+other/unspecified	Candidatus Minimicrobia sp. IHU4	1
+other/unspecified	Candidatus Nanopelagicales bacterium	1
+other/unspecified	Candidatus Nanosynbacter sp. BB002	1
+other/unspecified	Candidatus Neoarthromitus sp.	1
+other/unspecified	Candidatus Nephrothrix	1
+other/unspecified	Candidatus Nephrothrix sp.	1
+other/unspecified	Candidatus Nitrosotenuis aquarius	1
+other/unspecified	Candidatus Nitrospira bockiana	1
+other/unspecified	Candidatus Paraburkholderia calva	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB109	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB123	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1483	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1485	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1491	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1493	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1495	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1505	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1506	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1507	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1509	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1513	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1517	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1518	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1520	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1521	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1526	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1542	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1549	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1552	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1556	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1559	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1564	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1573	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1577	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1587	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1593	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1597	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1611	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1623	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1631	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1636	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1641	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1662	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1685	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1695	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1701	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1702	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1709	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1710	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1715	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1746	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1748	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1758	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1765	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1770	1
+other/unspecified	Candidatus Pelagibacter sp. HIMB1782	1
+other/unspecified	Candidatus Porisulfidus sp. TsSOB	1
+other/unspecified	Candidatus Pseudothioglobus sp.	1
+other/unspecified	Candidatus Saccharimonadota bacterium	1
+other/unspecified	Candidatus Scalindua sp. MBR	1
+other/unspecified	Candidatus Sericytochromatia bacterium S15B-MN24 CBMW_12	1
+other/unspecified	Candidatus Siliceabacter maunaloa	1
+other/unspecified	Candidatus Sumerlaea chitinivorans	1
+other/unspecified	Candidatus Synechococcus spongiarum	1
+other/unspecified	Candidatus Thiovulum stygium	1
+other/unspecified	Candidatus Thorarchaeota archaeon	1
+other/unspecified	Canoparmelia texana	1
+other/unspecified	Capnella imbricata	1
+other/unspecified	Capra aegagrus	1
+other/unspecified	Caprimulgus europaeus	1
+other/unspecified	Capsicum alphacytorhabdovirus 1	1
+other/unspecified	Capsicum trirhavirus 1	1
+other/unspecified	Cardiocondyla mauritanica	1
+other/unspecified	Cardiocondyla minutior	1
+other/unspecified	Cardiocondyla wroughtonii	1
+other/unspecified	Carlavirus	1
+other/unspecified	Carpobrotus edulis	1
+other/unspecified	Carya illinoinensis	1
+other/unspecified	Castellaniella sp.	1
+other/unspecified	Catonia arida	1
+other/unspecified	Cavitermes tuberosus	1
+other/unspecified	Cedar virus	1
+other/unspecified	Cedusa sp. 1-PL2025	1
+other/unspecified	Cell fusing agent virus	1
+other/unspecified	Cellulomonadaceae bacterium	1
+other/unspecified	Centromeria sp. 1-PL2025	1
+other/unspecified	Cephalotermes rectangularis	1
+other/unspecified	Ceratogergithus sp. 1-PL2025	1
+other/unspecified	Cercopithecus neglectus	1
+other/unspecified	Cereibacter sphaeroides	1
+other/unspecified	Cervus canadensis	1
+other/unspecified	Cetobacterium sp. 2G large	1
+other/unspecified	Cetraria islandica	1
+other/unspecified	Cetraria sp. DP-2024a	1
+other/unspecified	Cetraria sp. PCH110127-01	1
+other/unspecified	Chaenotheca sphaerocephala	1
+other/unspecified	Changuinola virus	1
+other/unspecified	Cheiloceps argo	1
+other/unspecified	Chelativorans	1
+other/unspecified	Chelicerata	1
+other/unspecified	Chiloglottis cornuta	1
+other/unspecified	Chionomus havanae	1
+other/unspecified	Chloriona glaucescens	1
+other/unspecified	Chlorochrysa phoenicotis	1
+other/unspecified	Chloroflexi bacterium AL-N1	1
+other/unspecified	Chloroflexi bacterium AL-N10	1
+other/unspecified	Chloroflexi bacterium AL-N15	1
+other/unspecified	Chloroflexi bacterium AL-N5	1
+other/unspecified	Chloroflexi bacterium AL-W	1
+other/unspecified	Chlorogloea purpurea SAG 13.99	1
+other/unspecified	Choloepus didactylus	1
+other/unspecified	Chondrus crispus	1
+other/unspecified	Chonosia atrodorsalis	1
+other/unspecified	Chonosia crassipennis	1
+other/unspecified	Chremistica ochracea	1
+other/unspecified	Chrysopelea ornata	1
+other/unspecified	Chrysothrix caesia	1
+other/unspecified	Chrysothrix candelaris	1
+other/unspecified	Chrysothrix sp. TS-e1954	1
+other/unspecified	Chrysothrix xanthina	1
+other/unspecified	Cimex adjunctus	1
+other/unspecified	Cimex hemipterus	1
+other/unspecified	Cimex hirundinis	1
+other/unspecified	Cimex vicarius	1
+other/unspecified	Cinara kochiana kochiana	1
+other/unspecified	Cinara splendens	1
+other/unspecified	Circoviridae	1
+other/unspecified	Circovirus pigeon	1
+other/unspecified	Circovirus sp. gt10AU	1
+other/unspecified	Circovirus sp. gt11AU	1
+other/unspecified	Circovirus sp. gt12AU	1
+other/unspecified	Circovirus sp. gt1AU	1
+other/unspecified	Circovirus sp. gt2AU	1
+other/unspecified	Circovirus sp. gt3AU	1
+other/unspecified	Circovirus sp. gt4AU	1
+other/unspecified	Circovirus sp. gt5AU	1
+other/unspecified	Circovirus sp. gt6AU	1
+other/unspecified	Circovirus sp. gt7AU	1
+other/unspecified	Circovirus sp. gt8AU	1
+other/unspecified	Circovirus sp. gt9AU	1
+other/unspecified	Cirrosporium novae-zelandiae	1
+other/unspecified	Citrobacter	1
+other/unspecified	Citrobacter koseri	1
+other/unspecified	Citrobacter sedlakii	1
+other/unspecified	Citrus reticulata	1
+other/unspecified	Cixius sp. 1-PL2025	1
+other/unspecified	Cladonema multiramosum	1
+other/unspecified	Cladonia furcata	1
+other/unspecified	Cladonia gracilis	1
+other/unspecified	Cladonia mitis	1
+other/unspecified	Cladonia stellaris	1
+other/unspecified	Cladonia subtenuis	1
+other/unspecified	Cladonia uncialis subsp. biuncialis	1
+other/unspecified	Claussenomyces sp. TS43310	1
+other/unspecified	Clavaria fumosa	1
+other/unspecified	Clavispora lusitaniae	1
+other/unspecified	Cleisostoma arietinum	1
+other/unspecified	Cleistes cipoana	1
+other/unspecified	Cleistostoma dilatatum	1
+other/unspecified	Clematis apiifolia var. obtusidentata	1
+other/unspecified	Clematis patens subsp. tientaiensis	1
+other/unspecified	Clitocybe nebularis	1
+other/unspecified	Clostridiaceae bacterium	1
+other/unspecified	Clostridium botulinum	1
+other/unspecified	Clostridium sp. AT4	1
+other/unspecified	Clostridium sp. ATCC BAA-442	1
+other/unspecified	Clostridium sp. CAG:43	1
+other/unspecified	Clostridium sp. CAG:632	1
+other/unspecified	Clostridium sp. HGF2	1
+other/unspecified	Clostridium sp. Marseille-P299	1
+other/unspecified	Clostridium thermobutyricum	1
+other/unspecified	Cochliomyia macellaria	1
+other/unspecified	Codakia paytenorum	1
+other/unspecified	Coelia bella	1
+other/unspecified	Coleofasciculus sp. DSM 101416	1
+other/unspecified	Coleofasciculus sp. DSM 104231	1
+other/unspecified	Coleofasciculus sp. DSM 104232	1
+other/unspecified	Coleofasciculus sp. DSM 104233	1
+other/unspecified	Coleofasciculus sp. DSM 104234	1
+other/unspecified	Coleofasciculus sp. DSM 104237	1
+other/unspecified	Coleofasciculus sp. DSM 104238	1
+other/unspecified	Coleofasciculus sp. DSM 104239	1
+other/unspecified	Coleofasciculus sp. DSM 104244	1
+other/unspecified	Coleofasciculus sp. DSM 104253	1
+other/unspecified	Coleofasciculus sp. DSM 104254	1
+other/unspecified	Collinsella aerofaciens	1
+other/unspecified	Colpoptera sp. 1-PL2025	1
+other/unspecified	Columbia Basin potato purple top phytoplasma	1
+other/unspecified	Comamonas sp.	1
+other/unspecified	Conger erebennus	1
+other/unspecified	Connelicita sp. 1-PL2025	1
+other/unspecified	Convolvulus arvensis	1
+other/unspecified	Coprococcus comes	1
+other/unspecified	Coprococcus eutactus	1
+other/unspecified	Coprococcus sp.	1
+other/unspecified	Coprococcus sp. ART55_1	1
+other/unspecified	Coptotermes elisae	1
+other/unspecified	Coptotermes formosanus	1
+other/unspecified	Coptotermes testaceus	1
+other/unspecified	Coriandrum sativum	1
+other/unspecified	Cornicularia normoerica	1
+other/unspecified	Cortinarius alces	1
+other/unspecified	Cortinarius bovarius	1
+other/unspecified	Cortinarius glandicolor	1
+other/unspecified	Cortinarius neofurvolaesus	1
+other/unspecified	Corynebacterium accolens	1
+other/unspecified	Corynebacterium diphtheriae	1
+other/unspecified	Corynebacterium striatum	1
+other/unspecified	Corynebacterium yonathiae	1
+other/unspecified	Coryphospingus pileatus	1
+other/unspecified	Cosavirus A	1
+other/unspecified	Cotylana acutipennis	1
+other/unspecified	Coxiella endosymbiont of Dermacentor marginatus	1
+other/unspecified	Coxiella endosymbiont of Ornithodoros maritimus	1
+other/unspecified	Cranesbill betacytorhabdovirus 1	1
+other/unspecified	Crataegus scabrifolia	1
+other/unspecified	Crataerina pallida	1
+other/unspecified	Creeping Charlie alphacytorhabdovirus 1	1
+other/unspecified	Crepidotus calolepis	1
+other/unspecified	Crepidotus cesatii	1
+other/unspecified	Crepidotus sp. BD-2015	1
+other/unspecified	Crespoa schelpei	1
+other/unspecified	Crocidura grandiceps	1
+other/unspecified	Crocidura olivieri	1
+other/unspecified	Crocidura theresae	1
+other/unspecified	Crocinitomicaceae bacterium	1
+other/unspecified	Crotopsalta sp.	1
+other/unspecified	Cryptocercus hirtus	1
+other/unspecified	Cryptocercus punctulatus	1
+other/unspecified	Cryptolestes pusillus	1
+other/unspecified	Cryptophysema vesicula	1
+other/unspecified	Cryptostylis arachnites	1
+other/unspecified	Cryptotermes cavifrons	1
+other/unspecified	Cryptotympana facialis	1
+other/unspecified	Ctena	1
+other/unspecified	Ctena bella	1
+other/unspecified	Ctena imbricatula	1
+other/unspecified	Ctena orbiculata	1
+other/unspecified	Ctenactis crassa	1
+other/unspecified	Ctenactis echinata	1
+other/unspecified	Cubitermes tenuiceps	1
+other/unspecified	Cucumispora dikerogammari	1
+other/unspecified	Culicoides obsoletus	1
+other/unspecified	Culicoides reevesi	1
+other/unspecified	Culicoides schultzei	1
+other/unspecified	Cyanolicimex patagonicus	1
+other/unspecified	Cyclobacteriaceae bacterium	1
+other/unspecified	Cycloclasticus	1
+other/unspecified	Cycloseris fragilis	1
+other/unspecified	Cygnus olor	1
+other/unspecified	Cylindrospermopsis raciborskii XM1	1
+other/unspecified	Cylindrospermopsis raciborskii XM2	1
+other/unspecified	Cylindrospermopsis raciborskii XM3	1
+other/unspecified	Cylindrospermopsis raciborskii XM4	1
+other/unspecified	Cymbidium mosaic virus	1
+other/unspecified	Cynoglossum amabile	1
+other/unspecified	Cynoglossum amplifolium	1
+other/unspecified	Cystinarius crassus	1
+other/unspecified	Cytisus scoparius	1
+other/unspecified	Dalbulus maidis	1
+other/unspecified	Danafungia scruposa	1
+other/unspecified	Danepteryx manca	1
+other/unspecified	Dapis brunnea BLCC-M229	1
+other/unspecified	Dapis hubbardiae BLCC-M172	1
+other/unspecified	Dapis purpurea BLCC-M126	1
+other/unspecified	Deconica	1
+other/unspecified	Deconica argentina	1
+other/unspecified	Deconica californica	1
+other/unspecified	Deconica castanella	1
+other/unspecified	Deconica chionophila	1
+other/unspecified	Deconica josecastilloi	1
+other/unspecified	Deconica latispora	1
+other/unspecified	Deconica magica	1
+other/unspecified	Deconica montana	1
+other/unspecified	Deconica novozoncuantlensis	1
+other/unspecified	Deconica oregonensis	1
+other/unspecified	Deconica phyllogena	1
+other/unspecified	Deconica sp. AB-2024a	1
+other/unspecified	Deconica sp. AB-2024h	1
+other/unspecified	Deer atadenovirus A	1
+other/unspecified	Dehalobacter restrictus	1
+other/unspecified	Dehalobacter sp. CP	1
+other/unspecified	Dehalobacter sp. MS	1
+other/unspecified	Dehalobacterium formicoaceticum	1
+other/unspecified	Dehalococcoides sp. HCBD	1
+other/unspecified	Dehalogenimonas loeffleri	1
+other/unspecified	Deinococcus sp. I8	1
+other/unspecified	Delftia acidovorans	1
+other/unspecified	Delichon urbicum	1
+other/unspecified	Dermacentor nuttalli	1
+other/unspecified	Dermatocarpon dolomiticum	1
+other/unspecified	Dermatophilaceae bacterium	1
+other/unspecified	Derotettix mendosensis	1
+other/unspecified	Deserta raptoria	1
+other/unspecified	Desulfitobacteriaceae bacterium	1
+other/unspecified	Desulfobacterales bacterium	1
+other/unspecified	Desulfotomaculaceae bacterium	1
+other/unspecified	Desulfovibrio piger	1
+other/unspecified	Desulfovibrio sp. IS7	1
+other/unspecified	Desulfurococcales archaeon	1
+other/unspecified	Devosia	1
+other/unspecified	Diachasmimorpha longicaudata	1
+other/unspecified	Dialister invisus CAG:218	1
+other/unspecified	Dialister sp. CAG:357	1
+other/unspecified	Dialister succinatiphilus	1
+other/unspecified	Diaphorobacter sp.	1
+other/unspecified	Dictyocoela sp.	1
+other/unspecified	Dictyophara europaea	1
+other/unspecified	Dictyophara pannonica	1
+other/unspecified	Dictyopharidae sp. 1-PL2025	1
+other/unspecified	Dictyostelium giganteum	1
+other/unspecified	Dielma fastidiosa	1
+other/unspecified	Diglyphus sabulosus	1
+other/unspecified	Dipylidium caninum	1
+other/unspecified	Dissoderma paradoxum	1
+other/unspecified	Distantalna splendida	1
+other/unspecified	Divalinga weberi	1
+other/unspecified	Divaricella irpex	1
+other/unspecified	Dolichopus galeatus	1
+other/unspecified	Dolichospermum lemmermannii FEM_B0920	1
+other/unspecified	Dolomena vittata	1
+other/unspecified	Dolosigranulum pigrum	1
+other/unspecified	Dorimargus antoniae	1
+other/unspecified	Drosophila simulans	1
+other/unspecified	Drulisvirus	1
+other/unspecified	Dugesia japonica	1
+other/unspecified	Duodenibacillus massiliensis	1
+other/unspecified	Duplidentitermes furcatidens	1
+other/unspecified	Ecballium elaterium	1
+other/unspecified	Echovirus E13	1
+other/unspecified	Echovirus E7	1
+other/unspecified	Eganvirus PsP3	1
+other/unspecified	Eggerthella lenta	1
+other/unspecified	Egretta garzetta	1
+other/unspecified	Eidolon helvum	1
+other/unspecified	Elaeis guineensis	1
+other/unspecified	Elizabethkingia anophelis	1
+other/unspecified	Elleanthus caravata	1
+other/unspecified	Elsholtzia fruticosa	1
+other/unspecified	Emiliania huxleyi virus sp.	1
+other/unspecified	Endozoicomonas sp.	1
+other/unspecified	Engelitermes zambo	1
+other/unspecified	Enterobacteria phage HK620	1
+other/unspecified	Enterobacteriaceae bacterium entHe1	1
+other/unspecified	Enterocloster asparagiformis	1
+other/unspecified	Enterospora	1
+other/unspecified	Enterovirus J	1
+other/unspecified	Entoloma clypeatum	1
+other/unspecified	Eolophus roseicapilla	1
+other/unspecified	Eopycna repanda	1
+other/unspecified	Eremotermes sp.	1
+other/unspecified	Eria javanica	1
+other/unspecified	Erysimum latent virus	1
+other/unspecified	Erysiphe pulchra	1
+other/unspecified	Erythronium americanum	1
+other/unspecified	Escherichia coli 20-1	1
+other/unspecified	Escherichia coli 20-112	1
+other/unspecified	Escherichia coli 20-20	1
+other/unspecified	Escherichia coli 20-62	1
+other/unspecified	Escherichia coli 20-83	1
+other/unspecified	Escherichia coli B str. REL606	1
+other/unspecified	Escherichia fergusonii	1
+other/unspecified	Escherichia phage	1
+other/unspecified	Eschscholzia californica	1
+other/unspecified	Eubacterium sp. 3_1_31	1
+other/unspecified	Eubacterium sp. CAG:180	1
+other/unspecified	Eubacterium sp. CAG:38	1
+other/unspecified	Eubazus rotundiceps	1
+other/unspecified	Euhamitermes hamatus	1
+other/unspecified	Euphorbiaceae	1
+other/unspecified	Euricania ocella	1
+other/unspecified	Euterpnosia chibensis	1
+other/unspecified	Exitianus exitiosus	1
+other/unspecified	Fadogia homblei	1
+other/unspecified	Faecalimonas nexilis	1
+other/unspecified	Faecalitalea cylindroides	1
+other/unspecified	Falsiroseomonas sp.	1
+other/unspecified	Fannia canicularis	1
+other/unspecified	Fannia conspicua	1
+other/unspecified	Ferroglobus placidus	1
+other/unspecified	Ferrovum myxofaciens	1
+other/unspecified	Firmicutes bacterium CAG:341	1
+other/unspecified	Flatida malgacha	1
+other/unspecified	Flatida rosea	1
+other/unspecified	Flatoidessa sp. 1-PL2025	1
+other/unspecified	Flavobacterium	1
+other/unspecified	Flavoclypeus andromeda	1
+other/unspecified	Flavonifractor plautii	1
+other/unspecified	Flavonifractor sp. An10	1
+other/unspecified	Floridaenema aerugineum BLCC-F46	1
+other/unspecified	Floridaenema evergladense BLCC-F167	1
+other/unspecified	Floridaenema flaviceps BLCC-F50	1
+other/unspecified	Floridaenema fluviatile BLCC-F154	1
+other/unspecified	Folsomia candida	1
+other/unspecified	Formica fusca	1
+other/unspecified	Formica lemani	1
+other/unspecified	Formica selysi	1
+other/unspecified	Fragaria chiloensis	1
+other/unspecified	Francisella sp.	1
+other/unspecified	Francisella tularensis subsp. holarctica	1
+other/unspecified	Fritillaria taipaiensis	1
+other/unspecified	Furculitermes sp.	1
+other/unspecified	Fusarium concentricum	1
+other/unspecified	Fusarium solani	1
+other/unspecified	Fusobacterium mortiferum	1
+other/unspecified	Fusobacterium varium	1
+other/unspecified	GO-respiring enrichment culture	1
+other/unspecified	Gagatopsalta auranti	1
+other/unspecified	Galerina allospora	1
+other/unspecified	Galerina clavata	1
+other/unspecified	Galerina triscopa	1
+other/unspecified	Galerina vittiformis	1
+other/unspecified	Gammapapillomavirus	1
+other/unspecified	Gammaproteobacteria bacterium	1
+other/unspecified	Gammaproteobacteria bacterium (ex Lamellibrachia satsuma)	1
+other/unspecified	Gammatorquevirus	1
+other/unspecified	Gaoligongshania megalothyrsa	1
+other/unspecified	Gazella bennettii	1
+other/unspecified	Gelidea torrida	1
+other/unspecified	Gemmatimonadetes bacterium SCN 70-22	1
+other/unspecified	Gemmatirosa kalamazoonensis	1
+other/unspecified	Gemmiger formicilis	1
+other/unspecified	Gemmiger sp. An194	1
+other/unspecified	Gemmiger sp. An50	1
+other/unspecified	Gemycircularvirus	1
+other/unspecified	Genuotermes spinifer	1
+other/unspecified	Geoalkalibacter subterraneus	1
+other/unspecified	Geobacillus sp. CCR	1
+other/unspecified	Geobacter sp. DSM 9736	1
+other/unspecified	Geobacter sp. OR-1	1
+other/unspecified	Geobacter sulfurreducens	1
+other/unspecified	Geodia barretti	1
+other/unspecified	Geoglossum umbratile	1
+other/unspecified	Gleditsia japonica	1
+other/unspecified	Globitermes globosus	1
+other/unspecified	Glomera macdonaldii	1
+other/unspecified	Glossina palpalis	1
+other/unspecified	Glossotermes oculatus	1
+other/unspecified	Glyptotermes pubescens	1
+other/unspecified	Gnathamitermes grandis	1
+other/unspecified	Gomphosphaeria aponina	1
+other/unspecified	Gordisvirus sp. 'paraense'	1
+other/unspecified	Gracilibacteraceae bacterium	1
+other/unspecified	Graminella nigrifrons	1
+other/unspecified	Granulicatella adiacens	1
+other/unspecified	Graptemys ouachitensis	1
+other/unspecified	Graptopsaltria bimaculata	1
+other/unspecified	Graptopsaltria nigrofuscata	1
+other/unspecified	Graptopsaltria tienta	1
+other/unspecified	Gromiidae sp. GF18_11	1
+other/unspecified	Gromiidae sp. GF18_13	1
+other/unspecified	Grus japonensis	1
+other/unspecified	Gymnocypris eckloni	1
+other/unspecified	Gymnopilus luteofolius	1
+other/unspecified	Gyrovirus	1
+other/unspecified	Haemaphysalis campanulata	1
+other/unspecified	Haemaphysalis danieli	1
+other/unspecified	Haemaphysalis flava	1
+other/unspecified	Haemaphysalis japonica	1
+other/unspecified	Haemaphysalis kitaokai	1
+other/unspecified	Haemaphysalis lagrangei	1
+other/unspecified	Haemaphysalis mageshimaensis	1
+other/unspecified	Haemaphysalis sulcata	1
+other/unspecified	Haementeria acuecueyetzin	1
+other/unspecified	Haementeria lopezi	1
+other/unspecified	Haementeria officinalis	1
+other/unspecified	Haementeria sp. COZEM-ANN-HIR-001/002	1
+other/unspecified	Haemophilus influenzae	1
+other/unspecified	Hagneia kallea	1
+other/unspecified	Haliclona cymaeformis	1
+other/unspecified	Halodesulfovibrio sp.	1
+other/unspecified	Halomitra clavator	1
+other/unspecified	Halorhodospira halophila	1
+other/unspecified	Hapalocarcinus marsupialis	1
+other/unspecified	Haplaxius pictifrons	1
+other/unspecified	Harringtonia lauricola	1
+other/unspecified	Haslea ostrearia	1
+other/unspecified	Helianthus annuus alphaendornavirus	1
+other/unspecified	Helicogloea compressa	1
+other/unspecified	Heliofungia actiniformis	1
+other/unspecified	Hemisphaerius interclusus	1
+other/unspecified	Henipavirus nipahense	1
+other/unspecified	Hepatovirus A	1
+other/unspecified	Heppia adglutinata	1
+other/unspecified	Herbaspirillum huttiense	1
+other/unspecified	Herelleviridae	1
+other/unspecified	Herpolitha limax	1
+other/unspecified	Heterometopus sp. CSS	1
+other/unspecified	Heteromys desmarestianus	1
+other/unspecified	Heterotermes paradoxus	1
+other/unspecified	Heterotermes tenuis	1
+other/unspecified	Heterotermes vagus	1
+other/unspecified	Heyndrickxia coagulans	1
+other/unspecified	Hibiscus rosa-sinensis	1
+other/unspecified	Hippodamia convergens	1
+other/unspecified	Hipposideros aff. ruber	1
+other/unspecified	Hipposideros cf. ruber	1
+other/unspecified	Hipposideros ruber	1
+other/unspecified	Hippuris montana	1
+other/unspecified	Hirudo nipponia	1
+other/unspecified	Histampica haimaensis	1
+other/unspecified	Histophilus somni	1
+other/unspecified	Hodotermopsis sjostedti	1
+other/unspecified	Hogweed alphacytorhabdovirus 1	1
+other/unspecified	Holdemanella biformis	1
+other/unspecified	Homallotermes foraminifer	1
+other/unspecified	Hormonema carpetanum	1
+other/unspecified	Hormuzakia aggregata	1
+other/unspecified	Hormuzakia negevensis	1
+other/unspecified	Hoylesella buccalis	1
+other/unspecified	Humulus lupulus	1
+other/unspecified	Hyalessa maculaticollis	1
+other/unspecified	Hyalessa stratoria	1
+other/unspecified	Hygrocybe conica	1
+other/unspecified	Hylacola cauta	1
+other/unspecified	Hylophilus amaurocephalus	1
+other/unspecified	Hyphomicrobiales bacterium	1
+other/unspecified	Hypocenomyce scalaris	1
+other/unspecified	Hypogymnia subphysodes	1
+other/unspecified	Hysterium pulicare	1
+other/unspecified	Hysterobrevium mori	1
+other/unspecified	Icmadophila ericetorum	1
+other/unspecified	Idiosystatus sp. 1-PL2025	1
+other/unspecified	Impatiens capensis	1
+other/unspecified	Indoaustriella plicifera	1
+other/unspecified	Indogaetulia sp. 1-PL2025	1
+other/unspecified	Inocybe asterospora	1
+other/unspecified	Inocybe corydalina	1
+other/unspecified	Inocybe dulcamara	1
+other/unspecified	Inocybe flocculosa	1
+other/unspecified	Inocybe fuscidula	1
+other/unspecified	Inocybe geophylla	1
+other/unspecified	Inocybe glabripes	1
+other/unspecified	Inocybe lanuginosa	1
+other/unspecified	Inocybe lilacina	1
+other/unspecified	Inocybe nitidiuscula	1
+other/unspecified	Inocybe ochroalba	1
+other/unspecified	Inocybe petiginosa	1
+other/unspecified	Inocybe suecica	1
+other/unspecified	Inosperma bongardii	1
+other/unspecified	Inosperma erubescens	1
+other/unspecified	Inquilinitermes sp.	1
+other/unspecified	Intestinibacter bartlettii	1
+other/unspecified	Iris macrosiphon	1
+other/unspecified	Isognathotermes finitimus	1
+other/unspecified	Isotria medeoloides	1
+other/unspecified	Issidae sp. 1-PL2025	1
+other/unspecified	Ixodes kuntzi	1
+other/unspecified	Ixodes nuttallianus	1
+other/unspecified	Ixodes simplex	1
+other/unspecified	Ixodes sp. A29	1
+other/unspecified	Ixodes tasmani	1
+other/unspecified	Ixodes vespertilionis	1
+other/unspecified	Ixothraupis guttata	1
+other/unspecified	Ixothraupis punctata	1
+other/unspecified	Ixothraupis rufigula	1
+other/unspecified	Ixothraupis varia	1
+other/unspecified	Ixothraupis xanthogastra	1
+other/unspecified	Kaistella sp.	1
+other/unspecified	Kalidasa nigromaculata	1
+other/unspecified	Kalotermes flavicollis	1
+other/unspecified	Kangiella spongicola	1
+other/unspecified	Kelisia ribauti	1
+other/unspecified	Kelisia vittipennis	1
+other/unspecified	Kermesiinae sp. 1-PL2025	1
+other/unspecified	Ketobacter sp.	1
+other/unspecified	Ketobacter sp. N1	1
+other/unspecified	Klebsiella phage KP15	1
+other/unspecified	Klebsiella pneumoniae ATCC BAA-1705	1
+other/unspecified	Klebsiella quasipneumoniae	1
+other/unspecified	Klebsiella variicola	1
+other/unspecified	Kobonga sp.	1
+other/unspecified	Kocuria marina	1
+other/unspecified	Kocuria rosea	1
+other/unspecified	Kodamaea ohmeri	1
+other/unspecified	Kosemia yezoensis	1
+other/unspecified	Kosswigianella lutulenta	1
+other/unspecified	Kovacikia sp. CALU 1929	1
+other/unspecified	Kuehneromyces	1
+other/unspecified	Labiotermes labralis	1
+other/unspecified	Lachnoclostridium phytofermentans	1
+other/unspecified	Lachnospira sp.	1
+other/unspecified	Lachnospiraceae bacterium 6_1_63FAA	1
+other/unspecified	Lactarius hatsudake	1
+other/unspecified	Lacticaseibacillus paracasei subsp. paracasei	1
+other/unspecified	Lacusa sp. 1-PL2025	1
+other/unspecified	Ladella nepallata	1
+other/unspecified	Lambiella insularis	1
+other/unspecified	Lamium deltanucleorhabdovirus 1	1
+other/unspecified	Lasioderma serricorne	1
+other/unspecified	Latois sp. 1-PL2025	1
+other/unspecified	Lautropia mirabilis	1
+other/unspecified	Leibnitzia nepalensis	1
+other/unspecified	Lemniscomys striatus	1
+other/unspecified	Lenisia limosa	1
+other/unspecified	Lentimicrobium sp.	1
+other/unspecified	Lentisphaeria bacterium	1
+other/unspecified	Lentivirus	1
+other/unspecified	Lepidolucina venusta	1
+other/unspecified	Lepraria caerulescens	1
+other/unspecified	Lepraria chileana	1
+other/unspecified	Lepraria lobificans	1
+other/unspecified	Lepraria neozelandica	1
+other/unspecified	Lepraria nothofagi	1
+other/unspecified	Lepraria sp.	1
+other/unspecified	Lepraria straminea	1
+other/unspecified	Leptocimex	1
+other/unspecified	Leptolyngbya sp. BL-A-14	1
+other/unspecified	Leptomyxotermes doriae	1
+other/unspecified	Lepus tolai	1
+other/unspecified	Leuciscus aspius	1
+other/unspecified	Leuciscus idus	1
+other/unspecified	Leucothrix mucor	1
+other/unspecified	Leyella stercorea	1
+other/unspecified	Leyella stercorea CAG:629	1
+other/unspecified	Libanissum sp. 1-PL2025	1
+other/unspecified	Lichina confinis	1
+other/unspecified	Ligilactobacillus animalis	1
+other/unspecified	Ligilactobacillus ruminis	1
+other/unspecified	Lignoscripta atroalba	1
+other/unspecified	Limelightvirus	1
+other/unspecified	Limisphaerales bacterium	1
+other/unspecified	Limnobacter	1
+other/unspecified	Limnospira platensis	1
+other/unspecified	Limnothrix sp. BL-A-16	1
+other/unspecified	Limonium orthotospovirus 1	1
+other/unspecified	Lindaspio sp. i ZZ-2021	1
+other/unspecified	Liparis viridiflora	1
+other/unspecified	Liriomyza trifolii	1
+other/unspecified	Lisarda rhypara	1
+other/unspecified	Lithophyllon concinna	1
+other/unspecified	Lithophyllon scabra	1
+other/unspecified	Lithophyllon undulatum	1
+other/unspecified	Lizard atadenovirus A	1
+other/unspecified	Lobactis scutaria	1
+other/unspecified	Lobaria immixta	1
+other/unspecified	Lobaria pulmonaria	1
+other/unspecified	Lodderomyces orthopsilosis	1
+other/unspecified	Loessnervirus	1
+other/unspecified	Lophops saccharicida	1
+other/unspecified	Lophuromys sikapusi	1
+other/unspecified	Lotus aduncus	1
+other/unspecified	Lotus corniculatus	1
+other/unspecified	Loxospora ochrophaea	1
+other/unspecified	Lucilia cuprina	1
+other/unspecified	Lucilia sericata	1
+other/unspecified	Lucinisca fenestrata	1
+other/unspecified	Lucinisca muricata	1
+other/unspecified	Lutibacter agarilyticus	1
+other/unspecified	Lutjanus ophuysenii	1
+other/unspecified	Lymphocryptovirus	1
+other/unspecified	Lyncides sp. 1-PL2025	1
+other/unspecified	Lyngbya confervoides BLCC-M349	1
+other/unspecified	Lyngbya flaviceps BLCC-M230	1
+other/unspecified	Lyngbya flaviceps BLCC-M309	1
+other/unspecified	Lyngbya flaviceps BLCC-M399	1
+other/unspecified	Lyngbya tropicalis BLCC-M182	1
+other/unspecified	Lyssavirus	1
+other/unspecified	Macrocystidia cucumis	1
+other/unspecified	Macrocystis pyrifera	1
+other/unspecified	Madagascaritia sp. 1-PL2025	1
+other/unspecified	Magallana ariakensis	1
+other/unspecified	Magnolia changhungtana	1
+other/unspecified	Malenia bosnica	1
+other/unspecified	Malus domestica	1
+other/unspecified	Malva sylvestris	1
+other/unspecified	Mangifera indica	1
+other/unspecified	Marginopora vertebralis	1
+other/unspecified	Marinifilum sp.	1
+other/unspecified	Marinimicrobium koreense	1
+other/unspecified	Marinobacter bryozoorum	1
+other/unspecified	Marinobacter sediminum	1
+other/unspecified	Marteilia pararefringens	1
+other/unspecified	Mastomys natalensis	1
+other/unspecified	Mastotermes darwiniensis	1
+other/unspecified	Maua quadrituberculata	1
+other/unspecified	Maxillaria nasuta	1
+other/unspecified	Meenoplinae sp. 1-PL2025	1
+other/unspecified	Meenoplus sp. 1 HL-2024b	1
+other/unspecified	Megacollybia platyphylla	1
+other/unspecified	Megagnathotermes notandus	1
+other/unspecified	Megasphaera stantonii	1
+other/unspecified	Megastylis latissima	1
+other/unspecified	Megrivirus A	1
+other/unspecified	Meimuna kuroiwae	1
+other/unspecified	Meimuna oshimensis	1
+other/unspecified	Melanelia stygia	1
+other/unspecified	Melanelixia glabra	1
+other/unspecified	Melanoliarus placitus	1
+other/unspecified	Meleagris gallopavo	1
+other/unspecified	Meles meles	1
+other/unspecified	Melophagus ovinus	1
+other/unspecified	Mendozana platypleura	1
+other/unspecified	Menegazzia cincinnata	1
+other/unspecified	Metapseudomonas resinovorans	1
+other/unspecified	Methanobacteriaceae archaeon	1
+other/unspecified	Methanobacterium	1
+other/unspecified	Methanobacterium subterraneum	1
+other/unspecified	Methanomethylovorans sp. PtaU1.Bin073	1
+other/unspecified	Methanomicrobiales archaeon	1
+other/unspecified	Methanosarcina sp. Ant1	1
+other/unspecified	Methanothermobacter sp.	1
+other/unspecified	Methylobacter sp.	1
+other/unspecified	Methylobacter sp. RACSSSEBPR	1
+other/unspecified	Methylobacter sp. Wu1	1
+other/unspecified	Methylorubrum podarium	1
+other/unspecified	Methyloversatilis	1
+other/unspecified	Methylovulum sp.	1
+other/unspecified	Meyerozyma sp. JA9	1
+other/unspecified	Miasa sp. 1-PL2025	1
+other/unspecified	Microbacteriaceae bacterium	1
+other/unspecified	Microbacterium sp. 66	1
+other/unspecified	Microbacterium sp. 84	1
+other/unspecified	Microbacterium sp. B19(2022)	1
+other/unspecified	Microbacterium sp. KNMS	1
+other/unspecified	Microcerotermes	1
+other/unspecified	Microcerotermes parvus	1
+other/unspecified	Microcerotermes sp.	1
+other/unspecified	Micrococcus lylae	1
+other/unspecified	Microcoleus anatoxicus PTRS1	1
+other/unspecified	Microcoleus anatoxicus PTRS2	1
+other/unspecified	Microcoleus anatoxicus PTRS3	1
+other/unspecified	Microcoleus sp. CAWBG24	1
+other/unspecified	Microcoleus sp. CAWBG27	1
+other/unspecified	Microcoleus sp. CAWBG50	1
+other/unspecified	Microcoleus sp. CAWBG506	1
+other/unspecified	Microcoleus sp. CAWBG51	1
+other/unspecified	Microcoleus sp. CAWBG52	1
+other/unspecified	Microcoleus sp. CAWBG556	1
+other/unspecified	Microcoleus sp. CAWBG58	1
+other/unspecified	Microcoleus sp. CAWBG639	1
+other/unspecified	Microcoleus sp. CAWBG640	1
+other/unspecified	Microcystis aeruginosa LE3	1
+other/unspecified	Microcystis aeruginosa PMC 728.11	1
+other/unspecified	Microcystis sp. BLCC-F210	1
+other/unspecified	Microcystis sp. LE19-LLNL	1
+other/unspecified	Microcystis sp. LE3-LLNL	1
+other/unspecified	Microcystis sp. LSC13-02	1
+other/unspecified	Microcystis wesenbergii LE013-01	1
+other/unspecified	Micromonospora palomenae	1
+other/unspecified	Micromonospora sp. H33	1
+other/unspecified	Micromonospora sp. L31	1
+other/unspecified	Micromonospora sp. L32	1
+other/unspecified	Micromonospora sp. LZ34	1
+other/unspecified	Micromonospora sp. SD12	1
+other/unspecified	Micromonospora sp. SD19	1
+other/unspecified	Micropterus dolomieu adomavirus 1	1
+other/unspecified	Microrhagus sp. ZM-2022	1
+other/unspecified	Microseira sp. BLCC-F43	1
+other/unspecified	Mimeutermes sorex	1
+other/unspecified	Miniopterus sp. clade 10 TD-2020	1
+other/unspecified	Mink coronavirus 1	1
+other/unspecified	Miraophiovirus lactucae	1
+other/unspecified	Mirocapritermes	1
+other/unspecified	Modestobacter sp. VKM Ac-2978	1
+other/unspecified	Mogannia minuta	1
+other/unspecified	Monomorium emarginatum	1
+other/unspecified	Monomorium pharaonis	1
+other/unspecified	Mops condylurus alphacoronavirus	1
+other/unspecified	Moraxellaceae bacterium	1
+other/unspecified	Morbillivirus canis	1
+other/unspecified	Mucor sp. nbd1049	1
+other/unspecified	Muda kuroiwae	1
+other/unspecified	Muellerianella laminalis	1
+other/unspecified	Muranothrix gubernata	1
+other/unspecified	Murine norovirus GV/CR6/2005/USA	1
+other/unspecified	Mus setulosus	1
+other/unspecified	Musa AABB Group	1
+other/unspecified	Musa balbisiana	1
+other/unspecified	Musa itinerans	1
+other/unspecified	Musa lolodensis	1
+other/unspecified	Musa rubra	1
+other/unspecified	Musca domestica	1
+other/unspecified	Mustela putorius	1
+other/unspecified	Mycena luteopallens	1
+other/unspecified	Mycobacterium kubicae	1
+other/unspecified	Mycoblastus sanguinarius	1
+other/unspecified	Mycolicibacterium	1
+other/unspecified	Mycoplasma sp.	1
+other/unspecified	Mycoplasma sp. B17	1
+other/unspecified	Mycoplasmataceae bacterium	1
+other/unspecified	Mycterodus cuniceps	1
+other/unspecified	Mycterodus pallens	1
+other/unspecified	Myomyscus verreauxii	1
+other/unspecified	Myopsalta sp.	1
+other/unspecified	Myriapoda	1
+other/unspecified	Myrmica ruginodis	1
+other/unspecified	Myrmica rugulosa	1
+other/unspecified	Myrmica scabrinodis	1
+other/unspecified	Myrmica specioides	1
+other/unspecified	Myroides odoratus	1
+other/unspecified	Mytilus edulis	1
+other/unspecified	Nannocystis	1
+other/unspecified	Narcissus nivalis	1
+other/unspecified	Narnavirus	1
+other/unspecified	Nasutitermes corniger	1
+other/unspecified	Nasutitermes coxipoensis	1
+other/unspecified	Natrix natrix	1
+other/unspecified	Nectriopsis violacea	1
+other/unspecified	Nemalecium lighti	1
+other/unspecified	Neobulgaria pura	1
+other/unspecified	Neocapritermes braziliensis	1
+other/unspecified	Neocapritermes utiariti	1
+other/unspecified	Neocolpoptera portoricensis	1
+other/unspecified	Neoehrlichia mikurensis	1
+other/unspecified	Neonectria phaeodisca	1
+other/unspecified	Neonectria viridispora	1
+other/unspecified	Neoplatypleura badia	1
+other/unspecified	Neotermes castaneus	1
+other/unspecified	Nepenthes rafflesiana	1
+other/unspecified	Nersiini sp. 1-PL2025	1
+other/unspecified	Neuropogon antarcticus	1
+other/unspecified	Neuropogon sphacelatus	1
+other/unspecified	Nicella sp.	1
+other/unspecified	Nitiditermes sp.	1
+other/unspecified	Nitrobacter sp. NB2	1
+other/unspecified	Nitrosomonas eutropha	1
+other/unspecified	Nitrosopumilus sp. K4	1
+other/unspecified	Nitrososphaerota archaeon	1
+other/unspecified	Nitrospira calida	1
+other/unspecified	Nitrospira sp. Ecomares 2.1	1
+other/unspecified	Nitrospira sp. Kam-Ns4a	1
+other/unspecified	Nitrospira sp. LUA16	1
+other/unspecified	Nitrospira sp. M1	1
+other/unspecified	Nitrospira sp. Nam80	1
+other/unspecified	Nitzschia palea	1
+other/unspecified	Nocardia seriolae	1
+other/unspecified	Nodaviridae sp.	1
+other/unspecified	Noditermes lamanianus	1
+other/unspecified	Nodosilineaceae bacterium CALU 1937	1
+other/unspecified	Nomascus gabriellae	1
+other/unspecified	Nomascus siki	1
+other/unspecified	Nonea pulla	1
+other/unspecified	Nonea vesicaria	1
+other/unspecified	Nonionella auris	1
+other/unspecified	Nonionoides turgida	1
+other/unspecified	Nonomuraea sp. H19	1
+other/unspecified	Nonomuraea sp. ZG12	1
+other/unspecified	Norovirus 03/2010/Nanjing	1
+other/unspecified	Nostoc	1
+other/unspecified	Nothodelphax distincta	1
+other/unspecified	Notoparmelia tenuirima	1
+other/unspecified	Novosphingobium acidiphilum	1
+other/unspecified	Odontotermes formosanus	1
+other/unspecified	Odoribacter laneus	1
+other/unspecified	Oecleus sp. 1-PL2025	1
+other/unspecified	Oecleus sp. 2-PL2025	1
+other/unspecified	Oeclidius sp. 1-PL2025	1
+other/unspecified	Oenanthe javanica	1
+other/unspecified	Oenothera biennis	1
+other/unspecified	Oikopleura dioica	1
+other/unspecified	Okanagana bella	1
+other/unspecified	Okanagana oregona	1
+other/unspecified	Okanagana rimosa	1
+other/unspecified	Okeania sp. BLCC-M348	1
+other/unspecified	Oligoflexus sp.	1
+other/unspecified	Oligoflexus sp. FD111	1
+other/unspecified	Olonia sp. 1-PL2025	1
+other/unspecified	Olsenella uli	1
+other/unspecified	Ommatidiotus dissimilis	1
+other/unspecified	Omolicna uhleri	1
+other/unspecified	Omphalora arizonica	1
+other/unspecified	Oncorhynchus mykiss aguabonita	1
+other/unspecified	Oncorhynchus tshawytscha	1
+other/unspecified	Onkotermes corochus	1
+other/unspecified	Ophiotermes mirandus	1
+other/unspecified	Ophiovirus citri	1
+other/unspecified	Ophonus cribricollis	1
+other/unspecified	Opitutia bacterium	1
+other/unspecified	Orgeriinae sp. 1-PL2025	1
+other/unspecified	Orientia tsutsugamushi str. Karp	1
+other/unspecified	Ornithodoros phacochoerus	1
+other/unspecified	Ornithomya chloropus	1
+other/unspecified	Orosanga japonica	1
+other/unspecified	Orthobunyavirus oropoucheense	1
+other/unspecified	Orthonairovirus haemorrhagiae	1
+other/unspecified	Orthopagus sp. 1-PL2025	1
+other/unspecified	Orthotermes depressifrons	1
+other/unspecified	Oryctes rhinoceros	1
+other/unspecified	Oryzaephilus mercator	1
+other/unspecified	Oscillibacter ruminantium	1
+other/unspecified	Oscillospiraceae bacterium	1
+other/unspecified	Ouwea doddi	1
+other/unspecified	Ovibos moschatus	1
+other/unspecified	Ovine atadenovirus D	1
+other/unspecified	Packera aurea	1
+other/unspecified	Paederus fuscipes	1
+other/unspecified	Paenibacillus sp. F7	1
+other/unspecified	Paenibacillus sp. F9	1
+other/unspecified	Paeonia suffruticosa	1
+other/unspecified	Paguma larvata	1
+other/unspecified	Pamendanga sp. 1-PL2025	1
+other/unspecified	Pangolin pestivirus	1
+other/unspecified	Panthera pardus	1
+other/unspecified	Pantoea	1
+other/unspecified	Pantoea ananatis	1
+other/unspecified	Pantoea sp. EKM20T	1
+other/unspecified	Pantoea sp. G3	1
+other/unspecified	Paraavulavirus hongkongense	1
+other/unspecified	Parabacteroides sp. PS008	1
+other/unspecified	Parabacteroides sp. PS029	1
+other/unspecified	Parabacteroides sp. PS030	1
+other/unspecified	Parabacteroides sp. PS231	1
+other/unspecified	Parabacteroides sp. PS295	1
+other/unspecified	Paracatenula sp. 'standrea' Elba	1
+other/unspecified	Paracimex	1
+other/unspecified	Paracorethrura iocnemis	1
+other/unspecified	Paraflatoides sp. 1-PL2025	1
+other/unspecified	Paragorgia arborea	1
+other/unspecified	Paragorgia jamesi	1
+other/unspecified	Paragyromitra infula	1
+other/unspecified	Parahydriena hyalina	1
+other/unspecified	Paralasonia sp. 1-PL2025	1
+other/unspecified	Paramuriceidae sp.	1
+other/unspecified	Parapoxvirus of red deer in New Zealand	1
+other/unspecified	Paraprevotella sp. DS66	1
+other/unspecified	Parasorites sp. A13	1
+other/unspecified	Parasorites sp. A14	1
+other/unspecified	Parasorites sp. A16	1
+other/unspecified	Parauncinula polyspora	1
+other/unspecified	Paravarcia sp. 1-PL2025	1
+other/unspecified	Parmelia saxatilis	1
+other/unspecified	Parmeliopsis ambigua	1
+other/unspecified	Parnassius stubbendorfii	1
+other/unspecified	Parrhinotermes	1
+other/unspecified	Parrhinotermes browni	1
+other/unspecified	Parsley alphacytorhabdovirus 1	1
+other/unspecified	Parsley latent alphacytorhabdovirus	1
+other/unspecified	Parus major	1
+other/unspecified	Parvo-like hybrid virus PHV-1	1
+other/unspecified	Parvovirus sp. 02AU	1
+other/unspecified	Parvovirus sp. 10AU	1
+other/unspecified	Parvovirus sp. 18AU	1
+other/unspecified	Parvovirus sp. 19AU	1
+other/unspecified	Parvovirus sp. 21AU	1
+other/unspecified	Parvularia atlantis	1
+other/unspecified	Passer montanus	1
+other/unspecified	Pasteurella	1
+other/unspecified	Pavetta gardeniifolia	1
+other/unspecified	Pavetta revoluta	1
+other/unspecified	Pediococcus pentosaceus	1
+other/unspecified	Pegophysema philippiana	1
+other/unspecified	Pelargonium alphacytorhabdovirus 2	1
+other/unspecified	Pelatocladus sp. BLCC-F211	1
+other/unspecified	Peltigera polydactylon	1
+other/unspecified	Peltula sp. TS41687	1
+other/unspecified	Penicillium citrinum	1
+other/unspecified	Penicillium hetheringtonii	1
+other/unspecified	Penthicodes variegata	1
+other/unspecified	Pentidionis agamae	1
+other/unspecified	Pepino mosaic virus	1
+other/unspecified	Peptostreptococcus russellii	1
+other/unspecified	Perca fluviatilis	1
+other/unspecified	Peribacillus frigoritolerans	1
+other/unspecified	Periphyllus lyropictus	1
+other/unspecified	Periplaneta americana	1
+other/unspecified	Peromyscus coronavirus 1	1
+other/unspecified	Petaurus australis	1
+other/unspecified	Petromyzon marinus	1
+other/unspecified	Petunia axillaris	1
+other/unspecified	Phacoides pectinatus	1
+other/unspecified	Phaeonematoloma	1
+other/unspecified	Phaius tancarvilleae	1
+other/unspecified	Phalium glaucum	1
+other/unspecified	Phascolarctobacterium sp. CAG:207	1
+other/unspecified	Phascolarctobacterium succinatutens	1
+other/unspecified	Philander opossum	1
+other/unspecified	Philaster sp. FWC2	1
+other/unspecified	Phimunavirus	1
+other/unspecified	Phlebovirus	1
+other/unspecified	Phocaeicola coprocola CAG:162	1
+other/unspecified	Phocaeicola coprophilus	1
+other/unspecified	Phocaeicola massiliensis	1
+other/unspecified	Phocaeicola plebeius CAG:211	1
+other/unspecified	Phocaeicola sartorii	1
+other/unspecified	Phoenicopteridae	1
+other/unspecified	Phormia regina	1
+other/unspecified	Phormidium pseudopriestleyi FRX01	1
+other/unspecified	Phyllactinia taurica	1
+other/unspecified	Phylliscum demangeonii	1
+other/unspecified	Phyllocara aucheri	1
+other/unspecified	Phyllospongiinae sp. CBAS	1
+other/unspecified	Physostegia chlorotic mottle virus	1
+other/unspecified	Phytohabitans sp. LJ34	1
+other/unspecified	Pica pica	1
+other/unspecified	Piccolia ochrophora	1
+other/unspecified	Pichia kudriavzevii	1
+other/unspecified	Pichia membranifaciens	1
+other/unspecified	Pictila sp.	1
+other/unspecified	Picumna sp. 1-PL2025	1
+other/unspecified	Pigoraptor vietnamica	1
+other/unspecified	Pijolavirus	1
+other/unspecified	Pimelobacter simplex	1
+other/unspecified	Pinnotheres excussus	1
+other/unspecified	Pinnotheres pholadis	1
+other/unspecified	Pintalia alta	1
+other/unspecified	Pinus albicaulis	1
+other/unspecified	Pipistrellus pipistrellus	1
+other/unspecified	Piptanthus nepalensis	1
+other/unspecified	Pisaster ochraceus	1
+other/unspecified	Pissonotus divergens	1
+other/unspecified	Pitambara sp. 1-PL2025	1
+other/unspecified	Pittacine siadenovirus F	1
+other/unspecified	Plagiolepis pygmaea	1
+other/unspecified	Plagiolepis sp. 2PspQMUL	1
+other/unspecified	Plagusia squamosa	1
+other/unspecified	Planktothrix rubescens PR221	1
+other/unspecified	Planktothrix rubescens PR222	1
+other/unspecified	Planktothrix rubescens PR223	1
+other/unspecified	Planopleura kaempferi	1
+other/unspecified	Plasmodiophora brassicae	1
+other/unspecified	Platanthera obtusata	1
+other/unspecified	Platostoma	1
+other/unspecified	Platybrachini sp. 1-PL2025	1
+other/unspecified	Platybrachys sp. 1-PL2025	1
+other/unspecified	Platypharodon extremus	1
+other/unspecified	Pleioblastus amarus	1
+other/unspecified	Pleopsidium flavum	1
+other/unspecified	Pleuractis gravis	1
+other/unspecified	Pleuractis moluccensis	1
+other/unspecified	Plutella xylostella	1
+other/unspecified	Pneumocystis jirovecii	1
+other/unspecified	Pocillopora ligulata	1
+other/unspecified	Pocillopora verrucosa	1
+other/unspecified	Podarcis siculus	1
+other/unspecified	Podophyllum peltatum	1
+other/unspecified	Podosphaera aphanis	1
+other/unspecified	Poecilostreptus palmeri	1
+other/unspecified	Pogonomyrmex occidentalis	1
+other/unspecified	Polyphyllia talpina	1
+other/unspecified	Polyspathotermes inclitus	1
+other/unspecified	Polytrichum commune	1
+other/unspecified	Porites evermanni	1
+other/unspecified	Porotermes quadricollis	1
+other/unspecified	Porphyromonas crevioricanis	1
+other/unspecified	Postsubulitermes sp.	1
+other/unspecified	Potos flavus	1
+other/unspecified	Praomys rostratus	1
+other/unspecified	Prevotella sp. 885	1
+other/unspecified	Prevotella sp. CAG:386	1
+other/unspecified	Prevotella sp. CAG:520	1
+other/unspecified	Prevotella sp. CAG:604	1
+other/unspecified	Priestia aryabhattai	1
+other/unspecified	Primicimex cavernis	1
+other/unspecified	Procapritermes	1
+other/unspecified	Prochlorothrix hollandica	1
+other/unspecified	Procyon lotor	1
+other/unspecified	Prohamitermes mirabilis	1
+other/unspecified	Prolixibacteraceae bacterium	1
+other/unspecified	Promethearchaeota archaeon	1
+other/unspecified	Promirotermes pygmaeus	1
+other/unspecified	Prorhinotermes inopinatus	1
+other/unspecified	Prorhinotermes simplex	1
+other/unspecified	Proteobacteria bacterium CAG:139	1
+other/unspecified	Proutista sp. 1-PL2025	1
+other/unspecified	Providencia sp. PROV170	1
+other/unspecified	Providencia sp. PROV224	1
+other/unspecified	Prunus avium	1
+other/unspecified	Prunus setulosa	1
+other/unspecified	Psammomys obesus	1
+other/unspecified	Pseudacanthotermes militaris	1
+other/unspecified	Pseudephebe pubescens	1
+other/unspecified	Pseudoalteromonas atlantica	1
+other/unspecified	Pseudoalteromonas qingdaonensis	1
+other/unspecified	Pseudoalteromonas sp. PAR1	1
+other/unspecified	Pseudocyphellaria aurata	1
+other/unspecified	Pseudolucinisca lacteola	1
+other/unspecified	Pseudomonas aeruginosa phage DMS3mVir	1
+other/unspecified	Pseudomonas aeruginosa phage DMS3mVirAcrF1	1
+other/unspecified	Pseudomonas aeruginosa phage DMS3mVirAcrF4	1
+other/unspecified	Pseudomonas luteola	1
+other/unspecified	Pseudomonas migulae	1
+other/unspecified	Pseudomonas monteilii	1
+other/unspecified	Pseudomonas phage MR14	1
+other/unspecified	Pseudomonas phage UF_RH5	1
+other/unspecified	Pseudomonas phage UF_RH6	1
+other/unspecified	Pseudomonas phage UF_RH9	1
+other/unspecified	Pseudomonas sivasensis	1
+other/unspecified	Pseudomonas sp. 1010	1
+other/unspecified	Pseudomonas sp. 75	1
+other/unspecified	Pseudomonas sp. 79	1
+other/unspecified	Pseudomonas sp. AK4	1
+other/unspecified	Pseudomonas sp. B14(2022)	1
+other/unspecified	Pseudomonas sp. C5	1
+other/unspecified	Pseudomonas sp. CK4	1
+other/unspecified	Pseudomonas sp. DNBF1	1
+other/unspecified	Pseudomonas sp. EK4	1
+other/unspecified	Pseudomonas sp. FK4	1
+other/unspecified	Pseudomonas sp. GK4	1
+other/unspecified	Pseudomonas sp. HK4	1
+other/unspecified	Pseudomonas sp. LK4	1
+other/unspecified	Pseudomonas sp. PARCl1	1
+other/unspecified	Pseudomonas sp. PS039	1
+other/unspecified	Pseudomonas sp. S13.1.2	1
+other/unspecified	Pseudomonas sp. T0H0CK1	1
+other/unspecified	Pseudomonas sp. T0H0CK2	1
+other/unspecified	Pseudomonas sp. T0H0CK3	1
+other/unspecified	Pseudomonas sp. T0H0CK4	1
+other/unspecified	Pseudomonas sp. T0H0CK6	1
+other/unspecified	Pseudomonas sp. T0H0CK7	1
+other/unspecified	Pseudomonas sp. T0H0CK8	1
+other/unspecified	Pseudomonas sp. WK4	1
+other/unspecified	Pseudomonas sp. Y39-6	1
+other/unspecified	Pseudomonas sp. YK4	1
+other/unspecified	Pseudomonas sp. Z41	1
+other/unspecified	Pseudosperma bulbosissimum	1
+other/unspecified	Pseudosperma rimosum	1
+other/unspecified	Pseudoxanthomonas fibrivorans	1
+other/unspecified	Psilocybe angustipleurocystidiata	1
+other/unspecified	Psilocybe aquamarina	1
+other/unspecified	Psilocybe callosa	1
+other/unspecified	Psilocybe columbiana	1
+other/unspecified	Psilocybe congolensis	1
+other/unspecified	Psilocybe cyanofibrillosa	1
+other/unspecified	Psilocybe fimetaria	1
+other/unspecified	Psilocybe guilartensis	1
+other/unspecified	Psilocybe heimii	1
+other/unspecified	Psilocybe hoogshageni	1
+other/unspecified	Psilocybe hopii	1
+other/unspecified	Psilocybe lazoi	1
+other/unspecified	Psilocybe liniformans	1
+other/unspecified	Psilocybe mexicana	1
+other/unspecified	Psilocybe muliercula	1
+other/unspecified	Psilocybe natalensis	1
+other/unspecified	Psilocybe ovoideocystidiata	1
+other/unspecified	Psilocybe pelliculosa	1
+other/unspecified	Psilocybe pleurocystidiosa	1
+other/unspecified	Psilocybe portoricensis	1
+other/unspecified	Psilocybe rhomboidospora	1
+other/unspecified	Psilocybe samuiensis	1
+other/unspecified	Psilocybe semilanceata	1
+other/unspecified	Psilocybe serbica var. arcana	1
+other/unspecified	Psilocybe serbica var. bohemica	1
+other/unspecified	Psilocybe serbica var. moravica	1
+other/unspecified	Psilocybe singeri	1
+other/unspecified	Psilocybe stuntzii	1
+other/unspecified	Psilocybe subcoprophila	1
+other/unspecified	Psilocybe subfimetaria	1
+other/unspecified	Psilocybe subhoogshagenii	1
+other/unspecified	Psilocybe subpsilocybioides	1
+other/unspecified	Psilocybe subviscida	1
+other/unspecified	Psilocybe subyungensis	1
+other/unspecified	Psilocybe washingtonensis	1
+other/unspecified	Psilocybe weilii	1
+other/unspecified	Psilocybe wrightii	1
+other/unspecified	Psilocybe xalapensis	1
+other/unspecified	Psitticimex uritui	1
+other/unspecified	Psychotria capensis	1
+other/unspecified	Psychrobacter arenosus	1
+other/unspecified	Pternopetalum davidii	1
+other/unspecified	Pterocarya macroptera var. delavayi	1
+other/unspecified	Pterocarya stenoptera	1
+other/unspecified	Pterula multifida	1
+other/unspecified	Ptychobarbus dipogon	1
+other/unspecified	Ptychographa xylographoides	1
+other/unspecified	Punica granatum	1
+other/unspecified	Puttea exsequens	1
+other/unspecified	Pycnora praestabilis	1
+other/unspecified	Pygathrix nemaeus	1
+other/unspecified	Pyrinomonas methylaliphatogenes	1
+other/unspecified	Pyrops clavatus	1
+other/unspecified	Pyrops viridirostris	1
+other/unspecified	Quasitermes incisus	1
+other/unspecified	Quilessa sp. 1-PL2025	1
+other/unspecified	Raivuna patruelis	1
+other/unspecified	Raivuna sp. 1-PL2025	1
+other/unspecified	Rallus aquaticus	1
+other/unspecified	Ranissus edirneus	1
+other/unspecified	Ranunculus californicus	1
+other/unspecified	Raphidiopsis sp. BLCC-F218	1
+other/unspecified	Restrepia sanguinea	1
+other/unspecified	Reticulitermes flavipes	1
+other/unspecified	Reticulitermes nelsonae	1
+other/unspecified	Reticulitermes sp. 301-90_THAI098	1
+other/unspecified	Rhabdocephala brunnea	1
+other/unspecified	Rhagoletis cerasi	1
+other/unspecified	Rhinotermes hispidus	1
+other/unspecified	Rhinovirus C	1
+other/unspecified	Rhizobium sp.	1
+other/unspecified	Rhizophagus irregularis	1
+other/unspecified	Rhizoplaca melanophthalma subsp. cerebriformis	1
+other/unspecified	Rhizoplaca novomexicana	1
+other/unspecified	Rhizoplaca sp. 715f	1
+other/unspecified	Rhizoplaca subdiscrepans	1
+other/unspecified	Rhodopila sp.	1
+other/unspecified	Rhodosorus marinus	1
+other/unspecified	Rhodotorula mucilaginosa	1
+other/unspecified	Rhyzopertha dominica	1
+other/unspecified	Ricania venustula	1
+other/unspecified	Ricaniidae sp. 1-PL2025	1
+other/unspecified	Ricanula unica	1
+other/unspecified	Rickettsia helvetica	1
+other/unspecified	Rickettsia sp. CA23RL1	1
+other/unspecified	Rickettsia sp. Docc24-7980	1
+other/unspecified	Rickettsia sp. Hlp24-5179	1
+other/unspecified	Rickettsia sp. Hlp24-6522	1
+other/unspecified	Rickettsiales bacterium	1
+other/unspecified	Robinsoniella peoriensis	1
+other/unspecified	Romboutsia	1
+other/unspecified	Romboutsia weinsteinii	1
+other/unspecified	Roseburia faecis	1
+other/unspecified	Roseburia hominis	1
+other/unspecified	Roseibacillus sp.	1
+other/unspecified	Rothia aeria	1
+other/unspecified	Rothia kristinae	1
+other/unspecified	Rubellimicrobium sp. 009904055	1
+other/unspecified	Rubus betacytorhabdovirus 1	1
+other/unspecified	Rugalucina angela	1
+other/unspecified	Ruminococcaceae bacterium D16	1
+other/unspecified	Ruminococcaceae bacterium cv2	1
+other/unspecified	Saccharina longissima	1
+other/unspecified	Saccharosydne sp. 1-PL2025	1
+other/unspecified	Sakesphoroides cristatus	1
+other/unspecified	Salamandra salamandra	1
+other/unspecified	Salmo trutta fario	1
+other/unspecified	Salmonella enterica subsp. enterica serovar Typhimurium	1
+other/unspecified	Salmonella phage pJS4	1
+other/unspecified	Salmonella phage sp.	1
+other/unspecified	Salvelinus fontinalis	1
+other/unspecified	Sander lucioperca	1
+other/unspecified	Sarcophaga africa	1
+other/unspecified	Sarcosagium campestre	1
+other/unspecified	Sarea resinae	1
+other/unspecified	Saussurea inversa	1
+other/unspecified	Scale drop disease virus	1
+other/unspecified	Schaalia turicensis	1
+other/unspecified	Schedorhinotermes	1
+other/unspecified	Schedorhinotermes lamanianus	1
+other/unspecified	Schedorhinotermes sarawakensis	1
+other/unspecified	Schistosoma sp.	1
+other/unspecified	Schizothorax labiatus	1
+other/unspecified	Schizothorax macropogon	1
+other/unspecified	Scieroptera splendidula	1
+other/unspecified	Sclerophora amabilis	1
+other/unspecified	Scolops sulcipes	1
+other/unspecified	Sedum alphacytorhabdovirus 1	1
+other/unspecified	Segatella buccae	1
+other/unspecified	Segatella copri CAG:164	1
+other/unspecified	Seoulvirus SPN3US	1
+other/unspecified	Serendipita sp. 407	1
+other/unspecified	Serritermes serrifer	1
+other/unspecified	Shigella dysenteriae	1
+other/unspecified	Shigella flexneri	1
+other/unspecified	Shigella sonnei	1
+other/unspecified	Sinelater perroti	1
+other/unspecified	Sinocapritermes	1
+other/unspecified	Sitophilus granarius	1
+other/unspecified	Sitophilus oryzae	1
+other/unspecified	Sitotroga cerealella	1
+other/unspecified	Skeletonema	1
+other/unspecified	Slackia exigua	1
+other/unspecified	Slackia heliotrinireducens	1
+other/unspecified	Smithella sp. F21	1
+other/unspecified	Smutsia temminckii	1
+other/unspecified	Sodalis sp. (in: enterobacteria)	1
+other/unspecified	Solanum infundibuliforme	1
+other/unspecified	Solanum limbaniense	1
+other/unspecified	Solanum nigrum	1
+other/unspecified	Solanum piurae	1
+other/unspecified	Solanum scabrifolium	1
+other/unspecified	Solanum vernei	1
+other/unspecified	Solanum x rechei	1
+other/unspecified	Solenopsis molesta	1
+other/unspecified	Solidago sp. PC-2019	1
+other/unspecified	Solirubrobacter soli	1
+other/unspecified	Sorites sp. A11	1
+other/unspecified	Sorites sp. CB1	1
+other/unspecified	Soybean dwarf virus	1
+other/unspecified	Spathulospora adelpha	1
+other/unspecified	Spathulospora antarctica	1
+other/unspecified	Sphaerophorus fragilis	1
+other/unspecified	Sphaeropteris lepifera	1
+other/unspecified	Sphaerotermes sphaerothorax	1
+other/unspecified	Sphingobacteriaceae bacterium	1
+other/unspecified	Sphingobacterium mizutaii	1
+other/unspecified	Sphingomonas sp.	1
+other/unspecified	Sphingomonas sp. FARSPH	1
+other/unspecified	Sphingomonas sp. URHD0057	1
+other/unspecified	Spirobacillus cienkowskii	1
+other/unspecified	Spiroplasma sp. hyd1	1
+other/unspecified	Spirulina sp.	1
+other/unspecified	Sporothrix thermara	1
+other/unspecified	Spumella sp. NIES-1846	1
+other/unspecified	Staphylococcus capitis	1
+other/unspecified	Staphylococcus phage SWC012	1
+other/unspecified	Staphylococcus sp. TD-H2-A-1	1
+other/unspecified	Staphylococcus sp. TD-H2-A-2	1
+other/unspecified	Staphylococcus sp. TD-H2-A-3	1
+other/unspecified	Staphylococcus sp. hg001-3	1
+other/unspecified	Staphylococcus xylosus	1
+other/unspecified	Stegobium paniceum	1
+other/unspecified	Stenocranus lautus	1
+other/unspecified	Stenocranus minutus	1
+other/unspecified	Stenotrophomonas indicatrix	1
+other/unspecified	Stenotrophomonas rhizophila	1
+other/unspecified	Stereocaulon alpinum	1
+other/unspecified	Stereocaulon antarcticum	1
+other/unspecified	Stereocaulon caespitosum	1
+other/unspecified	Stereocaulon cf. fronduliferum	1
+other/unspecified	Stereocaulon cornutum	1
+other/unspecified	Stereocaulon glabrum	1
+other/unspecified	Stereocaulon gregarium	1
+other/unspecified	Stereocaulon vesuvianum var. symphycheileoides	1
+other/unspecified	Stictis urceolata	1
+other/unspecified	Stigonema ocellatum	1
+other/unspecified	Stilpnia cyanoptera	1
+other/unspecified	Stilpnia vitriolina	1
+other/unspecified	Stolotermes victoriensis	1
+other/unspecified	Stomoxys calcitrans	1
+other/unspecified	Streptococcus iniae	1
+other/unspecified	Streptococcus mitis	1
+other/unspecified	Streptococcus parasanguinis	1
+other/unspecified	Streptococcus sp.	1
+other/unspecified	Streptococcus sp. RITM002I4	1
+other/unspecified	Streptococcus sp. RITM003I4	1
+other/unspecified	Streptococcus sp. RITM004I4	1
+other/unspecified	Streptococcus sp. RITM008I4	1
+other/unspecified	Streptococcus sp. RITM009I10	1
+other/unspecified	Streptococcus sp. RITM019I10	1
+other/unspecified	Streptococcus sp. RITM020I10	1
+other/unspecified	Streptococcus sp. RITM020I12	1
+other/unspecified	Streptococcus sp. RITM020I4	1
+other/unspecified	Streptococcus sp. RITM021I10	1
+other/unspecified	Streptococcus sp. RITM022I12	1
+other/unspecified	Streptococcus sp. RITM022I4	1
+other/unspecified	Streptococcus sp. RITM023I4	1
+other/unspecified	Streptococcus sp. RITM029I10	1
+other/unspecified	Streptococcus sp. RITM034I10	1
+other/unspecified	Streptococcus sp. RITM034I12	1
+other/unspecified	Streptococcus sp. RITM038I10	1
+other/unspecified	Streptococcus sp. RITM042I10	1
+other/unspecified	Streptococcus sp. RITM043I2	1
+other/unspecified	Streptococcus sp. RITM046I2	1
+other/unspecified	Streptococcus sp. RITM052I12	1
+other/unspecified	Streptococcus sp. RITM052I2	1
+other/unspecified	Streptococcus sp. RITM052I4	1
+other/unspecified	Streptococcus sp. RITM053I10	1
+other/unspecified	Streptococcus sp. RITM053I12	1
+other/unspecified	Streptococcus sp. RITM059I10	1
+other/unspecified	Streptococcus sp. RITM060I10	1
+other/unspecified	Streptococcus sp. RITM070I10	1
+other/unspecified	Streptococcus sp. RITM070I12	1
+other/unspecified	Streptococcus sp. RITM071I10	1
+other/unspecified	Streptococcus sp. RITM071I12	1
+other/unspecified	Streptococcus sp. RITM077I10	1
+other/unspecified	Streptococcus sp. RITM077I2	1
+other/unspecified	Streptococcus sp. RITM081I10	1
+other/unspecified	Streptococcus sp. RITM081I12	1
+other/unspecified	Streptococcus sp. RITM084I2	1
+other/unspecified	Streptococcus sp. RMPRU004I4	1
+other/unspecified	Streptococcus sp. RMPRU008I4	1
+other/unspecified	Streptococcus sp. RMPRU008I7	1
+other/unspecified	Streptococcus sp. RMPRU010I3	1
+other/unspecified	Streptococcus sp. RMPRU010I7	1
+other/unspecified	Streptococcus sp. RMPRU011I4	1
+other/unspecified	Streptococcus sp. RMPRU011I7	1
+other/unspecified	Streptococcus sp. RMPRU019I3	1
+other/unspecified	Streptococcus sp. RMPRU019I7	1
+other/unspecified	Streptococcus sp. RMPRU022I2	1
+other/unspecified	Streptococcus sp. RMPRU023I2	1
+other/unspecified	Streptococcus sp. VT 162	1
+other/unspecified	Streptomyces actinocidus	1
+other/unspecified	Streptomyces actuosus	1
+other/unspecified	Streptomyces mutabilis	1
+other/unspecified	Streptomyces phage Samy	1
+other/unspecified	Streptomyces sp. CoH27	1
+other/unspecified	Streptomyces sp. CoT10	1
+other/unspecified	Streptomyces sp. OZ13	1
+other/unspecified	Streptomyces sp. SD11	1
+other/unspecified	Streptomyces sp. SD15	1
+other/unspecified	Streptomyces sp. SD18	1
+other/unspecified	Streptomyces sp. SD31	1
+other/unspecified	Streptomyces sp. SD35	1
+other/unspecified	Streptomyces virginiae	1
+other/unspecified	Streptosporangium sp. G11	1
+other/unspecified	Streptosporangium sp. G12	1
+other/unspecified	Streptosporangium sp. H16	1
+other/unspecified	Streptosporangium sp. OZ121	1
+other/unspecified	Strophariaceae	1
+other/unspecified	Strophariaceae sp.	1
+other/unspecified	Stylotermes	1
+other/unspecified	Stylotermes halumicus	1
+other/unspecified	Styrax japonicus	1
+other/unspecified	Subdoligranulum sp. DS25	1
+other/unspecified	Subdoligranulum sp. DS28	1
+other/unspecified	Subdoligranulum sp. DS40	1
+other/unspecified	Subdoligranulum sp. DS67	1
+other/unspecified	Subdoligranulum sp. DS73	1
+other/unspecified	Subdoligranulum sp. DS79	1
+other/unspecified	Subdoligranulum sp. DS80	1
+other/unspecified	Subdoligranulum sp. PS107	1
+other/unspecified	Subdoligranulum sp. PS108	1
+other/unspecified	Subdoligranulum sp. PS157	1
+other/unspecified	Subdoligranulum sp. PS186	1
+other/unspecified	Subdoligranulum sp. PS203	1
+other/unspecified	Subdoligranulum sp. PS221	1
+other/unspecified	Subdoligranulum sp. PS223	1
+other/unspecified	Subdoligranulum sp. PS224	1
+other/unspecified	Subdoligranulum sp. PS249	1
+other/unspecified	Subdoligranulum sp. PS318	1
+other/unspecified	Sulfuricurvum sp. IAE1	1
+other/unspecified	Sulfurimonas sp. C5	1
+other/unspecified	Sulfurospirillum sp. 017860615	1
+other/unspecified	Sunxiuqinia elliptica	1
+other/unspecified	Sutterella parvirubra	1
+other/unspecified	Sutterella wadsworthensis	1
+other/unspecified	Swiftia exserta	1
+other/unspecified	Symbiomonas scintillans	1
+other/unspecified	Symplana sp. 1-PL2025	1
+other/unspecified	Synechococcus sp. HK04	1
+other/unspecified	Synechococcus sp. HK05	1
+other/unspecified	Synechococcus sp. HK07	1
+other/unspecified	Synechococcus sp. HK08	1
+other/unspecified	Synechococcus sp. HK09	1
+other/unspecified	Synechococcus sp. HK10	1
+other/unspecified	Synechococcus sp. SCS01	1
+other/unspecified	Synechococcus sp. SCS02	1
+other/unspecified	Synechococcus sp. SCS03	1
+other/unspecified	Synechococcus sp. SCS05	1
+other/unspecified	Synechococcus sp. XM02	1
+other/unspecified	Synechococcus sp. XM03	1
+other/unspecified	Synechococcus sp. XM04	1
+other/unspecified	Syntermes spinosus	1
+other/unspecified	Sypharochiton pelliserpentis	1
+other/unspecified	Taihangia rupestris var. ciliata	1
+other/unspecified	Tamlana	1
+other/unspecified	Tamlana crocina	1
+other/unspecified	Tangara chrysotis	1
+other/unspecified	Tangara cyanocephala	1
+other/unspecified	Tangara dowii	1
+other/unspecified	Tangara florida	1
+other/unspecified	Tangara icterocephala	1
+other/unspecified	Tangara labradorides	1
+other/unspecified	Tangara nigroviridis	1
+other/unspecified	Tangara schrankii	1
+other/unspecified	Tanna japonensis	1
+other/unspecified	Tapinoma sessile	1
+other/unspecified	Taurella froggatti	1
+other/unspecified	Tedania ignis	1
+other/unspecified	Tequintavirus	1
+other/unspecified	Terepsalta infans	1
+other/unspecified	Termes fatalis	1
+other/unspecified	Termes hispaniolae	1
+other/unspecified	Termes hospes	1
+other/unspecified	Terminalia myriocarpa	1
+other/unspecified	Termitinae sp.	1
+other/unspecified	Ternicubitermes sp.	1
+other/unspecified	Tesano Aedes virus	1
+other/unspecified	Teseptimavirus	1
+other/unspecified	Tetramorium caespitum	1
+other/unspecified	Tettigades limbata	1
+other/unspecified	Tettigades sp. 3 nr. ulnaria PL-2024a	1
+other/unspecified	Tettigades undata	1
+other/unspecified	Tettigarcta crinita	1
+other/unspecified	Tettigometra hexaspina	1
+other/unspecified	Tettigometra impressopunctata	1
+other/unspecified	Tettigometra macrocephala	1
+other/unspecified	Tettigotoma maculata	1
+other/unspecified	Thalassococcus profundi	1
+other/unspecified	Thauera	1
+other/unspecified	Thauera sp.	1
+other/unspecified	Thauera sp. UPWRP	1
+other/unspecified	Thaxterogaster scaurus	1
+other/unspecified	Thelocarpon superellum	1
+other/unspecified	Thelonectria lucida	1
+other/unspecified	Thelotrema lepadinum	1
+other/unspecified	Thermomicrobium sp. 002898255	1
+other/unspecified	Thermomonas	1
+other/unspecified	Thermomonas flagellata	1
+other/unspecified	Thermoprotei archaeon	1
+other/unspecified	Thermopsis macrophylla	1
+other/unspecified	Thermotogota bacterium	1
+other/unspecified	Thesea sp.	1
+other/unspecified	Thiobacillus	1
+other/unspecified	Thiomonas sp. CB2	1
+other/unspecified	Thionia rubrocostata	1
+other/unspecified	Thiothrix	1
+other/unspecified	Thomasclavelia spiroformis	1
+other/unspecified	Thoracotermes macrothorax	1
+other/unspecified	Thyasira sp. Sagami	1
+other/unspecified	Thyrea confusa	1
+other/unspecified	Tiarella cordifolia	1
+other/unspecified	Tibeta zenobia	1
+other/unspecified	Tobamovirus	1
+other/unspecified	Todiramphus sanctus papillomavirus 1	1
+other/unspecified	Toensbergia leucococca	1
+other/unspecified	Tolypothrix scytonemoides	1
+other/unspecified	Tonna chinensis	1
+other/unspecified	Toropa sp. 1-PL2025	1
+other/unspecified	Trachypithecus delacouri	1
+other/unspecified	Trachypithecus hatinhensis	1
+other/unspecified	Trapelia coarctata	1
+other/unspecified	Trialeurodes vaporariorum	1
+other/unspecified	Tribolium castaneum	1
+other/unspecified	Tribolium freemani	1
+other/unspecified	Trichoderma longibrachiatum	1
+other/unspecified	Trichodesmium thiebautii sct-8t3	1
+other/unspecified	Trichosurus cunninghami	1
+other/unspecified	Trillium grandiflorum	1
+other/unspecified	Tringa glareola	1
+other/unspecified	Triplophysa tenuis	1
+other/unspecified	Triticum turgidum subsp. durum	1
+other/unspecified	Tritodynamia horvathi	1
+other/unspecified	Trizodia sp. TS-e1964	1
+other/unspecified	Trogoderma variabile	1
+other/unspecified	Tscherskia triton	1
+other/unspecified	Tshurtshurnella decempunctata	1
+other/unspecified	Tubaria furfuracea	1
+other/unspecified	Tuber lyonii	1
+other/unspecified	Tuberculitermes bycanistes	1
+other/unspecified	Tulasnella sp. 144	1
+other/unspecified	Tulasnella sp. 239	1
+other/unspecified	Tychonema bourrellyi B0820	1
+other/unspecified	Ugyops longifrons	1
+other/unspecified	Ugyops sp. 1-PL2025	1
+other/unspecified	Ugyops sp. 2-PL2025	1
+other/unspecified	Ulundia sp. 1-PL2025	1
+other/unspecified	Ulundia sp. 2-PL2025	1
+other/unspecified	Umbilicaria decussata	1
+other/unspecified	Umezakia ovalisporum BLCC-F208	1
+other/unspecified	Umezakia ovalisporum BLCC-F215	1
+other/unspecified	Unguitermes trispinosus	1
+other/unspecified	Usnea subantarctica	1
+other/unspecified	Ustilago sp.	1
+other/unspecified	Usutu virus	1
+other/unspecified	Uvigerina striata	1
+other/unspecified	Vagitanus terminalis	1
+other/unspecified	Valvulineria inflata	1
+other/unspecified	Vangueria dryadum	1
+other/unspecified	Vangueria esculenta	1
+other/unspecified	Vangueria macrocalyx	1
+other/unspecified	Vangueria randii	1
+other/unspecified	Vangueria soutpansbergensis	1
+other/unspecified	Varicellaria rhodocarpa	1
+other/unspecified	Veillonella sp. PS148	1
+other/unspecified	Velocitermes barrocoloradensis	1
+other/unspecified	Verbena bonariensis	1
+other/unspecified	Vernonia gigantea	1
+other/unspecified	Verrucomicrobiia bacterium Tous-C5FEB	1
+other/unspecified	Verrucositermes tuberosus	1
+other/unspecified	Vespadelus darlingtoni	1
+other/unspecified	Vezdaea acicularis	1
+other/unspecified	Vezdaea aestivalis	1
+other/unspecified	Vibrio kanaloae	1
+other/unspecified	Vibrio phage vB_VchM_VP-3213	1
+other/unspecified	Vibrio phage vB_VpaM_VP-3212	1
+other/unspecified	Vibrio phage vB_VpaP_VP-3220	1
+other/unspecified	Vibrio sp. St2	1
+other/unspecified	Vibrio sp. YIC-376	1
+other/unspecified	Victorgorgia sp.	1
+other/unspecified	Vinata sp. 1-PL2025	1
+other/unspecified	Vittagaeana paviei	1
+other/unspecified	Vizcaya sp. 1-PL2025	1
+other/unspecified	Whitmania pigra	1
+other/unspecified	Woeseiaceae bacterium	1
+other/unspecified	Wolbachia endosymbiont of Atemnus politus	1
+other/unspecified	Wolbachia endosymbiont of Ceratitis capitata	1
+other/unspecified	Wolbachia endosymbiont of Drosophila melanogaster	1
+other/unspecified	Wolbachia endosymbiont of Rhagoletis cerasi	1
+other/unspecified	Wolbachia endosymbiont of Tribolium confusum	1
+other/unspecified	Wurfbainia neoaurantiaca	1
+other/unspecified	Xanthoparmelia angustiphylla	1
+other/unspecified	Xanthoparmelia hypofusca	1
+other/unspecified	Xanthoparmelia lavicola	1
+other/unspecified	Xanthoparmelia lipochlorochroa	1
+other/unspecified	Xanthoparmelia maricopensis	1
+other/unspecified	Xanthoparmelia moctezumensis	1
+other/unspecified	Xanthoparmelia protomatrae	1
+other/unspecified	Xanthoparmelia psoromifera	1
+other/unspecified	Xanthoparmelia sp. 14427	1
+other/unspecified	Xanthoparmelia sp. 14435	1
+other/unspecified	Xanthoparmelia sp. 14436	1
+other/unspecified	Xanthoparmelia sp. 14437	1
+other/unspecified	Xanthoparmelia sp. 14438F	1
+other/unspecified	Xanthoparmelia sp. 14439F	1
+other/unspecified	Xanthoparmelia sp. 14440F	1
+other/unspecified	Xanthoparmelia sp. 14441F	1
+other/unspecified	Xanthoparmelia sp. 14442	1
+other/unspecified	Xanthoparmelia sp. 14443F	1
+other/unspecified	Xanthoparmelia sp. 14444	1
+other/unspecified	Xanthoparmelia sp. 14445	1
+other/unspecified	Xanthoparmelia sp. 14446F	1
+other/unspecified	Xanthoparmelia sp. 14447F	1
+other/unspecified	Xanthoparmelia sp. 14448	1
+other/unspecified	Xanthoparmelia sp. 14805	1
+other/unspecified	Xanthoparmelia sp. 17003	1
+other/unspecified	Xanthoparmelia sp. 9349F	1
+other/unspecified	Xanthoparmelia sp. 9350F	1
+other/unspecified	Xanthoparmelia sp. 9353	1
+other/unspecified	Xanthoparmelia sp. 9356F	1
+other/unspecified	Xanthoparmelia sp. 9492f	1
+other/unspecified	Xanthoparmelia sp. 9493	1
+other/unspecified	Xanthoparmelia sp. 9495F	1
+other/unspecified	Xanthoparmelia sp. 9497F	1
+other/unspecified	Xanthoparmelia sp. 961f	1
+other/unspecified	Xanthoparmelia sp. 9641F	1
+other/unspecified	Xanthoparmelia sp. 9650F	1
+other/unspecified	Xanthoparmelia sp. 9664F	1
+other/unspecified	Xanthoparmelia sp. 9668	1
+other/unspecified	Xanthoparmelia sp. 9669F	1
+other/unspecified	Xanthoparmelia sp. 9686	1
+other/unspecified	Xanthoparmelia sp. 972f	1
+other/unspecified	Xanthoparmelia sp. 9866f	1
+other/unspecified	Xanthoparmelia sp. 9867F	1
+other/unspecified	Xanthoparmelia sp. 987f	1
+other/unspecified	Xanthoparmelia sp. 9904f	1
+other/unspecified	Xanthoparmelia sp. 9913f	1
+other/unspecified	Xanthoparmelia sp. SL17011	1
+other/unspecified	Xanthoparmelia sp. SL17358	1
+other/unspecified	Xanthoparmelia wyomingica	1
+other/unspecified	Xenophthalmus pinnotheroides	1
+other/unspecified	Xenopus tropicalis	1
+other/unspecified	Xylaria hypoxylon	1
+other/unspecified	Xylobium variegatum	1
+other/unspecified	Xylographa bjoerkii	1
+other/unspecified	Xylographa carneopallida	1
+other/unspecified	Xylographa pallens	1
+other/unspecified	Xylographa parallela	1
+other/unspecified	Xylographa trunciseda	1
+other/unspecified	Xylographa vitiligo	1
+other/unspecified	Yarrowia lipolytica	1
+other/unspecified	Yezoterpnosia nigricosta	1
+other/unspecified	Yezoterpnosia obscura	1
+other/unspecified	Yezoterpnosia vacua	1
+other/unspecified	Yoyetta sp.	1
+other/unspecified	Zannichellia palustris	1
+other/unspecified	Zea mays subsp. parviglumis	1
+other/unspecified	Zobellella denitrificans	1
+other/unspecified	Zoraida sp. 1-PL2025	1
+other/unspecified	[Clostridium] hylemonae	1
+other/unspecified	[Clostridium] leptum	1
+other/unspecified	[Clostridium] scindens	1
+other/unspecified	[Clostridium] symbiosum	1
+other/unspecified	[Eubacterium] siraeum	1
+other/unspecified	aquarium	1
+other/unspecified	archaeon	1
+other/unspecified	bioleaching	1
+other/unspecified	chemical production	1
+other/unspecified	cosmetics	1
+other/unspecified	dengue virus type 1	1
+other/unspecified	endosymbiont of Lamellibrachia barhami	1
+other/unspecified	fuel tank	1
+other/unspecified	fungal sp. GFI 125	1
+other/unspecified	fungal sp. GFI 146	1
+other/unspecified	herbal medicine	1
+other/unspecified	magnetite-containing magnetic coccus	1
+other/unspecified	methanogenic toluene-degrading enrichment culture	1
+other/unspecified	paper pulp	1
+other/unspecified	rhinovirus A105	1
+other/unspecified	rhinovirus A22	1
+other/unspecified	rhinovirus A60	1
+other/unspecified	rhinovirus B70	1
+other/unspecified	rhinovirus B72	1
+other/unspecified	rhinovirus B83	1
+other/unspecified	rhinovirus B92	1
+other/unspecified	rhinovirus C26	1
+other/unspecified	rhinovirus C33	1
+other/unspecified	rhinovirus C35	1
+other/unspecified	rhinovirus C46	1
+other/unspecified	unclassified Desulfofustis	1
+other/unspecified	unclassified Duvinacovirus	1
+other/unspecified	unclassified Minunacovirus	1
+other/unspecified	unclassified Pedacovirus	1
+other/unspecified	unclassified Soehngenia	1
+other/unspecified	vibrio metagenome HEM_01	1
+other/unspecified	vibrio metagenome HEM_02	1
+other/unspecified	vibrio metagenome HEM_04	1
+other/unspecified	zygomycete sp. GFI 1	1
+other/unspecified	zygomycete sp. GFI 2	1
+other/unspecified	zygomycete sp. GFI 5	1
+river/stream	riverine	800
+saline/hypersaline lake, salt marsh	salt lake	406
+saline/hypersaline lake, salt marsh	brine	227
+saline/hypersaline lake, salt marsh	salt marsh	224
+saline/hypersaline lake, salt marsh	hypersaline lake	196
+saline/hypersaline lake, salt marsh	soda lake	64
+saline/hypersaline lake, salt marsh	saltern	23
+saline/hypersaline lake, salt marsh	saline spring	4
+sediment	sediment	9723
+sediment	freshwater sediment	3116
+sediment	marine sediment	2075
+sediment	tidal flat	454
+sediment	alkali sediment	15
+sediment	mud	1
+soil/peat/wetland	soil	60900
+soil/peat/wetland	rhizosphere	3451
+soil/peat/wetland	peat	1630
+soil/peat/wetland	terrestrial	1523
+soil/peat/wetland	wetland	1034
+soil/peat/wetland	permafrost	344
+soil/peat/wetland	biocrust	300
+soil/peat/wetland	rice paddy	140
+soil/peat/wetland	bog	19
+wastewater/engineered	wastewater	20227
+wastewater/engineered	sludge	3916
+wastewater/engineered	bioreactor	2834
+wastewater/engineered	activated sludge	2746
+wastewater/engineered	anaerobic digester	1347
+wastewater/engineered	bioreactor sludge	738
+wastewater/engineered	biogas fermenter	225
+wastewater/engineered	landfill	159
+wastewater/engineered	leachate	72
+wastewater/engineered	activated carbon	19

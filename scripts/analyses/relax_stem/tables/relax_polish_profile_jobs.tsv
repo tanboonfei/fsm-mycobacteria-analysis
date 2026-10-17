@@ -1,0 +1,28 @@
+test	job	model	method	start_lnL	best_lnL	K	best_at	pass_deltas	done	runtime_s
+FSM	A_FSM_free_fromK1.04	alt (K free)	HyPhy default	-694851.495876	-694851.290846	1.03299197425585	pass1		finished	307
+LEP	A_LEP_free_fromK0.76	alt (K free)	HyPhy default	-694943.619178	-694942.877321	0.7731242375326985	pass1	+0.74 / -9.18	finished	3575
+LEP	A_LEP_free_fromRrerun	alt (K free)	HyPhy default	-694939.56941	-694939.56941	0.7717	start	-0.67	finished	1016
+FSM	L_FSM_alt	alt (K free)	HyPhy default	-694851.290827	-694851.186318	1.03303814084204	pass1	+0.10 / -8.49	finished	3940
+FSM	L_FSM_null	null (K=1)	HyPhy default	-694854.896485	-694854.838841	1.0	pass1	+0.06	finished	188
+FSM	L_FSM_sp5alt_cw	alt (K free)	coordinate-wise	-694849.005716	-694848.986644	1.04158248701648	pass1	+0.02	finished	149
+FSM	L_FSM_sp5null_cw	null (K=1)	coordinate-wise	-694852.371082	-694852.343015	1.0	pass1	+0.03	finished	186
+LEP	L_LEP_ralt_cw	alt (K free)	coordinate-wise	-694939.56941	-694939.56941	0.7717	start	-0.63	finished	1185
+LEP	L_LEP_rnull_cw	null (K=1)	coordinate-wise	-695030.985644	-695030.985644	1.0	start	-0.74	finished	1841
+FSM	P_FSM_K0.96	profile K=0.96	HyPhy default	-694875.268321	-694866.942885	0.96	pass1		finished	1766
+FSM	P_FSM_K1.00_fromK1.04	null (K=1)	HyPhy default	-694857.837985	-694854.896485	1.0	pass1		finished	486
+FSM	P_FSM_K1.00_polish	null (K=1)	HyPhy default	-694856.236634	-694855.937087	1.0	pass1	+0.30 / -22.04	finished	3099
+FSM	P_FSM_K1.04	profile K=1.04	HyPhy default	-694855.988588	-694851.495876	1.04	pass1		finished	681
+FSM	P_FSM_K1.08_fromK1.04	profile K=1.08	HyPhy default	-694859.905967	-694854.108848	1.08	pass1		finished	1127
+LEP	P_LEP_K0.76	profile K=0.76	HyPhy default	-694985.505183	-694943.619178	0.76	pass1		finished	868
+LEP	P_LEP_K1.00_fromK0.76	null (K=1)	HyPhy default	-695081.487883	-695033.867526	1.0	pass1	+47.62 / -9.09	finished	3206
+LEP	P_LEP_K1.00_fromRrerun	null (K=1)	HyPhy default	-695030.985644	-695030.985644	1.0	start	-0.48	finished	1376
+FSM	Q_FSM_K1.01	profile K=1.01	coordinate-wise	-694852.281096	-694850.861178	1.01	pass1	+1.42	stopped after pass 1 (slow later pass)	2463
+FSM	Q_FSM_K1.02	profile K=1.02	coordinate-wise	-694850.492224	-694849.822564	1.02	pass1	+0.67	stopped after pass 1 (slow later pass)	2464
+FSM	Q_FSM_K1.06	profile K=1.065	coordinate-wise	-694850.704097	-694850.017757	1.065	pass1	+0.69	stopped after pass 1 (slow later pass)	2005
+FSM	Q_FSM_K1.08	profile K=1.08	coordinate-wise	-694853.486495	-694851.730167	1.08	pass1	+1.76	finished	190
+LEP	Q_LEP_K0.70	profile K=0.7	coordinate-wise	-694968.364338	-694955.862857	0.7	pass1	+12.50	finished	1361
+LEP	Q_LEP_K0.73	profile K=0.73	coordinate-wise	-694948.59202	-694945.445979	0.73	pass1	+3.15	finished	1202
+LEP	Q_LEP_K0.81	profile K=0.81	coordinate-wise	-694945.782106	-694944.386521	0.81	pass1	+1.40	finished	1250
+LEP	Q_LEP_K0.85	profile K=0.85	coordinate-wise	-694962.892767	-694956.30433	0.85	pass1	+6.59	finished	901
+FSM	X_FSM_alt_from_sp5null_cw	alt (K free)	coordinate-wise	-694851.116981	-694848.835935	1.040120628850001	pass1	+2.28	stopped after pass 1 (slow later pass)	2521
+FSM	X_FSM_null_from_sp5alt_cw	null (K=1)	coordinate-wise	-694854.793452	-694852.36773	1.0	pass1	+2.43	stopped after pass 1 (slow later pass)	3346

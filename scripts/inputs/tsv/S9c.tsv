@@ -1,0 +1,45 @@
+group	n_genomes	clade	cultured_isolates	median_Mb	sister_n	sister_median_Mb	reduction_vs_sister_Mb	stem_length	crown_to_tip	species	accessions
+1	3	SGM	3	3.268	1	4.236	0.968	0.0081	0.1243	Mycobacterium leprae; Mycobacterium lepromatosis; Mycobacterium uberis	GCF_000195855.1; GCF_000975265.2; GCF_003408705.1
+2	3	SGM	0	3.215	3	4.866	1.651	0.1865	0.0568	novel sp.	spire_mag_00709072; spire_mag_00709178; spire_mag_00709327
+3	3	SGM	0	2.869	32	4.64	1.771	0.1468	0.0069	novel sp.	spire_mag_00709062; spire_mag_00709337; spire_mag_02370757
+4	3	RGM	0	3.59	2	4.04	0.45	0.0017	0.0036	Mycobacterium fallax	spire_mag_01040802; spire_mag_01041225; spire_mag_01041320
+5	2	RGM	0	3.607	3	3.407	-0.2	0.0162	0.0926	Mycobacterium sp020438915; Mycobacterium sp022601135	GCA_020438915.1; GCA_022601135.1
+6	2	RGM	0	3.061	1	4.424	1.363	0.0166	0.0856	Mycobacterium sp022601275; Mycobacterium sp964195655	GCA_022601275.1; GCA_964195655.1
+7	2	SGM	1	3.675	3	3.936	0.261	0.081	0.0545	Mycobacterium sp001668625; Mycobacterium triviale	GCF_001668625.1; GCF_002102395.1
+8	2	RGM	0	3.541	1	5.051	1.51	0.0065	0.03	Mycobacterium sp030666145	GCA_030666145.1; spire_mag_01584542
+9	2	SGM	0	3.513	1	5.109	1.596	0.1451	0.0273	Mycobacterium sp037140245; Mycobacterium sp903927745	GCA_037140245.1; GCA_903927745.1
+10	2	RGM	0	3.716	1	6.042	2.326	0.0199	0.0249	Mycobacterium sp034189785	GCA_034189785.1; spire_mag_01244826
+11	2	SGM	1	3.793	1	4.079	0.286	0.0503	0.0028	Mycobacterium parakoreense	GCF_022370835.2; spire_mag_01959179
+12	2	RGM	0	3.074	15	6.099	3.025	0.2298	0	novel sp.	spire_mag_00709164; spire_mag_00709550
+13	1	RGM	0	3.985	2	4.473	0.488	0.064	0	Mycobacterium sp035345915	GCA_035345915.1
+14	1	RGM	0	3.246	3	4.075	0.829	0.1464	0	Mycobacterium sp036273805	GCA_036273805.1
+15	1	RGM	0	3.923	1	4.157	0.234	0.0033	0	Mycobacterium fallax	spire_mag_00877932
+16	1	RGM	1	3.989	5	3.64	-0.349	0.1306	0	Mycobacterium brumae	GCF_025215495.1
+17	1	RGM	0	3.764	2	6.937	3.173	0.1609	0	Mycobacterium sp036263935	GCA_036263935.1
+18	1	RGM	0	2.386	76	5.644	3.258	0.123	0	Mycobacterium sp040511335	GCA_040511335.1
+19	1	RGM	0	3.976	9	6.388	2.412	0.0843	0	Mycobacterium sp011620645	GCF_011620645.1
+20	1	RGM	0	3.685	1	6.451	2.766	0.0069	0	Mycobacterium sp029256565	GCA_029256565.1
+21	1	SGM	1	3.239	2	5.675	2.436	0.0644	0	Mycobacterium tilburgii	GCF_902168065.1
+22	1	SGM	0	3.503	6	4.962	1.459	0.0574	0	Mycobacterium sp035472875	GCA_035472875.1
+23	1	SGM	0	3.997	2	4.88	0.883	0.0108	0	novel sp.	spire_mag_00709385
+24	1	SGM	0	3.464	18	5.917	2.453	0.0933	0	Mycobacterium sp035693385	GCA_035693385.1
+25	1	SGM	0	3.008	1	5.437	2.429	0.0598	0	Mycobacterium sp036500645	GCA_036500645.1
+26	1	SGM	0	3.352	5	4.952	1.6	0.126	0	Mycobacterium sp028706695	GCA_028706695.1
+27	1	SGM	0	3.964	3	4.952	0.988	0.0638	0	Mycobacterium sp039583405	GCA_039583405.1
+28	1	SGM	0	3.159	188	5.631	2.472	0.2449	0	Mycobacterium sp019751635	GCA_019751635.1
+29	1	SGM	0	3.805	1	4.821	1.016	0.029	0	Mycobacterium sp035642315	GCA_035642315.1
+30	1	SGM	0	3.553	2	4.332	0.779	0.0577	0	Mycobacterium sp035552835	GCA_035552835.1
+31	1	SGM	0	3.755	1	4.91	1.155	0.0503	0	Mycobacterium sp036746615	GCA_036746615.1
+32	1	SGM	0	3.75	1	5.624	1.874	0.0357	0	Mycobacterium sp035606475	GCA_035606475.1
+33	1	SGM	0	2.663	1	6.02	3.357	0.0181	0	Mycobacterium sp036519055	GCA_036519055.1
+34	1	SGM	0	3.446	29	5.102	1.656	0.1664	0	Mycobacterium sp039583805	GCF_039583805.1
+35	1	SGM	0	3.912	6	4.918	1.006	0.1817	0	Mycobacterium sp008709575	GCF_008709575.1
+36	1	SGM	0	3.858	10	4.849	0.991	0.1288	0	Mycobacterium sp019246375	GCA_019246375.1
+37	1	SGM	0	3.738	1	4.632	0.894	0.0526	0	Mycobacterium sp029961025	GCF_029961025.1
+38	1	SGM	0	3.206	2	4.333	1.127	0.1406	0	novel sp.	spire_mag_02374351
+39	1	SGM	0	3.26	4	5.021	1.761	0.1219	0	Mycobacterium sp039922455	GCA_039922455.1
+40	1	SGM	0	3.035	36	4.569	1.534	0.175	0	Mycobacterium sp039935195	GCA_039935195.1
+41	1	SGM	0	3.029	37	4.566	1.537	0.1457	0	Mycobacterium sp035721065	GCA_035721065.1
+42	1	SGM	0	3.812	5	5.313	1.501	0.1582	0	Mycobacterium sp019242135	GCA_019242135.1
+43	1	SGM	0	3.956	1	4.122	0.166	0.0093	0	Mycobacterium sp035651275	GCA_035651275.1
+Summary: 43 separate groups covering 59 genomes across 44 species; 31 groups are a single genome, 8 are pairs and 4 are triplets, and none is larger. The sister group is larger in 41 of 43, by a median 1.50 Mb (interquartile range 0.88-2.33). Only 11 of the 43 groups contain any internal divergence at all and only 5 of those exceed 0.05 substitutions per site; the deepest is the leprosy clade at 0.124 substitutions per site.

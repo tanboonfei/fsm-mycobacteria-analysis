@@ -1,0 +1,100 @@
+{
+  "CC01_RGM": {
+    "tips": ["spire_mag_02519404", "spire_mag_01620236", "spire_mag_01620411", "spire_mag_01619766", "spire_mag_01623019", "spire_mag_02002215", "spire_mag_02003535", "spire_mag_01619133", "spire_mag_01620338", "spire_mag_01623819", "spire_mag_01621671"],
+    "species": ["Mycobacterium sp023416315", "Mycobacterium sp020438785", "Mycobacterium sp020438865"],
+    "size_Mb": [5.873, 4.925, 4.933, 4.877, 4.514, 4.664, 4.842, 5.081, 4.463, 5.18, 5.196],
+    "compl": [100, 92.18, 98.04, 94.48, 90.82, 99.8, 94.39, 99.9, 91.2, 99.48, 99.94],
+    "dropped": []
+  },
+  "CC02_RGM": {
+    "tips": ["spire_mag_00841652", "spire_mag_01733397", "spire_mag_01586430", "spire_mag_01586673", "spire_mag_00907393", "spire_mag_00560387", "spire_mag_00488916", "spire_mag_01100050", "spire_mag_00079100", "spire_mag_00080611", "spire_mag_00907130"],
+    "species": ["novel sp.", "Mycobacterium gadium", "Mycobacterium phlei", "Mycobacterium sp035649695", "Mycobacterium sp035274705", "Mycobacterium hassiacum"],
+    "size_Mb": [5.761, 6.351, 5.645, 5.413, 4.755, 7.279, 7.072, 7.133, 5.813, 5.644, 4.859],
+    "compl": [96.09, 99.98, 100, 99.99, 95.56, 99.93, 93.22, 91.79, 95.86, 95.42, 99.63],
+    "dropped": []
+  },
+  "CC03_RGM": {
+    "tips": ["spire_mag_01197245", "spire_mag_00975328", "spire_mag_01196294", "spire_mag_02374732", "spire_mag_02371253"],
+    "species": ["Mycobacterium peregrinum_B", "Mycobacterium fortuitum", "novel sp."],
+    "size_Mb": [6.663, 7.471, 6.594, 4.949, 5.37],
+    "compl": [95.61, 96.94, 99.99, 99.83, 99.88],
+    "dropped": []
+  },
+  "CC04_RGM": {
+    "tips": ["spire_mag_01585792", "spire_mag_01586359", "spire_mag_01585481", "spire_mag_01585638", "spire_mag_01586464", "spire_mag_01586672", "spire_mag_01585398", "spire_mag_02200992"],
+    "species": ["Mycobacterium smegmatis"],
+    "size_Mb": [6.974, 6.827, 7.309, 6.225, 7.052, 7.106, 6.744, 6.725],
+    "compl": [100, 97.48, 99.99, 91.68, 99.98, 100, 99.99, 96.19],
+    "dropped": []
+  },
+  "CC05_RGM": {
+    "tips": ["spire_mag_01276921", "spire_mag_02186423", "spire_mag_02516797", "spire_mag_02521398", "spire_mag_01784070"],
+    "species": ["Mycobacterium adipatum", "Mycobacterium aurum_A", "Mycobacterium neoaurum", "Mycobacterium bacteremicum_A"],
+    "size_Mb": [6.165, 5.969, 5.436, 5.442, 6.379],
+    "compl": [99.98, 99.97, 100, 93.99, 99.99],
+    "dropped": []
+  },
+  "CC06_RGM": {
+    "tips": ["spire_mag_01882632", "spire_mag_00487317", "spire_mag_00518952"],
+    "species": ["novel sp."],
+    "size_Mb": [5.64, 6.055, 6.053],
+    "compl": [95.41, 99.99, 94.49],
+    "dropped": ["spire_mag_00709164", "spire_mag_00709550"]
+  },
+  "CC07_RGM": {
+    "tips": ["spire_mag_01124179", "spire_mag_02293027", "spire_mag_02300699", "spire_mag_02295856", "spire_mag_02306214"],
+    "species": ["Mycobacterium poriferae"],
+    "size_Mb": [6.058, 6.078, 5.912, 5.907, 5.485],
+    "compl": [100, 100, 97.7, 99.94, 95.25],
+    "dropped": []
+  },
+  "CC08_RGM": {
+    "tips": ["spire_mag_02293016", "spire_mag_02307968", "spire_mag_02300518"],
+    "species": ["Mycobacterium sp964000695"],
+    "size_Mb": [6.019, 6.003, 6.037],
+    "compl": [99.99, 99.64, 99.7],
+    "dropped": []
+  },
+  "CC09_RGM": {
+    "tips": ["spire_mag_02166032", "spire_mag_02294311", "spire_mag_02299450"],
+    "species": ["Mycobacterium sp964000695"],
+    "size_Mb": [5.861, 6.012, 6.139],
+    "compl": [99.9, 99.97, 100],
+    "dropped": []
+  },
+  "CC10_SGM": {
+    "tips": ["spire_mag_01168185", "spire_mag_01603410", "spire_mag_02370601", "spire_mag_01825260"],
+    "species": ["novel sp."],
+    "size_Mb": [6.556, 6.52, 6.346, 5.341],
+    "compl": [95.32, 99.47, 98.94, 99.96],
+    "dropped": []
+  },
+  "CC11_SGM": {
+    "tips": ["spire_mag_02394504", "spire_mag_01733412", "spire_mag_01882615", "spire_mag_00709154", "spire_mag_00709551", "spire_mag_02683911", "spire_mag_02882770", "spire_mag_02837879"],
+    "species": ["Mycobacterium gordonae", "Mycobacterium paragordonae", "novel sp."],
+    "size_Mb": [5.939, 6.588, 7.248, 4.866, 4.894, 4.066, 4.166, 4.163],
+    "compl": [93.72, 100, 99.99, 99.9, 99.99, 90.41, 92.95, 95.08],
+    "dropped": ["spire_mag_00709072", "spire_mag_00709178", "spire_mag_00709327", "spire_mag_00709385"]
+  },
+  "CC12_SGM": {
+    "tips": ["spire_mag_02001657", "spire_mag_02001975", "spire_mag_00184606"],
+    "species": ["Mycobacterium sp035623875", "Mycobacterium sp035570115"],
+    "size_Mb": [5.083, 5.236, 6.654],
+    "compl": [99.32, 99.98, 99.88],
+    "dropped": []
+  },
+  "CC13_SGM": {
+    "tips": ["spire_mag_02374219", "spire_mag_01787296", "spire_mag_01585658", "spire_mag_01586492"],
+    "species": ["Mycobacterium icosiumassiliensis", "novel sp.", "Mycobacterium kumamotonense"],
+    "size_Mb": [4.475, 4.475, 4.924, 4.484],
+    "compl": [99.37, 94.63, 99.99, 99.96],
+    "dropped": ["spire_mag_02374351"]
+  },
+  "CC14_SGM": {
+    "tips": ["spire_mag_01168129", "spire_mag_01603633", "spire_mag_01603564"],
+    "species": ["novel sp."],
+    "size_Mb": [5.313, 5.333, 5.099],
+    "compl": [95.55, 95.8, 91.61],
+    "dropped": []
+  }
+}

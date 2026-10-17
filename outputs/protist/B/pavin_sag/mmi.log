@@ -1,0 +1,8 @@
+[M::mm_idx_gen::33.097*1.43] collected minimizers
+[M::mm_idx_gen::34.938*2.61] sorted minimizers
+[M::main::43.590*2.29] loaded/built the index for 176583 target sequence(s)
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 176583
+[M::mm_idx_stat::46.208*2.22] distinct minimizers: 413897833 (75.73% are singletons); average occurrences: 1.816; average spacing: 6.006; total length: 4514629418
+[M::main] Version: 2.30-r1287
+[M::main] CMD: minimap2 -x sr -t 24 -d pavin_sag/myco862.sr.mmi pavin_sag/myco862.fna
+[M::main] Real time: 47.049 sec; CPU: 103.216 sec; Peak RSS: 34.330 GB

@@ -1,0 +1,95 @@
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree (optionally annotated
+with {})
+
+- __Citation__: *Gene-wide identification of episodic selection*, Mol Biol Evol.
+32(5):1365-71, *Synonymous Site-to-Site Substitution Rate Variation
+Dramatically Inflates False Positive Rates of Selection Analyses: Ignore
+at Your Own Peril*, Mol Biol Evol. 37(8):2430-2439
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 4.5
+
+
+>code => Universal
+/path/to/project/analyses/extended/D_relax/inputs/fsmstem_test.nwk
+/path/to/project/analyses/extended/D_relax/inputs/fsmstem_test.nwk
+
+>Loaded a multiple sequence alignment with **37** sequences, **21280** codons, and **1** partitions from `/path/to/project/analyses/extended/D_relax/inputs/three_way.codon.fa`
+
+>branches => Test
+
+>srv => No
+The number omega rate classes to include in the model (permissible range = [1,10], default value = 3, integer): 
+>rates => 3
+
+>multiple-hits => None
+
+>error-sink => Yes
+The number of points in the initial distributional guess for likelihood fitting (permissible range = [1,10000], default value = 250, integer): 
+>grid-size => 250
+The number of initial random guesses to 'seed' rate values optimization (permissible range = [1,25], default value = 1, integer): 
+>starting-points => 1
+
+
+### Branches to test for selection in the BUSTED analysis
+* Selected 1 branches to test in the BUSTED analysis: `IntNode024`
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+
+>kill-zero-lengths => Yes
+
+### Deleted 1 zero-length internal branches: `IntNode062`
+* Log(L) = -777464.82, AIC-c = 1555087.65 (79 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  3.337
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -716732.99, AIC-c = 1433638.00 (86 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  4.222
+* non-synonymous/synonymous rate ratio for *background* =   0.1333
+* non-synonymous/synonymous rate ratio for *test* =   0.2227
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -710993.48, AIC-c = 1422158.97 (86 estimated parameters)
+* non-synonymous/synonymous rate ratio for *background* =   0.1128
+* non-synonymous/synonymous rate ratio for *test* =   0.3667
+
+### Performing the full (dN/dS > 1 allowed) branch-site model fit
+* Log(L) = -695304.26, AIC-c = 1390804.55 (98 estimated parameters)
+* For *test* branches, the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.000     |   25.663    |                                   |
+|        Negative selection         |     0.165     |   69.303    |                                   |
+|      Diversifying selection       |    94.165     |    4.214    |                                   |
+|         Error absorption          |   2447.739    |    0.819    |                                   |
+
+* For *background* branches, the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.000     |   57.720    |                                   |
+|        Negative selection         |     0.053     |   30.196    |                                   |
+|         Neutral evolution         |     1.000     |   11.083    |                                   |
+|         Error absorption          |    100.000    |    1.000    |                                   |
+
+
+### Performing the constrained (dN/dS > 1 not allowed) model fit
+* Log(L) = -695440.33, AIC-c = 1391074.68 (97 estimated parameters)
+* For *test* branches under the null (no dN/dS > 1 model), the following rate distribution for branch-site combinations was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.000     |   20.999    |                                   |
+|        Negative selection         |     0.000     |   59.400    |       Collapsed rate class        |
+|         Neutral evolution         |     1.000     |   18.601    |                                   |
+|         Error absorption          |    949.585    |    1.000    |                                   |
+
+----
+## Branch-site unrestricted statistical test of episodic diversification [BUSTED]
+Likelihood ratio test for episodic diversifying positive selection, **p =   0.0000**.

@@ -1,0 +1,504 @@
+id	clade_x	kind	sp	pg	genome_id_or_accession	genome_size_Mb	n_contigs	culture_status	source_material	clade_y	mb	cpm	genome_id_or_accession_s	completeness_used_pct	checkm2_this_study_completeness_pct	completeness_pct
+spire_mag_00036704	FSM	MAG	novel sp.	1	spire_mag_00036704	3.454	121	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.454	35.03184713375796	spire_mag_00036704	95.61	95.61	95.62
+spire_mag_00036881	FSM	MAG	novel sp.	2	spire_mag_00036881	3.241	53	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.241	16.352977476087627	spire_mag_00036881	92.75	92.75	92.75
+spire_mag_00138007	FSM	MAG	Mycobacterium sp017853185	1	spire_mag_00138007	3.787	89	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.787	23.501452336942172	spire_mag_00138007	97.65	97.65	97.7
+spire_mag_00138052	FSM	MAG	Mycobacterium sp030836785	7	spire_mag_00138052	3.879	406	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.879	104.66615106986336	spire_mag_00138052	93.17	93.17	93.18
+spire_mag_00139887	FSM	MAG	Mycobacterium sp029780675	8	spire_mag_00139887	4.148	183	MAG / uncultured	environmental metagenome	FSM (small-genome)	4.148	44.117647058823536	spire_mag_00139887	95.74	95.74	95.74
+spire_mag_00142179	FSM	MAG	Mycobacterium sp017853185	1	spire_mag_00142179	3.777	84	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.777	22.23987291501191	spire_mag_00142179	96.36	96.36	96.33
+spire_mag_00193483	FSM	MAG	novel sp.	4	spire_mag_00193483	3.592	311	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.592	86.58129175946547	spire_mag_00193483	94.5	94.5	94.4
+spire_mag_00688177	FSM	MAG	Mycobacterium sp018401645	6	spire_mag_00688177	3.101	452	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.101	145.75943244114802	spire_mag_00688177	92.2	92.2	92.35
+spire_mag_00688367	FSM	MAG	Mycobacterium sp018401645	4	spire_mag_00688367	3.394	257	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.394	75.72186210960518	spire_mag_00688367	95.23	95.23	95.23
+spire_mag_00709104	FSM	MAG	novel sp.	3	spire_mag_00709104	2.761	150	MAG / uncultured	environmental metagenome	FSM (small-genome)	2.761	54.32814197754436	spire_mag_00709104	91.08	91.08	91.23
+spire_mag_00709371	FSM	MAG	novel sp.	8	spire_mag_00709371	3.527	238	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.527	67.4794442869294	spire_mag_00709371	95.77	95.77	95.77
+spire_mag_00863569	FSM	MAG	Mycobacterium sp945897705	4	spire_mag_00863569	3.047	106	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.047	34.78831637676403	spire_mag_00863569	95.76	95.76	96.02
+spire_mag_00864073	FSM	MAG	Mycobacterium sp945897705	1	spire_mag_00864073	3.118	110	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.118	35.279025016035924	spire_mag_00864073	95.05	95.05	95.6
+spire_mag_00866183	FSM	MAG	Mycobacterium sp945897705	2	spire_mag_00866183	3.015	104	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.015	34.49419568822554	spire_mag_00866183	93.58	93.58	94.03
+spire_mag_00866324	FSM	MAG	Mycobacterium sp945897705	1	spire_mag_00866324	3.043	105	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.043	34.5054222806441	spire_mag_00866324	95.14	95.14	95.44
+spire_mag_00866583	FSM	MAG	Mycobacterium sp945897705	1	spire_mag_00866583	2.895	94	MAG / uncultured	environmental metagenome	FSM (small-genome)	2.895	32.46977547495682	spire_mag_00866583	95.36	95.36	95.59
+spire_mag_00868143	FSM	MAG	Mycobacterium sp945897705	2	spire_mag_00868143	3.076	108	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.076	35.110533159947984	spire_mag_00868143	98.17	98.17	98.24
+spire_mag_00869002	FSM	MAG	Mycobacterium sp945897705	2	spire_mag_00869002	3.068	115	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.068	37.48370273794003	spire_mag_00869002	98	98	98.1
+spire_mag_00871125	FSM	MAG	Mycobacterium sp945897705	1	spire_mag_00871125	3.101	172	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.101	55.46597871654305	spire_mag_00871125	98.33	98.33	98.39
+spire_mag_00873124	FSM	MAG	Mycobacterium sp945897705	1	spire_mag_00873124	3.175	121	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.175	38.110236220472444	spire_mag_00873124	99.25	99.25	99.36
+spire_mag_00873789	FSM	MAG	Mycobacterium sp945897705	1	spire_mag_00873789	2.989	108	MAG / uncultured	environmental metagenome	FSM (small-genome)	2.989	36.13248578119773	spire_mag_00873789	96.69	96.69	96.86
+spire_mag_00874085	FSM	MAG	Mycobacterium sp945897705	4	spire_mag_00874085	3.129	109	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.129	34.83541067433685	spire_mag_00874085	96.08	96.08	96.46
+spire_mag_00874229	FSM	MAG	Mycobacterium sp945897705	4	spire_mag_00874229	3.024	89	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.024	29.43121693121693	spire_mag_00874229	97.46	97.46	97.48
+spire_mag_00874439	FSM	MAG	Mycobacterium sp945897705	3	spire_mag_00874439	3.174	123	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.174	38.752362948960304	spire_mag_00874439	99.04	99.04	99.04
+spire_mag_01040852	FSM	MAG	novel sp.	0	spire_mag_01040852	3.356	98	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.356	29.201430274135877	spire_mag_01040852	94.74	94.74	96.01
+spire_mag_01041266	FSM	MAG	novel sp.	1	spire_mag_01041266	3.301	104	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.301	31.50560436231445	spire_mag_01041266	93.98	93.98	95.54
+spire_mag_01093898	FSM	MAG	novel sp.	2	spire_mag_01093898	2.987	167	MAG / uncultured	environmental metagenome	FSM (small-genome)	2.987	55.908938734516234	spire_mag_01093898	91.31	91.31	92.07
+spire_mag_01094475	FSM	MAG	Mycobacterium sp036782595	3	spire_mag_01094475	4.309	335	MAG / uncultured	environmental metagenome	FSM (small-genome)	4.309	77.74425620793687	spire_mag_01094475	95.78	95.78	95.82
+spire_mag_01094744	FSM	MAG	Mycobacterium sp036782595	2	spire_mag_01094744	3.924	299	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.924	76.19775739041795	spire_mag_01094744	91.35	91.35	91.41
+spire_mag_01104521	FSM	MAG	Mycobacterium sp903911165	9	spire_mag_01104521	3.787	382	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.787	100.87140216530236	spire_mag_01104521	92.82	92.82	92.82
+spire_mag_01104972	FSM	MAG	Mycobacterium sp903911165	17	spire_mag_01104972	2.965	304	MAG / uncultured	environmental metagenome	FSM (small-genome)	2.965	102.52951096121417	spire_mag_01104972	91.84	91.84	91.84
+spire_mag_01107416	FSM	MAG	Mycobacterium sp903911165	7	spire_mag_01107416	3.092	213	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.092	68.88745148771022	spire_mag_01107416	91.58	91.58	91.58
+spire_mag_01108461	FSM	MAG	Mycobacterium sp903911165	16	spire_mag_01108461	3.097	446	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.097	144.01033257991605	spire_mag_01108461	92.28	92.28	92.28
+spire_mag_01108626	FSM	MAG	novel sp.	8	spire_mag_01108626	3.719	330	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.719	88.73353051895671	spire_mag_01108626	94.32	94.32	94.62
+spire_mag_01108952	FSM	MAG	novel sp.	8	spire_mag_01108952	3.32	306	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.32	92.16867469879519	spire_mag_01108952	91.93	91.93	92.03
+spire_mag_01111439	FSM	MAG	novel sp.	12	spire_mag_01111439	3.373	339	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.373	100.50400237177585	spire_mag_01111439	98.24	98.24	98.19
+spire_mag_01112215	FSM	MAG	novel sp.	6	spire_mag_01112215	3.424	404	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.424	117.99065420560748	spire_mag_01112215	92.9	92.9	93.16
+spire_mag_01112767	FSM	MAG	novel sp.	4	spire_mag_01112767	3.418	317	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.418	92.74429490930368	spire_mag_01112767	99.06	99.06	99.26
+spire_mag_01112928	FSM	MAG	Mycobacterium sp903911165	13	spire_mag_01112928	3.761	261	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.761	69.39643711778783	spire_mag_01112928	94.89	94.89	94.89
+spire_mag_01117712	FSM	MAG	Mycobacterium sp030836785	8	spire_mag_01117712	3.906	272	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.906	69.63645673323093	spire_mag_01117712	93.73	93.73	93.8
+spire_mag_01583196	FSM	MAG	Mycobacterium sp018401645	7	spire_mag_01583196	2.916	404	MAG / uncultured	environmental metagenome	FSM (small-genome)	2.916	138.54595336076818	spire_mag_01583196	90.34	90.34	90.34
+spire_mag_01632252	FSM	MAG	Mycobacterium sp005789055	1	spire_mag_01632252	2.748	422	MAG / uncultured	environmental metagenome	FSM (small-genome)	2.748	153.56622998544395	spire_mag_01632252	94.13	94.13	93.81
+spire_mag_01662118	FSM	MAG	novel sp.	3	spire_mag_01662118	4.61	376	MAG / uncultured	environmental metagenome	FSM (small-genome)	4.61	81.56182212581345	spire_mag_01662118	94.9	94.9	94.95
+spire_mag_01663809	FSM	MAG	novel sp.	7	spire_mag_01663809	4.534	424	MAG / uncultured	environmental metagenome	FSM (small-genome)	4.534	93.51565946184385	spire_mag_01663809	93.26	93.26	96.05
+spire_mag_01664230	FSM	MAG	novel sp.	6	spire_mag_01664230	4.512	391	MAG / uncultured	environmental metagenome	FSM (small-genome)	4.512	86.65780141843972	spire_mag_01664230	95.43	95.43	95.43
+spire_mag_01743952	FSM	MAG	Mycobacterium sp964202555	2	spire_mag_01743952	3.302	151	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.302	45.72986069049061	spire_mag_01743952	94.7	94.7	94.66
+spire_mag_01744298	FSM	MAG	Mycobacterium sp964202555	2	spire_mag_01744298	3.299	215	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.299	65.17126401939981	spire_mag_01744298	94.96	94.96	94.7
+spire_mag_01744910	FSM	MAG	Mycobacterium sp964202555	8	spire_mag_01744910	3.006	433	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.006	144.04524284763806	spire_mag_01744910	95.73	95.73	95.73
+spire_mag_01747196	FSM	MAG	Mycobacterium sp964202555	4	spire_mag_01747196	3.357	248	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.357	73.87548406315162	spire_mag_01747196	98.26	98.26	98.26
+spire_mag_01748232	FSM	MAG	Mycobacterium sp964202555	2	spire_mag_01748232	3.267	284	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.267	86.9299051117233	spire_mag_01748232	93.84	93.84	93.84
+spire_mag_01748689	FSM	MAG	Mycobacterium sp964202555	6	spire_mag_01748689	3.252	324	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.252	99.63099630996311	spire_mag_01748689	93.38	93.38	93.38
+spire_mag_01749319	FSM	MAG	Mycobacterium sp964202555	2	spire_mag_01749319	3.318	222	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.318	66.90777576853526	spire_mag_01749319	95.71	95.71	94.42
+spire_mag_01750747	FSM	MAG	Mycobacterium sp964202555	3	spire_mag_01750747	3.377	154	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.377	45.60260586319219	spire_mag_01750747	98.37	98.37	98.22
+spire_mag_01752215	FSM	MAG	Mycobacterium sp964202555	4	spire_mag_01752215	3.398	198	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.398	58.269570335491466	spire_mag_01752215	98.03	98.03	98.12
+spire_mag_01753570	FSM	MAG	Mycobacterium sp005789055	6	spire_mag_01753570	3.056	335	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.056	109.62041884816753	spire_mag_01753570	95.56	95.56	95.56
+spire_mag_01753708	FSM	MAG	Mycobacterium sp964202555	4	spire_mag_01753708	3.363	177	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.363	52.63157894736842	spire_mag_01753708	99.07	99.07	99.08
+spire_mag_01753944	FSM	MAG	Mycobacterium sp964202555	3	spire_mag_01753944	3.357	139	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.357	41.406017277330946	spire_mag_01753944	97.56	97.56	97.56
+spire_mag_01755240	FSM	MAG	Mycobacterium sp964202555	2	spire_mag_01755240	3.389	136	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.389	40.129831808793156	spire_mag_01755240	97.99	97.99	98.09
+spire_mag_01759821	FSM	MAG	Mycobacterium sp964202555	3	spire_mag_01759821	3.346	155	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.346	46.32396891811118	spire_mag_01759821	97.86	97.86	97.86
+spire_mag_01775892	FSM	MAG	Mycobacterium sp018401645	8	spire_mag_01775892	3.288	262	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.288	79.683698296837	spire_mag_01775892	94.67	94.67	94.74
+spire_mag_01776406	FSM	MAG	Mycobacterium sp001510415	1	spire_mag_01776406	3.725	226	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.725	60.671140939597315	spire_mag_01776406	95.2	95.2	95.09
+spire_mag_01776742	FSM	MAG	Mycobacterium sp018401645	3	spire_mag_01776742	3.297	251	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.297	76.12981498331817	spire_mag_01776742	95.34	95.34	95.34
+spire_mag_01776854	FSM	MAG	Mycobacterium sp018401645	5	spire_mag_01776854	3.261	247	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.261	75.74363692118982	spire_mag_01776854	93.71	93.71	93.74
+spire_mag_01777252	FSM	MAG	Mycobacterium sp018401645	4	spire_mag_01777252	3.324	224	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.324	67.38868832731649	spire_mag_01777252	95.27	95.27	95.16
+spire_mag_01777835	FSM	MAG	Mycobacterium sp018401645	4	spire_mag_01777835	3.29	130	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.29	39.51367781155015	spire_mag_01777835	95.11	95.11	95.03
+spire_mag_01822349	FSM	MAG	Mycobacterium sp018401645	8	spire_mag_01822349	3.272	306	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.272	93.52078239608802	spire_mag_01822349	96.72	96.72	96.72
+spire_mag_01822855	FSM	MAG	Mycobacterium sp018401645	4	spire_mag_01822855	3.398	101	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.398	29.72336668628605	spire_mag_01822855	99.56	99.56	99.49
+spire_mag_01824889	FSM	MAG	Mycobacterium sp018401645	3	spire_mag_01824889	3.329	77	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.329	23.13006908981676	spire_mag_01824889	98.57	98.57	98.31
+spire_mag_01824983	FSM	MAG	Mycobacterium sp018401645	7	spire_mag_01824983	3.374	160	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.374	47.42145820983995	spire_mag_01824983	97.01	97.01	97.01
+spire_mag_01830074	FSM	MAG	Mycobacterium sp018401645	6	spire_mag_01830074	3.366	82	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.366	24.361259655377303	spire_mag_01830074	97.79	97.79	97.58
+spire_mag_01882647	FSM	MAG	novel sp.	0	spire_mag_01882647	3.596	220	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.596	61.17908787541713	spire_mag_01882647	99.94	99.94	99.96
+spire_mag_01947641	FSM	MAG	Mycobacterium sp037138275	9	spire_mag_01947641	3.159	380	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.159	120.29123140234252	spire_mag_01947641	92	92	92.0
+spire_mag_01947849	FSM	MAG	Mycobacterium sp037138275	3	spire_mag_01947849	2.915	363	MAG / uncultured	environmental metagenome	FSM (small-genome)	2.915	124.52830188679245	spire_mag_01947849	92.29	92.29	92.29
+spire_mag_01948467	FSM	MAG	Mycobacterium sp037141465	1	spire_mag_01948467	3.097	187	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.097	60.38101388440426	spire_mag_01948467	97.75	97.75	97.75
+spire_mag_01949332	FSM	MAG	Mycobacterium sp037138275	10	spire_mag_01949332	2.881	371	MAG / uncultured	environmental metagenome	FSM (small-genome)	2.881	128.7747309961819	spire_mag_01949332	94.14	94.14	94.14
+spire_mag_01949386	FSM	MAG	Mycobacterium sp037138275	14	spire_mag_01949386	3.099	380	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.099	122.62020006453695	spire_mag_01949386	93.13	93.13	93.13
+spire_mag_01949445	FSM	MAG	Mycobacterium sp037138275	7	spire_mag_01949445	2.858	354	MAG / uncultured	environmental metagenome	FSM (small-genome)	2.858	123.8628411476557	spire_mag_01949445	92.21	92.21	92.21
+spire_mag_01949778	FSM	MAG	Mycobacterium sp037138275	5	spire_mag_01949778	3.12	312	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.12	100.0	spire_mag_01949778	94.69	94.69	94.65
+spire_mag_01949938	FSM	MAG	Mycobacterium sp037138275	8	spire_mag_01949938	2.93	368	MAG / uncultured	environmental metagenome	FSM (small-genome)	2.93	125.59726962457337	spire_mag_01949938	92.76	92.76	92.76
+spire_mag_01960731	FSM	MAG	Mycobacterium sp903911165	3	spire_mag_01960731	3.035	203	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.035	66.88632619439868	spire_mag_01960731	94.95	94.95	94.95
+spire_mag_01960893	FSM	MAG	Mycobacterium sp903911165	4	spire_mag_01960893	2.947	239	MAG / uncultured	environmental metagenome	FSM (small-genome)	2.947	81.09942314217848	spire_mag_01960893	97.78	97.78	97.78
+spire_mag_02005306	FSM	MAG	novel sp.	4	spire_mag_02005306	3.271	369	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.271	112.80953836747173	spire_mag_02005306	92.56	92.56	92.49
+spire_mag_02028936	FSM	MAG	Mycobacterium sp018882965	9	spire_mag_02028936	3.163	291	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.163	92.00126462219413	spire_mag_02028936	97.97	97.97	97.97
+spire_mag_02087828	FSM	MAG	novel sp.	1	spire_mag_02087828	3.457	87	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.457	25.166329187156496	spire_mag_02087828	99.51	99.51	99.45
+spire_mag_02088219	FSM	MAG	novel sp.	4	spire_mag_02088219	3.404	36	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.404	10.575793184488838	spire_mag_02088219	97.46	97.46	97.59
+spire_mag_02088284	FSM	MAG	novel sp.	6	spire_mag_02088284	3.483	151	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.483	43.35343095033017	spire_mag_02088284	100	100	100.0
+spire_mag_02088287	FSM	MAG	novel sp.	1	spire_mag_02088287	3.534	141	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.534	39.898132427843805	spire_mag_02088287	99.61	99.61	99.69
+spire_mag_02088330	FSM	MAG	novel sp.	1	spire_mag_02088330	3.352	133	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.352	39.67780429594272	spire_mag_02088330	99.89	99.89	99.89
+spire_mag_02088418	FSM	MAG	novel sp.	2	spire_mag_02088418	3.486	67	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.486	19.219736087205966	spire_mag_02088418	99.82	99.82	99.84
+spire_mag_02088507	FSM	MAG	novel sp.	0	spire_mag_02088507	3.466	137	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.466	39.5268320830929	spire_mag_02088507	98.79	98.79	98.79
+spire_mag_02088609	FSM	MAG	novel sp.	2	spire_mag_02088609	3.513	43	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.513	12.240250498149729	spire_mag_02088609	95.05	95.05	95.05
+spire_mag_02088828	FSM	MAG	novel sp.	2	spire_mag_02088828	3.419	87	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.419	25.446036852880958	spire_mag_02088828	97.99	97.99	98.17
+spire_mag_02100063	FSM	MAG	Mycobacterium sp964202555	5	spire_mag_02100063	3.37	161	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.37	47.774480712166174	spire_mag_02100063	99.42	99.42	99.44
+spire_mag_02102612	FSM	MAG	Mycobacterium sp017853185	4	spire_mag_02102612	3.863	343	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.863	88.79109500388299	spire_mag_02102612	93.56	93.56	92.16
+spire_mag_02762480	FSM	MAG	Mycobacterium sp903877095	7	spire_mag_02762480	4.329	240	MAG / uncultured	environmental metagenome	FSM (small-genome)	4.329	55.440055440055446	spire_mag_02762480	95.78	95.78	95.05
+spire_mag_00079100	RGM	MAG	Mycobacterium sp035274705	13	spire_mag_00079100	5.813	155	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.813	26.664372957164975	spire_mag_00079100	95.86	95.86	96.06
+spire_mag_00080611	RGM	MAG	Mycobacterium sp035274705	13	spire_mag_00080611	5.644	332	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.644	58.8235294117647	spire_mag_00080611	95.42	95.42	95.1
+spire_mag_00143021	RGM	MAG	novel sp.	4	spire_mag_00143021	4.872	346	MAG / uncultured	environmental metagenome	RGM (large-genome)	4.872	71.01806239737274	spire_mag_00143021	99.92	99.92	99.92
+spire_mag_00487317	RGM	MAG	novel sp.	3	spire_mag_00487317	6.055	75	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.055	12.386457473162675	spire_mag_00487317	99.99	99.99	99.99
+spire_mag_00488916	RGM	MAG	novel sp.	22	spire_mag_00488916	7.072	566	MAG / uncultured	environmental metagenome	RGM (large-genome)	7.072	80.03393665158372	spire_mag_00488916	93.22	93.22	93.81
+spire_mag_00490038	RGM	MAG	novel sp.	11	spire_mag_00490038	6.22	207	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.22	33.27974276527331	spire_mag_00490038	97.94	97.94	97.25
+spire_mag_00492514	RGM	MAG	novel sp.	13	spire_mag_00492514	7.775	109	MAG / uncultured	environmental metagenome	RGM (large-genome)	7.775	14.019292604501606	spire_mag_00492514	100	100	100.0
+spire_mag_00493620	RGM	MAG	novel sp.	15	spire_mag_00493620	7.431	89	MAG / uncultured	environmental metagenome	RGM (large-genome)	7.431	11.976853720898937	spire_mag_00493620	100	100	100.0
+spire_mag_00518952	RGM	MAG	novel sp.	15	spire_mag_00518952	6.053	359	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.053	59.30943333884024	spire_mag_00518952	94.49	94.49	94.61
+spire_mag_00560387	RGM	MAG	novel sp.	36	spire_mag_00560387	7.279	581	MAG / uncultured	environmental metagenome	RGM (large-genome)	7.279	79.81865640884737	spire_mag_00560387	99.93	99.93	99.97
+spire_mag_00691761	RGM	MAG	Mycobacterium austroafricanum	12	spire_mag_00691761	6.121	133	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.121	21.72847573925829	spire_mag_00691761	99.96	99.96	99.98
+spire_mag_00709164	RGM	MAG	novel sp.	3	spire_mag_00709164	3.127	83	MAG / uncultured	environmental metagenome	RGM (large-genome)	3.127	26.54301247201791	spire_mag_00709164	99.86	99.86	99.92
+spire_mag_00709550	RGM	MAG	novel sp.	3	spire_mag_00709550	3.021	120	MAG / uncultured	environmental metagenome	RGM (large-genome)	3.021	39.7219463753724	spire_mag_00709550	94.24	94.24	94.38
+spire_mag_00825292	RGM	MAG	Mycobacterium chitae	5	spire_mag_00825292	5.806	165	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.806	28.418877023768516	spire_mag_00825292	100	100	100.0
+spire_mag_00825461	RGM	MAG	Mycobacterium austroafricanum	12	spire_mag_00825461	6.912	685	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.912	99.10300925925927	spire_mag_00825461	96.42	96.42	96.77
+spire_mag_00841652	RGM	MAG	novel sp.	13	spire_mag_00841652	5.761	158	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.761	27.425794132963027	spire_mag_00841652	96.09	96.09	96.17
+spire_mag_00877932	RGM	MAG	Mycobacterium fallax	3	spire_mag_00877932	3.923	117	MAG / uncultured	environmental metagenome	RGM (large-genome)	3.923	29.824114198317613	spire_mag_00877932	99.95	99.95	99.95
+spire_mag_00907130	RGM	MAG	Mycobacterium hassiacum	6	spire_mag_00907130	4.859	135	MAG / uncultured	environmental metagenome	RGM (large-genome)	4.859	27.783494546202924	spire_mag_00907130	99.63	99.63	99.6
+spire_mag_00907393	RGM	MAG	novel sp.	4	spire_mag_00907393	4.755	416	MAG / uncultured	environmental metagenome	RGM (large-genome)	4.755	87.48685594111461	spire_mag_00907393	95.56	95.56	95.46
+spire_mag_00975328	RGM	MAG	Mycobacterium fortuitum	38	spire_mag_00975328	7.471	609	MAG / uncultured	environmental metagenome	RGM (large-genome)	7.471	81.5151920760273	spire_mag_00975328	96.94	96.94	97.34
+spire_mag_01040802	RGM	MAG	Mycobacterium fallax	6	spire_mag_01040802	3.583	338	MAG / uncultured	environmental metagenome	RGM (large-genome)	3.583	94.33435668434272	spire_mag_01040802	96.1	96.1	96.08
+spire_mag_01041225	RGM	MAG	Mycobacterium fallax	3	spire_mag_01041225	3.59	242	MAG / uncultured	environmental metagenome	RGM (large-genome)	3.59	67.40947075208913	spire_mag_01041225	99.8	99.8	99.8
+spire_mag_01041320	RGM	MAG	Mycobacterium fallax	0	spire_mag_01041320	3.64	241	MAG / uncultured	environmental metagenome	RGM (large-genome)	3.64	66.20879120879121	spire_mag_01041320	99.98	99.98	99.99
+spire_mag_01100050	RGM	MAG	Mycobacterium sp035649695	30	spire_mag_01100050	7.133	664	MAG / uncultured	environmental metagenome	RGM (large-genome)	7.133	93.08846207766717	spire_mag_01100050	91.79	91.79	91.66
+spire_mag_01124179	RGM	MAG	Mycobacterium poriferae	10	spire_mag_01124179	6.058	467	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.058	77.08814790359855	spire_mag_01124179	100	100	100.0
+spire_mag_01188968	RGM	MAG	novel sp.	20	spire_mag_01188968	6.369	466	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.369	73.16690218244622	spire_mag_01188968	99.99	99.99	99.99
+spire_mag_01196294	RGM	MAG	Mycobacterium fortuitum	13	spire_mag_01196294	6.594	57	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.594	8.644222020018198	spire_mag_01196294	99.99	99.99	99.99
+spire_mag_01196792	RGM	MAG	Mycobacterium iranicum	14	spire_mag_01196792	6.199	39	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.199	6.291337312469754	spire_mag_01196792	100	100	100.0
+spire_mag_01197245	RGM	MAG	Mycobacterium peregrinum_B	19	spire_mag_01197245	6.663	530	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.663	79.54374906198409	spire_mag_01197245	95.61	95.61	95.35
+spire_mag_01197568	RGM	MAG	Mycobacterium iranicum	14	spire_mag_01197568	6.428	73	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.428	11.356565028002489	spire_mag_01197568	100	100	100.0
+spire_mag_01198798	RGM	MAG	novel sp.	10	spire_mag_01198798	6.312	149	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.312	23.605830164765525	spire_mag_01198798	100	100	100.0
+spire_mag_01199727	RGM	MAG	Mycobacterium kyogaense	24	spire_mag_01199727	6.185	399	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.185	64.51091350040421	spire_mag_01199727	99.89	99.89	99.93
+spire_mag_01203432	RGM	MAG	Mycobacterium wolinskyi	8	spire_mag_01203432	6.953	185	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.953	26.607219905076946	spire_mag_01203432	100	100	100.0
+spire_mag_01244826	RGM	MAG	Mycobacterium sp034189785	12	spire_mag_01244826	3.824	143	MAG / uncultured	environmental metagenome	RGM (large-genome)	3.824	37.395397489539754	spire_mag_01244826	99.99	99.99	99.99
+spire_mag_01276921	RGM	MAG	Mycobacterium adipatum	8	spire_mag_01276921	6.165	357	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.165	57.907542579075425	spire_mag_01276921	99.98	99.98	99.98
+spire_mag_01584542	RGM	MAG	Mycobacterium sp030666145	19	spire_mag_01584542	3.867	260	MAG / uncultured	environmental metagenome	RGM (large-genome)	3.867	67.23558313938453	spire_mag_01584542	99.94	99.94	99.92
+spire_mag_01585204	RGM	MAG	Mycobacterium phlei	22	spire_mag_01585204	5.061	136	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.061	26.87215965224264	spire_mag_01585204	89.9	89.9	90.27
+spire_mag_01585398	RGM	MAG	Mycobacterium smegmatis	13	spire_mag_01585398	6.744	487	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.744	72.21233689205219	spire_mag_01585398	99.99	99.99	99.99
+spire_mag_01585481	RGM	MAG	Mycobacterium smegmatis	17	spire_mag_01585481	7.309	427	MAG / uncultured	environmental metagenome	RGM (large-genome)	7.309	58.42112464085374	spire_mag_01585481	99.99	99.99	99.96
+spire_mag_01585638	RGM	MAG	Mycobacterium smegmatis	13	spire_mag_01585638	6.225	664	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.225	106.66666666666667	spire_mag_01585638	91.68	91.68	91.72
+spire_mag_01585792	RGM	MAG	Mycobacterium smegmatis	15	spire_mag_01585792	6.974	365	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.974	52.33725265271006	spire_mag_01585792	100	100	100.0
+spire_mag_01586359	RGM	MAG	Mycobacterium smegmatis	14	spire_mag_01586359	6.827	183	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.827	26.805331770909625	spire_mag_01586359	97.48	97.48	97.44
+spire_mag_01586430	RGM	MAG	Mycobacterium phlei	18	spire_mag_01586430	5.645	152	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.645	26.92648361381754	spire_mag_01586430	100	100	100.0
+spire_mag_01586464	RGM	MAG	Mycobacterium smegmatis	12	spire_mag_01586464	7.052	316	MAG / uncultured	environmental metagenome	RGM (large-genome)	7.052	44.80998298355077	spire_mag_01586464	99.98	99.98	99.91
+spire_mag_01586672	RGM	MAG	Mycobacterium smegmatis	15	spire_mag_01586672	7.106	312	MAG / uncultured	environmental metagenome	RGM (large-genome)	7.106	43.90655783844638	spire_mag_01586672	100	100	100.0
+spire_mag_01586673	RGM	MAG	Mycobacterium phlei	17	spire_mag_01586673	5.413	140	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.413	25.8636615555145	spire_mag_01586673	99.99	99.99	100.0
+spire_mag_01619133	RGM	MAG	Mycobacterium sp020438865	12	spire_mag_01619133	5.081	199	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.081	39.16551859870104	spire_mag_01619133	99.9	99.9	99.96
+spire_mag_01619766	RGM	MAG	Mycobacterium sp020438785	9	spire_mag_01619766	4.877	618	MAG / uncultured	environmental metagenome	RGM (large-genome)	4.877	126.71724420750462	spire_mag_01619766	94.48	94.48	94.62
+spire_mag_01620236	RGM	MAG	Mycobacterium sp020438785	9	spire_mag_01620236	4.925	466	MAG / uncultured	environmental metagenome	RGM (large-genome)	4.925	94.61928934010153	spire_mag_01620236	92.18	92.18	92.17
+spire_mag_01620338	RGM	MAG	Mycobacterium sp020438865	9	spire_mag_01620338	4.463	590	MAG / uncultured	environmental metagenome	RGM (large-genome)	4.463	132.19807304503698	spire_mag_01620338	91.2	91.2	91.55
+spire_mag_01620411	RGM	MAG	Mycobacterium sp020438785	10	spire_mag_01620411	4.933	480	MAG / uncultured	environmental metagenome	RGM (large-genome)	4.933	97.30387188323536	spire_mag_01620411	98.04	98.04	96.6
+spire_mag_01621671	RGM	MAG	Mycobacterium sp020438865	9	spire_mag_01621671	5.196	240	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.196	46.18937644341801	spire_mag_01621671	99.94	99.94	99.93
+spire_mag_01623019	RGM	MAG	Mycobacterium sp020438785	11	spire_mag_01623019	4.514	532	MAG / uncultured	environmental metagenome	RGM (large-genome)	4.514	117.8555604785113	spire_mag_01623019	90.82	90.82	90.99
+spire_mag_01623819	RGM	MAG	Mycobacterium sp020438865	7	spire_mag_01623819	5.18	318	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.18	61.38996138996139	spire_mag_01623819	99.48	99.48	99.49
+spire_mag_01733397	RGM	MAG	Mycobacterium gadium	17	spire_mag_01733397	6.351	85	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.351	13.383719099354433	spire_mag_01733397	99.98	99.98	99.98
+spire_mag_01776429	RGM	MAG	novel sp.	12	spire_mag_01776429	4.424	216	MAG / uncultured	environmental metagenome	RGM (large-genome)	4.424	48.824593128390596	spire_mag_01776429	98.36	98.36	98.35
+spire_mag_01784070	RGM	MAG	Mycobacterium bacteremicum_A	12	spire_mag_01784070	6.379	312	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.379	48.910487537231546	spire_mag_01784070	99.99	99.99	99.99
+spire_mag_01882632	RGM	MAG	novel sp.	7	spire_mag_01882632	5.64	131	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.64	23.22695035460993	spire_mag_01882632	95.41	95.41	95.24
+spire_mag_02002215	RGM	MAG	Mycobacterium sp020438785	11	spire_mag_02002215	4.664	357	MAG / uncultured	environmental metagenome	RGM (large-genome)	4.664	76.54373927958834	spire_mag_02002215	99.8	99.8	99.78
+spire_mag_02003535	RGM	MAG	Mycobacterium sp020438785	4	spire_mag_02003535	4.842	432	MAG / uncultured	environmental metagenome	RGM (large-genome)	4.842	89.2193308550186	spire_mag_02003535	94.39	94.39	94.26
+spire_mag_02166032	RGM	MAG	Mycobacterium sp964000695	8	spire_mag_02166032	5.861	375	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.861	63.982255587783655	spire_mag_02166032	99.9	99.9	99.91
+spire_mag_02184890	RGM	MAG	Mycobacterium sp023404955	14	spire_mag_02184890	5.945	58	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.945	9.75609756097561	spire_mag_02184890	100	100	100.0
+spire_mag_02186423	RGM	MAG	Mycobacterium aurum_A	3	spire_mag_02186423	5.969	191	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.969	31.998659742000335	spire_mag_02186423	99.97	99.97	99.96
+spire_mag_02200992	RGM	MAG	Mycobacterium smegmatis	21	spire_mag_02200992	6.725	557	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.725	82.82527881040893	spire_mag_02200992	96.19	96.19	96.31
+spire_mag_02208815	RGM	MAG	Mycobacterium sp964000695	8	spire_mag_02208815	6.119	488	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.119	79.75159339761399	spire_mag_02208815	97.86	97.86	97.64
+spire_mag_02292565	RGM	MAG	Mycobacterium sp964000695	7	spire_mag_02292565	6.04	260	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.04	43.04635761589404	spire_mag_02292565	100	100	100.0
+spire_mag_02292667	RGM	MAG	Mycobacterium sp964000695	7	spire_mag_02292667	6.085	85	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.085	13.968775677896467	spire_mag_02292667	100	100	100.0
+spire_mag_02293016	RGM	MAG	Mycobacterium sp964000695	7	spire_mag_02293016	6.019	357	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.019	59.312178102674864	spire_mag_02293016	99.99	99.99	99.99
+spire_mag_02293027	RGM	MAG	Mycobacterium poriferae	12	spire_mag_02293027	6.078	240	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.078	39.486673247778874	spire_mag_02293027	100	100	100.0
+spire_mag_02293116	RGM	MAG	Mycobacterium sp964000695	13	spire_mag_02293116	6.035	661	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.035	109.52775476387738	spire_mag_02293116	90.9	90.9	90.84
+spire_mag_02294311	RGM	MAG	Mycobacterium sp964000695	9	spire_mag_02294311	6.012	366	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.012	60.87824351297406	spire_mag_02294311	99.97	99.97	99.95
+spire_mag_02294715	RGM	MAG	Mycobacterium sp964000695	11	spire_mag_02294715	5.973	127	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.973	21.26234722919806	spire_mag_02294715	100	100	100.0
+spire_mag_02295856	RGM	MAG	Mycobacterium poriferae	10	spire_mag_02295856	5.907	401	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.907	67.88555950567124	spire_mag_02295856	99.94	99.94	99.95
+spire_mag_02296017	RGM	MAG	Mycobacterium sp964000695	7	spire_mag_02296017	6.061	513	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.061	84.63949843260188	spire_mag_02296017	99.61	99.61	99.86
+spire_mag_02296298	RGM	MAG	Mycobacterium sp964000695	12	spire_mag_02296298	5.918	614	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.918	103.75126732004055	spire_mag_02296298	95.01	95.01	95.03
+spire_mag_02296681	RGM	MAG	Mycobacterium sp964000695	6	spire_mag_02296681	5.995	168	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.995	28.023352793994995	spire_mag_02296681	100	100	100.0
+spire_mag_02297276	RGM	MAG	Mycobacterium sp964000695	12	spire_mag_02297276	5.902	699	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.902	118.43442900711622	spire_mag_02297276	96.25	96.25	96.28
+spire_mag_02297337	RGM	MAG	Mycobacterium sp964000695	9	spire_mag_02297337	6.007	544	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.007	90.56101215248877	spire_mag_02297337	96.39	96.39	96.33
+spire_mag_02298516	RGM	MAG	Mycobacterium sp964000695	6	spire_mag_02298516	6.046	174	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.046	28.77935825339067	spire_mag_02298516	100	100	100.0
+spire_mag_02298601	RGM	MAG	Mycobacterium sp964000695	8	spire_mag_02298601	6.057	275	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.057	45.40201419844807	spire_mag_02298601	99.98	99.98	99.98
+spire_mag_02299450	RGM	MAG	Mycobacterium sp964000695	10	spire_mag_02299450	6.139	325	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.139	52.940218276592276	spire_mag_02299450	100	100	100.0
+spire_mag_02299568	RGM	MAG	Mycobacterium sp964000695	6	spire_mag_02299568	5.781	650	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.781	112.43729458571183	spire_mag_02299568	94.11	94.11	94.2
+spire_mag_02300518	RGM	MAG	Mycobacterium sp964000695	11	spire_mag_02300518	6.037	314	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.037	52.01258903428855	spire_mag_02300518	99.7	99.7	99.71
+spire_mag_02300699	RGM	MAG	Mycobacterium poriferae	15	spire_mag_02300699	5.912	605	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.912	102.33423545331529	spire_mag_02300699	97.7	97.7	97.86
+spire_mag_02300785	RGM	MAG	Mycobacterium sp964000695	8	spire_mag_02300785	6.069	145	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.069	23.891909705058495	spire_mag_02300785	100	100	100.0
+spire_mag_02305637	RGM	MAG	Mycobacterium sp964000695	6	spire_mag_02305637	5.968	223	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.968	37.365951742627345	spire_mag_02305637	100	100	100.0
+spire_mag_02306214	RGM	MAG	Mycobacterium poriferae	9	spire_mag_02306214	5.485	478	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.485	87.14676390154968	spire_mag_02306214	95.25	95.25	96.15
+spire_mag_02307077	RGM	MAG	Mycobacterium sp964000695	6	spire_mag_02307077	5.9	261	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.9	44.23728813559322	spire_mag_02307077	99.56	99.56	99.52
+spire_mag_02307626	RGM	MAG	Mycobacterium sp964000695	7	spire_mag_02307626	6.073	129	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.073	21.241561007739172	spire_mag_02307626	100	100	100.0
+spire_mag_02307797	RGM	MAG	Mycobacterium sp964000695	6	spire_mag_02307797	6.094	80	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.094	13.127666557269444	spire_mag_02307797	100	100	100.0
+spire_mag_02307968	RGM	MAG	Mycobacterium sp964000695	9	spire_mag_02307968	6.003	390	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.003	64.96751624187905	spire_mag_02307968	99.64	99.64	99.59
+spire_mag_02371253	RGM	MAG	novel sp.	5	spire_mag_02371253	5.37	235	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.37	43.76163873370577	spire_mag_02371253	99.88	99.88	99.84
+spire_mag_02374732	RGM	MAG	novel sp.	3	spire_mag_02374732	4.949	296	MAG / uncultured	environmental metagenome	RGM (large-genome)	4.949	59.81006263891695	spire_mag_02374732	99.83	99.83	99.88
+spire_mag_02516797	RGM	MAG	Mycobacterium neoaurum	14	spire_mag_02516797	5.436	276	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.436	50.77262693156733	spire_mag_02516797	100	100	100.0
+spire_mag_02519404	RGM	MAG	Mycobacterium sp023416315	10	spire_mag_02519404	5.873	320	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.873	54.48663374765878	spire_mag_02519404	100	100	100.0
+spire_mag_02520786	RGM	MAG	Mycobacterium sp023460175	8	spire_mag_02520786	5.243	225	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.243	42.914362006484836	spire_mag_02520786	100	100	100.0
+spire_mag_02521398	RGM	MAG	Mycobacterium neoaurum	25	spire_mag_02521398	5.442	560	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.442	102.90334435869165	spire_mag_02521398	93.99	93.99	94.61
+GCA_000230935.2	RGM	cultured isolate	Mycobacterium rhodesiae_B	20	GCA_000230935.2	7.282	31	Cultured isolate	axenic culture	RGM (large-genome)	7.282	4.257072232903049	GCA_000230935.2	100	100	
+GCA_001942045.1	RGM	cultured isolate	Mycobacterium porcinum_A	20	GCA_001942045.1	6.24	110	Cultured isolate	axenic culture	RGM (large-genome)	6.24	17.628205128205128	GCA_001942045.1	100	100	
+GCA_002007745.1	RGM	cultured isolate	Mycobacterium litorale_A	122	GCA_002007745.1	6.104	1	Cultured isolate	axenic culture	RGM (large-genome)	6.104	0.163826998689384	GCA_002007745.1	100		
+GCA_003347205.1	RGM	cultured isolate	Mycobacterium moriokaense_B	11	GCA_003347205.1	7.123	123	Cultured isolate	axenic culture	RGM (large-genome)	7.123	17.26800505405026	GCA_003347205.1	99.99	99.99	
+GCA_016197365.1	RGM	cultured isolate	Mycobacterium cosmeticum_A	9	GCA_016197365.1	5.51	31	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.51	5.626134301270418	GCA_016197365.1	93.57	93.57	
+GCA_025821245.1	RGM	cultured isolate	Mycobacterium houstonense	429	GCA_025821245.1	6.007	567	NTM (isolate)	axenic culture	RGM (large-genome)	6.007	94.38987847511237	GCA_025821245.1	90.39	90.39	
+GCA_900078775.1	RGM	cultured isolate	Mycobacterium aurum_A	28	GCA_900078775.1	6.039	1	Cultured isolate	axenic culture	RGM (large-genome)	6.039	0.16559032952475577	GCA_900078775.1	100		
+GCA_900637135.1	RGM	cultured isolate	Mycobacterium neumannii	10	GCA_900637135.1	5.396	1	Cultured isolate	axenic culture	RGM (large-genome)	5.396	0.18532246108228317	GCA_900637135.1	100		
+GCF_000230895.2	RGM	cultured isolate	Mycobacterium rhodesiae_A	6	GCF_000230895.2	6.416	1	Cultured isolate	axenic culture	RGM (large-genome)	6.416	0.15586034912718202	GCF_000230895.2	100		
+GCF_000243415.2	RGM	cultured isolate	Mycobacterium tusciae_A	25	GCF_000243415.2	7.306	4	Cultured isolate	axenic culture	RGM (large-genome)	7.306	0.5474952094169176	GCF_000243415.2	100	100	
+GCF_000266905.1	RGM	cultured isolate	Mycobacterium chubuense_A	13	GCF_000266905.1	6.343	3	Cultured isolate	axenic culture	RGM (large-genome)	6.343	0.4729623206684534	GCF_000266905.1	100		
+GCF_000317305.3	RGM	cultured isolate	Mycobacterium neoaurum_A	6	GCF_000317305.3	5.421	1	Cultured isolate	axenic culture	RGM (large-genome)	5.421	0.18446781036709092	GCF_000317305.3	100		
+GCF_000455325.1	RGM	cultured isolate	Mycobacterium septicum	21	GCF_000455325.1	6.909	7	NTM (isolate)	axenic culture	RGM (large-genome)	6.909	1.0131712259371835	GCF_000455325.1	99.99	99.99	
+GCF_000559085.1	RGM	cultured isolate	Mycobacterium aromaticivorans	10	GCF_000559085.1	6.298	6	Cultured isolate	axenic culture	RGM (large-genome)	6.298	0.952683391552874	GCF_000559085.1	100	100	
+GCF_000612725.1	RGM	cultured isolate	Mycobacterium austroafricanum	16	GCF_000612725.1	6.771	20	Cultured isolate	axenic culture	RGM (large-genome)	6.771	2.9537734455767244	GCF_000612725.1	100	100	
+GCF_000613185.1	RGM	cultured isolate	Mycobacterium cosmeticum	0	GCF_000613185.1	6.462	5	Cultured isolate	axenic culture	RGM (large-genome)	6.462	0.773754255648406	GCF_000613185.1	100	100	
+GCF_000691525.1	RGM	cultured isolate	Mycobacterium neoaurum	2	GCF_000691525.1	5.468	42	Cultured isolate	axenic culture	RGM (large-genome)	5.468	7.681053401609364	GCF_000691525.1	100	100	
+GCF_000723385.1	RGM	cultured isolate	Mycobacterium conceptionense	19	GCF_000723385.1	6.14	5	Cultured isolate	axenic culture	RGM (large-genome)	6.14	0.8143322475570033	GCF_000723385.1	100	100	
+GCF_000805385.1	RGM	cultured isolate	Mycobacterium setense	1	GCF_000805385.1	6.265	21	Cultured isolate	axenic culture	RGM (large-genome)	6.265	3.35195530726257	GCF_000805385.1	100	100	
+GCF_001044235.1	RGM	cultured isolate	Mycobacterium chlorophenolicum	1	GCF_001044235.1	7.38	72	Cultured isolate	axenic culture	RGM (large-genome)	7.38	9.75609756097561	GCF_001044235.1	100	100	
+GCF_001044255.1	RGM	cultured isolate	Mycobacterium chubuense	1	GCF_001044255.1	5.945	96	Cultured isolate	axenic culture	RGM (large-genome)	5.945	16.14802354920101	GCF_001044255.1	100	100	
+GCF_001050015.1	RGM	cultured isolate	Mycobacterium malmesburyense	16	GCF_001050015.1	5.471	324	Cultured isolate	axenic culture	RGM (large-genome)	5.471	59.22134893072565	GCF_001050015.1	99.99	99.99	
+GCF_001050035.1	RGM	cultured isolate	Mycobacterium komanii	6	GCF_001050035.1	5.379	65	Cultured isolate	axenic culture	RGM (large-genome)	5.379	12.084030488938465	GCF_001050035.1	100	100	
+GCF_001187505.1	RGM	cultured isolate	Mycobacterium goodii_B	17	GCF_001187505.1	7.106	1	Cultured isolate	axenic culture	RGM (large-genome)	7.106	0.14072614691809737	GCF_001187505.1	100		
+GCF_001245615.1	RGM	cultured isolate	Mycobacterium neworleansense	0	GCF_001245615.1	6.287	9	NTM (isolate)	axenic culture	RGM (large-genome)	6.287	1.4315253698107206	GCF_001245615.1	100	100	
+GCF_001457595.1	RGM	cultured isolate	Mycobacterium smegmatis	10	GCF_001457595.1	6.983	1	Cultured isolate	axenic culture	RGM (large-genome)	6.983	0.143204926249463	GCF_001457595.1	100		
+GCF_001552715.1	RGM	cultured isolate	Mycobacterium vaccae	9	GCF_001552715.1	6.169	370	Cultured isolate	axenic culture	RGM (large-genome)	6.169	59.97730588426001	GCF_001552715.1	99.99	99.99	
+GCF_001570425.1	RGM	cultured isolate	Mycobacterium brisbanense	2	GCF_001570425.1	7.387	70	Cultured isolate	axenic culture	RGM (large-genome)	7.387	9.476106673886559	GCF_001570425.1	100	100	
+GCF_001570485.1	RGM	cultured isolate	Mycobacterium novocastrense	23	GCF_001570485.1	6.228	119	NTM (isolate)	axenic culture	RGM (large-genome)	6.228	19.107257546563904	GCF_001570485.1	100	100	
+GCF_001583415.1	RGM	cultured isolate	Mycobacterium phlei	17	GCF_001583415.1	5.35	1	Cultured isolate	axenic culture	RGM (large-genome)	5.35	0.1869158878504673	GCF_001583415.1	100		
+GCF_001644575.1	RGM	cultured isolate	Mycobacterium adipatum	9	GCF_001644575.1	6.054	2	Cultured isolate	axenic culture	RGM (large-genome)	6.054	0.3303600925008259	GCF_001644575.1	100		
+GCF_001650495.1	RGM	cultured isolate	Mycobacterium iranicum_A	5	GCF_001650495.1	6.485	108	Cultured isolate	axenic culture	RGM (large-genome)	6.485	16.653816499614493	GCF_001650495.1	100	100	
+GCF_001665625.1	RGM	cultured isolate	Mycobacterium peregrinum_B	9	GCF_001665625.1	6.751	206	Cultured isolate	axenic culture	RGM (large-genome)	6.751	30.51399792623315	GCF_001665625.1	100	100	
+GCF_001665785.1	RGM	cultured isolate	Mycobacterium peregrinum_A	7	GCF_001665785.1	6.795	51	Cultured isolate	axenic culture	RGM (large-genome)	6.795	7.50551876379691	GCF_001665785.1	100	100	
+GCF_001942625.1	RGM	cultured isolate	Mycobacterium syngnathidarum	14	GCF_001942625.1	6.344	93	Cultured isolate	axenic culture	RGM (large-genome)	6.344	14.65952080706179	GCF_001942625.1	100	100	
+GCF_002086115.1	RGM	cultured isolate	Mycobacterium bacteremicum	2	GCF_002086115.1	5.952	85	Cultured isolate	axenic culture	RGM (large-genome)	5.952	14.280913978494624	GCF_002086115.1	100	100	
+GCF_002086485.1	RGM	cultured isolate	Mycobacterium aquaticum	8	GCF_002086485.1	7.928	111	Cultured isolate	axenic culture	RGM (large-genome)	7.928	14.00100908173562	GCF_002086485.1	100	100	
+GCF_002086695.1	RGM	cultured isolate	Mycobacterium rhodesiae	7	GCF_002086695.1	6.009	52	Cultured isolate	axenic culture	RGM (large-genome)	6.009	8.653686137460475	GCF_002086695.1	100	100	
+GCF_002086795.1	RGM	cultured isolate	Mycobacterium tusciae	9	GCF_002086795.1	6.163	70	Cultured isolate	axenic culture	RGM (large-genome)	6.163	11.358104819081616	GCF_002086795.1	100	100	
+GCF_002086815.1	RGM	cultured isolate	Mycobacterium parafortuitum	2	GCF_002086815.1	6.136	88	Cultured isolate	axenic culture	RGM (large-genome)	6.136	14.341590612777054	GCF_002086815.1	100	100	
+GCF_002101555.1	RGM	cultured isolate	Mycobacterium canariasense	3	GCF_002101555.1	6.756	113	Cultured isolate	axenic culture	RGM (large-genome)	6.756	16.725873297809354	GCF_002101555.1	100	100	
+GCF_002101705.1	RGM	cultured isolate	Mycobacterium iranicum	12	GCF_002101705.1	6.336	82	Cultured isolate	axenic culture	RGM (large-genome)	6.336	12.941919191919192	GCF_002101705.1	100	100	
+GCF_002101965.1	RGM	cultured isolate	Mycobacterium wolinskyi	9	GCF_002101965.1	7.517	36	NTM (isolate)	axenic culture	RGM (large-genome)	7.517	4.789144605560729	GCF_002101965.1	99.99	99.99	
+GCF_002102345.1	RGM	cultured isolate	Mycobacterium peregrinum	14	GCF_002102345.1	7.05	78	NTM (isolate)	axenic culture	RGM (large-genome)	7.05	11.063829787234043	GCF_002102345.1	100	100	
+GCF_002157835.1	RGM	cultured isolate	Mycobacterium dioxanotrophicus	30	GCF_002157835.1	8.08	5	Cultured isolate	axenic culture	RGM (large-genome)	8.08	0.6188118811881188	GCF_002157835.1	100		
+GCF_002245535.1	RGM	cultured isolate	Mycobacterium lehmannii	12	GCF_002245535.1	5.496	76	Cultured isolate	axenic culture	RGM (large-genome)	5.496	13.828238719068413	GCF_002245535.1	100	100	
+GCF_002250655.1	RGM	cultured isolate	Mycobacterium sphagni	6	GCF_002250655.1	6.067	78	Cultured isolate	axenic culture	RGM (large-genome)	6.067	12.85643645953519	GCF_002250655.1	100	100	
+GCF_002553505.1	RGM	cultured isolate	Mycobacterium agri	2	GCF_002553505.1	6.987	272	Cultured isolate	axenic culture	RGM (large-genome)	6.987	38.929440389294406	GCF_002553505.1	99.95	99.95	
+GCF_002591975.1	RGM	cultured isolate	Mycobacterium neglectum	15	GCF_002591975.1	6.209	123	Cultured isolate	axenic culture	RGM (large-genome)	6.209	19.809953293606057	GCF_002591975.1	100	100	
+GCF_002592005.1	RGM	cultured isolate	Mycobacterium palauense	6	GCF_002592005.1	6.23	210	Cultured isolate	axenic culture	RGM (large-genome)	6.23	33.70786516853932	GCF_002592005.1	100	100	
+GCF_002838065.1	RGM	cultured isolate	Mycobacterium hubeiense	17	GCF_002838065.1	5.576	172	Cultured isolate	axenic culture	RGM (large-genome)	5.576	30.84648493543759	GCF_002838065.1	96.68	96.68	
+GCF_003201655.1	RGM	cultured isolate	Mycobacterium moriokaense_A	1	GCF_003201655.1	6.421	83	Cultured isolate	axenic culture	RGM (large-genome)	6.421	12.92633546176608	GCF_003201655.1	100	100	
+GCF_003254575.1	RGM	cultured isolate	Mycobacterium kyogaense	10	GCF_003254575.1	5.76	132	Cultured isolate	axenic culture	RGM (large-genome)	5.76	22.916666666666668	GCF_003254575.1	99.99	99.99	
+GCF_003719305.1	RGM	cultured isolate	Mycobacterium stellerae	6	GCF_003719305.1	6.956	88	Cultured isolate	axenic culture	RGM (large-genome)	6.956	12.650948821161586	GCF_003719305.1	100	100	
+GCF_003855255.1	RGM	cultured isolate	Mycobacterium nivoides	7	GCF_003855255.1	6.906	1	Cultured isolate	axenic culture	RGM (large-genome)	6.906	0.1448016217781639	GCF_003855255.1	100	100	
+GCF_004014805.1	RGM	cultured isolate	Mycobacterium elephantis	12	GCF_004014805.1	5.47	91	NTM (isolate)	axenic culture	RGM (large-genome)	5.47	16.63619744058501	GCF_004014805.1	100	100	
+GCF_005670685.2	RGM	cultured isolate	Mycobacterium mucogenicum_B	10	GCF_005670685.2	6.099	1	Cultured isolate	axenic culture	RGM (large-genome)	6.099	0.16396130513198884	GCF_005670685.2	100		
+GCF_006439015.1	RGM	cultured isolate	Mycobacterium hodleri_A	9	GCF_006439015.1	6.384	52	Cultured isolate	axenic culture	RGM (large-genome)	6.384	8.145363408521304	GCF_006439015.1	100	100	
+GCF_006864685.1	RGM	cultured isolate	Mycobacterium hodleri_B	4	GCF_006864685.1	6.986	218	Cultured isolate	axenic culture	RGM (large-genome)	6.986	31.20526767821357	GCF_006864685.1	100	100	
+GCF_008329645.1	RGM	cultured isolate	Mycobacterium grossiae	3	GCF_008329645.1	5.682	2	Cultured isolate	axenic culture	RGM (large-genome)	5.682	0.3519887363604364	GCF_008329645.1	100		
+GCF_010725725.1	RGM	cultured isolate	Mycobacterium pulveris	1	GCF_010725725.1	5.485	1	Cultured isolate	axenic culture	RGM (large-genome)	5.485	0.18231540565177756	GCF_010725725.1	100		
+GCF_010725885.1	RGM	cultured isolate	Mycobacterium tokaiense	5	GCF_010725885.1	6.328	1	Cultured isolate	axenic culture	RGM (large-genome)	6.328	0.15802781289506954	GCF_010725885.1	100		
+GCF_010726085.1	RGM	cultured isolate	Mycobacterium moriokaense	0	GCF_010726085.1	6.226	1	Cultured isolate	axenic culture	RGM (large-genome)	6.226	0.16061676839061997	GCF_010726085.1	100		
+GCF_010726245.1	RGM	cultured isolate	Mycobacterium aichiense	2	GCF_010726245.1	5.925	1	Cultured isolate	axenic culture	RGM (large-genome)	5.925	0.16877637130801687	GCF_010726245.1	100		
+GCF_010726645.1	RGM	cultured isolate	Mycobacterium duvalii	0	GCF_010726645.1	5.657	1	Cultured isolate	axenic culture	RGM (large-genome)	5.657	0.176772140710624	GCF_010726645.1	100		
+GCF_010726765.1	RGM	cultured isolate	Mycobacterium gallinarum	2	GCF_010726765.1	6.302	2	Cultured isolate	axenic culture	RGM (large-genome)	6.302	0.317359568390987	GCF_010726765.1	100		
+GCF_010726955.1	RGM	cultured isolate	Mycobacterium fallax	5	GCF_010726955.1	4.157	1	Cultured isolate	axenic culture	RGM (large-genome)	4.157	0.24055809477988935	GCF_010726955.1	100		
+GCF_010727325.1	RGM	cultured isolate	Mycobacterium alvei	5	GCF_010727325.1	6.017	2	Cultured isolate	axenic culture	RGM (large-genome)	6.017	0.3323915572544457	GCF_010727325.1	100		
+GCF_010727475.1	RGM	cultured isolate	Mycobacterium mageritense	21	GCF_010727475.1	8.007	1	NTM (isolate)	axenic culture	RGM (large-genome)	8.007	0.12489072061945798	GCF_010727475.1	100		
+GCF_010728155.1	RGM	cultured isolate	Mycobacterium doricum	3	GCF_010728155.1	4.029	1	Cultured isolate	axenic culture	RGM (large-genome)	4.029	0.2482005460412013	GCF_010728155.1	100		
+GCF_010728325.1	RGM	cultured isolate	Mycobacterium poriferae	2	GCF_010728325.1	5.929	2	Cultured isolate	axenic culture	RGM (large-genome)	5.929	0.33732501264968795	GCF_010728325.1	100		
+GCF_010728925.1	RGM	cultured isolate	Mycobacterium gadium	2	GCF_010728925.1	5.965	1	Cultured isolate	axenic culture	RGM (large-genome)	5.965	0.16764459346186086	GCF_010728925.1	100		
+GCF_010729305.1	RGM	cultured isolate	Mycobacterium psychrotolerans	2	GCF_010729305.1	5.732	1	Cultured isolate	axenic culture	RGM (large-genome)	5.732	0.17445917655268667	GCF_010729305.1	100		
+GCF_010729665.1	RGM	cultured isolate	Mycobacterium madagascariense	4	GCF_010729665.1	5.94	2	Cultured isolate	axenic culture	RGM (large-genome)	5.94	0.33670033670033667	GCF_010729665.1	100		
+GCF_010729895.1	RGM	cultured isolate	Mycobacterium confluentis	0	GCF_010729895.1	5.877	1	Cultured isolate	axenic culture	RGM (large-genome)	5.877	0.17015484090522376	GCF_010729895.1	100		
+GCF_010730955.1	RGM	cultured isolate	Mycobacterium aubagnense	32	GCF_010730955.1	6.322	2	NTM (isolate)	axenic culture	RGM (large-genome)	6.322	0.3163555836760519	GCF_010730955.1	100		
+GCF_010731115.1	RGM	cultured isolate	Mycobacterium phocaicum	20	GCF_010731115.1	5.853	1	NTM (isolate)	axenic culture	RGM (large-genome)	5.853	0.170852554245686	GCF_010731115.1	100		
+GCF_010731295.1	RGM	cultured isolate	Mycobacterium boenickei	11	GCF_010731295.1	6.586	2	NTM (isolate)	axenic culture	RGM (large-genome)	6.586	0.30367446097783174	GCF_010731295.1	100		
+GCF_010731575.1	RGM	cultured isolate	Mycobacterium monacense	5	GCF_010731575.1	6.042	1	Cultured isolate	axenic culture	RGM (large-genome)	6.042	0.165508109897385	GCF_010731575.1	100		
+GCF_010731615.1	RGM	cultured isolate	Mycobacterium insubricum	4	GCF_010731615.1	4.577	1	Cultured isolate	axenic culture	RGM (large-genome)	4.577	0.2184837229626393	GCF_010731615.1	100		
+GCF_010731695.1	RGM	cultured isolate	Mycobacterium litorale	1	GCF_010731695.1	5.58	1	Cultured isolate	axenic culture	RGM (large-genome)	5.58	0.17921146953405018	GCF_010731695.1	100		
+GCF_010731795.1	RGM	cultured isolate	Mycobacterium celeriflavum	2	GCF_010731795.1	5.024	1	Cultured isolate	axenic culture	RGM (large-genome)	5.024	0.19904458598726116	GCF_010731795.1	100		
+GCF_010731815.2	RGM	cultured isolate	Mycobacterium arabiense	0	GCF_010731815.2	6.451	2	Cultured isolate	axenic culture	RGM (large-genome)	6.451	0.3100294527980158	GCF_010731815.2	100		
+GCF_010731855.1	RGM	cultured isolate	Mycobacterium anyangense	1	GCF_010731855.1	5.697	1	Cultured isolate	axenic culture	RGM (large-genome)	5.697	0.175530981218185	GCF_010731855.1	100		
+GCF_010731875.1	RGM	cultured isolate	Mycobacterium sarraceniae	3	GCF_010731875.1	4.828	1	Cultured isolate	axenic culture	RGM (large-genome)	4.828	0.20712510356255176	GCF_010731875.1	100		
+GCF_010731895.1	RGM	cultured isolate	Mycobacterium helvum	3	GCF_010731895.1	6.401	1	Cultured isolate	axenic culture	RGM (large-genome)	6.401	0.1562255897516013	GCF_010731895.1	100		
+GCF_011758805.1	RGM	cultured isolate	Mycobacterium fluoranthenivorans	1	GCF_011758805.1	6.409	6	Cultured isolate	axenic culture	RGM (large-genome)	6.409	0.9361834919644251	GCF_011758805.1	100	100	
+GCF_013404075.1	RGM	cultured isolate	Mycobacterium vinylchloridicum	9	GCF_013404075.1	7.196	225	Cultured isolate	axenic culture	RGM (large-genome)	7.196	31.26737076153419	GCF_013404075.1	100	100	
+GCF_014190915.1	RGM	cultured isolate	Mycobacterium iranicum_B	0	GCF_014190915.1	5.519	26	Cultured isolate	axenic culture	RGM (large-genome)	5.519	4.710998369269795	GCF_014190915.1	100	100	
+GCF_014218295.1	RGM	cultured isolate	Mycobacterium litorale_B	4	GCF_014218295.1	5.634	1	Cultured isolate	axenic culture	RGM (large-genome)	5.634	0.17749378771742988	GCF_014218295.1	100		
+GCF_015710575.1	RGM	cultured isolate	Mycobacterium mengxianglii	16	GCF_015710575.1	5.962	1	Cultured isolate	axenic culture	RGM (large-genome)	5.962	0.1677289500167729	GCF_015710575.1	100		
+GCF_016313185.1	RGM	cultured isolate	Mycobacterium baixiangningiae	7	GCF_016313185.1	6.181	1	Cultured isolate	axenic culture	RGM (large-genome)	6.181	0.16178611875101115	GCF_016313185.1	100		
+GCF_017876775.1	RGM	cultured isolate	Mycobacterium lutetiense	15	GCF_017876775.1	6.345	3	Cultured isolate	axenic culture	RGM (large-genome)	6.345	0.4728132387706856	GCF_017876775.1	100	100	
+GCF_019050325.1	RGM	cultured isolate	Mycobacterium fortunisiensis	10	GCF_019050325.1	5.49	28	Cultured isolate	axenic culture	RGM (large-genome)	5.49	5.100182149362477	GCF_019050325.1	100	100	
+GCF_019456655.1	RGM	cultured isolate	Mycobacterium diernhoferi	4	GCF_019456655.1	5.999	1	Cultured isolate	axenic culture	RGM (large-genome)	5.999	0.16669444907484582	GCF_019456655.1	100		
+GCF_019645835.1	RGM	cultured isolate	Mycobacterium holsaticum	6	GCF_019645835.1	5.624	1	Cultured isolate	axenic culture	RGM (large-genome)	5.624	0.17780938833570414	GCF_019645835.1	100		
+GCF_019710635.1	RGM	cultured isolate	Mycobacterium xanthum	10	GCF_019710635.1	5.553	152	Cultured isolate	axenic culture	RGM (large-genome)	5.553	27.372591392040338	GCF_019710635.1	100	100	
+GCF_021916785.1	RGM	cultured isolate	Mycobacterium lacusdiani	3	GCF_021916785.1	6.138	24	Cultured isolate	axenic culture	RGM (large-genome)	6.138	3.9100684261974585	GCF_021916785.1	100	100	
+GCF_022179545.1	RGM	cultured isolate	Mycobacterium fortuitum	7	GCF_022179545.1	6.406	1	NTM (isolate)	axenic culture	RGM (large-genome)	6.406	0.1561036528254761	GCF_022179545.1	100		
+GCF_022370635.2	RGM	cultured isolate	Mycobacterium crocinum	16	GCF_022370635.2	6.184	3	Cultured isolate	axenic culture	RGM (large-genome)	6.184	0.48512289780077616	GCF_022370635.2	100		
+GCF_022370755.2	RGM	cultured isolate	Mycobacterium goodii	9	GCF_022370755.2	6.741	1	NTM (isolate)	axenic culture	RGM (large-genome)	6.741	0.1483459427384661	GCF_022370755.2	100		
+GCF_022374875.2	RGM	cultured isolate	Mycobacterium rufum	9	GCF_022374875.2	6.107	3	Cultured isolate	axenic culture	RGM (large-genome)	6.107	0.4912395611593253	GCF_022374875.2	100		
+GCF_022760805.1	RGM	cultured isolate	Mycobacterium alkanivorans	8	GCF_022760805.1	4.05	3	Cultured isolate	axenic culture	RGM (large-genome)	4.05	0.7407407407407408	GCF_022760805.1	99.16	99.16	
+GCF_024320865.1	RGM	cultured isolate	Mycobacterium arenosum	4	GCF_024320865.1	6.822	35	Cultured isolate	axenic culture	RGM (large-genome)	6.822	5.130460275579009	GCF_024320865.1	100	100	
+GCF_025215495.1	RGM	cultured isolate	Mycobacterium brumae	1	GCF_025215495.1	3.989	1	Cultured isolate	axenic culture	RGM (large-genome)	3.989	0.25068939583855604	GCF_025215495.1	100		
+GCF_025331195.1	RGM	cultured isolate	Mycobacterium llatzerense	3	GCF_025331195.1	6.578	19	NTM (isolate)	axenic culture	RGM (large-genome)	6.578	2.8884159318941927	GCF_025331195.1	100	100	
+GCF_025345615.1	RGM	cultured isolate	Mycobacterium deserti	3	GCF_025345615.1	5.633	14	Cultured isolate	axenic culture	RGM (large-genome)	5.633	2.485354162968223	GCF_025345615.1	99.78	99.78	
+GCF_025821585.1	RGM	cultured isolate	Mycobacterium hippocampi	8	GCF_025821585.1	6.292	382	Cultured isolate	axenic culture	RGM (large-genome)	6.292	60.71201525746981	GCF_025821585.1	99.99	99.99	
+GCF_025821625.1	RGM	cultured isolate	Mycobacterium pyrenivorans	42	GCF_025821625.1	6.688	304	Cultured isolate	axenic culture	RGM (large-genome)	6.688	45.45454545454545	GCF_025821625.1	100	100	
+GCF_025822145.1	RGM	cultured isolate	Mycobacterium frederiksbergense	18	GCF_025822145.1	6.388	88	Cultured isolate	axenic culture	RGM (large-genome)	6.388	13.77582968065122	GCF_025822145.1	99.99	99.99	
+GCF_025822245.1	RGM	cultured isolate	Mycobacterium hodleri	9	GCF_025822245.1	6.529	81	Cultured isolate	axenic culture	RGM (large-genome)	6.529	12.406187777607597	GCF_025822245.1	99.98	99.98	
+GCF_025822605.1	RGM	cultured isolate	Mycobacterium komossense	4	GCF_025822605.1	6.921	57	Cultured isolate	axenic culture	RGM (large-genome)	6.921	8.2358040745557	GCF_025822605.1	100	100	
+GCF_025822705.1	RGM	cultured isolate	Mycobacterium flavescens	10	GCF_025822705.1	5.974	47	Cultured isolate	axenic culture	RGM (large-genome)	5.974	7.867425510545698	GCF_025822705.1	100	100	
+GCF_025822765.1	RGM	cultured isolate	Mycobacterium barrassiae	8	GCF_025822765.1	5.9	49	Cultured isolate	axenic culture	RGM (large-genome)	5.9	8.305084745762711	GCF_025822765.1	99.99	99.99	
+GCF_025822985.1	RGM	cultured isolate	Mycobacterium sediminis	1	GCF_025822985.1	6.218	21	Cultured isolate	axenic culture	RGM (large-genome)	6.218	3.377291733676423	GCF_025822985.1	100	100	
+GCF_025823105.1	RGM	cultured isolate	Mycobacterium porcinum	12	GCF_025823105.1	6.963	36	NTM (isolate)	axenic culture	RGM (large-genome)	6.963	5.170185264971995	GCF_025823105.1	100	100	
+GCF_025823185.1	RGM	cultured isolate	Mycobacterium yunnanensis	5	GCF_025823185.1	6.453	25	Cultured isolate	axenic culture	RGM (large-genome)	6.453	3.874167054083372	GCF_025823185.1	100	100	
+GCF_026242035.1	RGM	cultured isolate	Mycobacterium pinniadriaticum	4	GCF_026242035.1	6.88	143	Cultured isolate	axenic culture	RGM (large-genome)	6.88	20.78488372093023	GCF_026242035.1	99.91	99.91	
+GCF_029893345.1	RGM	cultured isolate	Mycobacterium frederiksbergense_B	9	GCF_029893345.1	6.285	25	Cultured isolate	axenic culture	RGM (large-genome)	6.285	3.977724741447892	GCF_029893345.1	100	100	
+GCF_030499155.1	RGM	cultured isolate	Mycobacterium frederiksbergense_A	13	GCF_030499155.1	6.034	13	Cultured isolate	axenic culture	RGM (large-genome)	6.034	2.1544580709313887	GCF_030499155.1	100	100	
+GCF_030519285.1	RGM	cultured isolate	Mycobacterium arseniciresistens	8	GCF_030519285.1	6.212	602	Cultured isolate	axenic culture	RGM (large-genome)	6.212	96.90920798454604	GCF_030519285.1	99.91	99.91	
+GCF_036946495.1	RGM	cultured isolate	Mycobacterium neoaurum_B	7	GCF_036946495.1	5.369	2	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.369	0.3725088470851183	GCF_036946495.1	100	100	
+GCF_036946525.1	RGM	cultured isolate	Mycobacterium kyogaense_A	37	GCF_036946525.1	5.53	49	MAG / uncultured	environmental metagenome	RGM (large-genome)	5.53	8.860759493670885	GCF_036946525.1	99.64	99.64	
+GCF_039729195.1	RGM	cultured isolate	Mycobacterium hippocampi_A	1	GCF_039729195.1	6.259	2	Cultured isolate	axenic culture	RGM (large-genome)	6.259	0.31953986259785905	GCF_039729195.1	100		
+GCF_900108565.1	RGM	cultured isolate	Mycobacterium rutilum	8	GCF_900108565.1	5.988	1	Cultured isolate	axenic culture	RGM (large-genome)	5.988	0.167000668002672	GCF_900108565.1	100	100	
+GCF_900187065.1	RGM	cultured isolate	Mycobacterium thermoresistibile	1	GCF_900187065.1	4.951	1	Cultured isolate	axenic culture	RGM (large-genome)	4.951	0.20197939810139368	GCF_900187065.1	100		
+GCF_900454025.1	RGM	cultured isolate	Mycobacterium gilvum	3	GCF_900454025.1	6.433	11	Cultured isolate	axenic culture	RGM (large-genome)	6.433	1.709933157158402	GCF_900454025.1	100	100	
+GCF_900603025.1	RGM	cultured isolate	Mycobacterium hassiacum	3	GCF_900603025.1	5.269	1	Cultured isolate	axenic culture	RGM (large-genome)	5.269	0.18978933383943822	GCF_900603025.1	100		
+GCF_900637195.1	RGM	cultured isolate	Mycobacterium aurum	0	GCF_900637195.1	6.036	1	Cultured isolate	axenic culture	RGM (large-genome)	6.036	0.1656726308813784	GCF_900637195.1	100		
+GCF_900637205.1	RGM	cultured isolate	Mycobacterium chitae	2	GCF_900637205.1	5.462	1	Cultured isolate	axenic culture	RGM (large-genome)	5.462	0.18308311973636032	GCF_900637205.1	100		
+GCF_902705885.1	RGM	cultured isolate	Mycobacterium vanbaalenii_A	0	GCF_902705885.1	6.707	76	Cultured isolate	axenic culture	RGM (large-genome)	6.707	11.3314447592068	GCF_902705885.1	100	100	
+GCF_943913955.1	RGM	cultured isolate	Mycobacterium bacteremicum_A	5	GCF_943913955.1	6.179	175	MAG / uncultured	environmental metagenome	RGM (large-genome)	6.179	28.321734908561254	GCF_943913955.1	99.99	99.99	
+spire_mag_00184606	SGM	MAG	Mycobacterium sp035570115	18	spire_mag_00184606	6.654	442	MAG / uncultured	environmental metagenome	SGM	6.654	66.42620979861738	spire_mag_00184606	99.88	99.88	99.91
+spire_mag_00186517	SGM	MAG	Mycobacterium sp019245755	16	spire_mag_00186517	4.589	386	MAG / uncultured	environmental metagenome	SGM	4.589	84.11418609718892	spire_mag_00186517	97.63	97.63	97.14
+spire_mag_00549465	SGM	MAG	Mycobacterium sp035640695	4	spire_mag_00549465	4.621	180	MAG / uncultured	environmental metagenome	SGM	4.621	38.952607660679504	spire_mag_00549465	99.68	99.68	99.66
+spire_mag_00670601	SGM	MAG	Mycobacterium helveticum	12	spire_mag_00670601	4.952	237	MAG / uncultured	environmental metagenome	SGM	4.952	47.859450726979	spire_mag_00670601	99.97	99.97	99.97
+spire_mag_00671068	SGM	MAG	Mycobacterium helveticum	10	spire_mag_00671068	4.537	167	MAG / uncultured	environmental metagenome	SGM	4.537	36.808463742561166	spire_mag_00671068	97.78	97.78	97.82
+spire_mag_00709062	SGM	MAG	novel sp.	5	spire_mag_00709062	3.103	47	MAG / uncultured	environmental metagenome	SGM	3.103	15.146632291330969	spire_mag_00709062	100	100	100.0
+spire_mag_00709072	SGM	MAG	novel sp.	2	spire_mag_00709072	3.132	309	MAG / uncultured	environmental metagenome	SGM	3.132	98.65900383141762	spire_mag_00709072	95.12	95.12	95.02
+spire_mag_00709154	SGM	MAG	novel sp.	11	spire_mag_00709154	4.866	63	MAG / uncultured	environmental metagenome	SGM	4.866	12.946979038224415	spire_mag_00709154	99.9	99.9	99.82
+spire_mag_00709178	SGM	MAG	novel sp.	3	spire_mag_00709178	3.215	221	MAG / uncultured	environmental metagenome	SGM	3.215	68.7402799377916	spire_mag_00709178	93.14	93.14	93.31
+spire_mag_00709327	SGM	MAG	novel sp.	2	spire_mag_00709327	3.327	172	MAG / uncultured	environmental metagenome	SGM	3.327	51.698226630598136	spire_mag_00709327	93.61	93.61	92.22
+spire_mag_00709337	SGM	MAG	novel sp.	6	spire_mag_00709337	2.823	362	MAG / uncultured	environmental metagenome	SGM	2.823	128.23237690400285	spire_mag_00709337	90.28	90.28	90.21
+spire_mag_00709385	SGM	MAG	novel sp.	6	spire_mag_00709385	3.997	260	MAG / uncultured	environmental metagenome	SGM	3.997	65.04878658994245	spire_mag_00709385	93.5	93.5	93.07
+spire_mag_00709551	SGM	MAG	novel sp.	11	spire_mag_00709551	4.894	65	MAG / uncultured	environmental metagenome	SGM	4.894	13.281569268492031	spire_mag_00709551	99.99	99.99	99.98
+spire_mag_01168129	SGM	MAG	novel sp.	17	spire_mag_01168129	5.313	378	MAG / uncultured	environmental metagenome	SGM	5.313	71.14624505928855	spire_mag_01168129	95.55	95.55	95.05
+spire_mag_01168185	SGM	MAG	novel sp.	36	spire_mag_01168185	6.556	331	MAG / uncultured	environmental metagenome	SGM	6.556	50.48810250152532	spire_mag_01168185	95.32	95.32	96.36
+spire_mag_01485026	SGM	MAG	Mycobacterium sp035505695	120	spire_mag_01485026	5.638	195	MAG / uncultured	environmental metagenome	SGM	5.638	34.58673288400142	spire_mag_01485026	96.98	96.98	97.69
+spire_mag_01585658	SGM	MAG	novel sp.	6	spire_mag_01585658	4.924	121	MAG / uncultured	environmental metagenome	SGM	4.924	24.57351746547522	spire_mag_01585658	99.99	99.99	99.99
+spire_mag_01586492	SGM	MAG	Mycobacterium kumamotonense	11	spire_mag_01586492	4.484	72	MAG / uncultured	environmental metagenome	SGM	4.484	16.057091882247992	spire_mag_01586492	99.96	99.96	99.96
+spire_mag_01599223	SGM	MAG	Mycobacterium sp035651275	13	spire_mag_01599223	4.122	395	MAG / uncultured	environmental metagenome	SGM	4.122	95.8272683163513	spire_mag_01599223	91.48	91.48	90.97
+spire_mag_01603410	SGM	MAG	novel sp.	34	spire_mag_01603410	6.52	315	MAG / uncultured	environmental metagenome	SGM	6.52	48.312883435582826	spire_mag_01603410	99.47	99.47	99.72
+spire_mag_01603564	SGM	MAG	novel sp.	16	spire_mag_01603564	5.099	653	MAG / uncultured	environmental metagenome	SGM	5.099	128.06432633849775	spire_mag_01603564	91.61	91.61	91.72
+spire_mag_01603633	SGM	MAG	novel sp.	20	spire_mag_01603633	5.333	386	MAG / uncultured	environmental metagenome	SGM	5.333	72.37952372023251	spire_mag_01603633	95.8	95.8	95.44
+spire_mag_01677777	SGM	MAG	Mycobacterium sp003165155	27	spire_mag_01677777	5.46	488	MAG / uncultured	environmental metagenome	SGM	5.46	89.37728937728937	spire_mag_01677777	99.37	99.37	99.81
+spire_mag_01678249	SGM	MAG	Mycobacterium sp003165155	24	spire_mag_01678249	5.341	348	MAG / uncultured	environmental metagenome	SGM	5.341	65.15633776446359	spire_mag_01678249	100	100	100.0
+spire_mag_01678280	SGM	MAG	Mycobacterium sp003165155	29	spire_mag_01678280	5.478	567	MAG / uncultured	environmental metagenome	SGM	5.478	103.50492880613363	spire_mag_01678280	94.02	94.02	94.69
+spire_mag_01679848	SGM	MAG	Mycobacterium sp003165155	18	spire_mag_01679848	5.408	257	MAG / uncultured	environmental metagenome	SGM	5.408	47.52218934911242	spire_mag_01679848	100	100	100.0
+spire_mag_01680964	SGM	MAG	Mycobacterium sp003165155	18	spire_mag_01680964	5.44	250	MAG / uncultured	environmental metagenome	SGM	5.44	45.955882352941174	spire_mag_01680964	99.99	99.99	100.0
+spire_mag_01681793	SGM	MAG	Mycobacterium sp003165155	23	spire_mag_01681793	5.174	524	MAG / uncultured	environmental metagenome	SGM	5.174	101.27560881329725	spire_mag_01681793	99.96	99.96	99.97
+spire_mag_01681850	SGM	MAG	Mycobacterium sp003165155	23	spire_mag_01681850	5.631	420	MAG / uncultured	environmental metagenome	SGM	5.631	74.58710708577517	spire_mag_01681850	99.53	99.53	99.69
+spire_mag_01682165	SGM	MAG	Mycobacterium sp003165155	28	spire_mag_01682165	5.462	431	MAG / uncultured	environmental metagenome	SGM	5.462	78.9088246063713	spire_mag_01682165	99.93	99.93	99.97
+spire_mag_01682807	SGM	MAG	Mycobacterium sp003165155	16	spire_mag_01682807	5.091	431	MAG / uncultured	environmental metagenome	SGM	5.091	84.65920251424082	spire_mag_01682807	99.17	99.17	99.4
+spire_mag_01733412	SGM	MAG	Mycobacterium paragordonae	15	spire_mag_01733412	6.588	69	MAG / uncultured	environmental metagenome	SGM	6.588	10.4735883424408	spire_mag_01733412	100	100	99.99
+spire_mag_01787296	SGM	MAG	novel sp.	14	spire_mag_01787296	4.475	221	MAG / uncultured	environmental metagenome	SGM	4.475	49.3854748603352	spire_mag_01787296	94.63	94.63	94.59
+spire_mag_01823769	SGM	MAG	Mycobacterium sp025933915	23	spire_mag_01823769	5.443	223	MAG / uncultured	environmental metagenome	SGM	5.443	40.97005327944149	spire_mag_01823769	99.98	99.98	99.99
+spire_mag_01825260	SGM	MAG	novel sp.	16	spire_mag_01825260	5.341	199	MAG / uncultured	environmental metagenome	SGM	5.341	37.25894027335705	spire_mag_01825260	99.96	99.96	99.98
+spire_mag_01882615	SGM	MAG	Mycobacterium paragordonae	43	spire_mag_01882615	7.248	294	MAG / uncultured	environmental metagenome	SGM	7.248	40.562913907284766	spire_mag_01882615	99.99	99.99	99.98
+spire_mag_01959179	SGM	MAG	Mycobacterium parakoreense	6	spire_mag_01959179	3.651	295	MAG / uncultured	environmental metagenome	SGM	3.651	80.79978088195016	spire_mag_01959179	95.19	95.19	94.55
+spire_mag_02001406	SGM	MAG	Mycobacterium sp035625875	96	spire_mag_02001406	5.893	870	MAG / uncultured	environmental metagenome	SGM	5.893	147.63278465976583	spire_mag_02001406	94.46	94.46	94.46
+spire_mag_02001409	SGM	MAG	Mycobacterium sp035625875	101	spire_mag_02001409	6.462	448	MAG / uncultured	environmental metagenome	SGM	6.462	69.32838130609719	spire_mag_02001409	100	100	100.0
+spire_mag_02001657	SGM	MAG	Mycobacterium sp035623875	19	spire_mag_02001657	5.083	422	MAG / uncultured	environmental metagenome	SGM	5.083	83.02183749754082	spire_mag_02001657	99.32	99.32	99.57
+spire_mag_02001975	SGM	MAG	Mycobacterium sp035623875	22	spire_mag_02001975	5.236	313	MAG / uncultured	environmental metagenome	SGM	5.236	59.778456837280366	spire_mag_02001975	99.98	99.98	99.99
+spire_mag_02370601	SGM	MAG	novel sp.	32	spire_mag_02370601	6.346	652	MAG / uncultured	environmental metagenome	SGM	6.346	102.74188465174913	spire_mag_02370601	98.94	98.94	99.42
+spire_mag_02370757	SGM	MAG	novel sp.	7	spire_mag_02370757	2.869	343	MAG / uncultured	environmental metagenome	SGM	2.869	119.55385151620773	spire_mag_02370757	90.16	90.16	90.39
+spire_mag_02374219	SGM	MAG	Mycobacterium icosiumassiliensis	30	spire_mag_02374219	4.475	401	MAG / uncultured	environmental metagenome	SGM	4.475	89.60893854748603	spire_mag_02374219	99.37	99.37	99.26
+spire_mag_02374351	SGM	MAG	novel sp.	6	spire_mag_02374351	3.206	113	MAG / uncultured	environmental metagenome	SGM	3.206	35.246412975670616	spire_mag_02374351	99.71	99.71	99.72
+spire_mag_02394504	SGM	MAG	Mycobacterium gordonae	43	spire_mag_02394504	5.939	764	MAG / uncultured	environmental metagenome	SGM	5.939	128.64118538474492	spire_mag_02394504	93.72	93.72	93.78
+spire_mag_02598702	SGM	MAG	Mycobacterium sp036390735	81	spire_mag_02598702	6.286	875	MAG / uncultured	environmental metagenome	SGM	6.286	139.19821826280625	spire_mag_02598702	100	100	100.0
+spire_mag_02683911	SGM	MAG	novel sp.	27	spire_mag_02683911	4.066	352	MAG / uncultured	environmental metagenome	SGM	4.066	86.57156910969012	spire_mag_02683911	90.41	90.41	90.65
+spire_mag_02837879	SGM	MAG	novel sp.	26	spire_mag_02837879	4.163	311	MAG / uncultured	environmental metagenome	SGM	4.163	74.70574105212587	spire_mag_02837879	95.08	95.08	95.64
+spire_mag_02882770	SGM	MAG	novel sp.	23	spire_mag_02882770	4.166	300	MAG / uncultured	environmental metagenome	SGM	4.166	72.01152184349495	spire_mag_02882770	92.95	92.95	92.82
+GCA_002102225.1	SGM	cultured isolate	Mycobacterium interjectum_B	9	GCA_002102225.1	5.904	103	Cultured isolate	axenic culture	SGM	5.904	17.445799457994582	GCA_002102225.1	100	100	
+GCA_002967005.1	SGM	cultured isolate	Mycobacterium talmoniae	3	GCA_002967005.1	5.126	1111	Cultured isolate	axenic culture	SGM	5.126	216.7381974248927	GCA_002967005.1	79.46	79.46	
+GCA_021654635.1	SGM	cultured isolate	Mycobacterium kiyosense	216	GCA_021654635.1	6.346	1	Cultured isolate	axenic culture	SGM	6.346	0.1575795776867318	GCA_021654635.1	100		
+GCA_024758765.1	SGM	cultured isolate	Mycobacterium heraklionense_C	9	GCA_024758765.1	4.882	1	Cultured isolate	axenic culture	SGM	4.882	0.20483408439164277	GCA_024758765.1	100		
+GCF_000157895.3	SGM	cultured isolate	Mycobacterium kansasii	4	GCF_000157895.3	6.577	2	NTM (isolate)	axenic culture	SGM	6.577	0.3040900106431504	GCF_000157895.3	100		
+GCF_000164135.1	SGM	cultured isolate	Mycobacterium parascrofulaceum	6	GCF_000164135.1	6.564	124	NTM (isolate)	axenic culture	SGM	6.564	18.890920170627666	GCF_000164135.1	100	100	
+GCF_000195855.1	SGM	tissue-derived	Mycobacterium leprae	25	GCF_000195855.1	3.268	1	Tissue-derived (host-adapted pathogen)	animal- or tissue-derived	SGM	3.268	0.30599755201958384	GCF_000195855.1	100	89.2	
+GCF_000195955.2	SGM	cultured isolate	Mycobacterium tuberculosis	5	GCF_000195955.2	4.412	1	Pathogen (isolate)	axenic culture	SGM	4.412	0.22665457842248413	GCF_000195955.2	100		
+GCF_000277125.1	SGM	cultured isolate	Mycobacterium intracellulare	5	GCF_000277125.1	5.402	1	NTM (isolate)	axenic culture	SGM	5.402	0.18511662347278784	GCF_000277125.1	100		
+GCF_000340435.2	SGM	cultured isolate	Mycobacterium haemophilum	20	GCF_000340435.2	4.236	1	NTM (isolate)	axenic culture	SGM	4.236	0.23607176581680833	GCF_000340435.2	100		
+GCF_000526915.1	SGM	cultured isolate	Mycobacterium genavense	285	GCF_000526915.1	4.936	25	NTM (isolate)	axenic culture	SGM	4.936	5.06482982171799	GCF_000526915.1	99.89	99.89	
+GCF_000613245.1	SGM	cultured isolate	Mycobacterium asiaticum	38	GCF_000613245.1	5.939	10	NTM (isolate)	axenic culture	SGM	5.939	1.6837851490149858	GCF_000613245.1	100	100	
+GCF_000689255.1	SGM	cultured isolate	Mycobacterium triplex	2	GCF_000689255.1	6.383	4	NTM (isolate)	axenic culture	SGM	6.383	0.6266645777847407	GCF_000689255.1	100	100	
+GCF_000975265.2	SGM	tissue-derived	Mycobacterium lepromatosis	20	GCF_000975265.2	3.272	1	Tissue-derived (host-adapted pathogen)	animal- or tissue-derived	SGM	3.272	0.3056234718826406	GCF_000975265.2	100	82.97	
+GCF_001053185.1	SGM	cultured isolate	Mycobacterium bohemicum	0	GCF_001053185.1	5.097	18	NTM (isolate)	axenic culture	SGM	5.097	3.531489111241907	GCF_001053185.1	99.1	99.1	
+GCF_001665835.1	SGM	cultured isolate	Mycobacterium colombiense_A	5	GCF_001665835.1	5.548	110	Cultured isolate	axenic culture	SGM	5.548	19.826964671953856	GCF_001665835.1	100	100	
+GCF_001667375.1	SGM	cultured isolate	Mycobacterium sinense_A	6	GCF_001667375.1	4.571	110	Cultured isolate	axenic culture	SGM	4.571	24.064756070881646	GCF_001667375.1	99.99	99.99	
+GCF_001667865.1	SGM	cultured isolate	Mycobacterium mantenii_A	3	GCF_001667865.1	5.792	134	Cultured isolate	axenic culture	SGM	5.792	23.1353591160221	GCF_001667865.1	100	100	
+GCF_001667885.1	SGM	cultured isolate	Mycobacterium scrofulaceum_C	7	GCF_001667885.1	5.537	183	Cultured isolate	axenic culture	SGM	5.537	33.050388296911684	GCF_001667885.1	100	100	
+GCF_001667945.1	SGM	cultured isolate	Mycobacterium sinense_B	8	GCF_001667945.1	4.662	168	Cultured isolate	axenic culture	SGM	4.662	36.03603603603604	GCF_001667945.1	99.98	99.98	
+GCF_001668675.1	SGM	cultured isolate	Mycobacterium asiaticum_D	10	GCF_001668675.1	6.035	337	Cultured isolate	axenic culture	SGM	6.035	55.84092792046396	GCF_001668675.1	100	100	
+GCF_001672755.1	SGM	cultured isolate	Mycobacterium colombiense_C	6	GCF_001672755.1	5.546	197	Cultured isolate	axenic culture	SGM	5.546	35.52109628561125	GCF_001672755.1	100	100	
+GCF_001672775.1	SGM	cultured isolate	Mycobacterium kyorinense_A	6	GCF_001672775.1	4.831	202	Cultured isolate	axenic culture	SGM	4.831	41.813289174084034	GCF_001672775.1	100	100	
+GCF_001673315.1	SGM	cultured isolate	Mycobacterium asiaticum_B	13	GCF_001673315.1	5.432	154	Cultured isolate	axenic culture	SGM	5.432	28.350515463917525	GCF_001673315.1	100	100	
+GCF_001673365.1	SGM	cultured isolate	Mycobacterium asiaticum_A	13	GCF_001673365.1	5.888	226	Cultured isolate	axenic culture	SGM	5.888	38.38315217391305	GCF_001673365.1	100	100	
+GCF_001673565.1	SGM	cultured isolate	Mycobacterium sinense_C	5	GCF_001673565.1	4.695	152	Cultured isolate	axenic culture	SGM	4.695	32.37486687965921	GCF_001673565.1	99.96	99.96	
+GCF_001673575.1	SGM	cultured isolate	Mycobacterium heraklionense_A	6	GCF_001673575.1	4.719	161	Cultured isolate	axenic culture	SGM	4.719	34.11739775376139	GCF_001673575.1	100	100	
+GCF_001673635.1	SGM	cultured isolate	Mycobacterium asiaticum_C	6	GCF_001673635.1	5.773	86	Cultured isolate	axenic culture	SGM	5.773	14.896934003117964	GCF_001673635.1	100	100	
+GCF_001907675.1	SGM	cultured isolate	Mycobacterium paraffinicum_A	8	GCF_001907675.1	6.475	85	Cultured isolate	axenic culture	SGM	6.475	13.127413127413128	GCF_001907675.1	100	100	
+GCF_001953985.1	SGM	cultured isolate	Mycobacterium colombiense_B	5	GCF_001953985.1	5.609	85	Cultured isolate	axenic culture	SGM	5.609	15.154216437867712	GCF_001953985.1	100	100	
+GCF_002086125.1	SGM	cultured isolate	Mycobacterium arosiense	25	GCF_002086125.1	5.98	465	NTM (isolate)	axenic culture	SGM	5.98	77.75919732441471	GCF_002086125.1	100	100	
+GCF_002086275.1	SGM	cultured isolate	Mycobacterium intermedium	5	GCF_002086275.1	6.818	384	Cultured isolate	axenic culture	SGM	6.818	56.321501906717515	GCF_002086275.1	100	100	
+GCF_002086285.1	SGM	cultured isolate	Mycobacterium kumamotonense	6	GCF_002086285.1	4.816	128	NTM (isolate)	axenic culture	SGM	4.816	26.578073089700997	GCF_002086285.1	100	100	
+GCF_002086455.1	SGM	cultured isolate	Mycobacterium algericum	1	GCF_002086455.1	4.619	107	Cultured isolate	axenic culture	SGM	4.619	23.165187269971856	GCF_002086455.1	100	100	
+GCF_002086515.1	SGM	cultured isolate	Mycobacterium arupense	6	GCF_002086515.1	4.443	157	Cultured isolate	axenic culture	SGM	4.443	35.33648435741616	GCF_002086515.1	100	100	
+GCF_002086635.1	SGM	cultured isolate	Mycobacterium alsense	10	GCF_002086635.1	5.693	157	Cultured isolate	axenic culture	SGM	5.693	27.577727033198666	GCF_002086635.1	100	100	
+GCF_002086675.1	SGM	cultured isolate	Mycobacterium persicum	30	GCF_002086675.1	6.172	387	Cultured isolate	axenic culture	SGM	6.172	62.70252754374595	GCF_002086675.1	100	100	
+GCF_002086735.1	SGM	cultured isolate	Mycobacterium scrofulaceum	8	GCF_002086735.1	6.17	184	NTM (isolate)	axenic culture	SGM	6.17	29.821717990275527	GCF_002086735.1	100	100	
+GCF_002101585.1	SGM	cultured isolate	Mycobacterium engbaekii	1	GCF_002101585.1	4.521	79	Cultured isolate	axenic culture	SGM	4.521	17.4740101747401	GCF_002101585.1	99.99	99.99	
+GCF_002101595.1	SGM	cultured isolate	Mycobacterium celatum	14	GCF_002101595.1	4.721	57	NTM (isolate)	axenic culture	SGM	4.721	12.073713196356703	GCF_002101595.1	99.95	99.95	
+GCF_002101675.1	SGM	cultured isolate	Mycobacterium gordonae	9	GCF_002101675.1	7.602	260	NTM (isolate)	axenic culture	SGM	7.602	34.201525914233095	GCF_002101675.1	100	100	
+GCF_002101735.1	SGM	cultured isolate	Mycobacterium kyorinense	19	GCF_002101735.1	5.607	180	Cultured isolate	axenic culture	SGM	5.607	32.102728731942214	GCF_002101735.1	100	100	
+GCF_002101775.1	SGM	cultured isolate	Mycobacterium nonchromogenicum	1	GCF_002101775.1	4.465	91	Cultured isolate	axenic culture	SGM	4.465	20.38073908174692	GCF_002101775.1	100	100	
+GCF_002101785.1	SGM	cultured isolate	Mycobacterium palustre	17	GCF_002101785.1	6.038	158	Cultured isolate	axenic culture	SGM	6.038	26.16760516727393	GCF_002101785.1	100	100	
+GCF_002101815.1	SGM	cultured isolate	Mycobacterium paraense	5	GCF_002101815.1	5.62	51	Cultured isolate	axenic culture	SGM	5.62	9.074733096085408	GCF_002101815.1	100	100	
+GCF_002101885.1	SGM	cultured isolate	Mycobacterium senuense	2	GCF_002101885.1	4.535	54	Cultured isolate	axenic culture	SGM	4.535	11.907386990077176	GCF_002101885.1	99.92	99.92	
+GCF_002102155.1	SGM	cultured isolate	Mycobacterium europaeum	6	GCF_002102155.1	5.631	71	NTM (isolate)	axenic culture	SGM	5.631	12.608772864500088	GCF_002102155.1	100	100	
+GCF_002102175.1	SGM	cultured isolate	Mycobacterium gastri	18	GCF_002102175.1	5.817	154	Cultured isolate	axenic culture	SGM	5.817	26.47412755716005	GCF_002102175.1	99.98	99.98	
+GCF_002102185.1	SGM	cultured isolate	Mycobacterium fragae	7	GCF_002102185.1	4.731	35	Cultured isolate	axenic culture	SGM	4.731	7.3980131050517866	GCF_002102185.1	99.99	99.99	
+GCF_002102255.1	SGM	cultured isolate	Mycobacterium nebraskense	5	GCF_002102255.1	6.727	189	NTM (isolate)	axenic culture	SGM	6.727	28.09573361082206	GCF_002102255.1	99.98	99.98	
+GCF_002102265.1	SGM	cultured isolate	Mycobacterium longobardum	6	GCF_002102265.1	4.812	59	Cultured isolate	axenic culture	SGM	4.812	12.261014131338321	GCF_002102265.1	99.99	99.99	
+GCF_002102355.1	SGM	cultured isolate	Mycobacterium sherrisii	27	GCF_002102355.1	5.562	128	Cultured isolate	axenic culture	SGM	5.562	23.013304566702622	GCF_002102355.1	100	100	
+GCF_002102395.1	SGM	cultured isolate	Mycobacterium triviale	2	GCF_002102395.1	3.591	57	Cultured isolate	axenic culture	SGM	3.591	15.873015873015872	GCF_002102395.1	100	100	
+GCF_002104765.1	SGM	cultured isolate	Mycobacterium vulneris	27	GCF_002104765.1	6.267	133	Cultured isolate	axenic culture	SGM	6.267	21.2222754108824	GCF_002104765.1	100	100	
+GCF_002104795.1	SGM	cultured isolate	Mycobacterium koreense	3	GCF_002104795.1	4.079	129	Cultured isolate	axenic culture	SGM	4.079	31.625398381956362	GCF_002104795.1	100	100	
+GCF_002105755.1	SGM	cultured isolate	Mycobacterium colombiense	44	GCF_002105755.1	5.582	1	NTM (isolate)	axenic culture	SGM	5.582	0.1791472590469366	GCF_002105755.1	100		
+GCF_002116635.1	SGM	cultured isolate	Mycobacterium szulgai	8	GCF_002116635.1	6.673	178	NTM (isolate)	axenic culture	SGM	6.673	26.674659073879813	GCF_002116635.1	99.99	99.99	
+GCF_002356315.1	SGM	cultured isolate	Mycobacterium shigaense	1	GCF_002356315.1	5.233	1	Cultured isolate	axenic culture	SGM	5.233	0.1910949742021785	GCF_002356315.1	100		
+GCF_002705925.1	SGM	cultured isolate	Mycobacterium ostraviense	43	GCF_002705925.1	6.101	200	Cultured isolate	axenic culture	SGM	6.101	32.78151122766759	GCF_002705925.1	100	100	
+GCF_003284925.1	SGM	cultured isolate	Mycobacterium algericum_A	4	GCF_003284925.1	4.793	304	Cultured isolate	axenic culture	SGM	4.793	63.425829334446064	GCF_003284925.1	99.93	99.93	
+GCF_003284935.1	SGM	cultured isolate	Mycobacterium arosiense_A	8	GCF_003284935.1	5.474	146	Cultured isolate	axenic culture	SGM	5.474	26.671538180489588	GCF_003284935.1	100	100	
+GCF_003284975.1	SGM	cultured isolate	Mycobacterium europaeum_A	8	GCF_003284975.1	5.427	216	Cultured isolate	axenic culture	SGM	5.427	39.800995024875625	GCF_003284975.1	99.77	99.77	
+GCF_003391395.1	SGM	cultured isolate	Mycobacterium marinum	20	GCF_003391395.1	6.453	1	NTM (isolate)	axenic culture	SGM	6.453	0.15496668216333487	GCF_003391395.1	100		
+GCF_003408705.1	SGM	tissue-derived	Mycobacterium uberis	12	GCF_003408705.1	3.123	54	Tissue-derived (host-adapted pathogen)	animal- or tissue-derived	SGM	3.123	17.291066282420747	GCF_003408705.1	99.69	99.69	
+GCF_003614435.1	SGM	cultured isolate	Mycobacterium paragordonae	5	GCF_003614435.1	7.224	5	Cultured isolate	axenic culture	SGM	7.224	0.6921373200442967	GCF_003614435.1	100		
+GCF_007714205.1	SGM	cultured isolate	Mycobacterium helveticum	16	GCF_007714205.1	5.77	436	Cultured isolate	axenic culture	SGM	5.77	75.56325823223571	GCF_007714205.1	99.96	99.96	
+GCF_008370645.1	SGM	cultured isolate	Mycobacterium simiae_A	19	GCF_008370645.1	5.729	709	Cultured isolate	axenic culture	SGM	5.729	123.75632745679874	GCF_008370645.1	99.94	99.94	
+GCF_009741445.1	SGM	cultured isolate	Mycobacterium avium	26	GCF_009741445.1	4.957	1	NTM (isolate)	axenic culture	SGM	4.957	0.2017349203147065	GCF_009741445.1	100		
+GCF_009936235.1	SGM	cultured isolate	Mycobacterium xenopi	4	GCF_009936235.1	4.918	1	NTM (isolate)	axenic culture	SGM	4.918	0.20333468889792597	GCF_009936235.1	100		
+GCF_010723305.1	SGM	cultured isolate	Mycobacterium botniense	6	GCF_010723305.1	4.335	4	Cultured isolate	axenic culture	SGM	4.335	0.922722029988466	GCF_010723305.1	99.69	99.69	
+GCF_010723575.1	SGM	cultured isolate	Mycobacterium bourgelatii	3	GCF_010723575.1	6.913	2	Cultured isolate	axenic culture	SGM	6.913	0.28930999566035004	GCF_010723575.1	100	100	
+GCF_010727125.1	SGM	cultured isolate	Mycobacterium terrae	2	GCF_010727125.1	4.566	1	Cultured isolate	axenic culture	SGM	4.566	0.21901007446342532	GCF_010727125.1	100		
+GCF_010727605.1	SGM	cultured isolate	Mycobacterium simiae	9	GCF_010727605.1	5.789	1	NTM (isolate)	axenic culture	SGM	5.789	0.1727414061150458	GCF_010727605.1	100		
+GCF_010727945.1	SGM	cultured isolate	Mycobacterium cookii	0	GCF_010727945.1	5.319	1	Cultured isolate	axenic culture	SGM	5.319	0.18800526414739613	GCF_010727945.1	100		
+GCF_010728725.1	SGM	cultured isolate	Mycobacterium branderi	16	GCF_010728725.1	5.98	2	NTM (isolate)	axenic culture	SGM	5.98	0.33444816053511706	GCF_010728725.1	100		
+GCF_010729105.1	SGM	cultured isolate	Mycobacterium saskatchewanense	13	GCF_010729105.1	6.009	1	NTM (isolate)	axenic culture	SGM	6.009	0.16641704110500916	GCF_010729105.1	100		
+GCF_010729485.1	SGM	cultured isolate	Mycobacterium hiberniae	4	GCF_010729485.1	4.397	1	Cultured isolate	axenic culture	SGM	4.397	0.2274277916761428	GCF_010729485.1	100		
+GCF_010730055.1	SGM	cultured isolate	Mycobacterium shinjukuense	2	GCF_010730055.1	4.504	1	Cultured isolate	axenic culture	SGM	4.504	0.22202486678507996	GCF_010730055.1	100		
+GCF_010730195.1	SGM	cultured isolate	Mycobacterium conspicuum	0	GCF_010730195.1	6.237	1	NTM (isolate)	axenic culture	SGM	6.237	0.160333493666827	GCF_010730195.1	100		
+GCF_010730355.1	SGM	cultured isolate	Mycobacterium florentinum	15	GCF_010730355.1	6.22	1	NTM (isolate)	axenic culture	SGM	6.22	0.1607717041800643	GCF_010730355.1	100		
+GCF_010730575.1	SGM	cultured isolate	Mycobacterium parmense	3	GCF_010730575.1	5.953	1	Cultured isolate	axenic culture	SGM	5.953	0.16798252981689904	GCF_010730575.1	100		
+GCF_010730745.1	SGM	cultured isolate	Mycobacterium heidelbergense	15	GCF_010730745.1	5.051	1	Cultured isolate	axenic culture	SGM	5.051	0.19798059790140565	GCF_010730745.1	100		
+GCF_010731535.1	SGM	cultured isolate	Mycobacterium lacus	3	GCF_010731535.1	5.093	1	Cultured isolate	axenic culture	SGM	5.093	0.196347928529354	GCF_010731535.1	100		
+GCF_010731595.1	SGM	cultured isolate	Mycobacterium seoulense	3	GCF_010731595.1	5.531	1	Cultured isolate	axenic culture	SGM	5.531	0.18079913216416563	GCF_010731595.1	100		
+GCF_010731635.1	SGM	cultured isolate	Mycobacterium noviomagense	2	GCF_010731635.1	4.78	1	Cultured isolate	axenic culture	SGM	4.78	0.20920502092050208	GCF_010731635.1	100		
+GCF_010731655.1	SGM	cultured isolate	Mycobacterium paraseoulense	16	GCF_010731655.1	6.086	1	Cultured isolate	axenic culture	SGM	6.086	0.1643115346697338	GCF_010731655.1	100		
+GCF_010731675.1	SGM	cultured isolate	Mycobacterium marseillense	14	GCF_010731675.1	5.506	2	NTM (isolate)	axenic culture	SGM	5.506	0.3632401017072285	GCF_010731675.1	100		
+GCF_010731715.1	SGM	cultured isolate	Mycobacterium stomatepiae	9	GCF_010731715.1	6.211	1	Cultured isolate	axenic culture	SGM	6.211	0.16100466913540493	GCF_010731715.1	100		
+GCF_010731755.1	SGM	cultured isolate	Mycobacterium minnesotense	6	GCF_010731755.1	4.224	1	Cultured isolate	axenic culture	SGM	4.224	0.23674242424242423	GCF_010731755.1	100		
+GCF_010731775.1	SGM	cultured isolate	Mycobacterium mantenii	26	GCF_010731775.1	6.186	1	Cultured isolate	axenic culture	SGM	6.186	0.1616553507921112	GCF_010731775.1	100		
+GCF_013466425.1	SGM	cultured isolate	Mycobacterium vicinigordonae	2	GCF_013466425.1	6.267	1	Cultured isolate	axenic culture	SGM	6.267	0.15956598053295037	GCF_013466425.1	100		
+GCF_015689175.1	SGM	cultured isolate	Mycobacterium kubicae	13	GCF_015689175.1	6.017	3	Cultured isolate	axenic culture	SGM	6.017	0.4985873358816686	GCF_015689175.1	100		
+GCF_016592155.1	SGM	cultured isolate	Mycobacterium heckeshornense	0	GCF_016592155.1	4.957	1	NTM (isolate)	axenic culture	SGM	4.957	0.2017349203147065	GCF_016592155.1	100		
+GCF_017086405.1	SGM	cultured isolate	Mycobacterium gordonae_D	33	GCF_017086405.1	7.32	2	Cultured isolate	axenic culture	SGM	7.32	0.27322404371584696	GCF_017086405.1	100		
+GCF_018278905.1	SGM	cultured isolate	Mycobacterium spongiae	4	GCF_018278905.1	5.581	1	Cultured isolate	axenic culture	SGM	5.581	0.17917935853789643	GCF_018278905.1	100		
+GCF_018455725.1	SGM	cultured isolate	Mycobacterium acidiphilum	2	GCF_018455725.1	4.546	160	Cultured isolate	axenic culture	SGM	4.546	35.19577650681918	GCF_018455725.1	100	100	
+GCF_019645815.1	SGM	cultured isolate	Mycobacterium heraklionense	0	GCF_019645815.1	5.062	1	Cultured isolate	axenic culture	SGM	5.062	0.19755037534571315	GCF_019645815.1	100		
+GCF_019645855.1	SGM	cultured isolate	Mycobacterium malmoense	9	GCF_019645855.1	5.32	1	NTM (isolate)	axenic culture	SGM	5.32	0.18796992481203006	GCF_019645855.1	100		
+GCF_019668465.1	SGM	cultured isolate	Mycobacterium senriense	11	GCF_019668465.1	5.831	3	Cultured isolate	axenic culture	SGM	5.831	0.5144915108900703	GCF_019668465.1	100	100	
+GCF_020172685.2	SGM	cultured isolate	Mycobacterium nativiensis	3	GCF_020172685.2	5.659	205	Cultured isolate	axenic culture	SGM	5.659	36.225481533839904	GCF_020172685.2	100	100	
+GCF_020181595.2	SGM	cultured isolate	Mycobacterium vasticus	5	GCF_020181595.2	4.862	91	Cultured isolate	axenic culture	SGM	4.862	18.71657754010695	GCF_020181595.2	100	100	
+GCF_020181615.2	SGM	cultured isolate	Mycobacterium crassicus	2	GCF_020181615.2	5.18	58	Cultured isolate	axenic culture	SGM	5.18	11.196911196911197	GCF_020181615.2	100	100	
+GCF_020181635.2	SGM	cultured isolate	Mycobacterium zoologicum	6	GCF_020181635.2	4.835	87	Cultured isolate	axenic culture	SGM	4.835	17.993795243019648	GCF_020181635.2	100	100	
+GCF_022370835.2	SGM	cultured isolate	Mycobacterium parakoreense	2	GCF_022370835.2	3.936	2	Cultured isolate	axenic culture	SGM	3.936	0.508130081300813	GCF_022370835.2	100		
+GCF_022374895.2	SGM	cultured isolate	Mycobacterium lentiflavum	3	GCF_022374895.2	6.164	4	NTM (isolate)	axenic culture	SGM	6.164	0.6489292667099287	GCF_022374895.2	100		
+GCF_022374935.2	SGM	cultured isolate	Mycobacterium virginiense	5	GCF_022374935.2	4.98	1	Cultured isolate	axenic culture	SGM	4.98	0.2008032128514056	GCF_022374935.2	100		
+GCF_022430545.2	SGM	cultured isolate	Mycobacterium paraterrae	4	GCF_022430545.2	5.523	1	Cultured isolate	axenic culture	SGM	5.523	0.1810610175629187	GCF_022430545.2	100		
+GCF_025822405.1	SGM	cultured isolate	Mycobacterium angelicum	13	GCF_025822405.1	6.674	65	Cultured isolate	axenic culture	SGM	6.674	9.73928678453701	GCF_025822405.1	100	100	
+GCF_025822865.1	SGM	cultured isolate	Mycobacterium paraffinicum	19	GCF_025822865.1	5.402	44	Cultured isolate	axenic culture	SGM	5.402	8.145131432802666	GCF_025822865.1	100	100	
+GCF_025822885.1	SGM	cultured isolate	Mycobacterium shimoidei	5	GCF_025822885.1	4.721	46	NTM (isolate)	axenic culture	SGM	4.721	9.743698368989621	GCF_025822885.1	99.96	99.96	
+GCF_025823255.1	SGM	cultured isolate	Mycobacterium montefiorense	48	GCF_025823255.1	5.633	18	Cultured isolate	axenic culture	SGM	5.633	3.1954553523877154	GCF_025823255.1	100	100	
+GCF_030252325.1	SGM	cultured isolate	Mycobacterium wuenschmannii	3	GCF_030252325.1	5.102	1	Cultured isolate	axenic culture	SGM	5.102	0.1960015680125441	GCF_030252325.1	100		
+GCF_031583025.1	SGM	cultured isolate	Mycobacterium gordonae_B	7	GCF_031583025.1	6.791	1	Cultured isolate	axenic culture	SGM	6.791	0.14725371815638344	GCF_031583025.1	100		
+GCF_900078675.2	SGM	cultured isolate	Mycobacterium interjectum	33	GCF_900078675.2	5.929	30	NTM (isolate)	axenic culture	SGM	5.929	5.05987518974532	GCF_900078675.2	93.74	93.74	
+GCF_900078685.2	SGM	cultured isolate	Mycobacterium icosiumassiliensis	27	GCF_900078685.2	4.85	42	Cultured isolate	axenic culture	SGM	4.85	8.659793814432991	GCF_900078685.2	99.96	99.96	
+GCF_900157365.1	SGM	cultured isolate	Mycobacterium numidiamassiliense	8	GCF_900157365.1	6.249	4	Cultured isolate	axenic culture	SGM	6.249	0.6401024163866219	GCF_900157365.1	100	100	
+GCF_900157375.1	SGM	cultured isolate	Mycobacterium rhizamassiliense	10	GCF_900157375.1	6.015	1	Cultured isolate	axenic culture	SGM	6.015	0.1662510390689942	GCF_900157375.1	99.99	99.99	
+GCF_900157385.1	SGM	cultured isolate	Mycobacterium terramassiliense	7	GCF_900157385.1	6.03	12	Cultured isolate	axenic culture	SGM	6.03	1.990049751243781	GCF_900157385.1	100	100	
+GCF_900176255.2	SGM	cultured isolate	Mycobacterium ahvazicum	6	GCF_900176255.2	6.121	9	Cultured isolate	axenic culture	SGM	6.121	1.470347982355824	GCF_900176255.2	100	100	
+GCF_900232995.1	SGM	cultured isolate	Mycobacterium simulans	20	GCF_900232995.1	6.192	105	Cultured isolate	axenic culture	SGM	6.192	16.95736434108527	GCF_900232995.1	100	100	
+GCF_900292015.1	SGM	cultured isolate	Mycobacterium basiliense	3	GCF_900292015.1	5.608	1	Cultured isolate	axenic culture	SGM	5.608	0.1783166904422254	GCF_900292015.1	100		
+GCF_900566055.1	SGM	cultured isolate	Mycobacterium innocens	3	GCF_900566055.1	6.187	361	Cultured isolate	axenic culture	SGM	6.187	58.348149345401644	GCF_900566055.1	99.99	99.99	
+GCF_900566075.1	SGM	cultured isolate	Mycobacterium pseudokansasii	0	GCF_900566075.1	6.426	2	Cultured isolate	axenic culture	SGM	6.426	0.3112356053532524	GCF_900566075.1	100	100	
+GCF_900566085.1	SGM	cultured isolate	Mycobacterium attenuatum	24	GCF_900566085.1	6.528	230	Cultured isolate	axenic culture	SGM	6.528	35.2328431372549	GCF_900566085.1	100	100	
+GCF_902168065.1	SGM	cultured isolate	Mycobacterium tilburgii	213	GCF_902168065.1	3.239	102	Cultured isolate	cell culture (shell vial)	SGM	3.239	31.49120098795925	GCF_902168065.1	93.27	93.27	
+GCF_910591625.1	SGM	cultured isolate	Mycobacterium methanotrophicum	50	GCF_910591625.1	4.91	521	MAG / uncultured	environmental metagenome	SGM	4.91	106.10997963340122	GCF_910591625.1	99.49	99.49	
+GCF_963853645.1	SGM	cultured isolate	Mycobacterium riyadhense	14	GCF_963853645.1	6.635	3	NTM (isolate)	axenic culture	SGM	6.635	0.452147701582517	GCF_963853645.1	100		
+GCF_963853665.1	SGM	cultured isolate	Mycobacterium decipiens	8	GCF_963853665.1	5.303	1	Pathogen (isolate)	axenic culture	SGM	5.303	0.18857250612860646	GCF_963853665.1	100		
+spire_mag_01947705	FSM	MAG	Mycobacterium sp037138275	2	spire_mag_01947705	3.145	243	MAG / uncultured	environmental metagenome	FSM (small-genome)	3.145	77.26550079491255	spire_mag_01947705	95.13	95.13	95.13

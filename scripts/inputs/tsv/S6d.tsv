@@ -1,0 +1,7 @@
+group	genomes	median_proteins	median_length_aa	pct_under_100aa	pct_under_60aa
+FSM	96	3308.0	273.8	10.4	3.0
+RGM	97	5871.0	273.0	9.4	2.8
+SGM	50	5202.0	264.0	12.0	4.1
+Pseudogenes per Mb, FSM against RGM: two-sided Mann–Whitney p = 6.7e-06 (the value quoted in the Results); FSM against SGM p = 2.5e-13; across the three clades Kruskal-Wallis p = 1.5e-15.
+leprosy clade	3	3999.0	105.0	45.9	17.1
+Pseudogenisation truncates reading frames. FSM sits with RGM; the leprosy clade shows a pronounced truncation signature at a median 105 aa with 45.9% of proteins below 100 aa.

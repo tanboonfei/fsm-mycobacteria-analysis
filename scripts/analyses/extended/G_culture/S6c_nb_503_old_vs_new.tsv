@@ -1,0 +1,17 @@
+labels	clades	contigs	model	n	beta_FSM	IRR	p
+old (503)	FSM+RGM+SGM	n_contigs	pseudogenes_bakta ~ clade	503	-0.3822	0.682	0.0029
+old (503)	FSM+RGM+SGM	n_contigs	pseudogenes_bakta ~ clade + contigs/Mb	503	-0.7495	0.473	2.5e-08
+old (503)	FSM+RGM+SGM	n_contigs_asm	pseudogenes_bakta ~ clade	243	-0.3645	0.695	0.00017
+old (503)	FSM+RGM+SGM	n_contigs_asm	pseudogenes_bakta ~ clade + contigs/Mb	243	-0.5099	0.601	7e-08
+old (503)	FSM+RGM	n_contigs	pseudogenes_bakta ~ clade	325	-0.3828	0.682	0.0012
+old (503)	FSM+RGM	n_contigs	pseudogenes_bakta ~ clade + contigs/Mb	325	-0.8468	0.429	1.3e-11
+old (503)	FSM+RGM	n_contigs_asm	pseudogenes_bakta ~ clade	193	-0.3666	0.693	2.8e-05
+old (503)	FSM+RGM	n_contigs_asm	pseudogenes_bakta ~ clade + contigs/Mb	193	-0.5076	0.602	2.3e-09
+corrected (drop 5 metagenome-derived)	FSM+RGM+SGM	n_contigs	pseudogenes_bakta ~ clade	498	-0.3765	0.686	0.0035
+corrected (drop 5 metagenome-derived)	FSM+RGM+SGM	n_contigs	pseudogenes_bakta ~ clade + contigs/Mb	498	-0.7395	0.477	4.1e-08
+corrected (drop 5 metagenome-derived)	FSM+RGM+SGM	n_contigs_asm	pseudogenes_bakta ~ clade	243	-0.3645	0.695	0.00017
+corrected (drop 5 metagenome-derived)	FSM+RGM+SGM	n_contigs_asm	pseudogenes_bakta ~ clade + contigs/Mb	243	-0.5099	0.601	7e-08
+corrected (drop 5 metagenome-derived)	FSM+RGM	n_contigs	pseudogenes_bakta ~ clade	321	-0.3771	0.686	0.0015
+corrected (drop 5 metagenome-derived)	FSM+RGM	n_contigs	pseudogenes_bakta ~ clade + contigs/Mb	321	-0.842	0.431	1.4e-11
+corrected (drop 5 metagenome-derived)	FSM+RGM	n_contigs_asm	pseudogenes_bakta ~ clade	193	-0.3666	0.693	2.8e-05
+corrected (drop 5 metagenome-derived)	FSM+RGM	n_contigs_asm	pseudogenes_bakta ~ clade + contigs/Mb	193	-0.5076	0.602	2.3e-09

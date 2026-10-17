@@ -1,0 +1,6 @@
+reduced/r5_complete.treefile: FSM monophyletic TRUE | FSM node 100/100 | sister of FSM = 42-genome clade TRUE (parent node 98.2/99)
+reduced/r1_lg.treefile: FSM monophyletic TRUE | FSM node 100/100 | sister of FSM = 42-genome clade TRUE (parent node 99.8/100)
+reduced/r3_pmsf_c20.treefile: FSM monophyletic TRUE | FSM node 100 | sister of FSM = 42-genome clade TRUE (parent node 100)
+reduced/r4_fast20.treefile: FSM monophyletic TRUE | FSM node 99.6/100 | sister of FSM = 42-genome clade TRUE (parent node 92.7/99)
+reduced/r4_fast10.treefile: FSM monophyletic TRUE | FSM node 99.9/100 | sister of FSM = 42-genome clade TRUE (parent node 99.2/99)
+reduced/r4_fast30.treefile: FSM monophyletic TRUE | FSM node 93/100 | sister of FSM = 42-genome clade FALSE (parent node 0/49)

@@ -1,0 +1,9 @@
+trait	FSM median	sister median	beta (FSM)	p vs sister clade	p vs all RGM	verdict
+genome size (Mb)	3.31	5.82	-1.950	0.0056	0.025	stronger
+coding density (%), deposited-annotation basis (superseded; see S7a and S27 for the uniform values)	93.47	92.37	+3.570	0.377	0.42	unchanged, non-significant
+GC (%)	67.08	67.12	+0.350	0.679	0.66	unchanged, no difference
+acidic residues (%)	11.19	11.36	-0.218	0.080	0.013	weaker, now marginal
+opsin presence	77%	7%	+3.11	3.0e-06	5.3e-05	stronger
+urease	2%	69%	-5.11	0.184	0.0028	loses significance
+ectoine synthase	1%	14%	0.00	0.999	0.07	loses significance
+Sister clade = the other descendant of the node subtending the FSM stem: M. rhodesiae_B, M. vinylchloridicum, M. helvum, M. sarraceniae and relatives. With 42 counterpart genomes and near-complete separation the binary tests have little power, which is why urease and ectoine lose significance despite large prevalence gaps.

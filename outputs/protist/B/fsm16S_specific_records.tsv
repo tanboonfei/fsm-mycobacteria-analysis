@@ -1,0 +1,40 @@
+accession	best_FSM_query	pct_identity	panel_best_FSM	panel_best_nonFSM	category	isolation_source	host	country	organism_label	title
+AB630591	spire_mag_01748689_16S1	99.027	99.027	97.989	aquatic moss (lake)	aquatic moss pillars		Antarctica:Skarvsnes, Hotoke-Ike lake	uncultured bacterium	Microflorae of aquatic moss pillars in a freshwater lake, East Antarctica, based on fatty acid and 16S rRNA gene analyses
+CAMBVK010000030	spire_mag_00871125_16S1	99.741	99.741	97.735	freshwater lake/reservoir/river water	Freshwater lake			Bifidobacterium breve	Direct Submission
+CANLDP010000034	spire_mag_00871125_16S1	99.741	99.741	97.8	freshwater lake/reservoir/river water	lake water			Actinomycetota bacterium	Direct Submission
+CAMBEN010000024	spire_mag_00871125_16S1	99.612	99.612	97.667	freshwater lake/reservoir/river water	Freshwater lake			Bifidobacterium breve	Direct Submission
+CAMAZC010000033	spire_mag_00871125_16S1	99.741	99.741	97.8	freshwater lake/reservoir/river water	Freshwater lake			Bifidobacterium breve	Direct Submission
+JARVMD010224134	spire_mag_00871125_16S1	99.741	99.741	97.733	freshwater lake/reservoir/river water	lake water		USA: Flathead Lake, MT	lake water metagenome	Methylphosphonate-mediated methane production in an oligotrophic freshwater lake
+CANMXW010000010	spire_mag_00871125_16S1	99.612	99.612	97.733	freshwater lake/reservoir/river water	lake water			Actinomycetota bacterium	Direct Submission
+CAMBAU010000067	spire_mag_00871125_16S1	99.612	99.612	97.667	freshwater lake/reservoir/river water	Freshwater lake			Bifidobacterium breve	Direct Submission
+CAXNKV010000001	spire_mag_00871125_16S1	98.974	100.0	97.217	freshwater lake/reservoir/river water	freshwater lake			Mycobacterium sp.	Direct Submission
+GU472705	spire_mag_00871125_16S1	99.734	99.734	97.712	freshwater lake/reservoir/river water	Lake Pavin (meromictic lake)		France: Massif central	uncultured Mycobacterium sp.	Identification of sulfur-cycle prokaryotes in a low-sulfate lake (Lake Pavin) using aprA and 16S rRNA gene markers
+CANNMH010000029	spire_mag_00871125_16S1	99.741	99.741	97.722	freshwater lake/reservoir/river water	lake water			Actinomycetota bacterium	Direct Submission
+CAIZIE010000544	spire_mag_00871125_16S1	99.353	99.353	98.068	freshwater lake/reservoir/river water	lake water			uncultured Actinomycetes bacterium	Direct Submission
+RHCD01000133	spire_mag_02005306_16S1	99.121	99.121	98.377	freshwater lake/reservoir/river water	water samples from lakes and estuaries along the Chattahoochee River collected between June/2010 and December/2014		USA: Chattahoochee River	Pseudomonadota bacterium	Iterative Subtractive Binning of Freshwater Chronoseries Metagenomes Recovers Nearly Complete Genomes from over Four Hundred Novel Species
+HQ661286	spire_mag_02005306_16S1	99.101	99.101	98.34	freshwater lake/reservoir/river water	Shidou freshwater reservoir			uncultured bacterium	Bacterial community composition in four freshwater reservoirs
+HQ661261	spire_mag_02005306_16S1	99.101	99.101	98.34	freshwater lake/reservoir/river water	Hubian freshwater reservoir			uncultured bacterium	Bacterial community composition in four freshwater reservoirs
+HQ661292	spire_mag_02005306_16S1	99.032	99.032	98.271	freshwater lake/reservoir/river water	Shidou freshwater reservoir			uncultured bacterium	Bacterial community composition in four freshwater reservoirs
+HQ661199	spire_mag_02005306_16S1	99.032	99.032	98.271	freshwater lake/reservoir/river water	Bantou freshwater reservoir			uncultured bacterium	Bacterial community composition in four freshwater reservoirs
+HQ661272	spire_mag_02005306_16S1	99.032	99.032	98.271	freshwater lake/reservoir/river water	Shidou freshwater reservoir			uncultured bacterium	Bacterial community composition in four freshwater reservoirs
+HQ661271	spire_mag_02005306_16S1	99.032	99.032	98.271	freshwater lake/reservoir/river water	Shidou freshwater reservoir			uncultured bacterium	Bacterial community composition in four freshwater reservoirs
+HQ661307	spire_mag_02005306_16S1	99.032	99.032	98.271	freshwater lake/reservoir/river water	Shidou freshwater reservoir			uncultured bacterium	Bacterial community composition in four freshwater reservoirs
+JBIIMO010000024	spire_mag_01744910_16S1	100.0	100.0	98.068	freshwater lake/reservoir/river water	lake water		USA: Lake Mendota, Madison, Wisconsin	Mycobacterium sp.	Bacterial ecology and evolution converge on seasonal and decadal scales
+FJ916089	spire_mag_01748689_16S1	99.788	99.788	98.001	freshwater lake/reservoir/river water	integrated lake epilimnion		USA: Wisconsin, Lake Mendota	uncultured Actinomycetes bacterium	Evidence for structuring of bacterial community composition by organic carbon source in temperate lakes
+GU305797	spire_mag_01748689_16S1	99.471	99.471	98.182	freshwater lake/reservoir/river water	YangHe reservoir water		China: HeiBei	uncultured bacterium	Research on changes in bacterial community structure during algae outbreak in oligotrophic lakes (YangHe reservoir/MinYun reservoir)
+FJ827867	spire_mag_01748689_16S1	99.892	99.892	97.709	freshwater lake/reservoir/river water	integrated lake epilimnion		USA: Wisconsin, Lake Mendota	uncultured Actinomycetes bacterium	Seasonal differences in bacterial community composition following nutrient additions in a eutrophic lake
+JAQBTN010000044	spire_mag_01748689_16S1	99.153	100.0	98.534	freshwater lake/reservoir/river water	Caspian sea 150 m depth		Iran: Caspian Sea near Babolsar	Actinomycetota bacterium	Genome-resolved insight into the reservoir of antibiotic resistance genes in aquatic microbial community
+EU234319	spire_mag_01748689_16S1	99.048	99.865	98.519	freshwater lake/reservoir/river water	upstream of Wang Yang River		China: Shijiazhuang City, Hebei Province	uncultured bacterium	Bacterial community characteristics under long-term antibiotic selection pressures
+JBILVF010000138	spire_mag_01748689_16S1	98.73	98.933	98.071	freshwater lake/reservoir/river water	lake water		USA: Lake Mendota, Madison, Wisconsin	Mycobacterium sp.	Bacterial ecology and evolution converge on seasonal and decadal scales
+CADDLI010000513	spire_mag_01776742_16S1	99.067	99.067	98.004	freshwater lake/reservoir/river water	water			uncultured prokaryote	Direct Submission
+KF075674	spire_mag_01748689_16S1	99.135	99.925	98.58	human skin	skin, antecubital fossa	Homo sapiens		uncultured bacterium	The altered landscape of the human skin microbiome in patients with primary immunodeficiencies
+CAWIIR010000010	spire_mag_00193483_16S1	99.069	99.134	98.469	sediment	Sediment			uncultured Actinomycetota bacterium	Direct Submission
+CAVQRL010000005	spire_mag_01748689_16S1	99.471	99.471	98.668	sediment	Sediment			uncultured Actinomycetota bacterium	Direct Submission
+CAVWDT010000006	spire_mag_01748689_16S1	99.153	100.0	98.534	sediment	Sediment			uncultured Actinomycetota bacterium	Direct Submission
+CAWBBP010000007	spire_mag_01748689_16S1	99.048	99.866	98.401	sediment	Sediment			uncultured Actinomycetota bacterium	Direct Submission
+CAWBBP010000004	spire_mag_01748689_16S1	99.048	99.866	98.401	sediment	Sediment			uncultured Actinomycetota bacterium	Direct Submission
+OBEP011087569	spire_mag_00871125_16S1	99.327	99.327	97.414	unspecified metagenome				metagenome	Direct Submission
+OBEP011088846	spire_mag_01748689_16S1	99.326	99.326	98.386	unspecified metagenome				metagenome	Direct Submission
+OBEP011181079	spire_mag_01748689_16S1	98.722	98.886	98.291	unspecified metagenome				metagenome	Direct Submission
+LR647617	spire_mag_01748689_16S1	99.351	99.351	98.476	wastewater/activated sludge	Wastewater treatment system			uncultured bacterium	Direct Submission
+JAXLRY010000011	spire_mag_02088330_16S1	98.724	98.724	94.903	wastewater/activated sludge	full-scale hybrid biological wastewater treatment system		China: Hong Kong	Mycobacterium sp.	Distributions, interactions, and dynamics of prokaryotes and phages in a hybrid biological wastewater treatment system

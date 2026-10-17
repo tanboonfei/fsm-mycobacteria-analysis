@@ -1,0 +1,16 @@
+metric	group1	group2	median1	median2	MannWhitney_U_p
+genome_size_Mb	FSM	RGM	3.32	6.00	4.5e-30
+genome_size_Mb	FSM	SGM	3.32	5.10	2.0e-14
+genome_size_Mb	RGM	SGM	6.00	5.10	1.2e-05
+GC_pct	FSM	RGM	66.6	67.82	6.6e-05
+GC_pct	FSM	SGM	66.6	65.62	6.5e-08
+GC_pct	RGM	SGM	67.82	65.62	1.7e-11
+coding_density_pct	FSM	RGM	93.58	92.52	5.6e-17
+coding_density_pct	FSM	SGM	93.58	90.97	9.4e-20
+coding_density_pct	RGM	SGM	92.52	90.97	5.7e-12
+acidic_residues_pct	FSM	RGM	11.20	11.69	6.7e-29
+acidic_residues_pct	FSM	SGM	11.20	11.18	5.1e-01
+acidic_residues_pct	RGM	SGM	11.69	11.18	6.7e-19
+pseudogenes	FSM	RGM	4.00	10.00	2.3e-17
+pseudogenes	FSM	SGM	4.00	18.00	1.7e-15
+pseudogenes	RGM	SGM	10.00	18.00	2.9e-05

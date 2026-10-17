@@ -1,0 +1,16 @@
+Query gene	FSM MAG (accession)	Contig	% identity	% query coverage	E-value	Operon / context
+kdpB	spire_mag_00138052	contig_201	85	96	0.0e+00	kdpA present on same genome (full kdp operon)
+kdpB	spire_mag_00139887	contig_110	84	98	0.0e+00	kdpA present on same genome (full kdp operon)
+kdpB	spire_mag_00688177	contig_451	44	58	2.5e-16	paralog-level
+kdpB	spire_mag_00709104	contig_109	87	97	0.0e+00	kdpA present on same genome (full kdp operon)
+kdpB	spire_mag_00709371	contig_238	87	97	0.0e+00	kdpA present on same genome (full kdp operon)
+kdpB	spire_mag_01117712	contig_41	90	95	0.0e+00	kdpA present on same genome (full kdp operon)
+kdpB	spire_mag_01662118	contig_236	89	98	0.0e+00	kdpA present on same genome (full kdp operon)
+kdpB	spire_mag_01663809	contig_387	89	98	0.0e+00	kdpA present on same genome (full kdp operon)
+kdpB	spire_mag_01664230	contig_172	89	98	0.0e+00	kdpA present on same genome (full kdp operon)
+kdpB	spire_mag_01949445	contig_42	44	57	1.0e-16	paralog-level
+kdpB	spire_mag_01949778	contig_54	44	57	1.0e-16	paralog-level
+kdpB	spire_mag_02762480	contig_211	87	100	0.0e+00	kdpA present on same genome (full kdp operon)
+narG	spire_mag_01824983	contig_74	46	77	0.0e+00	single-gene homology
+ureC	spire_mag_01112928	contig_227	56	99	0.0e+00	single-gene homology
+Total credible hits listed: 14. FSM MAGs searched: 95. Method: tblastn (BLAST+), e-value 1e-5.

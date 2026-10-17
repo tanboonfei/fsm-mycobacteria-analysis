@@ -1,0 +1,211 @@
+clade3	study	n_genomes	n_species	n_spire	bioprojects	ncbi_bp	biome	salinity	example_source	geo
+FSM	Linz_2018_lake	15	2	15	PRJNA567586;PRJNA567587;PRJNA567590;PRJNA567591;PRJNA567598;PRJNA567599;PRJNA567610;PRJNA567612;PRJNA567613;PRJNA567614;PRJNA567625;PRJNA567629;PRJNA567640;PRJNA567645;PRJNA567650		aquatic:15	low salinity:15	lake water from pelagic integrated epilimnion zone	USA: Wisconsin
+FSM	JGI_marine_methane	13	1	13	PRJNA502508;PRJNA502509;PRJNA502510;PRJNA502511;PRJNA502512;PRJNA502513;PRJNA502514;PRJNA502515;PRJNA502516;PRJNA502517;PRJNA502518;PRJNA502519;PRJNA518413		aquatic:13	low salinity:13	lake water	Spain: Castile-La Mancha
+FSM	JGI_Salton_Sea_sediment	11	3	11	PRJNA444011;PRJNA444012;PRJNA444013;PRJNA444014;PRJNA444016;PRJNA444017;PRJNA444018		aquatic:11	very high salinity:11	anoxic, hypersaline lake sediments of the Salton Sea	USA: California
+FSM	Tsuji_2019_lake_anoxic	11	3	9	PRJNA443323;PRJNA443325;PRJNA443326;PRJNA443329;PRJNA443331;PRJNA443333;PRJNA443336;PRJNA443338;PRJNA443339;PRJNA445054	PRJNA1003647	aquatic:9	low salinity:9	freshwater from boreal shield lake	Canada: Ontario
+FSM	JGI_extremophile_microbial_mat	10	2	10	PRJNA539313;PRJNA539314;PRJNA539316;PRJNA539325;PRJNA539327;PRJNA539330;PRJNA539333;PRJNA539336		aquatic:10	low salinity:10	Lake sediments	USA: Wyoming
+FSM	Alneberg_2018_marine_baltic	6	2	6			aquatic:6	medium salinity:6		Baltic Sea
+FSM	JGI_soil_misc	5	1	5	PRJNA518250;PRJNA518251;PRJNA518252;PRJNA518253;PRJNA518254		terrestrial:5		soil from transition zone	Finland: Risofladan, Vaasa
+FSM	Wang_2018_wastewater	5	5	0	PRJNA432264	PRJNA432264;PRJNA648801			activated sludge sample	China:Hong Kong SAR, Shatin waste water treatment plant
+FSM	Buck_2020_lake	4	3	1		PRJEB38681	aquatic:1	low salinity:1	lake water	Switzerland
+FSM	JGI_wastewater_various	4	3	4	PRJNA340503;PRJNA340504;PRJNA340774		anthropogenic:4		anaerobic digester from wastewater treatment plant	USA
+FSM	Mukherjee_2020_lakes_Europe_Asia	4	4	0		PRJEB35640			Freshwater lake	Czech Republic
+FSM	PRJNA309119_Eurytemora_copepod_water	4	2	3	PRJNA309119;PRJNA843551	PRJNA843551	host-associated:3		sediment; water	Belgium
+FSM	PRJNA369078	3	3	0		PRJNA369078			lake water from Sao Paulo's Zoo	Brazil: Sao Paulo Zoo
+FSM	Tian_2019_wastewater	3	1	3			anthropogenic:3			China
+FSM	AsplundSamuelsson_2016_marine_Baltic	2	1	2			aquatic:2	medium salinity:2	Sea water	Sweden:Baltic Sea:Asko
+FSM	Bittleston_2018_pitcherplants	2	2	2						
+FSM	Maresca_2018_Chesapeake	2	1	1	PRJNA375617;PRJNA375618	PRJNA699965	aquatic:1	low salinity:1	Bay water	USA: Delaware Bay
+FSM	Oswald_2017_lake	2	1	2	PRJNA325574		aquatic:2	low salinity:2	Freshwater incubation, methane-supplemented	Switzerland: lake Rotsee
+FSM	PRJNA1007388	2	2	0	PRJNA1007388	PRJNA1007388			wetland soil	USA: North Dakota
+FSM	PRJNA664486	2	2	0	PRJNA664486	PRJNA1003647			lake water column	Canada: near Kenora, Ontario
+FSM	PRJNA878949	2	2	0	PRJNA878949	PRJNA878949				China: the Pearl River Estuary
+FSM	Schneeberger_2019_wastewater	2	1	2	PRJNA423296		anthropogenic:2	low salinity:2	wastewater sample	Uganda: Kampala
+FSM	Shah_2024_lake	2	2	0	PRJNA1052970	PRJNA1052970				Romania: Bucura
+FSM	Xing_2019_lake	2	1	1	PRJNA531348	PRJNA531348	aquatic:1	low salinity:1	freshwater	China: Fuxian Lake, Yuxi
+FSM	Borton_2023_freshwater	1	1	0	PRJNA946291	PRJNA946291			Pore water metagenome hour 24	Germany: Brandenburg, Erpe River
+FSM	Chao_2013_tapwater	1	1	1			aquatic:1	low salinity:1		China: Linshu, Shandong
+FSM	Chopyk_2020_pond	1	1	1	PRJNA473136		anthropogenic:1	medium salinity:1	brackish river, site MA04	USA: Mid Atlantic
+FSM	Hendriksen_2019_sewage_global	1	1	1			anthropogenic:1			Spain
+FSM	JGI_NeLLi	1	1	1	PRJNA405468		aquatic:1		Marine sediment (0.45 mbsf) from Aarhus Bay site M5	Denmark:Aarhus Bay
+FSM	JGI_freshwater_misc	1	1	1	PRJNA466875		aquatic:1	low salinity:1	lake water	USA: Georgia
+FSM	Kavagutti_2024_freshwater	1	1	0		PRJEB52406			Freshwater lake	Czech Republic
+FSM	Mehrshad_2017_brackish_Caspian	1	1	0	PRJNA279271	PRJNA279271			Caspian sea 150 m depth	Iran: Caspian Sea near Babolsar
+FSM	PRJNA312986_aquatic	1	1	1			aquatic:1	low salinity:1	freshwater sample	USA: Lake Houston, TX
+FSM	PRJNA663590	1	1	0	PRJNA663590	PRJNA663590			freshwater cyanobacterial bloom 3	USA: western arm Lake Superior
+FSM	PRJNA721826	1	1	0		PRJNA721826				
+FSM	PRJNA728121	1	1	0	PRJNA728121	PRJNA728121			Cold reef aquarium tank H20 | Cold reef aquarium tank H21 | Cold reef aquarium t	USA:California
+FSM	PRJNA742377	1	1	0	PRJNA742377	PRJNA742377				Netherlands: Oosterschelde estury, Oosterschelde/East
+FSM	PRJNA759242	1	1	0	PRJNA759242	PRJNA759242				USA: Oakland
+FSM	PRJNA852163	1	1	0		PRJNA852163				
+FSM	PRJNA876583	1	1	0	PRJNA876583	PRJNA876583			Freshwater Lake	USA: Provo, Utah Lake
+RGM	TARA_Oceans_protists_metaG	28	2	28			aquatic:28	high salinity:27		
+RGM	PRJNA305922	19	19	0	PRJNA305922	PRJNA305922				India
+RGM	PRJNA682830	15	15	0	PRJNA682830	PRJNA682830			low severity burned soil	USA:Wyoming
+RGM	Ma_2024_soil	12	12	0	PRJNA983538	PRJNA983538			soil	USA
+RGM	Wang_2018_wastewater	11	3	8	PRJNA432264	PRJNA432264	anthropogenic:8		activated sludge sample	China:Hong Kong SAR, Shatin waste water treatment plant
+RGM	JGI_soil_lignin_Emeryville	10	2	10	PRJNA444399;PRJNA444401;PRJNA444407;PRJNA444408;PRJNA444411;PRJNA465150;PRJNA465152;PRJNA465154		anthropogenic:10		enriched backyard soil	USA: Emeryville, California
+RGM	Lemos_2022_Brazil	7	6	7	PRJNA684454		host-associated:7			Brazil
+RGM	MetaSUB	7	6	7						
+RGM	JGI_rhizosphere	5	3	5	PRJNA330355;PRJNA375502;PRJNA375572;PRJNA405463;PRJNA405464		host-associated:5		mixed endophytic bacteria from Arabidopsis ecotype Col-0 in Clayton soil grown o	USA: North Carolina
+RGM	PRJNA1106891	4	4	0	PRJNA1106891	PRJNA1106891			soil	USA
+RGM	PRJNA1109856	4	4	0	PRJNA1109856	PRJNA1109856			soil	USA:Platteville, Wisconsin
+RGM	PRJNA393298	4	4	0	PRJNA393298	PRJNA393298			root	Austria: Lower Austria
+RGM	PRJNA682348	4	4	0	PRJNA682348	PRJNA682348			rectal swabs	Brazil: Dourados
+RGM	PRJNA929715	4	4	0	PRJNA929715	PRJNA929715			sputum	China: Chengdu, Sichuan
+RGM	Mosley_2022_aquifer	3	3	0	PRJNA699054	PRJNA699054			groundwater planktonic and sediment-attached microbiome	New Zealand: Canterbury region
+RGM	PRJNA344484	3	3	0	PRJNA344484	PRJNA344484			soil	Brazil:Rio de Janeiro, Parnaso
+RGM	PRJNA434831	3	3	0	PRJNA434831	PRJNA434831			Salt water lake	Iran: Meyghan Lake, Arak
+RGM	PRJNA742377	3	3	0	PRJNA742377	PRJNA742377				Netherlands: Oosterschelde estury, Oosterschelde/East
+RGM	PRJNA894975	3	3	0	PRJNA894975	PRJNA894975			root nodules	United Kingdom: Saltwell Park, Gateshead
+RGM	Schneeberger_2019_wastewater	3	1	3	PRJNA423296		anthropogenic:3	low salinity:1	wastewater sample	Uganda: Kampala
+RGM	Bittleston_2018_pitcherplants	2	1	2						
+RGM	JGI_landfill_Ontario	2	2	2	PRJNA404447;PRJNA502703		anthropogenic:2		Landfill leachate from leachate well	Canada: Waterloo, Ontario
+RGM	PRJEB50291	2	2	0		PRJEB50291			Gastric lavage	Denmark
+RGM	PRJNA1138261	2	2	0	PRJNA1138261	PRJNA1138261			sputum	Russia: Novosibirsk
+RGM	PRJNA297942	2	2	0		PRJNA297942				Germany:Cologne
+RGM	PRJNA415974	2	1	2	PRJNA415974					USA: North Carolina
+RGM	PRJNA580301	2	2	0	PRJNA580301	PRJNA580301				USA: Minnesota
+RGM	PRJNA981336	2	2	0	PRJNA981336	PRJNA981336			Dehydrated tar from the littoral rock (D,E) | Viscous tar from the tidal pool, i	Israel: Levantine Basin
+RGM	Shaffer_2021_EMP500	2	2	2			host-associated:2			Costa Rica:Carara National Park
+RGM	Wu_2014_compost	2	2	2	PRJNA337767;PRJNA366677		anthropogenic:2		Feedstock adapted compost from Newby Island compost facility, Milpitas, CA	USA:Newby Island compost facility, Milpitas, CA
+RGM	Xu_2018_citrus	2	1	2			host-associated:2		bulk soil	Australia: Queensland
+RGM	Alneberg_2018_marine_baltic	1	1	1			aquatic:1	medium salinity:1		Baltic Sea
+RGM	Arbour_2020_groundwater	1	1	1	PRJNA436990		anthropogenic:1	low salinity:1	microbial electrochemical cell	USA
+RGM	Atencio_2024_aquifer	1	1	0	PRJNA983765	PRJNA983765				Israel
+RGM	Blair_2018_poplar	1	1	1	PRJNA375667		host-associated:1		rhizosphere soil	USA: Tennessee
+RGM	Chao_2013_tapwater	1	1	1			aquatic:1	low salinity:1		South Africa: Johannesburg
+RGM	Chng_2019_hospital	1	1	1			anthropogenic:1			
+RGM	Ciesielski_2019_wastewater	1	1	1						
+RGM	Ibarbalz_2016_sludge	1	1	1	PRJNA288131		anthropogenic:1		Wastewater treatment plant of a petroleum refinery complex	Argentina: Buenos Aires
+RGM	JGI_NeLLi	1	1	1	PRJNA405477		aquatic:1		Marine sediment (3.1 mbsf) from SO156 core 7190-3	Pacific Ocean:South Pacific Ocean
+RGM	JGI_carex	1	1	1	PRJNA518435		host-associated:1		Peat Soil	USA: Seattle, Washington
+RGM	JGI_wastewater_various	1	1	1	PRJNA340750		anthropogenic:1		Anaerobic digester	Hong Kong
+RGM	Malaspina_marine	1	1	1	PRJNA330119		aquatic:1		East of Hawaii, North Pacific Ocean	Pacific Ocean:East of Hawaii, North Pacific Ocean
+RGM	MoralesCruz_2017_vine	1	1	1			host-associated:1		Cordon section	USA:Fresno, California
+RGM	NIH_skin	1	1	1	PRJNA46333		host-associated:1			USA
+RGM	Ng_2019_wastewater	1	1	1	PRJNA438174		anthropogenic:1			Singapore
+RGM	PRJDB10305	1	1	0	PRJDB10305	PRJDB10305				Japan:Osaka, Toyonaka
+RGM	PRJDB14135	1	1	0	PRJDB14135	PRJDB14135			soil	Antarctica:Skallen
+RGM	PRJDB6386	1	1	0	PRJDB6386	PRJDB6386				Japan:Shizuoka
+RGM	PRJDB7717	1	1	0	PRJDB7717	PRJDB7717				
+RGM	PRJDB9412	1	1	0	PRJDB9412	PRJDB9412				Thailand:Phetchaburi Province
+RGM	PRJEB11994	1	1	0		PRJEB11994				
+RGM	PRJEB13035	1	1	0		PRJEB13035			This genome was reconstructed from an aerobic pyrene degrading enrichment cultur	
+RGM	PRJEB19235_salt_marshes	1	1	1			aquatic:1	medium salinity:1		United Kingdom
+RGM	PRJEB23694	1	1	0		PRJEB23694			sputum	
+RGM	PRJEB30654	1	1	0		PRJEB30654			wastewater biofilm	Canada
+RGM	PRJEB76672	1	1	0		PRJEB76672			marine sediment	Arctic Ocean
+RGM	PRJNA1023877	1	1	0		PRJNA1023877				
+RGM	PRJNA1113123	1	1	0	PRJNA1113123	PRJNA1113123			soil surface	Turkey: Samsun
+RGM	PRJNA1115339	1	1	0	PRJNA1115339	PRJNA1115339				USA: Massachusetts
+RGM	PRJNA169802	1	1	0	PRJNA169802	PRJNA169802				
+RGM	PRJNA187931	1	1	0	PRJNA187931	PRJNA187931				
+RGM	PRJNA190837	1	1	0	PRJNA190837	PRJNA190837				
+RGM	PRJNA213774	1	1	0	PRJNA213774	PRJNA213774				
+RGM	PRJNA244918	1	1	0		PRJNA244918			activated sludge	China: Shatin, Hong Kong
+RGM	PRJNA272922	1	1	0		PRJNA272922				United Kingdom: Colne estuary
+RGM	PRJNA285733	1	1	0		PRJNA285733			PAH contaminated soil	Japan
+RGM	PRJNA300678	1	1	0	PRJNA300678	PRJNA300678			abdominal cerebrospinal fluid pseudocyst	
+RGM	PRJNA359161	1	1	0	PRJNA359161	PRJNA359161			soil	
+RGM	PRJNA366881	1	1	0	PRJNA366881	PRJEB51072			Joint BioEnergy Institute, California, USA	USA:Joint BioEnergy Institute, California, USA
+RGM	PRJNA413930	1	1	0		PRJNA413930			soil	USA
+RGM	PRJNA477702	1	1	0	PRJNA477702	PRJNA477702			soil from a swine farm	Japan: Gifu
+RGM	PRJNA480027	1	1	0	PRJNA480027	PRJNA480027			granite building material	India: Perambalur, Tamil Nadu, Stone Temple
+RGM	PRJNA489466	1	1	0		PRJNA489466			Stream sediment	USA: Raleigh, North Carolina
+RGM	PRJNA508088	1	1	0	PRJNA508088	PRJNA508088				Portugal
+RGM	PRJNA517182	1	1	0	PRJNA517182	PRJNA517182			soil sample from UC Hopland Field Station	USA: Hopland, CA
+RGM	PRJNA520063	1	1	0	PRJNA520063	PRJNA520063				
+RGM	PRJNA520790	1	1	0	PRJNA520790	PRJNA520790			polluted ground water	Hungary: Budapest
+RGM	PRJNA523852	1	1	0		PRJNA523852			Sphagnum bog	USA
+RGM	PRJNA529537	1	1	0	PRJNA529537	PRJNA529537			activated sludge	China: Beijing
+RGM	PRJNA533545	1	1	0	PRJNA533545	PRJNA533545			chlorinated drinking water, site 4	United Kingdom
+RGM	PRJNA542705	1	1	0		PRJNA542705			ethane-enriched microcosm from Aquifer solid	USA: Massachusetts
+RGM	PRJNA551549	1	1	0		PRJNA551549			sponge tissue in subtidal area	Singapore
+RGM	PRJNA580624	1	1	0	PRJNA580624	PRJNA580624				USA: Oklahoma
+RGM	PRJNA592873	1	1	0	PRJNA592873	PRJNA592873			oil-contaminated soil from oil-well borehole	Germany: Wietze
+RGM	PRJNA60055	1	1	0	PRJNA60055	PRJNA60055			smegma	
+RGM	PRJNA632065	1	1	0	PRJNA632065	PRJNA632065				
+RGM	PRJNA640378	1	1	0	PRJNA640378	PRJNA640378				USA: California, California, Middletown
+RGM	PRJNA656314	1	1	0	PRJNA656314	PRJEB54754			stool	China: Shanghai
+RGM	PRJNA663590	1	1	0	PRJNA663590	PRJNA663590			freshwater cyanobacterial bloom 4	USA: western arm Lake Superior
+RGM	PRJNA694732	1	1	0	PRJNA694732	PRJNA694732			activated sludge	China:Shenzhen
+RGM	PRJNA699436	1	1	0	PRJNA699436	PRJNA699436			soil	China: Xinjiang
+RGM	PRJNA745168	1	1	0	PRJNA745168	PRJNA745370			Commercial building tap, chloraminated drinking water	USA: Boston
+RGM	PRJNA745500	1	1	0	PRJNA745500	PRJNA745500			sputum	South Korea: Seoul
+RGM	PRJNA745503	1	1	0	PRJNA745503	PRJNA745503			sputum	South Korea: Seoul
+RGM	PRJNA747871	1	1	0	PRJNA747871	PRJNA747871				Denmark: Dyrehaven, Grassy field just inside entrance, on th
+RGM	PRJNA753109	1	1	0	PRJNA753109	PRJNA753109			Hand Laceration	USA:NY
+RGM	PRJNA795563	1	1	0	PRJNA795563	PRJNA795563			coral surface mucus layer and tissue	USA: FL, Dry Tortugas
+RGM	PRJNA795597	1	1	0	PRJNA795597	PRJNA795597			soil	South Korea:Gyeongsangnam-do
+RGM	PRJNA797469	1	1	0	PRJNA797469	PRJNA797469			anaerobic digester sludge from wastewater treatment plant	USA:Urbana
+RGM	PRJNA798576	1	1	0		PRJNA798576				
+RGM	PRJNA834434	1	1	0	PRJNA834434	PRJNA834434				USA: Puerto Rico
+RGM	PRJNA855145	1	1	0	PRJNA855145	PRJNA855145			sediment	Antarctica: Larsemann Hills
+RGM	PRJNA898099	1	1	0	PRJNA898099	PRJNA898099			Waste water	Pakistan: Attock Refinery Limited, Rawalpindi
+RGM	PRJNA918589	1	1	0	PRJNA918589	PRJNA918589			soil	Viet Nam: Dongnai
+RGM	PRJNA923161	1	1	0		PRJNA923161			Bioreactor_Day_172_Metagenome_Replicate_1 | Bioreactor_Day_172_Metagenome_Replic	
+RGM	PRJNA925477	1	1	0	PRJNA925477	PRJNA925477			Domestic waste water	Singapore
+RGM	PRJNA949153	1	1	0		PRJNA949153			freshwater	USA
+RGM	PRJNA950938	1	1	0	PRJNA950938	PRJNA950938			cold seep	
+RGM	PRJNA953780	1	1	0	PRJNA953780	PRJNA953780			root/leaf	USA: midwestern states
+RGM	PRJNA960930	1	1	0	PRJNA960930	PRJNA960930			Sputum tissue	South Korea: jinju
+RGM	PRJNA987415	1	1	0	PRJNA987415	PRJNA987415			soil of Dioscorea zingiberensis C.H. Wright planting base	China: Hubei
+RGM	Soto-Giron_2016_showers	1	1	1	PRJNA299404		anthropogenic:1		hospital shower hose biofilm	USA:Ohio
+RGM	TARA_Oceans_prokaryote_metaG	1	1	0		PRJEB22493				
+RGM	Yerlan_2022_soil_agricultural	1	1	0	PRJNA725542	PRJNA725542			agricultural soil	USA: Colorado, Fort Collins
+RGM	studies-20_PRJNA292297	1	1	1	PRJNA292297		aquatic:1		marine sediment	USA:Barataria Bay
+SGM	Ma_2024_soil	37	37	0	PRJNA983538	PRJNA983538			soil	Canada
+SGM	PRJNA305922	30	30	0	PRJNA305922	PRJNA305922				Mozambique
+SGM	Woodcroft_2018_permafrost	10	1	9	PRJNA386568	PRJNA386568	aquatic:9		permafrost active layer soil	Sweden: Stordalen Mire
+SGM	Bittleston_2018_pitcherplants	8	4	8						
+SGM	Camargo_2019_velloziaceae	8	7	1	PRJNA441431;PRJNA441432;PRJNA441433;PRJNA441434;PRJNA441435;PRJNA441436;PRJNA441437;PRJNA441438;PRJNA441439	PRJNA687273	terrestrial:1		rupestrian grassland bulk soil	Brazil: Minas Gerais
+SGM	PRJNA682830	7	7	0	PRJNA682830	PRJNA682830			high severity burned soil	USA:Wyoming
+SGM	JGI_peatland_tropical	4	2	4	PRJNA443511;PRJNA443513;PRJNA443526;PRJNA443527		aquatic:4		Peat soil	Colombia: Department of Meta
+SGM	Shaffer_2021_EMP500	4	4	4			host-associated:3,terrestrial:1	low salinity:2		USA: State of Alaska,City of Fairbanks
+SGM	JGI_soil_forest_misc	3	2	3	PRJNA330037;PRJNA366298;PRJNA366711		terrestrial:3		Thunder Bay, Ontario, Canada	Canada:Thunder Bay, Ontario, Canada
+SGM	PRJNA758125	3	3	0	PRJNA758125	PRJNA758125			soil 10 meters from hot spring	Chile:Salar de Surire, Polloquere Hot Spring
+SGM	PRJNA929715	3	3	0	PRJNA929715	PRJNA929715			sputum	China: Chengdu, Sichuan
+SGM	Valles-Colomer_2023_transmission	3	1	3			host-associated:3			
+SGM	Cardenas_2015_forestsoil	2	2	2			terrestrial:2			Canada
+SGM	JGI_hotspring_Yellowstone	2	1	2	PRJNA366136;PRJNA405918		aquatic:2		Yellowstone National Park, Wyoming, USA	USA:Yellowstone National Park, Wyoming, USA
+SGM	JGI_soil_lignin_Emeryville	2	2	2	PRJNA444411;PRJNA444413		anthropogenic:2		enriched commercial compost	USA: Emeryville, California
+SGM	JGI_soil_misc	2	2	2	PRJNA375315;PRJNA406045		terrestrial:1,anthropogenic:1		both Bulk and Rhizosphere soil	USA: Kellog Biological Station, Michigan
+SGM	PRJEB50291	2	2	0		PRJEB50291			Gastric lavage	Denmark
+SGM	PRJNA1138261	2	2	0	PRJNA1138261	PRJNA1138261			sputum	Russia: Moscow
+SGM	PRJNA746701_rhizosphere_Antarctica	2	2	0	PRJNA746701	PRJNA746701			antarctic soil	Antarctica: Byers Peninsula, Livingston Island
+SGM	PRJNA777922	2	2	0	PRJNA777922	PRJNA777922				USA: Virginia
+SGM	PRJNA881288	2	2	0		PRJNA881288			skin lesion	Benin
+SGM	Bahram_2022_soil_global_wetlands	1	1	1			terrestrial:1			Argentina
+SGM	Bissett_2016_soil	1	1	1			terrestrial:1		soil	Australia
+SGM	Buck_2020_lake	1	1	0		PRJEB38681			lake water	Sweden
+SGM	Chao_2013_tapwater	1	1	1			aquatic:1	low salinity:1		South Africa: Johannesburg
+SGM	JGI_ant_fungus	1	1	1	PRJNA405231		host-associated:1		Attine ant fungus gardens	USA: Florida, Wekiwa Springs State Park
+SGM	JGI_soil_Loxahatchee	1	1	1	PRJNA531771		anthropogenic:1		very wet soil, submerged by water, large amounts of overlying vegetation and pla	USA: Florida
+SGM	JGI_soil_agricultural_Utah	1	1	1	PRJNA375196		host-associated:1		Poultry Litter	USA: Georgia
+SGM	JGI_soil_forest_LTER	1	1	1	PRJNA441486		terrestrial:1		forest soil	USA: Massachusetts
+SGM	Larson_2022_elderly	1	1	1			host-associated:1		poplitealfossa	USA
+SGM	PRJDB6463	1	1	0	PRJDB6463	PRJDB6463				Japan:Tokyo,Hachioji
+SGM	PRJEB23701	1	1	0		PRJEB23701			sputum	
+SGM	PRJEB34896	1	1	0		PRJEB34896			Human (Sputum)	
+SGM	PRJNA1138756	1	1	0	PRJNA1138756	PRJNA1138756			Lower respiratory tract	Spain: Aragon, Zaragoza
+SGM	PRJNA213250	1	1	0	PRJNA213250	PRJNA213250			sputum sample from patient diagnosed with bronchiectasis	Malaysia
+SGM	PRJNA213251	1	1	0	PRJNA213251	PRJNA213251			sputum sample from patient with suspected TB	Malaysia
+SGM	PRJNA421797	1	1	0	PRJNA421797	PRJNA421797			marine water	Atlantic Ocean
+SGM	PRJNA493163	1	1	0	PRJNA493163	PRJNA493163			sediments of hot spring	Russia:Kunashir Island, Faust Lake
+SGM	PRJNA514088	1	1	0	PRJNA514088	PRJNA514088			groundwater	USA: Tennessee
+SGM	PRJNA663466	1	1	0	PRJNA663466	PRJNA663466			coal	Russia: Republic of Buryatia
+SGM	PRJNA682417	1	1	0	PRJNA682417	PRJNA682417			Bronchial wash	USA: Missouri, St. Louis
+SGM	PRJNA706132	1	1	0	PRJNA706132	PRJNA706132			mud volcano	Italy
+SGM	PRJNA744024	1	1	0		PRJNA744024				
+SGM	PRJNA745168	1	1	0	PRJNA745168	PRJNA745370			Commercial building tap, chloraminated drinking water	USA: Boston
+SGM	PRJNA745498	1	1	0	PRJNA745498	PRJNA745498			sputum	South Korea: Seoul
+SGM	PRJNA764197	1	1	0		PRJNA764197			granular activated carbon biofilter from drinking water treatment plant (DWTP)	USA: Ann Arbor, Michigan
+SGM	PRJNA843551	1	1	0	PRJNA843551	PRJNA843551			soil	China
+SGM	PRJNA900590	1	1	0	PRJNA900590	PRJNA900590			0.22 micron fraction; NEUS landfill leachate from well B	USA
+SGM	PRJNA923161	1	1	0		PRJNA923161			Bioreactor_Day_172_Metagenome_Replicate_1 | Bioreactor_Day_172_Metagenome_Replic	
+SGM	PRJNA977432	1	1	0	PRJNA977432	PRJNA977432				Japan:Osaka, Toneyama
+SGM	Sorensen_2018_soil	1	1	1	PRJNA375309		terrestrial:1		Centralia Soil	USA: Pennsylvania, Centralia
+SGM	Soto-Giron_2016_showers	1	1	1	PRJNA299404		anthropogenic:1		hospital shower hose biofilm	USA:Ohio
+SGM	Tsuji_2019_lake_anoxic	1	1	0	PRJNA443332	PRJNA1003647			freshwater from boreal shield lake	Canada: Ontario
+SGM	Xu_2024_South_China_Seq	1	1	0	PRJNA880762	PRJNA880762			seawater	Pacific Ocean:South China Sea

@@ -1,0 +1,89 @@
+
+Analysis Description
+--------------------
+This analysis applies the Muse Gaut 94 (MG94) model with the GTR
+nucleotide rate component to estimate the single dN/dS ratio for the
+alignment, and report its confidence intervals derived using profile
+likelihood. There is an option to select a subset of branches for
+estimation, in which case a separate omega is estimated for the selected
+branches. 
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree. Multiple partitions
+with a NEXUS file also supported
+
+- __Citation__: A likelihood approach for comparing synonymous and nonsynonymous
+nucleotide substitution rates, with application to the chloroplast
+genome (1994). _Mol Biol Evol_ 11 (5): 715-724
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 0.1
+
+
+
+####Choose Genetic Code
+
+1. [**Universal**] Universal code. (Genebank transl_table=1).
+2. [**Vertebrate-mtDNA**] Vertebrate mitochondrial DNA code. (Genebank transl_table=2).
+3. [**Yeast-mtDNA**] Yeast mitochondrial DNA code. (Genebank transl_table=3).
+4. [**Mold-Protozoan-mtDNA**] Mold, Protozoan and Coelenterate mitochondrial DNA and the Mycloplasma/Spiroplasma code. (Genebank transl_table=4).
+5. [**Invertebrate-mtDNA**] Invertebrate mitochondrial DNA code. (Genebank transl_table=5).
+6. [**Ciliate-Nuclear**] Ciliate, Dasycladacean and Hexamita Nuclear code. (Genebank transl_table=6).
+7. [**Echinoderm-mtDNA**] Echinoderm mitochondrial DNA code. (Genebank transl_table=9).
+8. [**Euplotid-Nuclear**] Euplotid Nuclear code. (Genebank transl_table=10).
+9. [**Alt-Yeast-Nuclear**] Alternative Yeast Nuclear code. (Genebank transl_table=12).
+10. [**Ascidian-mtDNA**] Ascidian mitochondrial DNA code. (Genebank transl_table=13).
+11. [**Flatworm-mtDNA**] Flatworm mitochondrial DNA code. (Genebank transl_table=14).
+12. [**Blepharisma-Nuclear**] Blepharisma Nuclear code. (Genebank transl_table=15).
+13. [**Chlorophycean-mtDNA**] Chlorophycean Mitochondrial Code (transl_table=16).
+14. [**Trematode-mtDNA**] Trematode Mitochondrial Code (transl_table=21).
+15. [**Scenedesmus-obliquus-mtDNA**] Scenedesmus obliquus mitochondrial Code (transl_table=22).
+16. [**Thraustochytrium-mtDNA**] Thraustochytrium Mitochondrial Code (transl_table=23).
+17. [**Pterobranchia-mtDNA**] Pterobranchia Mitochondrial Code (transl_table=24).
+18. [**SR1-and-Gracilibacteria**] Candidate Division SR1 and Gracilibacteria Code (transl_table=25).
+19. [**Pachysolen-Nuclear**] Pachysolen tannophilus Nuclear Code (transl_table=26).
+20. [**Mesodinium-Nuclear**] Mesodinium Nuclear Code (transl_table=29)
+21. [**Peritrich-Nuclear**] Peritrich Nuclear Code (transl_table=30)
+22. [**Cephalodiscidae-mtDNA**] Cephalodiscidae Mitochondrial UAA-Tyr Code (transl_table=33)
+
+>Please choose an option (or press q to cancel selection):
+
+>Select a coding sequence alignment file (`/path/to/project/analyses/extended/D_relax/sched/`) 
+
+>Please select a tree file for the data: (`/path/to/project/analyses/extended/D_relax/sched/`) /path/to/project/analyses/extended/D_relax/inputs/lepstem_test.nwk
+/path/to/project/analyses/extended/D_relax/inputs/lepstem_test.nwk
+
+>Loaded a multiple sequence alignment with **37** sequences, **21280** codons, and **1** partitions from `/path/to/project/analyses/extended/D_relax/ci/LEPstem.codon.fa`
+
+
+####Choose the set of branches to test for selection
+
+1. [**All**] Include all branches in the analysis
+2. [**Internal**] Include all internal branches in the analysis
+3. [**Leaves**] Include all leaf branches in the analysis
+4. [**Unlabeled branches**] Set of 70 unlabeled branches
+5. [**Test**] Set Test with 1 branches
+
+>Please choose an option (or press q to cancel selection):
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+
+>kill-zero-lengths => Yes
+
+### Deleted 1 zero-length internal branches: `IntNode062`
+* Log(L) = -777464.82, AIC-c = 1555087.65 (79 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  3.337
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -716863.94, AIC-c = 1433899.89 (86 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  4.223
+* non-synonymous/synonymous rate ratio for *background* =   0.1343
+* non-synonymous/synonymous rate ratio for *test* =   0.1547
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -711136.16
+* Estimating confidence intervals
+* non-synonymous/synonymous rate ratio for *background* =   0.1138 [  0.1129 -   0.1148 ]
+* non-synonymous/synonymous rate ratio for *test* =   0.1689 [  0.1612 -   0.1767 ]

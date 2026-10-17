@@ -1,0 +1,572 @@
+{
+"PRJNA1138756": {
+"title": "Mycobacterium servetensis sp. nov., a novel rapid-growing mycobacterial species recovered from a human patient in Zaragoza, Spain",
+"submitter": "Miguel Servet University Hospital",
+"date": "2024/07/22 00:00"
+},
+"PRJNA1138261": {
+"title": "Mycobacterial diversity",
+"submitter": "Engelhardt Institute of Molecular Biology RAS",
+"date": "2024/07/20 00:00"
+},
+"PRJEB76672": {
+"title": "Marine sediment microbiomes in the East Siberian Sea",
+"submitter": "Korea Polar Research Institute",
+"date": "2024/07/05 00:00"
+},
+"PRJNA1115339": {
+"title": "Mycobacterium sp. MAA66 Genome sequencing",
+"submitter": "DOE Joint Genome Institute",
+"date": "2024/05/23 00:00"
+},
+"PRJNA1113123": {
+"title": "Mycobacterium sp. B14F4 Genome sequencing",
+"submitter": "Ondokuz Mayis university",
+"date": "2024/05/18 00:00"
+},
+"PRJNA1109856": {
+"title": "Wisconsin Rountree prairie sequencing",
+"submitter": "University of Wisconsin-Madison",
+"date": "2024/05/09 00:00"
+},
+"PRJNA1106891": {
+"title": "Natural Products Discovery Center at The Wertheim UF Scripps Institute",
+"submitter": "The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology",
+"date": "2024/05/01 00:00"
+},
+"PRJNA1023877": {
+"title": "Metagenomes and metagenome-assembled genomes (MAGs) from Salar de Ascotan (Atacama Desert, Chile)",
+"submitter": "Grupo de Microbiologia Integrativa, Facultad de Ciencias, Universidad de Chile",
+"date": "2023/12/21 00:00"
+},
+"PRJNA1007388": {
+"title": "Multi-omics for Understanding Climate Change (MUCC)",
+"submitter": "Colorado State University",
+"date": "2023/08/20 00:00"
+},
+"PRJDB14135": {
+"title": "Bacteria isolated from environmental samples around Syowa station in Antarctica",
+"submitter": "Toho University",
+"date": "2023/02/16 00:00"
+},
+"PRJNA855145": {
+"title": "Coastal Antarctica metagenomes",
+"submitter": "East China Normal University",
+"date": "2022/07/03 00:00"
+},
+"PRJNA852163": {
+"title": "Microbial communities from the meromictic Lac Pavin",
+"submitter": "Jill Banfield's Lab at Berkeley",
+"date": "2022/11/24 00:00"
+},
+"PRJNA843551": {
+"title": "Mudoger v1.0, genome recovery made easy",
+"submitter": "Helmholtz Centre for Environmental Research - UFZ",
+"date": "2022/05/30 00:00"
+},
+"PRJNA834434": {
+"title": "Mycobacterium sp. OTB74 Genome sequencing and assembly",
+"submitter": "DOE Joint Genome Institute",
+"date": "2023/04/28 00:00"
+},
+"PRJEB50291": {
+"title": "Whole genome sequencing and revivification of freeze-dried nontuberculous mycobacteria after more than half a century of storage.",
+"submitter": "STATENS SERUM INSTITUT",
+"date": "2022/03/02 00:00"
+},
+"PRJNA798576": {
+"title": "Mycobacterium sp. MBM Genome sequencing and assembly",
+"submitter": "Bose Institute",
+"date": "2022/01/26 00:00"
+},
+"PRJNA797469": {
+"title": "Microbial community of an anaerobic digester",
+"submitter": "University of Illinois at Urbana-Champaign",
+"date": "2022/03/28 00:00"
+},
+"PRJNA795597": {
+"title": "Mycolicibacterium sp. YH-1 Genome sequencing",
+"submitter": "Sangji university",
+"date": "2022/03/13 00:00"
+},
+"PRJNA795563": {
+"title": "Genome sequencing and assembly of coral-associated bacteria",
+"submitter": "Meyer Microbes Lab",
+"date": "2022/01/07 00:00"
+},
+"PRJNA777922": {
+"title": "Genome sequences of Mycobacteium spp that infect the Northern snakehead",
+"submitter": "USGS",
+"date": "2022/12/04 00:00"
+},
+"PRJNA764197": {
+"title": "Comammox Nitrospira bacteria dominate canonical nitrifiers irrespective of electron donor mode and availability",
+"submitter": "Northeastern University",
+"date": "2021/09/17 00:00"
+},
+"PRJNA759242": {
+"title": "Uncovering the metabolic activity of core populations in thermophilic anaerobic digesters using metagenomic and metatranscriptomic analyses",
+"submitter": "University of Illinois Urbana-Champaign",
+"date": "2023/04/17 00:00"
+},
+"PRJNA758125": {
+"title": "Trace gas oxidation by soil bacteria surrounding a Polloquere hot spring",
+"submitter": "Princeton University",
+"date": "2021/08/26 00:00"
+},
+"PRJNA753109": {
+"title": "Mycobacterium sp. IDR2000157661 isolate:IDR2000157661 Genome sequencing and assembly",
+"submitter": "NYDOH",
+"date": "2022/02/17 00:00"
+},
+"PRJNA747871": {
+"title": "The complete genomes of actinobacterial strains from the NBC collection from nanopore and illumina data genome sequencing and assembly",
+"submitter": "Technical University of Denmark",
+"date": "2021/07/19 00:00"
+},
+"PRJNA745503": {
+"title": "Mycobacterium sp. SMC-4 Genome sequencing",
+"submitter": "Samsung Medical Center",
+"date": "2022/09/19 00:00"
+},
+"PRJNA745500": {
+"title": "Mycobacterium sp. SMC-8 Genome sequencing",
+"submitter": "Samsung Medical Center",
+"date": "2022/09/19 00:00"
+},
+"PRJNA745498": {
+"title": "Mycobacterium sp. SMC-2 Genome sequencing",
+"submitter": "Samsung Medical Center",
+"date": "2022/09/19 00:00"
+},
+"PRJNA745168": {
+"title": "Evaluating de novo assembly and binning strategies for time-series drinking water metagenomes",
+"submitter": "Northeastern University",
+"date": "2021/07/09 00:00"
+},
+"PRJNA744024": {
+"title": "Genomes in Agroecosystem Genome sequencing",
+"submitter": "CAU",
+"date": "2022/10/31 00:00"
+},
+"PRJNA742377": {
+"title": "Sponge metagenome Metagenomic assembly",
+"submitter": "Uppsala University",
+"date": "2022/03/16 00:00"
+},
+"PRJNA728121": {
+"title": "Reconstruction of metagenome-assembled genomes from aquaria",
+"submitter": "University of California, Davis",
+"date": "2021/05/25 00:00"
+},
+"PRJNA721826": {
+"title": "Metagenomes of Lake Shunet Metagenomic assembly",
+"submitter": "Academia Sinica",
+"date": "2021/05/19 00:00"
+},
+"PRJDB10305": {
+"title": "Genome sequencing of novel nontuberculous mycobacteria",
+"submitter": "Department of Infection Metagenomics",
+"date": "2021/04/02 00:00"
+},
+"PRJDB9412": {
+"title": "Genomic and transcriptomic analyses of pyrene-degrading bacterial consortium",
+"submitter": "Department of Engineering, Graduate School of Integrated Science and Technology, Shizuoka University",
+"date": "2021/03/04 00:00"
+},
+"PRJNA706132": {
+"title": "Mycobacterium sp. SM1 Genome sequencing and assembly",
+"submitter": "Korea Institute of Geoscience and Mineral Resources",
+"date": "2021/05/14 00:00"
+},
+"PRJNA699436": {
+"title": "Mycolicibacterium sp. S2-37 Genome sequencing and assembly",
+"submitter": "Nanjing Normal University",
+"date": "2021/03/14 00:00"
+},
+"PRJNA694732": {
+"title": "Lab-scale sequencing batch reactors of AS under antibiotic selection pressure Metagenome",
+"submitter": "The University Hong Kong",
+"date": "2021/05/03 00:00"
+},
+"PRJNA682830": {
+"title": "Wildfire-Impacted Soil and Aquatic Microbiomes Metagenome",
+"submitter": "Colorado State University",
+"date": "2022/09/28 00:00"
+},
+"PRJNA682417": {
+"title": "Comparative genomics of Mycobacterium avium complex",
+"submitter": "Washington University School of Medicine",
+"date": "2020/12/03 00:00"
+},
+"PRJNA682348": {
+"title": "OneHealth host_associated metagenomes MAGs",
+"submitter": "LNCC",
+"date": "2022/05/17 00:00"
+},
+"PRJNA664486": {
+"title": "Microbiome survey of seasonally anoxic and iron-rich Boreal Shield lakes, 2017-2018",
+"submitter": "University of Waterloo",
+"date": "2020/09/19 00:00"
+},
+"PRJNA663590": {
+"title": "Cyanobacterial bloom metagenome",
+"submitter": "University of Minnesota Duluth",
+"date": "2021/01/03 00:00"
+},
+"PRJNA663466": {
+"title": "coal metagenome Metagenome",
+"submitter": "Research Center of Biotechnology",
+"date": "2020/10/19 00:00"
+},
+"PRJNA656314": {
+"title": "Environmental concentrations of antibiotics alter the zebrafish gut microbiome structure and potential functions",
+"submitter": "Department of Pediatrics Infectious Diseases, Xinhua Hospital",
+"date": "2020/08/10 00:00"
+},
+"PRJNA648801": {
+"title": "Hong Kong Shatin Activated Sludge Metagenome",
+"submitter": "The University of Hong Kong",
+"date": "2021/10/26 00:00"
+},
+"PRJNA640378": {
+"title": "Metagenomes from Northern California groundwater",
+"submitter": "Innovative Genomics Institute",
+"date": "2020/12/21 00:00"
+},
+"PRJNA632065": {
+"title": "Mycobacterium sp. AZCC_0083 Genome sequencing and assembly",
+"submitter": "DOE Joint Genome Institute",
+"date": "2020/08/14 00:00"
+},
+"PRJDB7717": {
+"title": "Genome sequencing of nontuberculosis mycobacteria",
+"submitter": "Department of Infection Metagenomics, Osaka University",
+"date": "2019/12/06 00:00"
+},
+"PRJNA592873": {
+"title": "Microbial communities from a oil-well bore taken in Wietze, Germany",
+"submitter": "Genomic and Applied Microbiology & Goettingen Genomics Laboratory",
+"date": "2020/03/23 00:00"
+},
+"PRJNA580624": {
+"title": "Mycobacterium sp. OAS707 Genome sequencing and assembly",
+"submitter": "DOE Joint Genome Institute",
+"date": "2020/10/09 00:00"
+},
+"PRJNA580301": {
+"title": "Bog Mycobacteriaceae Sequencing Project",
+"submitter": "University of Minnesota",
+"date": "2019/10/29 00:00"
+},
+"PRJEB30654": {
+"title": "Metagenomic sequencing of Rotating Biological Contactor biofilm samples",
+"submitter": "UNIVERSITY OF WATERLOO",
+"date": "2019/10/27 00:00"
+},
+"PRJEB34896": {
+"title": "Mycobactrium cambodiensis genome",
+"submitter": "IHU - Mediterranee Infection",
+"date": "2019/10/18 00:00"
+},
+"PRJNA551549": {
+"title": "Mycolicibacterium sp. 018/SC-01/001 Genome sequencing and assembly",
+"submitter": "National Institute of Education",
+"date": "2019/07/17 00:00"
+},
+"PRJNA542705": {
+"title": "Mycolicibacterium sphagni strain:ENV482 Genome sequencing and assembly",
+"submitter": "North Carolina State University",
+"date": "2020/06/12 00:00"
+},
+"PRJNA533545": {
+"title": "Metagenome raw sequence reads from drinking water distribution systems with and without disinfectant residual",
+"submitter": "University of Glasgow",
+"date": "2022/01/31 00:00"
+},
+"PRJNA529537": {
+"title": "Bacteria Genome sequencing and assembly",
+"submitter": "Chinese Academy of Sciences",
+"date": "2019/03/27 00:00"
+},
+"PRJNA523852": {
+"title": "Mycobacterium sp. DL99 Genome sequencing and assembly",
+"submitter": "University of Minnesota",
+"date": "2019/04/09 00:00"
+},
+"PRJNA520790": {
+"title": "Mycolicibacterium sp. CH28 Genome sequencing and assembly",
+"submitter": "Bay Zoltan Nonprofit Ltd. for Applied Research",
+"date": "2019/04/08 00:00"
+},
+"PRJNA520063": {
+"title": "Mycobacterium sp. BK086 Genome sequencing and assembly",
+"submitter": "DOE Joint Genome Institute",
+"date": "2019/03/22 00:00"
+},
+"PRJNA517182": {
+"title": "Soil Metagenomes from Mediterranean grasslands of California",
+"submitter": "Lawrence Berkeley National Laboratory",
+"date": "2021/12/10 00:00"
+},
+"PRJNA514088": {
+"title": "genome binning of groundwater metagenomes",
+"submitter": "University of Oklahoma",
+"date": "2019/02/25 00:00"
+},
+"PRJNA508088": {
+"title": "Mycobacterium sp. Genome sequencing and assembly",
+"submitter": "Centre for Functional Diversity",
+"date": "2019/03/20 00:00"
+},
+"PRJNA493163": {
+"title": "Metagenome of Faust Lake",
+"submitter": "THE INSTITUTE OF CYTOLOGY AND GENETICS",
+"date": "2019/09/26 00:00"
+},
+"PRJNA489466": {
+"title": "Mycobacterium sp. ELW1 Genome sequencing",
+"submitter": "North Carolina State University",
+"date": "2019/09/09 00:00"
+},
+"PRJNA480027": {
+"title": "Genome sequencing and Assely of various bacterial isolates collected from soil and rock environment.mb",
+"submitter": "University of New Hampshire",
+"date": "2018/07/16 00:00"
+},
+"PRJNA477702": {
+"title": "Nontuberculous mycobacteria isolated from soil in a swine farm in Japan",
+"submitter": "Gifu University",
+"date": "2018/06/30 00:00"
+},
+"PRJDB6463": {
+"title": "Draft genome sequence of Mycobacterium sp. MFM001",
+"submitter": "International Health, Institute of Tropical Medicine",
+"date": "2018/06/18 00:00"
+},
+"PRJNA434831": {
+"title": "Bioremediation-capable novel Mycobacterium species from Iranian environmental samples",
+"submitter": "Institute of Tropical Medicine",
+"date": "2018/03/04 00:00"
+},
+"PRJNA421797": {
+"title": "aggregates-associated microorganisms Genome sequencing and assembly",
+"submitter": "Max planck institute for marine microbiology",
+"date": "2018/01/04 00:00"
+},
+"PRJEB23701": {
+"title": "Draft genome sequencing of Mycobacterium sp. 4858",
+"submitter": "IHU - Mediterranee Infection",
+"date": "2017/12/05 00:00"
+},
+"PRJEB23694": {
+"title": "Draft genome sequencing of Mycobacterium sp. 3519A",
+"submitter": "IHU - Mediterranee Infection",
+"date": "2017/12/05 00:00"
+},
+"PRJNA415974": {
+"title": "Urban Enviromental Genomics Project",
+"submitter": "UNCC",
+"date": "2017/10/26 00:00"
+},
+"PRJNA413930": {
+"title": "Mycobacterium sp.  genome sequencing",
+"submitter": "Indiana University Kokomo",
+"date": "2018/01/17 00:00"
+},
+"PRJDB6386": {
+"title": "Draft genome sequence of Mycobacterium sp. shizuoka-1",
+"submitter": "National Institute of Infectious Diseases",
+"date": "2017/10/06 00:00"
+},
+"PRJNA393298": {
+"title": "Bacteria interacting positively with Serendipita indica Genome sequencing and assembly",
+"submitter": "AIT",
+"date": "2019/09/06 00:00"
+},
+"PRJEB13035": {
+"title": "Mycobacterium pyrene degrading H",
+"submitter": "Genoscope CEA",
+"date": "2017/05/15 00:00"
+},
+"PRJNA369078": {
+"title": "Lake at Sao Paulo Zoo Metagenome",
+"submitter": "Instituto de Quimica",
+"date": "2019/03/26 00:00"
+},
+"PRJNA366881": {
+"title": "Ionic liquid and high solid enriched microbial communities from the Joint BioEnergy Institute, USA - AR20-2-D metagenome",
+"submitter": "DOE Joint Genome Institute",
+"date": "2017/01/25 00:00"
+},
+"PRJNA359161": {
+"title": "Mycobacterium  genome sequencing",
+"submitter": "Biotechnology department, Lund Universit",
+"date": "2017/02/03 00:00"
+},
+"PRJNA344484": {
+"title": "Mycobacterium Genome sequencing and assembly",
+"submitter": "Instituto Oswaldo Cruz",
+"date": "2019/12/04 00:00"
+},
+"PRJNA305922": {
+"title": "Sequence and Analysis of Non-tuberculous Mycobacteria (NTM) strains",
+"submitter": "JCVI",
+"date": "2015/12/14 00:00"
+},
+"PRJEB11994": {
+"title": "Mycobacterium massilipolynesiensis sp. nov. genome",
+"submitter": "IHU - Mediterranee Infection",
+"date": "2015/12/04 00:00"
+},
+"PRJNA300678": {
+"title": "Mycobacterium genome sequencing and assembly",
+"submitter": "Centers for Disease Control and Prevention. Division of Healthcare Quality Promotion",
+"date": "2016/02/02 00:00"
+},
+"PRJNA297942": {
+"title": "Arabidopsis thaliana root-derived microbiota culture collections Genome sequencing and assembly",
+"submitter": "Max Planck Institute for Plant Breeding Research",
+"date": "2015/11/02 00:00"
+},
+"PRJNA285733": {
+"title": "Mycobacterium sp. EPa45 Genome sequencing and assembly",
+"submitter": "Tohoku University",
+"date": "2015/06/08 00:00"
+},
+"PRJNA272922": {
+"title": "Biodegradation of isoprene in the terrestrial and marine environment",
+"submitter": "University of East Anglia",
+"date": "2015/03/06 00:00"
+},
+"PRJNA244918": {
+"title": "Mycobacterium sp. ST-F2 Genome sequencing and assembly",
+"submitter": "The University of Hong Kong",
+"date": "2016/12/15 00:00"
+},
+"PRJNA213774": {
+"title": "Mycobacterium sp. URHB0044 Genome sequencing and assembly",
+"submitter": "DOE Joint Genome Institute",
+"date": "2014/04/08 00:00"
+},
+"PRJNA213251": {
+"title": "Mycobacterium sp. UM_WGJ Genome sequencing and assembly",
+"submitter": "Universiti Malaya, Kuala Lumpur",
+"date": "2013/08/26 00:00"
+},
+"PRJNA213250": {
+"title": "Mycobacterium sp. UM_CSW Genome sequencing and assembly",
+"submitter": "Universiti Malaya, Kuala Lumpur",
+"date": "2013/08/26 00:00"
+},
+"PRJNA190837": {
+"title": "Mycobacterium sp. URHD0025",
+"submitter": "DOE Joint Genome Institute",
+"date": "2013/07/10 00:00"
+},
+"PRJNA187931": {
+"title": "Mycobacterium sp. 141",
+"submitter": "DOE Joint Genome Institute",
+"date": "2013/04/23 00:00"
+},
+"PRJNA169802": {
+"title": "Mycobacterium sp. 155 Genome sequencing and assembly",
+"submitter": "DOE Joint Genome Institute",
+"date": "2013/04/19 00:00"
+},
+"PRJNA60055": {
+"title": "Mycobacterium smegmatis JS623 genome sequencing project",
+"submitter": "JGI",
+"date": "2012/12/27 00:00"
+},
+"PRJNA987415": {
+"title": "Mycolicibacterium sp. HK-90 isolate:a novel Mycolicibacterium Genome sequencing",
+"submitter": "Huazhong University of Science and Technology",
+"date": "2023/07/16 00:00"
+},
+"PRJNA981336": {
+"title": "Tar patties are potential hotspots of hydrocarbon turnover and nitrogen fixation during a nearshore pollution event in the oligotrophic southeastern Mediterranean Sea",
+"submitter": "Israel Oceanographic and Limnological Research",
+"date": "2023/06/08 00:00"
+},
+"PRJNA977432": {
+"title": "The genome sequences of nontuberculous mycobacterium",
+"submitter": "Research Institute for Microbial Diseases, Osaka University",
+"date": "2023/05/30 00:00"
+},
+"PRJNA960930": {
+"title": "Mycobacterium jinjuense Genome sequencing",
+"submitter": "Gyeongsang National University",
+"date": "2024/01/21 00:00"
+},
+"PRJNA953780": {
+"title": "Synthetic microbial community assembled from plant-isolated bacteria",
+"submitter": "University of Chicago",
+"date": "2023/04/09 00:00"
+},
+"PRJNA950938": {
+"title": "3,164 metagenome-assembled genomes recovered from global cold seep metagenomes",
+"submitter": "Third Institute of Oceanography, Ministry of Natural Resources",
+"date": "2023/08/03 00:00"
+},
+"PRJNA949153": {
+"title": "Genome sequencing and assembly of six phosphonate-degrading phycospheric heterotrophic bacteria",
+"submitter": "South China Normal University",
+"date": "2023/03/27 00:00"
+},
+"PRJNA929715": {
+"title": "The genome sequencing and assembly of non-tuberculosis Mycobacterium",
+"submitter": "West China Hospital, Sichuan University",
+"date": "2023/02/03 00:00"
+},
+"PRJNA925477": {
+"title": "Genome-Centric analyses of 165 metagenomes show the prevalence of antimicrobial resistance in activated sludge and wastewater treatments plants",
+"submitter": "CLUE-TERRA",
+"date": "2024/01/09 00:00"
+},
+"PRJNA923161": {
+"title": "Bioreactor Metagenome and Metatranscriptome",
+"submitter": "Leibniz Institute DSMZ - German Collection of Microorganisms and Cell Cultures",
+"date": "2023/09/08 00:00"
+},
+"PRJNA918589": {
+"title": "Mycolicibacterium sp. BiH015 Genome sequencing and assembly",
+"submitter": "Phenikaa University",
+"date": "2023/01/11 00:00"
+},
+"PRJNA900590": {
+"title": "North Eastern United States municipal landfill leachate metagenomic assembly",
+"submitter": "University of Waterloo",
+"date": "2023/02/18 00:00"
+},
+"PRJNA898099": {
+"title": "Mycolicibacterium sp. J2 strain:J2 | isolate:J2 Genome sequencing and assembly",
+"submitter": "National Institute for Biotechnology and Genetic Engineering",
+"date": "2022/11/20 00:00"
+},
+"PRJNA894975": {
+"title": "Characterisation of novel endophytic bacterial species isolated from Alnus glutinosa",
+"submitter": "Newcastle University",
+"date": "2022/10/27 00:00"
+},
+"PRJNA881288": {
+"title": "Whole genome sequencing of isolates of Mycobacterium ulcerans to trace effectively the evolutionary history of the bacteria and understand its dissemination and evolution at a local scale (villages).",
+"submitter": "INRAE",
+"date": "2022/09/16 00:00"
+},
+"PRJNA878949": {
+"title": "Metagenomic study along the Pearl River Estuary salinity gradient",
+"submitter": "Sun Yat-sen University",
+"date": "2023/05/11 00:00"
+},
+"PRJNA876583": {
+"title": "Study of cyanobacteria and bacterioplankton during different stages of a cyanobacterial bloom in Utah Lake Raw sequence reads",
+"submitter": "University of Utah",
+"date": "2023/09/27 00:00"
+},
+"PRJNA432264": {
+"title": "activated sludge metagenome Raw sequence reads",
+"submitter": "The University Hong Kong",
+"date": "2021/10/12 00:00"
+}
+}

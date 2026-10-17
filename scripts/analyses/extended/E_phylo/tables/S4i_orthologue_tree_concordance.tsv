@@ -1,0 +1,7 @@
+Bipartition	Taxa	Concatenated 299-gene tree: recovered / SH-aLRT	gCF % (gDF1/gDF2/gDFP), N decisive	sCFL % (sDF1/sDF2), mean informative sites	gCF on bac120 LG+G4 tree	bac120 LG+C60+F+R4 PMSF: SH-aLRT/UFBoot
+FSM	40	yes / 100	58.45 (0/0/41.55), 296	45.07 (26.71/28.22), 1561.86	58.92	100/100
+42-genome sister clade	42	yes / 100	48.16 (7.02/9.7/35.12), 299	44.3 (25.55/30.15), 273.83	48.16	99.2/100
+FSM + 42-genome clade	82	yes / 100	62.54 (0.67/0/36.79), 299	56.05 (22.21/21.75), 2300.15	62.54	100/100
+FSM + 42 + palauense group	86	yes / 99.5	5.35 (4.35/3.01/87.29), 299	35.31 (33.56/31.13), 2592.26	5.35	99.8/99
+S42 subclade (rhodesiae, 30)	30	yes / 100	40.13 (5.35/15.72/38.8), 299	32.29 (33.52/34.19), 168.99	40.13	99.5/100
+S42 subclade (sp020438785/865, 12)	12	yes / 100	97.66 (0/0/2.34), 299	80.31 (16.43/3.26), 8.69	97.66	100/100

@@ -1,0 +1,1 @@
+MODEL: FSM versus the FULL 824-genome ingroup (RGM + SGM). For the restricted FSM-versus-RGM comparison on 525 genomes see Table S7; the two are different models, not different versions of one, and both are current.

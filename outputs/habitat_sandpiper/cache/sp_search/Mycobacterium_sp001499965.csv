@@ -1,0 +1,2 @@
+sample,relative_abundance,coverage,taxon_name,study_title,release_year,metagenome_base_pairs,bacterial_archaeal_bases,eukaryotic_host_association,num_reads,read_length_summary,sequencing_instrument,collection_year,spf,spf_warning,gtdb_known_species_fraction_percent,globdb_known_species_fraction_percent,latitude,longitude,top1_order_fraction_percent,low_complexity
+SRR17050407,0.02,0.61,soil metagenome,Dongliang Soil Metagenome,2021,15056486028,13154297856.0,ecological,49855914,151x151bp reads,Illumina HiSeq 2000,2020,87.37,False,30.45,32.18,,,16%,False

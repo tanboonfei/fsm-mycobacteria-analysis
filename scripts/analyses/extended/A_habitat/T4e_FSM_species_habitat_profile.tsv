@@ -1,0 +1,43 @@
+species	runs	studies	median_pos	max	pct_freshwater_lake_river	pct_estuary_marine_saline	pct_sediment	pct_wastewater	top_habitat
+Mycobacterium sp018882965	1677	247	0.11	32.22	44.4	8.6	15.6	3.4	lake/reservoir
+Mycobacterium sp964202555	930	91	0.09	2.64	90.9	0.9	2.2	3.9	lake/reservoir
+Mycobacterium sp903911165	896	98	0.08	5.78	71.0	1.7	18.0	1.9	lake/reservoir
+Mycobacterium aquicola	879	102	0.07	2.58	78.3	9.1	3.3	1.3	lake/reservoir
+Mycobacterium sp018883075	871	190	0.08	8.26	47.5	7.6	12.2	3.9	freshwater (unspecified)
+Mycobacterium sp943331415	785	113	0.08	2.97	56.2	12.3	10.2	2.7	lake/reservoir
+Mycobacterium sp018401645	750	79	0.165	4.99	7.7	43.4	35.9	0.0	marine
+Mycobacterium sp030836785	743	129	0.13	18.05	36.5	0.7	1.9	46.4	wastewater/engineered
+Mycobacterium sp029780675	743	158	0.09	30.58	20.6	1.2	1.1	61.1	wastewater/engineered
+Mycobacterium sp021413425	691	105	0.08	4.39	54.2	23.6	3.6	1.2	lake/reservoir
+Mycobacterium sp001510415	415	56	0.09	1.74	6.5	52.8	20.0	0.5	marine
+Mycobacterium sp017853185	254	63	0.14500000000000002	71.15	20.1	1.2	2.8	56.7	wastewater/engineered
+Mycobacterium sp029977845	229	54	0.09	3.0	36.2	18.8	3.9	5.7	other/unspecified
+Mycobacterium sp037138275	222	55	0.14	2.82	80.7	4.1	5.9	3.6	lake/reservoir
+Mycobacterium sp964447215	204	45	0.07	12.19	9.8	35.3	19.1	1.5	marine
+Mycobacterium sp026393245	200	41	0.125	2.32	48.0	2.5	39.5	6.0	lake/reservoir
+Mycobacterium sp020637165	193	24	0.13	2.92	1.6	0.0	0.0	91.7	wastewater/engineered
+Mycobacterium sp005789055	192	30	0.04	0.87	93.8	0.0	1.0	0.0	lake/reservoir
+Mycobacterium sp020439025	191	21	0.12	3.91	0.5	0.0	0.0	95.3	wastewater/engineered
+Mycobacterium sp016462945	152	34	0.11	3.48	53.4	3.3	23.7	2.0	lake/reservoir
+Mycobacterium sp041303735	144	41	0.07	1.04	30.5	11.1	2.8	0.0	groundwater/drinking water
+Mycobacterium sp020438845	133	25	0.13	4.54	6.8	0.0	0.0	89.5	wastewater/engineered
+Mycobacterium sp046091765	127	32	0.08	1.68	59.1	6.2	1.6	3.9	lake/reservoir
+Mycobacterium sp041303695	118	39	0.09	2.51	35.6	0.8	0.0	11.0	groundwater/drinking water
+Mycobacterium sp037141465	104	14	0.16	1.03	84.6	0.0	1.9	0.0	freshwater (unspecified)
+Mycobacterium sp037138615	104	15	0.195	1.86	84.6	0.0	0.0	1.0	freshwater (unspecified)
+Mycobacterium sp945882475	100	17	0.07	1.36	84.0	0.0	4.0	7.0	lake/reservoir
+Mycobacterium sp036782595	98	25	0.03	0.32	75.5	6.1	0.0	9.2	lake/reservoir
+Mycobacterium sp903884065	83	10	0.06	0.55	96.4	0.0	0.0	1.2	lake/reservoir
+Mycobacterium sp020438895	70	18	0.08	4.27	4.3	0.0	1.4	94.3	wastewater/engineered
+Mycobacterium sp022600695	63	17	0.06	0.72	0.0	38.1	41.3	0.0	sediment
+Mycobacterium sp040398885	62	20	0.05	1.37	75.8	1.6	0.0	4.8	lake/reservoir
+Mycobacterium sp037129875	51	15	0.09	5.93	45.1	0.0	37.3	2.0	lake/reservoir
+Mycobacterium sp020438905	51	12	0.15	0.81	2.0	0.0	0.0	96.1	wastewater/engineered
+Mycobacterium sp018882545	47	16	0.13	0.79	44.7	0.0	0.0	4.3	other/unspecified
+Mycobacterium sp903862565	40	10	0.04	0.87	87.5	0.0	5.0	2.5	lake/reservoir
+Mycobacterium sp029979305	31	12	0.1	0.59	58.1	0.0	0.0	0.0	lake/reservoir
+Mycobacterium sp032117575	25	7	0.13	1.88	88.0	0.0	0.0	0.0	lake/reservoir
+Mycobacterium sp964555915	25	10	0.12	1.93	0.0	28.0	32.0	0.0	sediment
+Mycobacterium sp018500005	11	5	0.07	1.18	9.1	0.0	0.0	0.0	soil/peat/wetland
+Mycobacterium sp964527015	11	2	0.12	0.52	0.0	27.3	72.7	0.0	sediment
+Mycobacterium sp903877095	4	1	0.495	0.83	100.0	0.0	0.0	0.0	lake/reservoir

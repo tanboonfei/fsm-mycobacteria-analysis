@@ -1,0 +1,575 @@
+t	group	category	n_source_samples	sizefrac_info	protist_or_euk_host	host	example_isolation_source	bioproject
+GB_GCA_001665235.1	SGM	other/unknown	0	False	False			
+GB_GCA_001665255.1	RGM	other/unknown	0	False	False			
+GB_GCA_001665295.1	SGM	other/unknown	0	False	False			
+GB_GCA_002013415.1	Outside	other/unknown	0	False	False			
+GB_GCA_002013465.1	Outside	other/unknown	0	False	False			
+GB_GCA_002013775.1	Outside	other/unknown	0	False	False			
+GB_GCA_003165155.1	SGM	soil/wetland	1	False	False		permafrost active layer soil	PRJNA386568
+GB_GCA_005789055.1	FSM	water column	1	False	False		freshwater	PRJNA531348
+GB_GCA_016197405.1	RGM	water column	1	False	False			PRJNA640378
+GB_GCA_018268465.1	RGM	wastewater/engineered	1	False	False		activated sludge	PRJNA694732
+GB_GCA_018401645.1	FSM	other/unknown	0	False	False			
+GB_GCA_018500005.2	FSM	aquarium/aquaculture	16	False	False		Tropical aquarium tank sediment	PRJNA728121
+GB_GCA_018882545.1	FSM	water column	1	False	False		lake water from Sao Paulo's Zoo	
+GB_GCA_018882965.1	FSM	water column	1	False	False		lake water from Sao Paulo's Zoo	
+GB_GCA_018883075.1	FSM	water column	1	False	False		lake water from Sao Paulo's Zoo	
+GB_GCA_019236925.1	SGM	soil/wetland	3	False	False		rupestrian grassland bulk soil	PRJNA441434;PRJNA441435;PRJNA441436
+GB_GCA_019242135.1	SGM	host-associated	3	False	False		Barbacenia macrantha roots	PRJNA441431;PRJNA441432;PRJNA441433
+GB_GCA_019245755.1	SGM	other/unknown	3	False	False		rupestrian grassland exposed rock	PRJNA441437;PRJNA441438;PRJNA441439
+GB_GCA_019246375.1	SGM	other/unknown	3	False	False		rupestrian grassland exposed rock	PRJNA441437;PRJNA441438;PRJNA441439
+GB_GCA_019749805.1	RGM	water column	15	True	False		Commercial building tap, chloraminated drinking water	PRJNA745168
+GB_GCA_019751635.1	SGM	water column	15	True	False		Commercial building tap, chloraminated drinking water	PRJNA745168
+GB_GCA_020438785.1	sisterRGM	wastewater/engineered	97	False	False		activated sludge sample	PRJNA432264
+GB_GCA_020438845.1	FSM	wastewater/engineered	97	False	False		activated sludge sample	PRJNA432264
+GB_GCA_020438865.1	sisterRGM	wastewater/engineered	97	False	False		activated sludge sample	PRJNA432264
+GB_GCA_020438895.1	FSM	wastewater/engineered	97	False	False		activated sludge sample	PRJNA432264
+GB_GCA_020438905.1	FSM	wastewater/engineered	97	False	False		activated sludge sample	PRJNA432264
+GB_GCA_020438915.1	RGM	wastewater/engineered	97	False	False		activated sludge sample	PRJNA432264
+GB_GCA_020439025.1	FSM	wastewater/engineered	97	False	False		activated sludge sample	PRJNA432264
+GB_GCA_021154745.1	RGM	host-associated	2	False	False		soil sample from UC Hopland Field Station	PRJNA517182
+GB_GCA_021648845.1	RGM	other/unknown	0	False	False			
+GB_GCA_021732005.1	sisterRGM	water column	1	False	False		chlorinated drinking water, site 4	PRJNA533545
+GB_GCA_022600605.1	RGM	host-associated	1	False	False	Haliclona oculata		PRJNA742377
+GB_GCA_022600695.1	FSM	host-associated	1	False	False	Haliclona oculata		PRJNA742377
+GB_GCA_022601135.1	RGM	host-associated	1	False	False	Halichondria panicea		PRJNA742377
+GB_GCA_022601275.1	RGM	host-associated	1	False	False	Halichondria panicea		PRJNA742377
+GB_GCA_022708865.1	RGM	wastewater/engineered	3	False	False		anaerobic digester sludge from wastewater treatment plant	PRJNA797469
+GB_GCA_022841565.1	SGM	host-associated	1	True	False		granular activated carbon biofilter from drinking water treatment plant (DWTP)	
+GB_GCA_023264735.1	sisterRGM	sediment	1	False	False		groundwater planktonic and sediment-attached microbiome	PRJNA699054
+GB_GCA_023264755.1	RGM	sediment	1	False	False		groundwater planktonic and sediment-attached microbiome	PRJNA699054
+GB_GCA_023264765.1	RGM	sediment	1	False	False		groundwater planktonic and sediment-attached microbiome	PRJNA699054
+GB_GCA_023404955.1	RGM	host-associated	1	False	False	Homo sapiens	rectal swabs	PRJNA682348
+GB_GCA_023415515.1	RGM	host-associated	1	False	False	Bos taurus	rectal swabs	PRJNA682348
+GB_GCA_023416315.1	sisterRGM	host-associated	1	False	False	Bos taurus	rectal swabs	PRJNA682348
+GB_GCA_023460175.1	RGM	host-associated	1	False	False	Sus scrofa	rectal swabs	PRJNA682348
+GB_GCA_025963195.1	RGM	soil/wetland	1	False	False		low severity burned soil	PRJNA682830
+GB_GCA_025963385.1	RGM	soil/wetland	1	False	False		low severity burned soil	PRJNA682830
+GB_GCA_025965555.1	RGM	soil/wetland	1	False	False		high severity burned soil	PRJNA682830
+GB_GCA_025965815.1	RGM	soil/wetland	1	False	False		high severity burned soil	PRJNA682830
+GB_GCA_025965895.1	SGM	soil/wetland	1	False	False		high severity burned soil	PRJNA682830
+GB_GCA_025966225.1	RGM	soil/wetland	1	False	False		low severity burned soil	PRJNA682830
+GB_GCA_026393245.1	FSM	other/unknown	0	False	False			
+GB_GCA_027728805.1	FSM	water column	1	False	False		Caspian sea 150 m depth	PRJNA279271
+GB_GCA_028706695.1	SGM	other/unknown	1	True	False		0.22 micron fraction; NEUS landfill leachate from well B	PRJNA900590
+GB_GCA_029256565.1	RGM	soil/wetland	1	False	False		agricultural soil	PRJNA725542
+GB_GCA_029780675.1	FSM	wastewater/engineered	1	False	False			PRJNA759242
+GB_GCA_029977845.1	FSM	water column	11	False	False			PRJNA878949
+GB_GCA_029979305.1	FSM	water column	11	False	False			PRJNA878949
+GB_GCA_030666145.1	RGM	other/unknown	1	False	False		cold seep	PRJNA950938
+GB_GCA_030836785.1	FSM	water column	1	False	False		Pore water metagenome hour 24	PRJNA946291
+GB_GCA_031292665.1	SGM	wastewater/engineered	6	False	False		Bioreactor_Day_172_Metagenome_Replicate_1	
+GB_GCA_031292695.1	RGM	wastewater/engineered	6	False	False		Bioreactor_Day_172_Metagenome_Replicate_1	
+GB_GCA_032159565.1	RGM	soil/wetland	1	False	False		soil	PRJNA682830
+GB_GCA_032159765.1	SGM	soil/wetland	1	False	False		soil	PRJNA682830
+GB_GCA_032159775.1	RGM	soil/wetland	1	False	False		soil	PRJNA682830
+GB_GCA_032159915.1	SGM	soil/wetland	1	False	False		soil	PRJNA682830
+GB_GCA_032159965.1	SGM	soil/wetland	1	False	False		soil	PRJNA682830
+GB_GCA_032161845.1	RGM	soil/wetland	1	False	False		soil	PRJNA682830
+GB_GCA_032161985.1	RGM	soil/wetland	1	False	False		soil	PRJNA682830
+GB_GCA_032162105.1	RGM	soil/wetland	1	False	False		soil	PRJNA682830
+GB_GCA_032162325.1	RGM	soil/wetland	1	False	False		soil	PRJNA682830
+GB_GCA_032162385.1	RGM	soil/wetland	1	False	False		soil	PRJNA682830
+GB_GCA_032162485.1	SGM	soil/wetland	1	False	False		soil	PRJNA682830
+GB_GCA_032162605.1	RGM	soil/wetland	1	False	False		soil	PRJNA682830
+GB_GCA_032162865.1	SGM	soil/wetland	1	False	False		soil	PRJNA682830
+GB_GCA_032230775.1	RGM	soil/wetland	1	False	False	soil	forest soil	PRJNA682830
+GB_GCA_034189785.1	RGM	water column	8	False	False		Viscous tar from the tidal pool, inner hardened (A)	PRJNA981336
+GB_GCA_034190095.1	RGM	water column	8	False	False		Viscous tar from the tidal pool, inner hardened (A)	PRJNA981336
+GB_GCA_034520035.1	RGM	other/unknown	0	False	False			
+GB_GCA_035253445.1	RGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035279185.1	RGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035314925.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035345915.1	RGM	wastewater/engineered	1	False	False		Domestic waste water	PRJNA925477
+GB_GCA_035472875.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035492865.1	RGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035505695.1	SGM	other/unknown	0	False	False			
+GB_GCA_035506875.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035511785.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035552295.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035552835.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035569455.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035606475.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035625875.1	SGM	other/unknown	0	False	False			
+GB_GCA_035633495.1	RGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035634855.1	RGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035642315.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035642975.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035651275.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035693385.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035716165.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035721065.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_035996225.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_036263935.1	RGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_036265655.1	RGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_036272035.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_036273375.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_036273805.1	RGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_036338755.1	SGM	water column	40	False	False		seawater	PRJNA880762
+GB_GCA_036390735.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_036495965.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_036497495.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_036500645.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_036519055.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_036558625.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+GB_GCA_036746615.1	SGM	soil/wetland	1	False	False		soil	PRJNA843551
+GB_GCA_036782595.1	FSM	sediment	1	False	False		sediment; water	PRJNA843551
+GB_GCA_037129875.1	FSM	water column	1	False	False		freshwater from boreal shield lake	PRJNA443331
+GB_GCA_037138275.1	FSM	water column	1	False	False		freshwater from boreal shield lake	PRJNA443339
+GB_GCA_037138615.1	FSM	water column	1	True	False		lake water column	PRJNA664486
+GB_GCA_037140245.1	SGM	water column	1	False	False		freshwater from boreal shield lake	PRJNA443332
+GB_GCA_037141465.1	FSM	water column	1	True	False		lake water column	PRJNA664486
+GB_GCA_038244615.1	RGM	sediment	1	False	False		sediment	PRJNA855145
+GB_GCA_039583405.1	SGM	soil/wetland	1	False	False		soil 10 meters from hot spring	PRJNA758125
+GB_GCA_039922455.1	SGM	host-associated	7	False	False	Deschampsia antarctica	antarctic soil	PRJNA746701
+GB_GCA_039935195.1	SGM	host-associated	15	False	False	Colobanthus quitensis;Deschampsia antarctica;Deschampsia antarctica; Colobanthus quitensis	antarctic soil	PRJNA746701
+GB_GCA_040398865.1	FSM	water column	1	False	False			PRJNA1052970
+GB_GCA_040398885.1	FSM	water column	1	False	False			PRJNA1052970
+GB_GCA_040509115.1	RGM	soil/wetland	1	False	False		soil	PRJNA1109856
+GB_GCA_040511255.1	RGM	soil/wetland	1	False	False		soil	PRJNA1109856
+GB_GCA_040511335.1	RGM	soil/wetland	1	False	False		soil	PRJNA1109856
+GB_GCA_040512325.1	RGM	soil/wetland	1	False	False		soil	PRJNA1109856
+GB_GCA_040704635.1	RGM	other/unknown	1	False	False			PRJNA1106891
+GB_GCA_040752555.1	RGM	water column	1	False	False			PRJNA983765
+GB_GCA_041303695.1	FSM	soil/wetland	1	False	False		wetland soil	PRJNA1007388
+GB_GCA_041303735.1	FSM	soil/wetland	1	False	False		wetland soil	PRJNA1007388
+GB_GCA_900078375.1	sisterRGM	soil/wetland	1	False	False		This genome was reconstructed from an aerobic pyrene degrading enrichment culture grown from soil-compost microcosms, as described in Adam I.K. et al., under review. An uncontaminated and unfertilized agricultural soil (Ap horizon of a Haplic Chernozem) of the Static Fertilization Experiment Bad Lauchstädt (Germany) was supplemented with mature compost (Bio-Komp SAS Gmbh, Weizenfels, Germany) for biostimulation; the compost consisted of a mixture of vegetable and animal organic waste. Two stable enrichment cultures (UC1 and UC10) capable of total pyrene (spiked at a concentration of 100 mg/L) mineralization were obtained from the microscosm and shotgun sequenced (see Adam I.K. et al., under review 2016).	
+GB_GCA_902826815.1	RGM	wastewater/engineered	1	False	False		wastewater biofilm	
+GB_GCA_903862565.1	FSM	water column	1	False	False		lake water	
+GB_GCA_903877095.1	FSM	water column	1	False	False		lake water	
+GB_GCA_903884065.1	FSM	water column	1	False	False		lake water	
+GB_GCA_903927745.1	SGM	water column	1	False	False		lake water	
+GB_GCA_943331415.1	FSM	water column	1	False	False		Freshwater lake	
+GB_GCA_945882475.1	FSM	water column	1	False	False		Freshwater lake	
+GB_GCA_945897705.1	FSM	water column	1	False	False		Freshwater lake	
+GB_GCA_964195655.1	RGM	sediment	1	False	False		marine sediment	
+GB_GCA_964202555.1	FSM	water column	1	False	False		freshwater lake	
+GB_GCA_964203005.1	FSM	water column	1	False	False		freshwater lake	
+RS_GCF_000328565.1	RGM	other/unknown	1	False	False	Homo sapiens	smegma	PRJNA60055
+RS_GCF_000373905.1	RGM	other/unknown	1	False	False			PRJNA169802
+RS_GCF_000382405.1	RGM	other/unknown	1	False	False			PRJNA187931
+RS_GCF_000426065.1	RGM	other/unknown	1	False	False			PRJNA190837
+RS_GCF_000455125.1	SGM	host-associated	1	False	False	Homo sapiens	sputum sample from patient with suspected TB	PRJNA213251
+RS_GCF_000455205.1	SGM	host-associated	1	False	False	Homo sapiens	sputum sample from patient diagnosed with bronchiectasis	PRJNA213250
+RS_GCF_000620625.1	RGM	other/unknown	1	False	False			PRJNA213774
+RS_GCF_001021385.1	sisterRGM	soil/wetland	1	False	False		PAH contaminated soil	
+RS_GCF_001426545.1	RGM	host-associated	1	False	False	Arabidopsis thaliana		
+RS_GCF_001428895.1	RGM	host-associated	1	False	False	Arabidopsis thaliana		
+RS_GCF_001494595.1	sisterRGM	other/unknown	1	False	False			
+RS_GCF_001499855.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001499905.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001499965.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001499995.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001500025.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001500045.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001500065.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001500125.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001545925.1	RGM	host-associated	1	False	False	Homo sapiens	abdominal cerebrospinal fluid pseudocyst	PRJNA300678
+RS_GCF_001665395.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001665535.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001665575.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001665685.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001665875.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001666755.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001666835.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001667015.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001667035.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001667075.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001667115.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001667145.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001667185.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001667265.1	RGM	other/unknown	1	False	False	Homo sapiens	missing	PRJNA305922
+RS_GCF_001667275.1	SGM	other/unknown	1	False	False	Homo sapiens	missing	PRJNA305922
+RS_GCF_001667315.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001667505.1	RGM	other/unknown	1	False	False	Homo sapiens	missing	PRJNA305922
+RS_GCF_001667585.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001667665.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001667735.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001667775.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001667925.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001668575.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001668615.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001668625.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001668725.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001672815.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001672895.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001672915.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001672975.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001673155.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001673405.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001673535.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001673555.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001905655.1	RGM	wastewater/engineered	1	False	False		activated sludge	
+RS_GCF_001953975.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001954135.1	RGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001954195.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001954275.1	SGM	other/unknown	1	False	False		missing	PRJNA305922
+RS_GCF_001984215.1	RGM	soil/wetland	1	False	False		soil	PRJNA359161
+RS_GCF_002013375.1	Outside	water column	1	False	False		Tap water	PRJNA323571
+RS_GCF_002043095.1	RGM	sediment	1	False	False			
+RS_GCF_002723835.1	sisterRGM	water column	1	False	False			PRJDB6386
+RS_GCF_002863225.1	SGM	water column	1	False	False		marine water	PRJNA421797
+RS_GCF_002887815.1	sisterRGM	soil/wetland	1	False	False		soil	
+RS_GCF_002968285.2	RGM	water column	1	False	False		Salt water lake	PRJNA434831
+RS_GCF_002968295.1	RGM	other/unknown	1	False	False		Oil Well	PRJNA434831
+RS_GCF_002968335.2	RGM	sediment	1	False	False		river sediment	PRJNA434831
+RS_GCF_003284965.1	RGM	soil/wetland	1	False	False		soil from a swine farm	PRJNA477702
+RS_GCF_003402475.1	SGM	other/unknown	1	False	False	Felis silvestris catus		PRJDB6463
+RS_GCF_004298145.1	SGM	water column	1	True	False		groundwater	PRJNA514088
+RS_GCF_004362315.1	sisterRGM	other/unknown	1	False	False		missing	PRJNA520063
+RS_GCF_004570325.1	RGM	other/unknown	1	False	False		granite building material	PRJNA480027
+RS_GCF_004745805.1	sisterRGM	soil/wetland	1	False	False		polluted ground water	PRJNA520790
+RS_GCF_004762045.1	RGM	other/unknown	1	False	False		Sphagnum bog	
+RS_GCF_005222675.1	RGM	wastewater/engineered	1	False	False		activated sludge	PRJNA529537
+RS_GCF_007096635.1	RGM	host-associated	1	False	False	marine sponge	sponge tissue in subtidal area	
+RS_GCF_008329535.1	RGM	host-associated	1	False	False	Solanum tuberosum cv. Romina	root	PRJNA393298
+RS_GCF_008329565.1	sisterRGM	host-associated	1	False	False	Solanum tuberosum cv. Romina	root	PRJNA393298
+RS_GCF_008329585.1	RGM	host-associated	1	False	False	Solanum tuberosum cv. Romina	root	PRJNA393298
+RS_GCF_008329605.1	RGM	host-associated	1	False	False	Solanum tuberosum cv. Romina	root	PRJNA393298
+RS_GCF_008329905.1	sisterRGM	sediment	1	False	False		Stream sediment	
+RS_GCF_008709575.1	SGM	sediment	1	False	False		sediments of hot spring	PRJNA493163
+RS_GCF_009729075.1	RGM	soil/wetland	1	False	False		soil	PRJNA344484
+RS_GCF_009729095.1	RGM	soil/wetland	1	False	False		soil	PRJNA344484
+RS_GCF_009729205.1	Outside	soil/wetland	1	False	False		soil	PRJNA344484
+RS_GCF_009729415.1	RGM	soil/wetland	1	False	False		soil	
+RS_GCF_010725485.1	RGM	other/unknown	1	False	False			PRJDB7717
+RS_GCF_011620645.1	RGM	soil/wetland	3	False	False		oil-contaminated soil from oil-well borehole	PRJNA592873
+RS_GCF_011694515.1	sisterRGM	other/unknown	1	False	False	Sphagnum	missing	PRJNA580301
+RS_GCF_011745145.1	RGM	other/unknown	1	False	False	Sphagnum	missing	PRJNA580301
+RS_GCF_013337765.1	sisterRGM	other/unknown	1	False	False		ethane-enriched microcosm from Aquifer solid	
+RS_GCF_013449725.1	Outside	host-associated	1	False	False	Homo sapiens	sputum	PRJNA644770
+RS_GCF_014202335.1	RGM	other/unknown	1	False	False		missing	PRJNA632065
+RS_GCF_014873705.1	RGM	other/unknown	1	False	False		missing	PRJNA580624
+RS_GCF_016462545.1	RGM	water column	1	False	False		freshwater cyanobacterial bloom 4	PRJNA663590
+RS_GCF_016462945.1	FSM	water column	1	False	False		freshwater cyanobacterial bloom 3	PRJNA663590
+RS_GCF_017312405.1	RGM	sediment	1	False	False			PRJDB9412
+RS_GCF_017352375.1	RGM	soil/wetland	1	False	False		soil	PRJNA699436
+RS_GCF_017853185.1	FSM	water column	2	False	False		Bay water	PRJNA375617;PRJNA375618
+RS_GCF_018326285.1	RGM	other/unknown	1	False	False			PRJDB10305
+RS_GCF_018361265.1	SGM	other/unknown	1	False	False		mud volcano	PRJNA706132
+RS_GCF_019243155.1	SGM	host-associated	3	False	False		Barbacenia macrantha roots	PRJNA441431;PRJNA441432;PRJNA441433
+RS_GCF_019247615.1	SGM	host-associated	1	False	False		Barbacenia macrantha roots	PRJNA441433
+RS_GCF_019247635.1	SGM	host-associated	1	False	False		Barbacenia macrantha roots	PRJNA441433
+RS_GCF_020217485.1	SGM	other/unknown	1	False	False	Homo sapiens	Bronchial wash	PRJNA682417
+RS_GCF_020637165.1	FSM	wastewater/engineered	1	False	False		activated sludge from Hong Kong Shatin wastewater treatment plant	
+RS_GCF_021213805.1	Outside	other/unknown	1	False	False	Homo sapiens	arm tissue	PRJNA759261
+RS_GCF_022317005.1	RGM	other/unknown	1	False	False	Homo sapiens	Hand Laceration	PRJNA753109
+RS_GCF_022348085.1	RGM	host-associated	1	False	False	Pseudodiploreia strigosa	coral surface mucus layer and tissue	PRJNA795563
+RS_GCF_022557175.1	RGM	soil/wetland	1	False	False		soil	PRJNA795597
+RS_GCF_025263265.1	RGM	host-associated	1	False	False	Homo sapiens	sputum	PRJNA745503
+RS_GCF_025263485.1	SGM	host-associated	1	False	False	Homo sapiens	sputum	PRJNA745498
+RS_GCF_025263565.1	RGM	host-associated	1	False	False	Homo sapiens	sputum	PRJNA745500
+RS_GCF_025933915.1	SGM	other/unknown	1	False	False			
+RS_GCF_025965855.1	SGM	soil/wetland	1	False	False		high severity burned soil	PRJNA682830
+RS_GCF_025965975.1	RGM	soil/wetland	1	False	False		high severity burned soil	PRJNA682830
+RS_GCF_026240945.1	RGM	water column	1	False	False		Waste water	PRJNA898099
+RS_GCF_026625985.1	SGM	other/unknown	1	False	False	Channa argus		PRJNA777922
+RS_GCF_026723865.1	SGM	other/unknown	1	False	False	Channa argus		PRJNA777922
+RS_GCF_027706845.1	RGM	soil/wetland	1	False	False		soil	PRJNA918589
+RS_GCF_029623955.1	RGM	water column	1	False	False	Calothrix membranacea FACHB-236	freshwater	
+RS_GCF_029892685.1	RGM	other/unknown	1	False	False		missing	PRJNA834434
+RS_GCF_029961025.1	SGM	other/unknown	1	False	False		coal	PRJNA663466
+RS_GCF_030209435.1	RGM	host-associated	1	False	False	Arabidopsis thaliana	root/leaf	PRJNA953780
+RS_GCF_030295745.1	RGM	soil/wetland	1	False	False		soil	PRJDB14135
+RS_GCF_030486405.1	RGM	host-associated	1	False	False		soil of Dioscorea zingiberensis C.H. Wright planting base	PRJNA987415
+RS_GCF_030755175.1	SGM	other/unknown	1	False	False	Homo sapiens		PRJNA977432
+RS_GCF_032117575.1	FSM	water column	3	False	False		Freshwater Lake	PRJNA876583
+RS_GCF_032883035.1	RGM	water column	1	False	False			PRJNA508088
+RS_GCF_033741125.1	RGM	host-associated	1	False	False	Homo sapiens	sputum	PRJNA929715
+RS_GCF_033741155.1	RGM	host-associated	1	False	False	Homo sapiens	sputum	PRJNA929715
+RS_GCF_033741175.1	RGM	host-associated	1	False	False	Homo sapiens	sputum	PRJNA929715
+RS_GCF_033804465.1	sisterRGM	host-associated	1	False	False	Alnus glutinosa	root nodules	PRJNA894975
+RS_GCF_033804605.1	RGM	host-associated	1	False	False	Alnus glutinosa	root nodules	PRJNA894975
+RS_GCF_033804635.1	RGM	host-associated	1	False	False	Alnus glutinosa	root nodules	PRJNA894975
+RS_GCF_035274705.1	RGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035314665.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035314905.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035491595.1	RGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035499775.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035506235.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035515675.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035570115.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035603715.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035616495.1	SGM	other/unknown	1	False	False	Homo sapiens	skin lesion	
+RS_GCF_035617725.1	SGM	other/unknown	1	False	False	Homo sapiens	skin lesion	
+RS_GCF_035623875.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035640695.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035649695.1	RGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035653355.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035697385.1	RGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_035918395.1	RGM	host-associated	1	False	False		Sputum tissue	PRJNA960930
+RS_GCF_036023875.1	sisterRGM	soil/wetland	1	False	False			PRJNA747871
+RS_GCF_036235365.1	RGM	host-associated	1	False	False	Homo sapiens	sputum	PRJNA929715
+RS_GCF_036409085.1	SGM	host-associated	1	False	False	Homo sapiens	sputum	PRJNA929715
+RS_GCF_036409155.1	SGM	other/unknown	1	False	False	Homo sapiens	urine	PRJNA929715
+RS_GCF_036488105.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_036490025.1	SGM	soil/wetland	1	False	False		soil	PRJNA983538
+RS_GCF_039023525.1	SGM	host-associated	1	False	False	Homo sapiens	sputum	PRJNA929715
+RS_GCF_039583785.1	SGM	soil/wetland	1	False	False		soil 20 meters from hot spring	PRJNA758125
+RS_GCF_039583805.1	SGM	soil/wetland	1	False	False		soil 20 meters from hot spring	PRJNA758125
+RS_GCF_039871645.1	RGM	soil/wetland	1	False	False		soil surface	PRJNA1113123
+RS_GCF_040614235.1	RGM	soil/wetland	1	False	False		soil	PRJNA1106891
+RS_GCF_040655355.1	RGM	other/unknown	1	False	False			PRJNA1106891
+RS_GCF_040674075.1	RGM	other/unknown	1	False	False			PRJNA1106891
+RS_GCF_041206865.1	SGM	other/unknown	1	False	False	Homo sapiens	Lower respiratory tract	PRJNA1138756
+RS_GCF_041261665.1	RGM	other/unknown	1	False	False			PRJNA1115339
+RS_GCF_041287095.1	SGM	host-associated	1	False	False	Homo sapiens	sputum	PRJNA1138261
+RS_GCF_041287115.1	RGM	host-associated	1	False	False	Homo sapiens	sputum	PRJNA1138261
+RS_GCF_041287165.1	RGM	host-associated	1	False	False	Homo sapiens	sputum	PRJNA1138261
+RS_GCF_041287235.1	SGM	host-associated	1	False	False	Homo sapiens	sputum	PRJNA1138261
+RS_GCF_900240945.1	RGM	host-associated	1	False	False		sputum	
+RS_GCF_900240975.1	SGM	host-associated	1	False	False		sputum	
+RS_GCF_902652685.1	SGM	host-associated	1	False	False		Human (Sputum)	
+RS_GCF_937941905.1	RGM	wastewater/engineered	1	False	False		Joint BioEnergy Institute, California, USA	PRJNA366881
+RS_GCF_945957405.1	RGM	host-associated	1	False	False	Zebrafish	stool	PRJNA656314
+RS_GCF_963378075.1	SGM	other/unknown	1	False	False	Homo sapiens	Gastric lavage	
+RS_GCF_963378085.1	RGM	other/unknown	1	False	False	Homo sapiens	Gastric lavage	
+RS_GCF_963378095.1	RGM	other/unknown	1	False	False	Homo sapiens	Gastric lavage	
+RS_GCF_963378105.1	SGM	other/unknown	1	False	False	Homo sapiens	Gastric lavage	
+RS_GCF_964000695.1	RGM	water column	1	False	False			
+spire_mag_00036704	FSM	sediment	1	False	False		anoxic, hypersaline lake sediments of the Salton Sea	PRJNA444011
+spire_mag_00036881	FSM	sediment	1	False	False		anoxic, hypersaline lake sediments of the Salton Sea	PRJNA444012
+spire_mag_00079100	RGM	host-associated	1	False	False		bulk soil	
+spire_mag_00080611	RGM	host-associated	1	False	False		citrus rhizosphere	
+spire_mag_00138007	FSM	wastewater/engineered	1	False	False		anaerobic digester from wastewater treatment plant	PRJNA340504
+spire_mag_00138052	FSM	wastewater/engineered	1	False	False		anaerobic digester from wastewater treatment plant	PRJNA340504
+spire_mag_00139887	FSM	wastewater/engineered	1	False	False		anaerobic digester from wastewater treatment plant	PRJNA340774
+spire_mag_00142179	FSM	wastewater/engineered	1	False	False		anaerobic digester from wastewater treatment plant	PRJNA340503
+spire_mag_00143021	RGM	wastewater/engineered	1	False	False		Anaerobic digester	PRJNA340750
+spire_mag_00184606	SGM	soil/wetland	1	False	False		forest soil	PRJNA441486
+spire_mag_00186517	SGM	other/unknown	1	False	False		rupestrian grassland exposed rock	PRJNA441438
+spire_mag_00193483	FSM	water column	1	False	False		brackish river, site MA04	PRJNA473136
+spire_mag_00487317	RGM	host-associated	1	False	False		mixed endophytic bacteria from Arabidopsis ecotype Col-0 in Clayton soil grown on 1/50th strength TSA media	PRJNA375502
+spire_mag_00488916	RGM	host-associated	1	False	False		Kellogg Biological Station, Michigan, USA	PRJNA330355
+spire_mag_00490038	RGM	host-associated	1	False	False		rhizosphere soil	PRJNA405464
+spire_mag_00492514	RGM	host-associated	1	False	False		rhizosphere soil	PRJNA405463
+spire_mag_00493620	RGM	host-associated	1	False	False		rhizosphere soil	PRJNA375572
+spire_mag_00518952	RGM	host-associated	1	False	False	Carex aquatilis	Peat Soil	PRJNA518435
+spire_mag_00518991	Outside	host-associated	1	False	False	Carex aquatilis	Peat Soil	PRJNA518435
+spire_mag_00549465	SGM	soil/wetland	1	False	False		soil	
+spire_mag_00560387	RGM	sediment	1	False	False			
+spire_mag_00670601	SGM	water column	1	False	False		Yellowstone National Park, Wyoming, USA	PRJNA366136
+spire_mag_00671068	SGM	sediment	1	False	False		mud, sediment	PRJNA405918
+spire_mag_00688177	FSM	water column	1	False	False		Sea water	
+spire_mag_00688367	FSM	water column	1	False	False		Sea water	
+spire_mag_00691761	RGM	wastewater/engineered	1	False	False		Wastewater treatment plant of a petroleum refinery complex	PRJNA288131
+spire_mag_00709062	SGM	other/unknown	1	False	False			
+spire_mag_00709072	SGM	other/unknown	1	False	False			
+spire_mag_00709104	FSM	other/unknown	1	False	False			
+spire_mag_00709154	SGM	other/unknown	1	False	False			
+spire_mag_00709164	RGM	other/unknown	1	False	False			
+spire_mag_00709178	SGM	other/unknown	1	False	False			
+spire_mag_00709327	SGM	other/unknown	1	False	False			
+spire_mag_00709337	SGM	other/unknown	1	False	False			
+spire_mag_00709371	FSM	other/unknown	1	False	False			
+spire_mag_00709385	SGM	other/unknown	1	False	False			
+spire_mag_00709550	RGM	other/unknown	1	False	False			
+spire_mag_00709551	SGM	other/unknown	1	False	False			
+spire_mag_00825292	RGM	other/unknown	1	False	False		Landfill leachate from leachate well	PRJNA502703
+spire_mag_00825461	RGM	other/unknown	1	False	False		leachate well	PRJNA404447
+spire_mag_00841652	RGM	wastewater/engineered	1	False	False		not applicable	PRJNA438174
+spire_mag_00863569	FSM	water column	1	False	False		lake water	PRJNA502515
+spire_mag_00864073	FSM	water column	1	False	False		lake water	PRJNA502513
+spire_mag_00866183	FSM	water column	1	False	False		lake water	PRJNA502511
+spire_mag_00866324	FSM	water column	1	False	False		lake water	PRJNA502509
+spire_mag_00866583	FSM	water column	1	False	False		lake water	PRJNA502514
+spire_mag_00868143	FSM	water column	1	False	False		lake water	PRJNA502510
+spire_mag_00869002	FSM	water column	1	False	False		lake water	PRJNA502516
+spire_mag_00871125	FSM	water column	1	False	False		lake water	PRJNA518413
+spire_mag_00873124	FSM	water column	1	False	False		lake water	PRJNA502518
+spire_mag_00873789	FSM	water column	1	False	False		lake water	PRJNA502512
+spire_mag_00874085	FSM	water column	1	False	False		lake water	PRJNA502519
+spire_mag_00874229	FSM	water column	1	False	False		lake water	PRJNA502508
+spire_mag_00874439	FSM	water column	1	False	False		lake water	PRJNA502517
+spire_mag_00877932	RGM	other/unknown	1	False	False			
+spire_mag_00907130	RGM	other/unknown	1	False	False		Feedstock adapted compost from Newby Island compost facility, Milpitas, CA	PRJNA337767
+spire_mag_00907393	RGM	other/unknown	1	False	False		Emeryville, CA	PRJNA366677
+spire_mag_00975328	RGM	other/unknown	1	False	False			
+spire_mag_01040802	RGM	wastewater/engineered	1	False	False		wastewater sample	PRJNA423296
+spire_mag_01040852	FSM	wastewater/engineered	1	False	False		wastewater sample	PRJNA423296
+spire_mag_01041225	RGM	wastewater/engineered	1	False	False		wastewater sample	PRJNA423296
+spire_mag_01041266	FSM	wastewater/engineered	1	False	False		wastewater sample	PRJNA423296
+spire_mag_01041320	RGM	wastewater/engineered	1	False	False		wastewater sample	PRJNA423296
+spire_mag_01093898	FSM	host-associated	1	False	False		Markermeer, Netherlands	PRJNA309119
+spire_mag_01094475	FSM	host-associated	1	False	False		Western Scheldt, Belgium	PRJNA309119
+spire_mag_01094744	FSM	host-associated	1	False	False		Ijsselmeer, Netherlands	PRJNA309119
+spire_mag_01100050	RGM	host-associated	1	False	False		rhizosphere soil	PRJNA375667
+spire_mag_01104521	FSM	sediment	1	False	False		Lake sediments	PRJNA539325
+spire_mag_01104972	FSM	sediment	1	False	False		Lake sediments	PRJNA539314
+spire_mag_01107416	FSM	sediment	1	False	False		Lake sediments	PRJNA539313
+spire_mag_01108461	FSM	sediment	1	False	False		Lake sediments	PRJNA539327
+spire_mag_01108626	FSM	sediment	1	False	False		Lake sediments	PRJNA539327
+spire_mag_01108952	FSM	sediment	1	False	False		Lake sediments	PRJNA539333
+spire_mag_01111439	FSM	sediment	1	False	False		Lake sediments	PRJNA539336
+spire_mag_01112215	FSM	sediment	1	False	False		Lake sediments	PRJNA539330
+spire_mag_01112767	FSM	sediment	1	False	False		Lake sediments	PRJNA539316
+spire_mag_01112928	FSM	sediment	1	False	False		Lake sediments	PRJNA539316
+spire_mag_01117712	FSM	wastewater/engineered	1	False	False			
+spire_mag_01124179	RGM	water column	1	False	False		East of Hawaii, North Pacific Ocean	PRJNA330119
+spire_mag_01168129	SGM	soil/wetland	1	False	False			
+spire_mag_01168185	SGM	soil/wetland	1	False	False			
+spire_mag_01188968	RGM	other/unknown	1	False	False			
+spire_mag_01196294	RGM	other/unknown	1	False	False			
+spire_mag_01196792	RGM	other/unknown	1	False	False			
+spire_mag_01197245	RGM	other/unknown	1	False	False			
+spire_mag_01197568	RGM	other/unknown	1	False	False			
+spire_mag_01198798	RGM	other/unknown	1	False	False			
+spire_mag_01199727	RGM	other/unknown	1	False	False			
+spire_mag_01203432	RGM	host-associated	1	False	False	Vitis vinifera	Cordon section	
+spire_mag_01244826	RGM	sediment	1	False	False		marine sediment	PRJNA292297
+spire_mag_01276921	RGM	wastewater/engineered	1	False	False		microbial electrochemical cell	PRJNA436990
+spire_mag_01485026	SGM	host-associated	1	False	False		very wet soil, submerged by water, large amounts of overlying vegetation and plant roots	PRJNA531771
+spire_mag_01583196	FSM	sediment	1	False	False		Marine sediment (0.45 mbsf) from Aarhus Bay site M5	PRJNA405468
+spire_mag_01584542	RGM	sediment	1	False	False		Marine sediment (3.1 mbsf) from SO156 core 7190-3	PRJNA405477
+spire_mag_01585204	RGM	soil/wetland	1	False	False		enriched backyard soil	PRJNA465150
+spire_mag_01585398	RGM	soil/wetland	1	False	False		enriched backyard soil	PRJNA465152
+spire_mag_01585481	RGM	soil/wetland	1	False	False		enriched commercial compost	PRJNA444399
+spire_mag_01585638	RGM	soil/wetland	1	False	False		enriched commercial compost	PRJNA444411
+spire_mag_01585658	SGM	soil/wetland	1	False	False		enriched commercial compost	PRJNA444411
+spire_mag_01585792	RGM	soil/wetland	1	False	False		enriched commercial compost	PRJNA444408
+spire_mag_01586359	RGM	soil/wetland	1	False	False		enriched commercial compost	PRJNA444407
+spire_mag_01586430	RGM	soil/wetland	1	False	False		enriched commercial compost	PRJNA444401
+spire_mag_01586464	RGM	soil/wetland	1	False	False		enriched commercial compost	PRJNA444401
+spire_mag_01586492	SGM	soil/wetland	1	False	False		enriched backyard soil	PRJNA444413
+spire_mag_01586672	RGM	soil/wetland	1	False	False		enriched commercial compost	PRJNA465154
+spire_mag_01586673	RGM	soil/wetland	1	False	False		enriched commercial compost	PRJNA465154
+spire_mag_01599223	SGM	soil/wetland	1	False	False		Centralia Soil	PRJNA375309
+spire_mag_01603410	SGM	soil/wetland	1	False	False		Thunder Bay, Ontario, Canada	PRJNA366711
+spire_mag_01603564	SGM	soil/wetland	1	False	False		Thunder Bay, Ontario, Canada	PRJNA366298
+spire_mag_01603633	SGM	soil/wetland	1	False	False		Algoma, Ontario, Canada	PRJNA330037
+spire_mag_01619133	sisterRGM	wastewater/engineered	1	False	False		activated sludge sample	PRJNA432264
+spire_mag_01619766	sisterRGM	wastewater/engineered	1	False	False		activated sludge sample	PRJNA432264
+spire_mag_01620236	sisterRGM	wastewater/engineered	1	False	False		activated sludge sample	PRJNA432264
+spire_mag_01620338	sisterRGM	wastewater/engineered	1	False	False		activated sludge sample	PRJNA432264
+spire_mag_01620411	sisterRGM	wastewater/engineered	1	False	False		activated sludge sample	PRJNA432264
+spire_mag_01621671	sisterRGM	wastewater/engineered	1	False	False		activated sludge sample	PRJNA432264
+spire_mag_01623019	sisterRGM	wastewater/engineered	1	False	False		activated sludge sample	PRJNA432264
+spire_mag_01623819	sisterRGM	wastewater/engineered	1	False	False		activated sludge sample	PRJNA432264
+spire_mag_01632252	FSM	water column	1	False	False		freshwater sample F1-140	PRJNA531348
+spire_mag_01662118	FSM	other/unknown	1	False	False			
+spire_mag_01663809	FSM	other/unknown	1	False	False			
+spire_mag_01664230	FSM	other/unknown	1	False	False			
+spire_mag_01677777	SGM	soil/wetland	1	False	False			PRJNA386568
+spire_mag_01678249	SGM	soil/wetland	1	False	False			PRJNA386568
+spire_mag_01678280	SGM	soil/wetland	1	False	False			PRJNA386568
+spire_mag_01679848	SGM	soil/wetland	1	False	False			PRJNA386568
+spire_mag_01680964	SGM	soil/wetland	1	False	False			PRJNA386568
+spire_mag_01681793	SGM	soil/wetland	1	False	False			PRJNA386568
+spire_mag_01681850	SGM	soil/wetland	1	False	False			PRJNA386568
+spire_mag_01682165	SGM	soil/wetland	1	False	False			PRJNA386568
+spire_mag_01682807	SGM	soil/wetland	1	False	False			PRJNA386568
+spire_mag_01733397	RGM	other/unknown	1	False	False		hospital shower hose biofilm	PRJNA299404
+spire_mag_01733412	SGM	other/unknown	1	False	False		hospital shower hose biofilm	PRJNA299404
+spire_mag_01743952	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567614
+spire_mag_01744298	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567612
+spire_mag_01744910	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567625
+spire_mag_01747196	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567599
+spire_mag_01748232	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567640
+spire_mag_01748689	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567650
+spire_mag_01749319	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567598
+spire_mag_01750747	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567591
+spire_mag_01752215	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567586
+spire_mag_01753570	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567613
+spire_mag_01753708	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567587
+spire_mag_01753944	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567610
+spire_mag_01755240	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567590
+spire_mag_01759821	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567629
+spire_mag_01775892	FSM	water column	1	True	False			
+spire_mag_01776406	FSM	water column	1	True	False			
+spire_mag_01776429	RGM	water column	1	True	False			
+spire_mag_01776742	FSM	water column	1	True	False			
+spire_mag_01776854	FSM	water column	1	True	False			
+spire_mag_01777252	FSM	water column	1	True	False			
+spire_mag_01777835	FSM	water column	1	True	False			
+spire_mag_01784070	RGM	host-associated	1	False	False	Homo sapiens		PRJNA46333
+spire_mag_01787296	SGM	host-associated	1	False	False		Attine ant fungus gardens	PRJNA405231
+spire_mag_01822349	FSM	soil/wetland	1	False	False		soil from transition zone	PRJNA518250
+spire_mag_01822855	FSM	soil/wetland	1	False	False		soil from un-oxidized zone	PRJNA518252
+spire_mag_01823769	SGM	host-associated	1	False	False		both Bulk and Rhizosphere soil	PRJNA406045
+spire_mag_01824889	FSM	soil/wetland	1	False	False		soil from un-oxidized zone	PRJNA518253
+spire_mag_01824983	FSM	soil/wetland	1	False	False		soil from transition zone	PRJNA518251
+spire_mag_01825260	SGM	soil/wetland	1	False	False		field soil	PRJNA375315
+spire_mag_01830074	FSM	soil/wetland	1	False	False		soil from un-oxidized zone	PRJNA518254
+spire_mag_01882615	SGM	water column	1	False	False	microbes	not applicable	
+spire_mag_01882632	RGM	water column	1	False	False	microbes	not applicable	
+spire_mag_01882647	FSM	water column	1	False	False	microbes	not applicable	
+spire_mag_01947641	FSM	water column	1	False	False		freshwater from boreal shield lake	PRJNA443323
+spire_mag_01947705	FSM	water column	1	False	False		freshwater from boreal shield lake	PRJNA445054
+spire_mag_01947849	FSM	water column	1	False	False		freshwater from boreal shield lake	PRJNA443336
+spire_mag_01948467	FSM	water column	1	False	False		freshwater from boreal shield lake	PRJNA443333
+spire_mag_01949332	FSM	water column	1	False	False		freshwater from boreal shield lake	PRJNA443325
+spire_mag_01949386	FSM	water column	1	False	False		freshwater from boreal shield lake	PRJNA443338
+spire_mag_01949445	FSM	water column	1	False	False		freshwater from boreal shield lake	PRJNA443326
+spire_mag_01949778	FSM	water column	1	False	False		freshwater from boreal shield lake	PRJNA443339
+spire_mag_01949938	FSM	water column	1	False	False		freshwater from boreal shield lake	PRJNA443329
+spire_mag_01959179	SGM	soil/wetland	1	False	False		Poultry Litter	PRJNA375196
+spire_mag_01960731	FSM	water column	1	False	False		Freshwater incubation, methane-supplemented	PRJNA325574
+spire_mag_01960893	FSM	water column	1	False	False		freshwater	PRJNA325574
+spire_mag_02001406	SGM	soil/wetland	1	False	False		Peat soil	PRJNA443513
+spire_mag_02001409	SGM	soil/wetland	1	False	False		Peat soil	PRJNA443511
+spire_mag_02001657	SGM	soil/wetland	1	False	False		Peat soil	PRJNA443527
+spire_mag_02001975	SGM	soil/wetland	1	False	False		Peat soil	PRJNA443526
+spire_mag_02002215	sisterRGM	wastewater/engineered	1	False	False			PRJNA415974
+spire_mag_02003535	sisterRGM	wastewater/engineered	1	False	False			PRJNA415974
+spire_mag_02005306	FSM	water column	1	False	False		freshwater sample	
+spire_mag_02028936	FSM	water column	1	False	False		lake water	PRJNA466875
+spire_mag_02087828	FSM	sediment	1	False	False		anoxic, hypersaline lake sediments of the Salton Sea	PRJNA444013
+spire_mag_02088219	FSM	sediment	1	False	False		anoxic, hypersaline lake sediments of the Salton Sea	PRJNA444016
+spire_mag_02088284	FSM	sediment	1	False	False		anoxic, hypersaline lake sediments of the Salton Sea	PRJNA444013
+spire_mag_02088287	FSM	sediment	1	False	False		anoxic, hypersaline lake sediments of the Salton Sea	PRJNA444016
+spire_mag_02088330	FSM	sediment	1	False	False		anoxic, hypersaline lake sediments of the Salton Sea	PRJNA444017
+spire_mag_02088418	FSM	sediment	1	False	False		anoxic, hypersaline lake sediments of the Salton Sea	PRJNA444018
+spire_mag_02088507	FSM	sediment	1	False	False		anoxic, hypersaline lake sediments of the Salton Sea	PRJNA444018
+spire_mag_02088609	FSM	sediment	1	False	False		anoxic, hypersaline lake sediments of the Salton Sea	PRJNA444014
+spire_mag_02088828	FSM	sediment	1	False	False		anoxic, hypersaline lake sediments of the Salton Sea	PRJNA444014
+spire_mag_02100063	FSM	water column	1	False	False		lake water from pelagic integrated epilimnion zone	PRJNA567645
+spire_mag_02102612	FSM	water column	1	False	False		Bay water	PRJNA375618
+spire_mag_02166032	RGM	water column	1	False	False			
+spire_mag_02184890	RGM	host-associated	1	False	False	Homo sapiens		PRJNA684454
+spire_mag_02186423	RGM	other/unknown	1	False	False	Gallus gallus		PRJNA684454
+spire_mag_02199963	Outside	other/unknown	1	True	False		control_filter	PRJNA497280
+spire_mag_02200992	RGM	other/unknown	1	False	False	Gallus gallus		PRJNA684454
+spire_mag_02208815	RGM	water column	1	False	False			
+spire_mag_02292565	RGM	water column	1	False	False			
+spire_mag_02292667	RGM	water column	1	False	False			
+spire_mag_02293016	RGM	water column	1	False	False			
+spire_mag_02293027	RGM	water column	1	False	False			
+spire_mag_02293116	RGM	water column	1	False	False			
+spire_mag_02294311	RGM	water column	1	False	False			
+spire_mag_02294715	RGM	water column	1	False	False			
+spire_mag_02295856	RGM	water column	1	False	False			
+spire_mag_02296017	RGM	water column	1	False	False			
+spire_mag_02296298	RGM	water column	1	False	False			
+spire_mag_02296681	RGM	water column	1	False	False			
+spire_mag_02297276	RGM	water column	1	False	False			
+spire_mag_02297337	RGM	water column	1	False	False			
+spire_mag_02298516	RGM	water column	1	False	False			
+spire_mag_02298601	RGM	water column	1	False	False			
+spire_mag_02299450	RGM	water column	1	False	False			
+spire_mag_02299568	RGM	water column	1	False	False			
+spire_mag_02300518	RGM	water column	1	False	False			
+spire_mag_02300699	RGM	water column	1	False	False			
+spire_mag_02300785	RGM	water column	1	False	False			
+spire_mag_02305637	RGM	water column	1	False	False			
+spire_mag_02306214	RGM	water column	1	False	False			
+spire_mag_02307077	RGM	water column	1	False	False			
+spire_mag_02307626	RGM	water column	1	False	False			
+spire_mag_02307797	RGM	water column	1	False	False			
+spire_mag_02307968	RGM	water column	1	False	False			
+spire_mag_02370601	SGM	soil/wetland	1	False	False			
+spire_mag_02370757	SGM	host-associated	1	False	False			
+spire_mag_02371253	RGM	host-associated	1	False	False			
+spire_mag_02374219	SGM	host-associated	1	False	False			
+spire_mag_02374351	SGM	host-associated	1	False	False			
+spire_mag_02374732	RGM	host-associated	1	False	False			
+spire_mag_02394504	SGM	other/unknown	1	False	False	Homo sapiens GER_SNF_F116	poplitealfossa	
+spire_mag_02516797	RGM	host-associated	1	False	False	Homo sapiens		PRJNA684454
+spire_mag_02519404	sisterRGM	other/unknown	1	False	False	Bos taurus		PRJNA684454
+spire_mag_02520786	RGM	other/unknown	1	False	False	Sus scrofa		PRJNA684454
+spire_mag_02521398	RGM	other/unknown	1	False	False	Bos taurus		PRJNA684454
+spire_mag_02570492	Outside	other/unknown	1	False	False	Homo sapiens		
+spire_mag_02598702	SGM	soil/wetland	1	False	False			
+spire_mag_02683911	SGM	host-associated	1	False	False			
+spire_mag_02762480	FSM	water column	1	False	False			
+spire_mag_02837879	SGM	host-associated	1	False	False			
+spire_mag_02882770	SGM	host-associated	1	False	False			

@@ -1,0 +1,8 @@
+Trait	FSM %	RGM %	Raw Fisher p	phyloglm beta	phyloglm p	alpha
+rhodopsin	76.9	4.9	1.4e-60	2.51	5.3e-05	4.794
+urease	2.2	91.6	2.7000000000000003e-87	-4.18	0.0028	0.959
+ectoine_synthase	0.7	45.5	9.5e-28	-1.62	0.07	4.23
+Lambda near 1 for every continuous trait: FSM is a single origin; raw tests treat 134 correlated genomes as independent and
+overstate significance by many orders of magnitude. Genome size and proteome acidity remain significant after correction; the
+1.0-point FSM-RGM coding-density difference does not (beta +1.67 points, p = 0.147, on the uniform Prodigal values; Table S27). The load-bearing coding-density contrast is FSM vs the leprosy clade
+(21-25 points on the uniform Prodigal calls, complete separation). That contrast is not corrected here and is not presented as a fitted effect: with three genomes on one side and 134 on the other a phylogenetic model has essentially no power, and the claim rests on the two ranges not overlapping at all, which no correction for shared ancestry can remove. It is reported descriptively in the Results, never as a coefficient or a p-value.

@@ -1,0 +1,504 @@
+genome_id_or_accession	clade3	kind	species	pseudogenes_bakta
+spire_mag_00036704	FSM	MAG	novel sp.	1
+spire_mag_00036881	FSM	MAG	novel sp.	2
+spire_mag_00138007	FSM	MAG	Mycobacterium sp017853185	1
+spire_mag_00138052	FSM	MAG	Mycobacterium sp030836785	7
+spire_mag_00139887	FSM	MAG	Mycobacterium sp029780675	8
+spire_mag_00142179	FSM	MAG	Mycobacterium sp017853185	1
+spire_mag_00193483	FSM	MAG	novel sp.	4
+spire_mag_00688177	FSM	MAG	Mycobacterium sp018401645	6
+spire_mag_00688367	FSM	MAG	Mycobacterium sp018401645	4
+spire_mag_00709104	FSM	MAG	novel sp.	3
+spire_mag_00709371	FSM	MAG	novel sp.	8
+spire_mag_00863569	FSM	MAG	Mycobacterium sp945897705	4
+spire_mag_00864073	FSM	MAG	Mycobacterium sp945897705	1
+spire_mag_00866183	FSM	MAG	Mycobacterium sp945897705	2
+spire_mag_00866324	FSM	MAG	Mycobacterium sp945897705	1
+spire_mag_00866583	FSM	MAG	Mycobacterium sp945897705	1
+spire_mag_00868143	FSM	MAG	Mycobacterium sp945897705	2
+spire_mag_00869002	FSM	MAG	Mycobacterium sp945897705	2
+spire_mag_00871125	FSM	MAG	Mycobacterium sp945897705	1
+spire_mag_00873124	FSM	MAG	Mycobacterium sp945897705	1
+spire_mag_00873789	FSM	MAG	Mycobacterium sp945897705	1
+spire_mag_00874085	FSM	MAG	Mycobacterium sp945897705	4
+spire_mag_00874229	FSM	MAG	Mycobacterium sp945897705	4
+spire_mag_00874439	FSM	MAG	Mycobacterium sp945897705	3
+spire_mag_01040852	FSM	MAG	novel sp.	0
+spire_mag_01041266	FSM	MAG	novel sp.	1
+spire_mag_01093898	FSM	MAG	novel sp.	2
+spire_mag_01094475	FSM	MAG	Mycobacterium sp036782595	3
+spire_mag_01094744	FSM	MAG	Mycobacterium sp036782595	2
+spire_mag_01104521	FSM	MAG	Mycobacterium sp903911165	9
+spire_mag_01104972	FSM	MAG	Mycobacterium sp903911165	17
+spire_mag_01107416	FSM	MAG	Mycobacterium sp903911165	7
+spire_mag_01108461	FSM	MAG	Mycobacterium sp903911165	16
+spire_mag_01108626	FSM	MAG	novel sp.	8
+spire_mag_01108952	FSM	MAG	novel sp.	8
+spire_mag_01111439	FSM	MAG	novel sp.	12
+spire_mag_01112215	FSM	MAG	novel sp.	6
+spire_mag_01112767	FSM	MAG	novel sp.	4
+spire_mag_01112928	FSM	MAG	Mycobacterium sp903911165	13
+spire_mag_01117712	FSM	MAG	Mycobacterium sp030836785	8
+spire_mag_01583196	FSM	MAG	Mycobacterium sp018401645	7
+spire_mag_01632252	FSM	MAG	Mycobacterium sp005789055	1
+spire_mag_01662118	FSM	MAG	novel sp.	3
+spire_mag_01663809	FSM	MAG	novel sp.	7
+spire_mag_01664230	FSM	MAG	novel sp.	6
+spire_mag_01743952	FSM	MAG	Mycobacterium sp964202555	2
+spire_mag_01744298	FSM	MAG	Mycobacterium sp964202555	2
+spire_mag_01744910	FSM	MAG	Mycobacterium sp964202555	8
+spire_mag_01747196	FSM	MAG	Mycobacterium sp964202555	4
+spire_mag_01748232	FSM	MAG	Mycobacterium sp964202555	2
+spire_mag_01748689	FSM	MAG	Mycobacterium sp964202555	6
+spire_mag_01749319	FSM	MAG	Mycobacterium sp964202555	2
+spire_mag_01750747	FSM	MAG	Mycobacterium sp964202555	3
+spire_mag_01752215	FSM	MAG	Mycobacterium sp964202555	4
+spire_mag_01753570	FSM	MAG	Mycobacterium sp005789055	6
+spire_mag_01753708	FSM	MAG	Mycobacterium sp964202555	4
+spire_mag_01753944	FSM	MAG	Mycobacterium sp964202555	3
+spire_mag_01755240	FSM	MAG	Mycobacterium sp964202555	2
+spire_mag_01759821	FSM	MAG	Mycobacterium sp964202555	3
+spire_mag_01775892	FSM	MAG	Mycobacterium sp018401645	8
+spire_mag_01776406	FSM	MAG	Mycobacterium sp001510415	1
+spire_mag_01776742	FSM	MAG	Mycobacterium sp018401645	3
+spire_mag_01776854	FSM	MAG	Mycobacterium sp018401645	5
+spire_mag_01777252	FSM	MAG	Mycobacterium sp018401645	4
+spire_mag_01777835	FSM	MAG	Mycobacterium sp018401645	4
+spire_mag_01822349	FSM	MAG	Mycobacterium sp018401645	8
+spire_mag_01822855	FSM	MAG	Mycobacterium sp018401645	4
+spire_mag_01824889	FSM	MAG	Mycobacterium sp018401645	3
+spire_mag_01824983	FSM	MAG	Mycobacterium sp018401645	7
+spire_mag_01830074	FSM	MAG	Mycobacterium sp018401645	6
+spire_mag_01882647	FSM	MAG	novel sp.	0
+spire_mag_01947641	FSM	MAG	Mycobacterium sp037138275	9
+spire_mag_01947849	FSM	MAG	Mycobacterium sp037138275	3
+spire_mag_01948467	FSM	MAG	Mycobacterium sp037141465	1
+spire_mag_01949332	FSM	MAG	Mycobacterium sp037138275	10
+spire_mag_01949386	FSM	MAG	Mycobacterium sp037138275	14
+spire_mag_01949445	FSM	MAG	Mycobacterium sp037138275	7
+spire_mag_01949778	FSM	MAG	Mycobacterium sp037138275	5
+spire_mag_01949938	FSM	MAG	Mycobacterium sp037138275	8
+spire_mag_01960731	FSM	MAG	Mycobacterium sp903911165	3
+spire_mag_01960893	FSM	MAG	Mycobacterium sp903911165	4
+spire_mag_02005306	FSM	MAG	novel sp.	4
+spire_mag_02028936	FSM	MAG	Mycobacterium sp018882965	9
+spire_mag_02087828	FSM	MAG	novel sp.	1
+spire_mag_02088219	FSM	MAG	novel sp.	4
+spire_mag_02088284	FSM	MAG	novel sp.	6
+spire_mag_02088287	FSM	MAG	novel sp.	1
+spire_mag_02088330	FSM	MAG	novel sp.	1
+spire_mag_02088418	FSM	MAG	novel sp.	2
+spire_mag_02088507	FSM	MAG	novel sp.	0
+spire_mag_02088609	FSM	MAG	novel sp.	2
+spire_mag_02088828	FSM	MAG	novel sp.	2
+spire_mag_02100063	FSM	MAG	Mycobacterium sp964202555	5
+spire_mag_02102612	FSM	MAG	Mycobacterium sp017853185	4
+spire_mag_02762480	FSM	MAG	Mycobacterium sp903877095	7
+spire_mag_00079100	RGM	MAG	Mycobacterium sp035274705	13
+spire_mag_00080611	RGM	MAG	Mycobacterium sp035274705	13
+spire_mag_00143021	RGM	MAG	novel sp.	4
+spire_mag_00487317	RGM	MAG	novel sp.	3
+spire_mag_00488916	RGM	MAG	novel sp.	22
+spire_mag_00490038	RGM	MAG	novel sp.	11
+spire_mag_00492514	RGM	MAG	novel sp.	13
+spire_mag_00493620	RGM	MAG	novel sp.	15
+spire_mag_00518952	RGM	MAG	novel sp.	15
+spire_mag_00560387	RGM	MAG	novel sp.	36
+spire_mag_00691761	RGM	MAG	Mycobacterium austroafricanum	12
+spire_mag_00709164	RGM	MAG	novel sp.	3
+spire_mag_00709550	RGM	MAG	novel sp.	3
+spire_mag_00825292	RGM	MAG	Mycobacterium chitae	5
+spire_mag_00825461	RGM	MAG	Mycobacterium austroafricanum	12
+spire_mag_00841652	RGM	MAG	novel sp.	13
+spire_mag_00877932	RGM	MAG	Mycobacterium fallax	3
+spire_mag_00907130	RGM	MAG	Mycobacterium hassiacum	6
+spire_mag_00907393	RGM	MAG	novel sp.	4
+spire_mag_00975328	RGM	MAG	Mycobacterium fortuitum	38
+spire_mag_01040802	RGM	MAG	Mycobacterium fallax	6
+spire_mag_01041225	RGM	MAG	Mycobacterium fallax	3
+spire_mag_01041320	RGM	MAG	Mycobacterium fallax	0
+spire_mag_01100050	RGM	MAG	Mycobacterium sp035649695	30
+spire_mag_01124179	RGM	MAG	Mycobacterium poriferae	10
+spire_mag_01188968	RGM	MAG	novel sp.	20
+spire_mag_01196294	RGM	MAG	Mycobacterium fortuitum	13
+spire_mag_01196792	RGM	MAG	Mycobacterium iranicum	14
+spire_mag_01197245	RGM	MAG	Mycobacterium peregrinum_B	19
+spire_mag_01197568	RGM	MAG	Mycobacterium iranicum	14
+spire_mag_01198798	RGM	MAG	novel sp.	10
+spire_mag_01199727	RGM	MAG	Mycobacterium kyogaense	24
+spire_mag_01203432	RGM	MAG	Mycobacterium wolinskyi	8
+spire_mag_01244826	RGM	MAG	Mycobacterium sp034189785	12
+spire_mag_01276921	RGM	MAG	Mycobacterium adipatum	8
+spire_mag_01584542	RGM	MAG	Mycobacterium sp030666145	19
+spire_mag_01585204	RGM	MAG	Mycobacterium phlei	22
+spire_mag_01585398	RGM	MAG	Mycobacterium smegmatis	13
+spire_mag_01585481	RGM	MAG	Mycobacterium smegmatis	17
+spire_mag_01585638	RGM	MAG	Mycobacterium smegmatis	13
+spire_mag_01585792	RGM	MAG	Mycobacterium smegmatis	15
+spire_mag_01586359	RGM	MAG	Mycobacterium smegmatis	14
+spire_mag_01586430	RGM	MAG	Mycobacterium phlei	18
+spire_mag_01586464	RGM	MAG	Mycobacterium smegmatis	12
+spire_mag_01586672	RGM	MAG	Mycobacterium smegmatis	15
+spire_mag_01586673	RGM	MAG	Mycobacterium phlei	17
+spire_mag_01619133	RGM	MAG	Mycobacterium sp020438865	12
+spire_mag_01619766	RGM	MAG	Mycobacterium sp020438785	9
+spire_mag_01620236	RGM	MAG	Mycobacterium sp020438785	9
+spire_mag_01620338	RGM	MAG	Mycobacterium sp020438865	9
+spire_mag_01620411	RGM	MAG	Mycobacterium sp020438785	10
+spire_mag_01621671	RGM	MAG	Mycobacterium sp020438865	9
+spire_mag_01623019	RGM	MAG	Mycobacterium sp020438785	11
+spire_mag_01623819	RGM	MAG	Mycobacterium sp020438865	7
+spire_mag_01733397	RGM	MAG	Mycobacterium gadium	17
+spire_mag_01776429	RGM	MAG	novel sp.	12
+spire_mag_01784070	RGM	MAG	Mycobacterium bacteremicum_A	12
+spire_mag_01882632	RGM	MAG	novel sp.	7
+spire_mag_02002215	RGM	MAG	Mycobacterium sp020438785	11
+spire_mag_02003535	RGM	MAG	Mycobacterium sp020438785	4
+spire_mag_02166032	RGM	MAG	Mycobacterium sp964000695	8
+spire_mag_02184890	RGM	MAG	Mycobacterium sp023404955	14
+spire_mag_02186423	RGM	MAG	Mycobacterium aurum_A	3
+spire_mag_02200992	RGM	MAG	Mycobacterium smegmatis	21
+spire_mag_02208815	RGM	MAG	Mycobacterium sp964000695	8
+spire_mag_02292565	RGM	MAG	Mycobacterium sp964000695	7
+spire_mag_02292667	RGM	MAG	Mycobacterium sp964000695	7
+spire_mag_02293016	RGM	MAG	Mycobacterium sp964000695	7
+spire_mag_02293027	RGM	MAG	Mycobacterium poriferae	12
+spire_mag_02293116	RGM	MAG	Mycobacterium sp964000695	13
+spire_mag_02294311	RGM	MAG	Mycobacterium sp964000695	9
+spire_mag_02294715	RGM	MAG	Mycobacterium sp964000695	11
+spire_mag_02295856	RGM	MAG	Mycobacterium poriferae	10
+spire_mag_02296017	RGM	MAG	Mycobacterium sp964000695	7
+spire_mag_02296298	RGM	MAG	Mycobacterium sp964000695	12
+spire_mag_02296681	RGM	MAG	Mycobacterium sp964000695	6
+spire_mag_02297276	RGM	MAG	Mycobacterium sp964000695	12
+spire_mag_02297337	RGM	MAG	Mycobacterium sp964000695	9
+spire_mag_02298516	RGM	MAG	Mycobacterium sp964000695	6
+spire_mag_02298601	RGM	MAG	Mycobacterium sp964000695	8
+spire_mag_02299450	RGM	MAG	Mycobacterium sp964000695	10
+spire_mag_02299568	RGM	MAG	Mycobacterium sp964000695	6
+spire_mag_02300518	RGM	MAG	Mycobacterium sp964000695	11
+spire_mag_02300699	RGM	MAG	Mycobacterium poriferae	15
+spire_mag_02300785	RGM	MAG	Mycobacterium sp964000695	8
+spire_mag_02305637	RGM	MAG	Mycobacterium sp964000695	6
+spire_mag_02306214	RGM	MAG	Mycobacterium poriferae	9
+spire_mag_02307077	RGM	MAG	Mycobacterium sp964000695	6
+spire_mag_02307626	RGM	MAG	Mycobacterium sp964000695	7
+spire_mag_02307797	RGM	MAG	Mycobacterium sp964000695	6
+spire_mag_02307968	RGM	MAG	Mycobacterium sp964000695	9
+spire_mag_02371253	RGM	MAG	novel sp.	5
+spire_mag_02374732	RGM	MAG	novel sp.	3
+spire_mag_02516797	RGM	MAG	Mycobacterium neoaurum	14
+spire_mag_02519404	RGM	MAG	Mycobacterium sp023416315	10
+spire_mag_02520786	RGM	MAG	Mycobacterium sp023460175	8
+spire_mag_02521398	RGM	MAG	Mycobacterium neoaurum	25
+GCA_000230935.2	RGM	cultured isolate	Mycobacterium rhodesiae_B	20
+GCA_001942045.1	RGM	cultured isolate	Mycobacterium porcinum_A	20
+GCA_002007745.1	RGM	cultured isolate	Mycobacterium litorale_A	122
+GCA_003347205.1	RGM	cultured isolate	Mycobacterium moriokaense_B	11
+GCA_016197365.1	RGM	cultured isolate	Mycobacterium cosmeticum_A	9
+GCA_025821245.1	RGM	cultured isolate	Mycobacterium houstonense	429
+GCA_900078775.1	RGM	cultured isolate	Mycobacterium aurum_A	28
+GCA_900637135.1	RGM	cultured isolate	Mycobacterium neumannii	10
+GCF_000230895.2	RGM	cultured isolate	Mycobacterium rhodesiae_A	6
+GCF_000243415.2	RGM	cultured isolate	Mycobacterium tusciae_A	25
+GCF_000266905.1	RGM	cultured isolate	Mycobacterium chubuense_A	13
+GCF_000317305.3	RGM	cultured isolate	Mycobacterium neoaurum_A	6
+GCF_000455325.1	RGM	cultured isolate	Mycobacterium septicum	21
+GCF_000559085.1	RGM	cultured isolate	Mycobacterium aromaticivorans	10
+GCF_000612725.1	RGM	cultured isolate	Mycobacterium austroafricanum	16
+GCF_000613185.1	RGM	cultured isolate	Mycobacterium cosmeticum	0
+GCF_000691525.1	RGM	cultured isolate	Mycobacterium neoaurum	2
+GCF_000723385.1	RGM	cultured isolate	Mycobacterium conceptionense	19
+GCF_000805385.1	RGM	cultured isolate	Mycobacterium setense	1
+GCF_001044235.1	RGM	cultured isolate	Mycobacterium chlorophenolicum	1
+GCF_001044255.1	RGM	cultured isolate	Mycobacterium chubuense	1
+GCF_001050015.1	RGM	cultured isolate	Mycobacterium malmesburyense	16
+GCF_001050035.1	RGM	cultured isolate	Mycobacterium komanii	6
+GCF_001187505.1	RGM	cultured isolate	Mycobacterium goodii_B	17
+GCF_001245615.1	RGM	cultured isolate	Mycobacterium neworleansense	0
+GCF_001457595.1	RGM	cultured isolate	Mycobacterium smegmatis	10
+GCF_001552715.1	RGM	cultured isolate	Mycobacterium vaccae	9
+GCF_001570425.1	RGM	cultured isolate	Mycobacterium brisbanense	2
+GCF_001570485.1	RGM	cultured isolate	Mycobacterium novocastrense	23
+GCF_001583415.1	RGM	cultured isolate	Mycobacterium phlei	17
+GCF_001644575.1	RGM	cultured isolate	Mycobacterium adipatum	9
+GCF_001650495.1	RGM	cultured isolate	Mycobacterium iranicum_A	5
+GCF_001665625.1	RGM	cultured isolate	Mycobacterium peregrinum_B	9
+GCF_001665785.1	RGM	cultured isolate	Mycobacterium peregrinum_A	7
+GCF_001942625.1	RGM	cultured isolate	Mycobacterium syngnathidarum	14
+GCF_002086115.1	RGM	cultured isolate	Mycobacterium bacteremicum	2
+GCF_002086485.1	RGM	cultured isolate	Mycobacterium aquaticum	8
+GCF_002086695.1	RGM	cultured isolate	Mycobacterium rhodesiae	7
+GCF_002086795.1	RGM	cultured isolate	Mycobacterium tusciae	9
+GCF_002086815.1	RGM	cultured isolate	Mycobacterium parafortuitum	2
+GCF_002101555.1	RGM	cultured isolate	Mycobacterium canariasense	3
+GCF_002101705.1	RGM	cultured isolate	Mycobacterium iranicum	12
+GCF_002101965.1	RGM	cultured isolate	Mycobacterium wolinskyi	9
+GCF_002102345.1	RGM	cultured isolate	Mycobacterium peregrinum	14
+GCF_002157835.1	RGM	cultured isolate	Mycobacterium dioxanotrophicus	30
+GCF_002245535.1	RGM	cultured isolate	Mycobacterium lehmannii	12
+GCF_002250655.1	RGM	cultured isolate	Mycobacterium sphagni	6
+GCF_002553505.1	RGM	cultured isolate	Mycobacterium agri	2
+GCF_002591975.1	RGM	cultured isolate	Mycobacterium neglectum	15
+GCF_002592005.1	RGM	cultured isolate	Mycobacterium palauense	6
+GCF_002838065.1	RGM	cultured isolate	Mycobacterium hubeiense	17
+GCF_003201655.1	RGM	cultured isolate	Mycobacterium moriokaense_A	1
+GCF_003254575.1	RGM	cultured isolate	Mycobacterium kyogaense	10
+GCF_003719305.1	RGM	cultured isolate	Mycobacterium stellerae	6
+GCF_003855255.1	RGM	cultured isolate	Mycobacterium nivoides	7
+GCF_004014805.1	RGM	cultured isolate	Mycobacterium elephantis	12
+GCF_005670685.2	RGM	cultured isolate	Mycobacterium mucogenicum_B	10
+GCF_006439015.1	RGM	cultured isolate	Mycobacterium hodleri_A	9
+GCF_006864685.1	RGM	cultured isolate	Mycobacterium hodleri_B	4
+GCF_008329645.1	RGM	cultured isolate	Mycobacterium grossiae	3
+GCF_010725725.1	RGM	cultured isolate	Mycobacterium pulveris	1
+GCF_010725885.1	RGM	cultured isolate	Mycobacterium tokaiense	5
+GCF_010726085.1	RGM	cultured isolate	Mycobacterium moriokaense	0
+GCF_010726245.1	RGM	cultured isolate	Mycobacterium aichiense	2
+GCF_010726645.1	RGM	cultured isolate	Mycobacterium duvalii	0
+GCF_010726765.1	RGM	cultured isolate	Mycobacterium gallinarum	2
+GCF_010726955.1	RGM	cultured isolate	Mycobacterium fallax	5
+GCF_010727325.1	RGM	cultured isolate	Mycobacterium alvei	5
+GCF_010727475.1	RGM	cultured isolate	Mycobacterium mageritense	21
+GCF_010728155.1	RGM	cultured isolate	Mycobacterium doricum	3
+GCF_010728325.1	RGM	cultured isolate	Mycobacterium poriferae	2
+GCF_010728925.1	RGM	cultured isolate	Mycobacterium gadium	2
+GCF_010729305.1	RGM	cultured isolate	Mycobacterium psychrotolerans	2
+GCF_010729665.1	RGM	cultured isolate	Mycobacterium madagascariense	4
+GCF_010729895.1	RGM	cultured isolate	Mycobacterium confluentis	0
+GCF_010730955.1	RGM	cultured isolate	Mycobacterium aubagnense	32
+GCF_010731115.1	RGM	cultured isolate	Mycobacterium phocaicum	20
+GCF_010731295.1	RGM	cultured isolate	Mycobacterium boenickei	11
+GCF_010731575.1	RGM	cultured isolate	Mycobacterium monacense	5
+GCF_010731615.1	RGM	cultured isolate	Mycobacterium insubricum	4
+GCF_010731695.1	RGM	cultured isolate	Mycobacterium litorale	1
+GCF_010731795.1	RGM	cultured isolate	Mycobacterium celeriflavum	2
+GCF_010731815.2	RGM	cultured isolate	Mycobacterium arabiense	0
+GCF_010731855.1	RGM	cultured isolate	Mycobacterium anyangense	1
+GCF_010731875.1	RGM	cultured isolate	Mycobacterium sarraceniae	3
+GCF_010731895.1	RGM	cultured isolate	Mycobacterium helvum	3
+GCF_011758805.1	RGM	cultured isolate	Mycobacterium fluoranthenivorans	1
+GCF_013404075.1	RGM	cultured isolate	Mycobacterium vinylchloridicum	9
+GCF_014190915.1	RGM	cultured isolate	Mycobacterium iranicum_B	0
+GCF_014218295.1	RGM	cultured isolate	Mycobacterium litorale_B	4
+GCF_015710575.1	RGM	cultured isolate	Mycobacterium mengxianglii	16
+GCF_016313185.1	RGM	cultured isolate	Mycobacterium baixiangningiae	7
+GCF_017876775.1	RGM	cultured isolate	Mycobacterium lutetiense	15
+GCF_019050325.1	RGM	cultured isolate	Mycobacterium fortunisiensis	10
+GCF_019456655.1	RGM	cultured isolate	Mycobacterium diernhoferi	4
+GCF_019645835.1	RGM	cultured isolate	Mycobacterium holsaticum	6
+GCF_019710635.1	RGM	cultured isolate	Mycobacterium xanthum	10
+GCF_021916785.1	RGM	cultured isolate	Mycobacterium lacusdiani	3
+GCF_022179545.1	RGM	cultured isolate	Mycobacterium fortuitum	7
+GCF_022370635.2	RGM	cultured isolate	Mycobacterium crocinum	16
+GCF_022370755.2	RGM	cultured isolate	Mycobacterium goodii	9
+GCF_022374875.2	RGM	cultured isolate	Mycobacterium rufum	9
+GCF_022760805.1	RGM	cultured isolate	Mycobacterium alkanivorans	8
+GCF_024320865.1	RGM	cultured isolate	Mycobacterium arenosum	4
+GCF_025215495.1	RGM	cultured isolate	Mycobacterium brumae	1
+GCF_025331195.1	RGM	cultured isolate	Mycobacterium llatzerense	3
+GCF_025345615.1	RGM	cultured isolate	Mycobacterium deserti	3
+GCF_025821585.1	RGM	cultured isolate	Mycobacterium hippocampi	8
+GCF_025821625.1	RGM	cultured isolate	Mycobacterium pyrenivorans	42
+GCF_025822145.1	RGM	cultured isolate	Mycobacterium frederiksbergense	18
+GCF_025822245.1	RGM	cultured isolate	Mycobacterium hodleri	9
+GCF_025822605.1	RGM	cultured isolate	Mycobacterium komossense	4
+GCF_025822705.1	RGM	cultured isolate	Mycobacterium flavescens	10
+GCF_025822765.1	RGM	cultured isolate	Mycobacterium barrassiae	8
+GCF_025822985.1	RGM	cultured isolate	Mycobacterium sediminis	1
+GCF_025823105.1	RGM	cultured isolate	Mycobacterium porcinum	12
+GCF_025823185.1	RGM	cultured isolate	Mycobacterium yunnanensis	5
+GCF_026242035.1	RGM	cultured isolate	Mycobacterium pinniadriaticum	4
+GCF_029893345.1	RGM	cultured isolate	Mycobacterium frederiksbergense_B	9
+GCF_030499155.1	RGM	cultured isolate	Mycobacterium frederiksbergense_A	13
+GCF_030519285.1	RGM	cultured isolate	Mycobacterium arseniciresistens	8
+GCF_036946495.1	RGM	cultured isolate	Mycobacterium neoaurum_B	7
+GCF_036946525.1	RGM	cultured isolate	Mycobacterium kyogaense_A	37
+GCF_039729195.1	RGM	cultured isolate	Mycobacterium hippocampi_A	1
+GCF_900108565.1	RGM	cultured isolate	Mycobacterium rutilum	8
+GCF_900187065.1	RGM	cultured isolate	Mycobacterium thermoresistibile	1
+GCF_900454025.1	RGM	cultured isolate	Mycobacterium gilvum	3
+GCF_900603025.1	RGM	cultured isolate	Mycobacterium hassiacum	3
+GCF_900637195.1	RGM	cultured isolate	Mycobacterium aurum	0
+GCF_900637205.1	RGM	cultured isolate	Mycobacterium chitae	2
+GCF_902705885.1	RGM	cultured isolate	Mycobacterium vanbaalenii_A	0
+GCF_943913955.1	RGM	cultured isolate	Mycobacterium bacteremicum_A	5
+spire_mag_00184606	SGM	MAG	Mycobacterium sp035570115	18
+spire_mag_00186517	SGM	MAG	Mycobacterium sp019245755	16
+spire_mag_00549465	SGM	MAG	Mycobacterium sp035640695	4
+spire_mag_00670601	SGM	MAG	Mycobacterium helveticum	12
+spire_mag_00671068	SGM	MAG	Mycobacterium helveticum	10
+spire_mag_00709062	SGM	MAG	novel sp.	5
+spire_mag_00709072	SGM	MAG	novel sp.	2
+spire_mag_00709154	SGM	MAG	novel sp.	11
+spire_mag_00709178	SGM	MAG	novel sp.	3
+spire_mag_00709327	SGM	MAG	novel sp.	2
+spire_mag_00709337	SGM	MAG	novel sp.	6
+spire_mag_00709385	SGM	MAG	novel sp.	6
+spire_mag_00709551	SGM	MAG	novel sp.	11
+spire_mag_01168129	SGM	MAG	novel sp.	17
+spire_mag_01168185	SGM	MAG	novel sp.	36
+spire_mag_01485026	SGM	MAG	Mycobacterium sp035505695	120
+spire_mag_01585658	SGM	MAG	novel sp.	6
+spire_mag_01586492	SGM	MAG	Mycobacterium kumamotonense	11
+spire_mag_01599223	SGM	MAG	Mycobacterium sp035651275	13
+spire_mag_01603410	SGM	MAG	novel sp.	34
+spire_mag_01603564	SGM	MAG	novel sp.	16
+spire_mag_01603633	SGM	MAG	novel sp.	20
+spire_mag_01677777	SGM	MAG	Mycobacterium sp003165155	27
+spire_mag_01678249	SGM	MAG	Mycobacterium sp003165155	24
+spire_mag_01678280	SGM	MAG	Mycobacterium sp003165155	29
+spire_mag_01679848	SGM	MAG	Mycobacterium sp003165155	18
+spire_mag_01680964	SGM	MAG	Mycobacterium sp003165155	18
+spire_mag_01681793	SGM	MAG	Mycobacterium sp003165155	23
+spire_mag_01681850	SGM	MAG	Mycobacterium sp003165155	23
+spire_mag_01682165	SGM	MAG	Mycobacterium sp003165155	28
+spire_mag_01682807	SGM	MAG	Mycobacterium sp003165155	16
+spire_mag_01733412	SGM	MAG	Mycobacterium paragordonae	15
+spire_mag_01787296	SGM	MAG	novel sp.	14
+spire_mag_01823769	SGM	MAG	Mycobacterium sp025933915	23
+spire_mag_01825260	SGM	MAG	novel sp.	16
+spire_mag_01882615	SGM	MAG	Mycobacterium paragordonae	43
+spire_mag_01959179	SGM	MAG	Mycobacterium parakoreense	6
+spire_mag_02001406	SGM	MAG	Mycobacterium sp035625875	96
+spire_mag_02001409	SGM	MAG	Mycobacterium sp035625875	101
+spire_mag_02001657	SGM	MAG	Mycobacterium sp035623875	19
+spire_mag_02001975	SGM	MAG	Mycobacterium sp035623875	22
+spire_mag_02370601	SGM	MAG	novel sp.	32
+spire_mag_02370757	SGM	MAG	novel sp.	7
+spire_mag_02374219	SGM	MAG	Mycobacterium icosiumassiliensis	30
+spire_mag_02374351	SGM	MAG	novel sp.	6
+spire_mag_02394504	SGM	MAG	Mycobacterium gordonae	43
+spire_mag_02598702	SGM	MAG	Mycobacterium sp036390735	81
+spire_mag_02683911	SGM	MAG	novel sp.	27
+spire_mag_02837879	SGM	MAG	novel sp.	26
+spire_mag_02882770	SGM	MAG	novel sp.	23
+GCA_002102225.1	SGM	cultured isolate	Mycobacterium interjectum_B	9
+GCA_002967005.1	SGM	cultured isolate	Mycobacterium talmoniae	3
+GCA_021654635.1	SGM	cultured isolate	Mycobacterium kiyosense	216
+GCA_024758765.1	SGM	cultured isolate	Mycobacterium heraklionense_C	9
+GCF_000157895.3	SGM	cultured isolate	Mycobacterium kansasii	4
+GCF_000164135.1	SGM	cultured isolate	Mycobacterium parascrofulaceum	6
+GCF_000195855.1	SGM	cultured isolate	Mycobacterium leprae	25
+GCF_000195955.2	SGM	cultured isolate	Mycobacterium tuberculosis	5
+GCF_000277125.1	SGM	cultured isolate	Mycobacterium intracellulare	5
+GCF_000340435.2	SGM	cultured isolate	Mycobacterium haemophilum	20
+GCF_000526915.1	SGM	cultured isolate	Mycobacterium genavense	285
+GCF_000613245.1	SGM	cultured isolate	Mycobacterium asiaticum	38
+GCF_000689255.1	SGM	cultured isolate	Mycobacterium triplex	2
+GCF_000975265.2	SGM	cultured isolate	Mycobacterium lepromatosis	20
+GCF_001053185.1	SGM	cultured isolate	Mycobacterium bohemicum	0
+GCF_001665835.1	SGM	cultured isolate	Mycobacterium colombiense_A	5
+GCF_001667375.1	SGM	cultured isolate	Mycobacterium sinense_A	6
+GCF_001667865.1	SGM	cultured isolate	Mycobacterium mantenii_A	3
+GCF_001667885.1	SGM	cultured isolate	Mycobacterium scrofulaceum_C	7
+GCF_001667945.1	SGM	cultured isolate	Mycobacterium sinense_B	8
+GCF_001668675.1	SGM	cultured isolate	Mycobacterium asiaticum_D	10
+GCF_001672755.1	SGM	cultured isolate	Mycobacterium colombiense_C	6
+GCF_001672775.1	SGM	cultured isolate	Mycobacterium kyorinense_A	6
+GCF_001673315.1	SGM	cultured isolate	Mycobacterium asiaticum_B	13
+GCF_001673365.1	SGM	cultured isolate	Mycobacterium asiaticum_A	13
+GCF_001673565.1	SGM	cultured isolate	Mycobacterium sinense_C	5
+GCF_001673575.1	SGM	cultured isolate	Mycobacterium heraklionense_A	6
+GCF_001673635.1	SGM	cultured isolate	Mycobacterium asiaticum_C	6
+GCF_001907675.1	SGM	cultured isolate	Mycobacterium paraffinicum_A	8
+GCF_001953985.1	SGM	cultured isolate	Mycobacterium colombiense_B	5
+GCF_002086125.1	SGM	cultured isolate	Mycobacterium arosiense	25
+GCF_002086275.1	SGM	cultured isolate	Mycobacterium intermedium	5
+GCF_002086285.1	SGM	cultured isolate	Mycobacterium kumamotonense	6
+GCF_002086455.1	SGM	cultured isolate	Mycobacterium algericum	1
+GCF_002086515.1	SGM	cultured isolate	Mycobacterium arupense	6
+GCF_002086635.1	SGM	cultured isolate	Mycobacterium alsense	10
+GCF_002086675.1	SGM	cultured isolate	Mycobacterium persicum	30
+GCF_002086735.1	SGM	cultured isolate	Mycobacterium scrofulaceum	8
+GCF_002101585.1	SGM	cultured isolate	Mycobacterium engbaekii	1
+GCF_002101595.1	SGM	cultured isolate	Mycobacterium celatum	14
+GCF_002101675.1	SGM	cultured isolate	Mycobacterium gordonae	9
+GCF_002101735.1	SGM	cultured isolate	Mycobacterium kyorinense	19
+GCF_002101775.1	SGM	cultured isolate	Mycobacterium nonchromogenicum	1
+GCF_002101785.1	SGM	cultured isolate	Mycobacterium palustre	17
+GCF_002101815.1	SGM	cultured isolate	Mycobacterium paraense	5
+GCF_002101885.1	SGM	cultured isolate	Mycobacterium senuense	2
+GCF_002102155.1	SGM	cultured isolate	Mycobacterium europaeum	6
+GCF_002102175.1	SGM	cultured isolate	Mycobacterium gastri	18
+GCF_002102185.1	SGM	cultured isolate	Mycobacterium fragae	7
+GCF_002102255.1	SGM	cultured isolate	Mycobacterium nebraskense	5
+GCF_002102265.1	SGM	cultured isolate	Mycobacterium longobardum	6
+GCF_002102355.1	SGM	cultured isolate	Mycobacterium sherrisii	27
+GCF_002102395.1	SGM	cultured isolate	Mycobacterium triviale	2
+GCF_002104765.1	SGM	cultured isolate	Mycobacterium vulneris	27
+GCF_002104795.1	SGM	cultured isolate	Mycobacterium koreense	3
+GCF_002105755.1	SGM	cultured isolate	Mycobacterium colombiense	44
+GCF_002116635.1	SGM	cultured isolate	Mycobacterium szulgai	8
+GCF_002356315.1	SGM	cultured isolate	Mycobacterium shigaense	1
+GCF_002705925.1	SGM	cultured isolate	Mycobacterium ostraviense	43
+GCF_003284925.1	SGM	cultured isolate	Mycobacterium algericum_A	4
+GCF_003284935.1	SGM	cultured isolate	Mycobacterium arosiense_A	8
+GCF_003284975.1	SGM	cultured isolate	Mycobacterium europaeum_A	8
+GCF_003391395.1	SGM	cultured isolate	Mycobacterium marinum	20
+GCF_003408705.1	SGM	cultured isolate	Mycobacterium uberis	12
+GCF_003614435.1	SGM	cultured isolate	Mycobacterium paragordonae	5
+GCF_007714205.1	SGM	cultured isolate	Mycobacterium helveticum	16
+GCF_008370645.1	SGM	cultured isolate	Mycobacterium simiae_A	19
+GCF_009741445.1	SGM	cultured isolate	Mycobacterium avium	26
+GCF_009936235.1	SGM	cultured isolate	Mycobacterium xenopi	4
+GCF_010723305.1	SGM	cultured isolate	Mycobacterium botniense	6
+GCF_010723575.1	SGM	cultured isolate	Mycobacterium bourgelatii	3
+GCF_010727125.1	SGM	cultured isolate	Mycobacterium terrae	2
+GCF_010727605.1	SGM	cultured isolate	Mycobacterium simiae	9
+GCF_010727945.1	SGM	cultured isolate	Mycobacterium cookii	0
+GCF_010728725.1	SGM	cultured isolate	Mycobacterium branderi	16
+GCF_010729105.1	SGM	cultured isolate	Mycobacterium saskatchewanense	13
+GCF_010729485.1	SGM	cultured isolate	Mycobacterium hiberniae	4
+GCF_010730055.1	SGM	cultured isolate	Mycobacterium shinjukuense	2
+GCF_010730195.1	SGM	cultured isolate	Mycobacterium conspicuum	0
+GCF_010730355.1	SGM	cultured isolate	Mycobacterium florentinum	15
+GCF_010730575.1	SGM	cultured isolate	Mycobacterium parmense	3
+GCF_010730745.1	SGM	cultured isolate	Mycobacterium heidelbergense	15
+GCF_010731535.1	SGM	cultured isolate	Mycobacterium lacus	3
+GCF_010731595.1	SGM	cultured isolate	Mycobacterium seoulense	3
+GCF_010731635.1	SGM	cultured isolate	Mycobacterium noviomagense	2
+GCF_010731655.1	SGM	cultured isolate	Mycobacterium paraseoulense	16
+GCF_010731675.1	SGM	cultured isolate	Mycobacterium marseillense	14
+GCF_010731715.1	SGM	cultured isolate	Mycobacterium stomatepiae	9
+GCF_010731755.1	SGM	cultured isolate	Mycobacterium minnesotense	6
+GCF_010731775.1	SGM	cultured isolate	Mycobacterium mantenii	26
+GCF_013466425.1	SGM	cultured isolate	Mycobacterium vicinigordonae	2
+GCF_015689175.1	SGM	cultured isolate	Mycobacterium kubicae	13
+GCF_016592155.1	SGM	cultured isolate	Mycobacterium heckeshornense	0
+GCF_017086405.1	SGM	cultured isolate	Mycobacterium gordonae_D	33
+GCF_018278905.1	SGM	cultured isolate	Mycobacterium spongiae	4
+GCF_018455725.1	SGM	cultured isolate	Mycobacterium acidiphilum	2
+GCF_019645815.1	SGM	cultured isolate	Mycobacterium heraklionense	0
+GCF_019645855.1	SGM	cultured isolate	Mycobacterium malmoense	9
+GCF_019668465.1	SGM	cultured isolate	Mycobacterium senriense	11
+GCF_020172685.2	SGM	cultured isolate	Mycobacterium nativiensis	3
+GCF_020181595.2	SGM	cultured isolate	Mycobacterium vasticus	5
+GCF_020181615.2	SGM	cultured isolate	Mycobacterium crassicus	2
+GCF_020181635.2	SGM	cultured isolate	Mycobacterium zoologicum	6
+GCF_022370835.2	SGM	cultured isolate	Mycobacterium parakoreense	2
+GCF_022374895.2	SGM	cultured isolate	Mycobacterium lentiflavum	3
+GCF_022374935.2	SGM	cultured isolate	Mycobacterium virginiense	5
+GCF_022430545.2	SGM	cultured isolate	Mycobacterium paraterrae	4
+GCF_025822405.1	SGM	cultured isolate	Mycobacterium angelicum	13
+GCF_025822865.1	SGM	cultured isolate	Mycobacterium paraffinicum	19
+GCF_025822885.1	SGM	cultured isolate	Mycobacterium shimoidei	5
+GCF_025823255.1	SGM	cultured isolate	Mycobacterium montefiorense	48
+GCF_030252325.1	SGM	cultured isolate	Mycobacterium wuenschmannii	3
+GCF_031583025.1	SGM	cultured isolate	Mycobacterium gordonae_B	7
+GCF_900078675.2	SGM	cultured isolate	Mycobacterium interjectum	33
+GCF_900078685.2	SGM	cultured isolate	Mycobacterium icosiumassiliensis	27
+GCF_900157365.1	SGM	cultured isolate	Mycobacterium numidiamassiliense	8
+GCF_900157375.1	SGM	cultured isolate	Mycobacterium rhizamassiliense	10
+GCF_900157385.1	SGM	cultured isolate	Mycobacterium terramassiliense	7
+GCF_900176255.2	SGM	cultured isolate	Mycobacterium ahvazicum	6
+GCF_900232995.1	SGM	cultured isolate	Mycobacterium simulans	20
+GCF_900292015.1	SGM	cultured isolate	Mycobacterium basiliense	3
+GCF_900566055.1	SGM	cultured isolate	Mycobacterium innocens	3
+GCF_900566075.1	SGM	cultured isolate	Mycobacterium pseudokansasii	0
+GCF_900566085.1	SGM	cultured isolate	Mycobacterium attenuatum	24
+GCF_902168065.1	SGM	cultured isolate	Mycobacterium tilburgii	213
+GCF_910591625.1	SGM	cultured isolate	Mycobacterium methanotrophicum	50
+GCF_963853645.1	SGM	cultured isolate	Mycobacterium riyadhense	14
+GCF_963853665.1	SGM	cultured isolate	Mycobacterium decipiens	8
+spire_mag_01947705	FSM	MAG	Mycobacterium sp037138275	2

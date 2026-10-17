@@ -1,0 +1,2 @@
+run_accession	sample_accession	sample_alias	sample_title	experiment_title	library_strategy	library_source	instrument_platform	read_count	base_count	fastq_ftp	fastq_bytes
+ERROR occurred. Not all results may have been written.Query: {"bool":{"must":[{"bool":{"should":[{"term":{"study_accession":{"value":"PRJNA670357"}}},{"term":{"study_lineage":{"value":"PRJNA670357"}}}]}},{"match":{"status":{"query":4}}}]}}

@@ -1,0 +1,212 @@
+run_accession	sample_accession	sample_title	desc	fraction	site	rep	month	date	read_count	base_count
+ERR14949342	SAMEA110290252	MH1	Muhlenberger Loch Sinking particle sample replicate 1 from May 2021	SINK	Muhlenberger Loch	1	May 2021	2021-05	102367752	15363468436
+ERR14949348	SAMEA110290258	SchH1	Schwarztonnensand Sinking particle sample replicate 1 from May 2021	SINK	Schwarztonnensand	1	May 2021	2021-05	29184797	4381945151
+ERR14949355	SAMEA110290265	MGH2	Meedem Grund Sinking particle sample replicate 1 from May 2021	SINK	Meedem Grund	1	May 2021	2021-05	102163006	15361574465
+ERR14949362	SAMEA110290272	BHF1	Bunthaus Spitze Free Living particle sample replicate 1 from May 2021	FL	Bunthaus Spitze	1	May 2021	2021-05	97913106	14699087359
+ERR14949363	SAMEA110290273	BHF2	Bunthaus Spitze Free Living particle sample replicate 1 from May 2021	FL	Bunthaus Spitze	1	May 2021	2021-05	98785150	14843039128
+ERR14949367	SAMEA110290277	TH2	Twielenfleth Sinking particle sample replicate 1 from May 2021	SINK	Twielenfleth	1	May 2021	2021-05	103911212	15620054319
+ERR14949369	SAMEA110290279	TF2	Twielenfleth Free Living particle sample replicate 1 from May 2021	FL	Twielenfleth	1	May 2021	2021-05	98900216	14867174834
+ERR14949370	SAMEA110290280	BbL1	Brunsbuttel suspended particle sample replicate 1 from May 2021	SPA	Brunsbuttel	1	May 2021	2021-05	117350372	17651435947
+ERR14949371	SAMEA110290281	BbL2	Brunsbuttel suspended particle sample replicate 1 from May 2021	SPA	Brunsbuttel	1	May 2021	2021-05	110452468	16612188695
+ERR14949375	SAMEA110290285	BbF2	Brunsbuttel Free Living particle sample replicate 1 from May 2021	FL	Brunsbuttel	1	May 2021	2021-05	112358780	16896812052
+ERR14949379	SAMEA110290289	MH2	Muhlenberger Loch Sinking particle sample replicate 1 from July 2021	SINK	Muhlenberger Loch	1	July 2021	2021-07	99200666	14904830109
+ERR14949395	SAMEA110290305	TL2	Twielenfleth suspended particle sample replicate 1 from July 2021	SPA	Twielenfleth	1	July 2021	2021-07	107111546	16111699256
+ERR14949398	SAMEA110290308	TF1	Twielenfleth Free Living particle sample replicate 1 from July 2021	FL	Twielenfleth	1	July 2021	2021-07	84871986	12758789707
+ERR14949399	SAMEA110290309	TF2	Twielenfleth Free Living particle sample replicate 1 from July 2021	FL	Twielenfleth	1	July 2021	2021-07	91149194	13702103427
+ERR14949406	SAMEA110290316	SEL1	Seemanshoft suspended particle sample replicate 1 from November 2021	SPA	Seemanshoft	1	November 2021	2021-11	98657306	14836194383
+ERR14949409	SAMEA110290319	SEH2	Seemanshoft Sinking particle sample replicate 1 from November 2021	SINK	Seemanshoft	1	November 2021	2021-11	110630686	16628589493
+ERR14949413	SAMEA110290323	KOL2	Kollmar suspended particle sample replicate 1 from November 2021	SPA	Kollmar	1	November 2021	2021-11	98825132	14864708689
+ERR14949424	SAMEA110290334	SchL1	Schwarztonnensand suspended particle sample replicate 1 from February 2022	SPA	Schwarztonnensand	1	February 2022	2022-02	13100062	1970711279
+ERR14949425	SAMEA110290335	SchL2	Schwarztonnensand suspended particle sample replicate 1 from February 2022	SPA	Schwarztonnensand	1	February 2022	2022-02	111757240	16812037425
+ERR14949428	SAMEA110290338	SchF1	Schwarztonnensand Free Living particle sample replicate 1 from February 2022	FL	Schwarztonnensand	1	February 2022	2022-02	95450464	14353290494
+ERR14949432	SAMEA110290343	MGH2	Meedem Grund Sinking particle sample replicate 1 from February 2022	SINK	Meedem Grund	1	February 2022	2022-02	14827510	2230344687
+ERR14949437	SAMEA110290348	TH1	Twielenfleth Sinking particle sample replicate 1 from February 2022	SINK	Twielenfleth	1	February 2022	2022-02	86986780	13080424458
+ERR14949439	SAMEA110290351	TF2	Twielenfleth Free Living particle sample replicate 1 from February 2022	FL	Twielenfleth	1	February 2022	2022-02	117590564	17688455216
+ERR14949442	SAMEA110290354	BbH1	Brunsbuttel Sinking particle sample replicate 1 from February 2022	SINK	Brunsbuttel	1	February 2022	2022-02	84123146	12655838326
+ERR14949452	SAMEA112714781	SchL1_May22	Schwarztonnensand suspended particle sample replicate 1 from May 2022	SPA	Schwarztonnensand	1	May 2022	2022-05-22	145909296	22032303696
+ERR14949457	SAMEA112714786	SchF2_May22	Schwarztonnensand Free Living particle sample replicate 2 from May 2022	FL	Schwarztonnensand	2	May 2022	2022-05-22	153221250	23136408750
+ERR14949459	SAMEA112714788	MGL2_May22	Meedem Grund suspended particle sample replicate 2 from May 2022	SPA	Meedem Grund	2	May 2022	2022-05-22	128656844	19427183444
+ERR14949463	SAMEA112714792	MGF2_May22	Meedem Grund Free Living particle sample replicate 2 from May 2022	FL	Meedem Grund	2	May 2022	2022-05-22	144637020	21840190020
+ERR14949466	SAMEA112714795	TH1_May22	Twielenfleth Sinking particle sample replicate 1 from May 2022	SINK	Twielenfleth	1	May 2022	2022-05-22	150020572	22653106372
+ERR14949468	SAMEA112714797	TF1_May22	Twielenfleth Free Living particle sample replicate 1 from May 2022	FL	Twielenfleth	1	May 2022	2022-05-22	119541282	18050733582
+ERR14949479	SAMEA112714808	MF1_June22	Muhlenberger Loch Free Living particle sample replicate 1 from June 2022	FL	Muhlenberger Loch	1	June 2022	2022-06-20	164181320	24791379320
+ERR14949483	SAMEA112714812	SchH1_June22	Schwarztonnensand Sinking particle sample replicate 1 from June 2022	SINK	Schwarztonnensand	1	June 2022	2022-06-20	250644614	37847336714
+ERR14949484	SAMEA112714813	SchH2_June22	Schwarztonnensand Sinking particle sample replicate 2 from June 2022	SINK	Schwarztonnensand	2	June 2022	2022-06-20	257336666	38857836566
+ERR14949485	SAMEA112714814	SchF1_June22	Schwarztonnensand Free Living particle sample replicate 1 from June 2022	FL	Schwarztonnensand	1	June 2022	2022-06-20	311279206	47003160106
+ERR14949489	SAMEA112714818	MGH1_June22	Meedem Grund Sinking particle sample replicate 1 from June 2022	SINK	Meedem Grund	1	June 2022	2022-06-20	266895660	40301244660
+ERR14949507	SAMEA112714836	MH2_November22	Muhlenberger Loch Sinking particle sample replicate 2 from November 2022	SINK	Muhlenberger Loch	2	November 2022	2022-11-08	211710128	31968229328
+ERR14949527	SAMEA112714860	BbH2_November22	Brunsbuttel Sinking particle sample replicate 2 from November 2022	SINK	Brunsbuttel	2	November 2022	2022-11-08	233158714	35206965814
+ERR14949528	SAMEA112714861	BbF1_November22	Brunsbuttel Free Living particle sample replicate 1 from November 2022	FL	Brunsbuttel	1	November 2022	2022-11-08	254776690	38471280190
+ERR12476488	SAMEA110291999	1PZc	Site 1 p zone rep c	other				2021-09	44824948	6736569586
+ERR12476490	SAMEA110291999	1PZc	Site 1 p zone rep c	other				2021-09	45084584	6775635203
+ERR12476491	SAMEA110292000	2HMa	Site 2 High rep a	other				2021-09	58820916	8837713575
+ERR12476496	SAMEA110292002	2LMa	Site 2 Low rep a	other				2021-09	53267414	8004788965
+ERR12476498	SAMEA110292003	2LMc	Site 2 Low rep c	other				2021-09	39249108	5888971933
+ERR12476504	SAMEA110292006	3HMa	Site 3 High rep a	other				2021-09	49551362	7406155758
+ERR12476520	SAMEA110292011	3PZc	Site 3 p zone rep c	other				2021-09	48430636	7277829671
+ERR12476521	SAMEA110292011	3PZc	Site 3 p zone rep c	other				2021-09	48541584	7294665979
+ERR12476497	SAMEA110292002	2LMa	Site 2 Low rep a	other				2021-09	53181156	7991691054
+ERR12476509	SAMEA110292008	3LMa	Site 3 Low rep a	other				2021-09	47620116	7153156510
+ERR14949351	SAMEA110290261	SchF2	Schwarztonnensand Free Living particle sample replicate 1 from May 2021	FL	Schwarztonnensand	1	May 2021	2021-05	83095654	12486818295
+ERR14949352	SAMEA110290262	MGL1	Meedem Grund suspended particle sample replicate 1 from May 2021	SPA	Meedem Grund	1	May 2021	2021-05	112573870	16924872264
+ERR14949357	SAMEA110290267	MGF2	Meedem Grund Free Living particle sample replicate 1 from May 2021	FL	Meedem Grund	1	May 2021	2021-05	93109272	13991726450
+ERR14949374	SAMEA110290284	BbF1	Brunsbuttel Free Living particle sample replicate 1 from May 2021	FL	Brunsbuttel	1	May 2021	2021-05	91159514	13699017031
+ERR14949378	SAMEA110290288	MH1	Muhlenberger Loch Sinking particle sample replicate 1 from July 2021	SINK	Muhlenberger Loch	1	July 2021	2021-07	94331498	14175542445
+ERR14949382	SAMEA110290292	SchL1	Schwarztonnensand suspended particle sample replicate 1 from July 2021	SPA	Schwarztonnensand	1	July 2021	2021-07	103704664	15590112357
+ERR14949384	SAMEA110290294	SchH1	Schwarztonnensand Sinking particle sample replicate 1 from July 2021	SINK	Schwarztonnensand	1	July 2021	2021-07	98524376	14810057059
+ERR14949391	SAMEA110290301	MGH2	Meedem Grund Sinking particle sample replicate 1 from July 2021	SINK	Meedem Grund	1	July 2021	2021-07	117695056	17698981271
+ERR14949392	SAMEA110290302	MGF1	Meedem Grund Free Living particle sample replicate 1 from July 2021	FL	Meedem Grund	1	July 2021	2021-07	106324430	16000608897
+ERR14949400	SAMEA110290310	BbL1	Brunsbuttel suspended particle sample replicate 1 from July 2021	SPA	Brunsbuttel	1	July 2021	2021-07	105313100	15830524658
+ERR14949401	SAMEA110290311	BbL2	Brunsbuttel suspended particle sample replicate 1 from July 2021	SPA	Brunsbuttel	1	July 2021	2021-07	119684694	17995164374
+ERR14949415	SAMEA110290325	KOH2	Kollmar Sinking particle sample replicate 1 from November 2021	SINK	Kollmar	1	November 2021	2021-11	107265220	16132899685
+ERR14949431	SAMEA110290342	MGL2	Meedem Grund suspended particle sample replicate 1 from February 2022	SPA	Meedem Grund	1	February 2022	2022-02	95888562	14402303488
+ERR14949444	SAMEA110290356	BbF1	Brunsbuttel Free Living particle sample replicate 1 from February 2022	FL	Brunsbuttel	1	February 2022	2022-02	21114112	3177828579
+ERR14949445	SAMEA110290357	BbF2	Brunsbuttel Free Living particle sample replicate 1 from February 2022	FL	Brunsbuttel	1	February 2022	2022-02	48529884	7300791016
+ERR14949448	SAMEA112714777	MH1_May22	Muhlenberger Loch Sinking particle sample replicate 1 from May 2022	SINK	Muhlenberger Loch	1	May 2022	2022-05-22	152655880	23051037880
+ERR14949449	SAMEA112714778	MH2_May22	Muhlenberger Loch Sinking particle sample replicate 2 from May 2022	SINK	Muhlenberger Loch	2	May 2022	2022-05-22	145088862	21908418162
+ERR14949462	SAMEA112714791	MGF1_May22	Meedem Grund Free Living particle sample replicate 1 from May 2022	FL	Meedem Grund	1	May 2022	2022-05-22	120890950	18254533450
+ERR14949465	SAMEA112714794	TL2_May22	Twielenfleth suspended particle sample replicate 2 from May 2022	SPA	Twielenfleth	2	May 2022	2022-05-22	196592646	29685489546
+ERR14949475	SAMEA112714804	BbF2_May22	Brunsbuttel Free Living particle sample replicate 2 from May 2022	FL	Brunsbuttel	2	May 2022	2022-05-22	153938710	23244745210
+ERR14949476	SAMEA112714805	ML1_June22	Muhlenberger Loch suspended particle sample replicate 1 from June 2022	SPA	Muhlenberger Loch	1	June 2022	2022-06-20	137443936	20754034336
+ERR14949478	SAMEA112714807	MH2_June22	Muhlenberger Loch Sinking particle sample replicate 2 from June 2022	SINK	Muhlenberger Loch	2	June 2022	2022-06-20	229198652	34608996452
+ERR14949480	SAMEA112714809	MF2_June22	Muhlenberger Loch Free Living particle sample replicate 2 from June 2022	FL	Muhlenberger Loch	2	June 2022	2022-06-20	177889042	26861245342
+ERR14949482	SAMEA112714811	SchL2_June22	Schwarztonnensand suspended particle sample replicate 2 from June 2022	SPA	Schwarztonnensand	2	June 2022	2022-06-20	308813728	46630872928
+ERR14949487	SAMEA112714816	MGL1_June22	Meedem Grund suspended particle sample replicate 1 from June 2022	SPA	Meedem Grund	1	June 2022	2022-06-20	182823534	27606353634
+ERR14949490	SAMEA112714819	MGF1_June22	Meedem Grund Free Living particle sample replicate 1 from June 2022	FL	Meedem Grund	1	June 2022	2022-06-20	177301060	26772460060
+ERR14949492	SAMEA112714821	TL1_June22	Twielenfleth suspended particle sample replicate 1 from June 2022	SPA	Twielenfleth	1	June 2022	2022-06-20	237534432	35867699232
+ERR14949493	SAMEA112714822	TL2_June22	Twielenfleth suspended particle sample replicate 2 from June 2022	SPA	Twielenfleth	2	June 2022	2022-06-20	232845822	35159719122
+ERR14949494	SAMEA112714823	TH1_June22	Twielenfleth Sinking particle sample replicate 1 from June 2022	SINK	Twielenfleth	1	June 2022	2022-06-20	159110936	24025751336
+ERR14949497	SAMEA112714826	TF2_June22	Twielenfleth Free Living particle sample replicate 2 from June 2022	FL	Twielenfleth	2	June 2022	2022-06-20	230021314	34733218414
+ERR14949498	SAMEA112714827	BbL1_June22	Brunsbuttel suspended particle sample replicate 1 from June 2022	SPA	Brunsbuttel	1	June 2022	2022-06-20	178529826	26958003726
+ERR14949499	SAMEA112714828	BbL2_June22	Brunsbuttel suspended particle sample replicate 2 from June 2022	SPA	Brunsbuttel	2	June 2022	2022-06-20	184625878	27878507578
+ERR14949501	SAMEA112714830	BbH2_June22	Brunsbuttel Sinking particle sample replicate 2 from June 2022	SINK	Brunsbuttel	2	June 2022	2022-06-20	235470060	35555979060
+ERR14949502	SAMEA112714831	BbF1_June22	Brunsbuttel Free Living particle sample replicate 1 from June 2022	FL	Brunsbuttel	1	June 2022	2022-06-20	224410246	33885947146
+ERR14949504	SAMEA112714833	ML1_November22	Muhlenberger Loch suspended particle sample replicate 1 from November 2022	SPA	Muhlenberger Loch	1	November 2022	2022-11-08	211072756	31871986156
+ERR14949506	SAMEA112714835	MH1_November22	Muhlenberger Loch Sinking particle sample replicate 1 from November 2022	SINK	Muhlenberger Loch	1	November 2022	2022-11-08	200137794	30220806894
+ERR14949524	SAMEA112714857	BbL1_November22	Brunsbuttel suspended particle sample replicate 1 from November 2022	SPA	Brunsbuttel	1	November 2022	2022-11-08	174550558	26357134258
+ERR12476486	SAMEA110291998	1PZa	Site 1 P zone rep a	other				2021-09	46813532	7016960436
+ERR12476487	SAMEA110291998	1PZa	Site 1 P zone rep a	other				2021-09	46847360	7021998257
+ERR12476494	SAMEA110292001	2HMc	Site 2 High rep c	other				2021-09	57873488	8694261351
+ERR12476503	SAMEA110292005	2PZc	Site 2 p zone rep c	other				2021-09	51048196	7669831643
+ERR12476510	SAMEA110292008	3LMa	Site 3 Low rep a	other				2021-09	47759704	7174310009
+ERR14949343	SAMEA110290253	MH2	Muhlenberger Loch Sinking particle sample replicate 1 from May 2021	SINK	Muhlenberger Loch	1	May 2021	2021-05	103780170	15579565524
+ERR14949344	SAMEA110290254	MF1	Muhlenberger Loch Free Living particle sample replicate 1 from May 2021	FL	Muhlenberger Loch	1	May 2021	2021-05	63360268	9527618660
+ERR14949345	SAMEA110290255	MF2	Muhlenberger Loch Free Living particle sample replicate 1 from May 2021	FL	Muhlenberger Loch	1	May 2021	2021-05	101595096	15264556500
+ERR14949349	SAMEA110290259	SchH2	Schwarztonnensand Sinking particle sample replicate 1 from May 2021	SINK	Schwarztonnensand	1	May 2021	2021-05	102833294	15453483481
+ERR14949353	SAMEA110290263	MGL2	Meedem Grund suspended particle sample replicate 1 from May 2021	SPA	Meedem Grund	1	May 2021	2021-05	122660076	18438505549
+ERR14949361	SAMEA110290271	BHH2	Bunthaus Spitze Sinking particle sample replicate 1 from May 2021	SINK	Bunthaus Spitze	1	May 2021	2021-05	101808634	15285304432
+ERR14949364	SAMEA110290274	TL1	Twielenfleth suspended particle sample replicate 1 from May 2021	SPA	Twielenfleth	1	May 2021	2021-05	110490204	16613664019
+ERR14949372	SAMEA110290282	BbH1	Brunsbuttel Sinking particle sample replicate 1 from May 2021	SINK	Brunsbuttel	1	May 2021	2021-05	114249370	17181595555
+ERR14949385	SAMEA110290295	SchH2	Schwarztonnensand Sinking particle sample replicate 1 from July 2021	SINK	Schwarztonnensand	1	July 2021	2021-07	110687060	16645746000
+ERR14949390	SAMEA110290300	MGH1	Meedem Grund Sinking particle sample replicate 1 from July 2021	SINK	Meedem Grund	1	July 2021	2021-07	116785984	17553866095
+ERR14949396	SAMEA110290306	TH1	Twielenfleth Sinking particle sample replicate 1 from July 2021	SINK	Twielenfleth	1	July 2021	2021-07	101505974	15259450440
+ERR14949405	SAMEA110290315	BbF2	Brunsbuttel Free Living particle sample replicate 1 from July 2021	FL	Brunsbuttel	1	July 2021	2021-07	111370284	16750993648
+ERR14949412	SAMEA110290322	KOL1	Kollmar suspended particle sample replicate 1 from November 2021	SPA	Kollmar	1	November 2021	2021-11	103524324	15573403480
+ERR14949416	SAMEA110290326	KOF1	Kollmar Free Living particle sample replicate 1 from November 2021	FL	Kollmar	1	November 2021	2021-11	99267268	14916711906
+ERR14949418	SAMEA110290328	ML1	Muhlenberger Loch suspended particle sample replicate 1 from February 2022	SPA	Muhlenberger Loch	1	February 2022	2022-02	54861778	8252425681
+ERR14949419	SAMEA110290329	ML2	Muhlenberger Loch suspended particle sample replicate 1 from February 2022	SPA	Muhlenberger Loch	1	February 2022	2022-02	96806672	14560166036
+ERR14949422	SAMEA110290332	MF1	Muhlenberger Loch Free Living particle sample replicate 1 from February 2022	FL	Muhlenberger Loch	1	February 2022	2022-02	22266390	3351831688
+ERR14949423	SAMEA110290333	MF2	Muhlenberger Loch Free Living particle sample replicate 1 from February 2022	FL	Muhlenberger Loch	1	February 2022	2022-02	108798048	16358930671
+ERR14949427	SAMEA110290337	SchH2	Schwarztonnensand Sinking particle sample replicate 1 from February 2022	SINK	Schwarztonnensand	1	February 2022	2022-02	97853426	14721105564
+ERR14949429	SAMEA110290339	SchF2	Schwarztonnensand Free Living particle sample replicate 1 from February 2022	FL	Schwarztonnensand	1	February 2022	2022-02	96569324	14517954965
+ERR14949430	SAMEA110290340	MGL1	Meedem Grund suspended particle sample replicate 1 from February 2022	SPA	Meedem Grund	1	February 2022	2022-02	96946936	14586915623
+ERR14949434	SAMEA110290345	MGF2	Meedem Grund Free Living particle sample replicate 1 from February 2022	FL	Meedem Grund	1	February 2022	2022-02	20383506	3064925183
+ERR14949440	SAMEA110290352	BbL1	Brunsbuttel suspended particle sample replicate 1 from February 2022	SPA	Brunsbuttel	1	February 2022	2022-02	104239414	15669336972
+ERR14949450	SAMEA112714779	MF1_May22	Muhlenberger Loch Free Living particle sample replicate 1 from May 2022	FL	Muhlenberger Loch	1	May 2022	2022-05-22	113287690	17106441190
+ERR14949460	SAMEA112714789	MGH1_May22	Meedem Grund Sinking particle sample replicate 1 from May 2022	SINK	Meedem Grund	1	May 2022	2022-05-22	115678086	17467390986
+ERR14949464	SAMEA112714793	TL1_May22	Twielenfleth suspended particle sample replicate 1 from May 2022	SPA	Twielenfleth	1	May 2022	2022-05-22	140511938	21217302638
+ERR14949470	SAMEA112714799	BbL1_May22	Brunsbuttel suspended particle sample replicate 1 from May 2022	SPA	Brunsbuttel	1	May 2022	2022-05-22	198050132	29905569932
+ERR14949481	SAMEA112714810	SchL1_June22	Schwarztonnensand suspended particle sample replicate 1 from June 2022	SPA	Schwarztonnensand	1	June 2022	2022-06-20	264438002	39930138302
+ERR14949496	SAMEA112714825	TF1_June22	Twielenfleth Free Living particle sample replicate 1 from June 2022	FL	Twielenfleth	1	June 2022	2022-06-20	261692048	39515499248
+ERR14949513	SAMEA112714842	SchH2_November22	Schwarztonnensand Sinking particle sample replicate 2 from November 2022	SINK	Schwarztonnensand	2	November 2022	2022-11-08	193049792	29150518592
+ERR14949515	SAMEA112714846	MGL2_November22	Meedem Grund suspended particle sample replicate 2 from November 2022	SPA	Meedem Grund	2	November 2022	2022-11-08	225174942	34001416242
+ERR12476492	SAMEA110292000	2HMa	Site 2 High rep a	other				2021-09	58740080	8825529157
+ERR12476500	SAMEA110292004	2PZa	Site 2 P zone rep a	other				2021-09	48681210	7315851740
+ERR12476502	SAMEA110292005	2PZc	Site 2 p zone rep c	other				2021-09	51058694	7671375982
+ERR12476506	SAMEA110292006	3HMa	Site 3 High rep a	other				2021-09	49218196	7356171609
+ERR12476511	SAMEA110292009	3LMc	Site 3 Low rep c	other				2021-09	58149642	8729535554
+ERR12476513	SAMEA110292009	3LMc	Site 3 Low rep c	other				2021-09	58165496	8731909686
+ERR12476516	SAMEA110292010	3PZa	Site 3 P zone rep a	other				2021-09	51438664	7725714963
+ERR12476518	SAMEA110292010	3PZa	Site 3 P zone rep a	other				2021-09	51530052	7739591422
+ERR14949346	SAMEA110290256	SchL1	Schwarztonnensand suspended particle sample replicate 1 from May 2021	SPA	Schwarztonnensand	1	May 2021	2021-05	114175250	17163214222
+ERR14949350	SAMEA110290260	SchF1	Schwarztonnensand Free Living particle sample replicate 1 from May 2021	FL	Schwarztonnensand	1	May 2021	2021-05	129636082	19479769475
+ERR14949354	SAMEA110290264	MGH1	Meedem Grund Sinking particle sample replicate 1 from May 2021	SINK	Meedem Grund	1	May 2021	2021-05	95041968	14278532984
+ERR14949356	SAMEA110290266	MGF1	Meedem Grund Free Living particle sample replicate 1 from May 2021	FL	Meedem Grund	1	May 2021	2021-05	98586520	14804444246
+ERR14949359	SAMEA110290269	BHL2	Bunthaus Spitze suspended particle sample replicate 1 from May 2021	SPA	Bunthaus Spitze	1	May 2021	2021-05	88639684	13307908508
+ERR14949366	SAMEA110290276	TH1	Twielenfleth Sinking particle sample replicate 1 from May 2021	SINK	Twielenfleth	1	May 2021	2021-05	118132456	17771192320
+ERR14949377	SAMEA110290287	ML2	Muhlenberger Loch suspended particle sample replicate 1 from July 2021	SPA	Muhlenberger Loch	1	July 2021	2021-07	116444200	17502562616
+ERR14949381	SAMEA110290291	MF2	Muhlenberger Loch Free Living particle sample replicate 1 from July 2021	FL	Muhlenberger Loch	1	July 2021	2021-07	103943726	15616765627
+ERR14949386	SAMEA110290296	SchF1	Schwarztonnensand Free Living particle sample replicate 1 from July 2021	FL	Schwarztonnensand	1	July 2021	2021-07	94438998	14212116500
+ERR14949389	SAMEA110290299	MGL2	Meedem Grund suspended particle sample replicate 1 from July 2021	SPA	Meedem Grund	1	July 2021	2021-07	111366216	16746946448
+ERR14949393	SAMEA110290303	MGF2	Meedem Grund Free Living particle sample replicate 1 from July 2021	FL	Meedem Grund	1	July 2021	2021-07	88720076	13304146425
+ERR14949403	SAMEA110290313	BbH2	Brunsbuttel Sinking particle sample replicate 1 from July 2021	SINK	Brunsbuttel	1	July 2021	2021-07	107187488	16101450035
+ERR14949407	SAMEA110290317	SEL2	Seemanshoft suspended particle sample replicate 1 from November 2021	SPA	Seemanshoft	1	November 2021	2021-11	108731512	16352931057
+ERR14949414	SAMEA110290324	KOH1	Kollmar Sinking particle sample replicate 1 from November 2021	SINK	Kollmar	1	November 2021	2021-11	107759158	16209740788
+ERR14949417	SAMEA110290327	KOF2	Kollmar Free Living particle sample replicate 1 from November 2021	FL	Kollmar	1	November 2021	2021-11	99676362	14969597391
+ERR14949438	SAMEA110290349	TH2	Twielenfleth Sinking particle sample replicate 1 from February 2022	SINK	Twielenfleth	1	February 2022	2022-02	122779990	18469570628
+ERR14949443	SAMEA110290355	BbH2	Brunsbuttel Sinking particle sample replicate 1 from February 2022	SINK	Brunsbuttel	1	February 2022	2022-02	27365580	4116315232
+ERR14949446	SAMEA112714775	ML1_May22	Muhlenberger Loch suspended particle sample replicate 1 from May 2022	SPA	Muhlenberger Loch	1	May 2022	2022-05-22	146808402	22168068702
+ERR14949451	SAMEA112714780	MF2_May22	Muhlenberger Loch Free Living particle sample replicate 2 from May 2022	FL	Muhlenberger Loch	2	May 2022	2022-05-22	121423350	18334925850
+ERR14949458	SAMEA112714787	MGL1_May22	Meedem Grund suspended particle sample replicate 1 from May 2022	SPA	Meedem Grund	1	May 2022	2022-05-22	136439962	20602434262
+ERR14949469	SAMEA112714798	TF2_May22	Twielenfleth Free Living particle sample replicate 2 from May 2022	FL	Twielenfleth	2	May 2022	2022-05-22	112699094	17017563194
+ERR14949472	SAMEA112714801	BbH1_May22	Brunsbuttel Sinking particle sample replicate 1 from May 2022	SINK	Brunsbuttel	1	May 2022	2022-05-22	127839582	19303776882
+ERR14949474	SAMEA112714803	BbF1_May22	Brunsbuttel Free Living particle sample replicate 1 from May 2022	FL	Brunsbuttel	1	May 2022	2022-05-22	175012866	26426942766
+ERR14949477	SAMEA112714806	MH1_June22	Muhlenberger Loch Sinking particle sample replicate 1 from June 2022	SINK	Muhlenberger Loch	1	June 2022	2022-06-20	189053564	28547088164
+ERR14949486	SAMEA112714815	SchF2_June22	Schwarztonnensand Free Living particle sample replicate 2 from June 2022	FL	Schwarztonnensand	2	June 2022	2022-06-20	207632688	31352535888
+ERR14949488	SAMEA112714817	MGL2_June22	Meedem Grund suspended particle sample replicate 2 from June 2022	SPA	Meedem Grund	2	June 2022	2022-06-20	237124762	35805839062
+ERR14949495	SAMEA112714824	TH2_June22	Twielenfleth Sinking particle sample replicate 2 from June 2022	SINK	Twielenfleth	2	June 2022	2022-06-20	165917056	25053475456
+ERR14949503	SAMEA112714832	BbF2_June22	Brunsbuttel Free Living particle sample replicate 2 from June 2022	FL	Brunsbuttel	2	June 2022	2022-11-08	161553476	24394574876
+ERR14949508	SAMEA112714837	MF1_November22	Muhlenberger Loch Free Living particle sample replicate 1 from November 2022	FL	Muhlenberger Loch	1	November 2022	2022-11-08	196294206	29640425106
+ERR14949509	SAMEA112714838	MF2_November22	Muhlenberger Loch Free Living particle sample replicate 2 from November 2022	FL	Muhlenberger Loch	2	November 2022	2022-11-08	169614364	25611768964
+ERR14949510	SAMEA112714839	SchL1_November22	Schwarztonnensand suspended particle sample replicate 1 from November 2022	SPA	Schwarztonnensand	1	November 2022	2022-11-08	244287412	36887399212
+ERR14949512	SAMEA112714841	SchH1_November22	Schwarztonnensand Sinking particle sample replicate 1 from November 2022	SINK	Schwarztonnensand	1	November 2022	2022-11-08	238354704	35991560304
+ERR14949518	SAMEA112714849	MGF1_November22	Meedem Grund Free Living particle sample replicate 1 from November 2022	FL	Meedem Grund	1	November 2022	2022-11-08	237964240	35932600240
+ERR14949522	SAMEA112714853	TH1_November22	Twielenfleth Sinking particle sample replicate 1 from November 2022	SINK	Twielenfleth	1	November 2022	2022-11-08	246590430	37235154930
+ERR14949523	SAMEA112714854	TH2_November22	Twielenfleth Sinking particle sample replicate 2 from November 2022	SINK	Twielenfleth	2	November 2022	2022-11-08	205173352	30981176152
+ERR12474435	SAMEA110291997	1LMc	Site 1 Low rep c	other				2021-09	56424136	8472272181
+ERR12476484	SAMEA110291997	1LMc	Site 1 Low rep c	other				2021-09	56353080	8461605480
+ERR12476493	SAMEA110292001	2HMc	Site 2 High rep c	other				2021-09	58069058	8723570483
+ERR12476499	SAMEA110292003	2LMc	Site 2 Low rep c	other				2021-09	39182994	5879093222
+ERR12476501	SAMEA110292004	2PZa	Site 2 P zone rep a	other				2021-09	48771638	7329534540
+ERR12476507	SAMEA110292007	3HMc	Site 3 High rep c	other				2021-09	48951304	7322794110
+ERR12476508	SAMEA110292007	3HMc	Site 3 High rep c	other				2021-09	48757216	7293860644
+ERR14949340	SAMEA110290250	ML1	Muhlenberger Loch suspended particle sample replicate 1 from May 2021	SPA	Muhlenberger Loch	1	May 2021	2021-05	86605412	12997013265
+ERR14949341	SAMEA110290251	ML2	Muhlenberger Loch suspended particle sample replicate 1 from May 2021	SPA	Muhlenberger Loch	1	May 2021	2021-05	94876542	14191913248
+ERR14949358	SAMEA110290268	BHL1	Bunthaus Spitze suspended particle sample replicate 1 from May 2021	SPA	Bunthaus Spitze	1	May 2021	2021-05	80749620	12116521308
+ERR14949360	SAMEA110290270	BHH1	Bunthaus Spitze Sinking particle sample replicate 1 from May 2021	SINK	Bunthaus Spitze	1	May 2021	2021-05	110213056	16549844242
+ERR14949365	SAMEA110290275	TL2	Twielenfleth suspended particle sample replicate 1 from May 2021	SPA	Twielenfleth	1	May 2021	2021-05	112694826	16954423872
+ERR14949368	SAMEA110290278	TF1	Twielenfleth Free Living particle sample replicate 1 from May 2021	FL	Twielenfleth	1	May 2021	2021-05	96910170	14565398069
+ERR14949373	SAMEA110290283	BbH2	Brunsbuttel Sinking particle sample replicate 1 from May 2021	SINK	Brunsbuttel	1	May 2021	2021-05	99378736	14942631038
+ERR14949376	SAMEA110290286	ML1	Muhlenberger Loch suspended particle sample replicate 1 from July 2021	SPA	Muhlenberger Loch	1	July 2021	2021-07	98593660	14809299127
+ERR14949380	SAMEA110290290	MF1	Muhlenberger Loch Free Living particle sample replicate 1 from July 2021	FL	Muhlenberger Loch	1	July 2021	2021-07	114935978	17256478089
+ERR14949383	SAMEA110290293	SchL2	Schwarztonnensand suspended particle sample replicate 1 from July 2021	SPA	Schwarztonnensand	1	July 2021	2021-07	102325044	15387642740
+ERR14949387	SAMEA110290297	SchF2	Schwarztonnensand Free Living particle sample replicate 1 from July 2021	FL	Schwarztonnensand	1	July 2021	2021-07	81948796	12306262078
+ERR14949388	SAMEA110290298	MGL1	Meedem Grund suspended particle sample replicate 1 from July 2021	SPA	Meedem Grund	1	July 2021	2021-07	96164740	14456310094
+ERR14949394	SAMEA110290304	TL1	Twielenfleth suspended particle sample replicate 1 from July 2021	SPA	Twielenfleth	1	July 2021	2021-07	109793580	16507282934
+ERR14949397	SAMEA110290307	TH2	Twielenfleth Sinking particle sample replicate 1 from July 2021	SINK	Twielenfleth	1	July 2021	2021-07	103192544	15519885595
+ERR14949402	SAMEA110290312	BbH1	Brunsbuttel Sinking particle sample replicate 1 from July 2021	SINK	Brunsbuttel	1	July 2021	2021-07	104931508	15773172097
+ERR14949404	SAMEA110290314	BbF1	Brunsbuttel Free Living particle sample replicate 1 from July 2021	FL	Brunsbuttel	1	July 2021	2021-07	63188930	9511114748
+ERR14949408	SAMEA110290318	SEH1	Seemanshoft Sinking particle sample replicate 1 from November 2021	SINK	Seemanshoft	1	November 2021	2021-11	114803434	17262531199
+ERR14949410	SAMEA110290320	SEF1	Seemanshoft Free Living particle sample replicate 1 from November 2021	FL	Seemanshoft	1	November 2021	2021-11	60391944	9086507245
+ERR14949411	SAMEA110290321	SEF2	Seemanshoft Free Living particle sample replicate 1 from November 2021	FL	Seemanshoft	1	November 2021	2021-11	19674056	2960200043
+ERR14949421	SAMEA110290331	MH2	Muhlenberger Loch Sinking particle sample replicate 1 from February 2022	SINK	Muhlenberger Loch	1	February 2022	2022-02	114472610	17212547770
+ERR14949426	SAMEA110290336	SchH1	Schwarztonnensand Sinking particle sample replicate 1 from February 2022	SINK	Schwarztonnensand	1	February 2022	2022-02	86884474	13069358506
+ERR14949433	SAMEA110290344	MGF1	Meedem Grund Free Living particle sample replicate 1 from February 2022	FL	Meedem Grund	1	February 2022	2022-02	46399384	6981546002
+ERR14949435	SAMEA110290346	TL1	Twielenfleth suspended particle sample replicate 1 from February 2022	SPA	Twielenfleth	1	February 2022	2022-02	119805054	18023280767
+ERR14949436	SAMEA110290347	TL2	Twielenfleth suspended particle sample replicate 1 from February 2022	SPA	Twielenfleth	1	February 2022	2022-02	108667716	16337421218
+ERR14949441	SAMEA110290353	BbL2	Brunsbuttel suspended particle sample replicate 1 from February 2022	SPA	Brunsbuttel	1	February 2022	2022-02	102540492	15430084086
+ERR14949447	SAMEA112714776	ML2_May22	Muhlenberger Loch suspended particle sample replicate 2 from May 2022	SPA	Muhlenberger Loch	2	May 2022	2022-05-22	178075222	26889358522
+ERR14949456	SAMEA112714785	SchF1_May22	Schwarztonnensand Free Living particle sample replicate 1 from May 2022	FL	Schwarztonnensand	1	May 2022	2022-05-22	168196072	25397606872
+ERR14949461	SAMEA112714790	MGH2_May22	Meedem Grund Sinking particle sample replicate 2 from May 2022	SINK	Meedem Grund	2	May 2022	2022-05-22	153938764	23244753364
+ERR14949467	SAMEA112714796	TH2_May22	Twielenfleth Sinking particle sample replicate 2 from May 2022	SINK	Twielenfleth	2	May 2022	2022-05-22	148034960	22353278960
+ERR14949471	SAMEA112714800	BbL2_May22	Brunsbuttel suspended particle sample replicate 2 from May 2022	SPA	Brunsbuttel	2	May 2022	2022-05-22	195663728	29545222928
+ERR14949491	SAMEA112714820	MGF2_June22	Meedem Grund Free Living particle sample replicate 2 from June 2022	FL	Meedem Grund	2	June 2022	2022-06-20	65026	9818926
+ERR14949500	SAMEA112714829	BbH1_June22	Brunsbuttel Sinking particle sample replicate 1 from June 2022	SINK	Brunsbuttel	1	June 2022	2022-06-20	213170826	32188794726
+ERR14949505	SAMEA112714834	ML2_November22	Muhlenberger Loch suspended particle sample replicate 2 from November 2022	SPA	Muhlenberger Loch	2	November 2022	2022-11-08	228017968	34430713168
+ERR14949511	SAMEA112714840	SchL2_November22	Schwarztonnensand suspended particle sample replicate 2 from November 2022	SPA	Schwarztonnensand	2	November 2022	2022-11-08	151063000	22810513000
+ERR14949514	SAMEA112714845	MGL1_November22	Meedem Grund suspended particle sample replicate 1 from November 2022	SPA	Meedem Grund	1	November 2022	2022-11-08	299561676	45233813076
+ERR14949516	SAMEA112714847	MGH1_November22	Meedem Grund Sinking particle sample replicate 1 from November 2022	SINK	Meedem Grund	1	November 2022	2022-11-08	205277628	30996921828
+ERR14949517	SAMEA112714848	MGH2_November22	Meedem Grund Sinking particle sample replicate 2 from November 2022	SINK	Meedem Grund	2	November 2022	2022-11-08	223401432	33733616232
+ERR14949519	SAMEA112714850	MGF2_November22	Meedem Grund Free Living particle sample replicate 2 from November 2022	FL	Meedem Grund	2	November 2022	2022-11-08	184748008	27896949208
+ERR14949525	SAMEA112714858	BbL2_November22	Brunsbuttel suspended particle sample replicate 2 from November 2022	SPA	Brunsbuttel	2	November 2022	2022-11-08	174808904	26396144504
+ERR14949529	SAMEA112714862	BbF2_November22	Brunsbuttel Free Living particle sample replicate 2 from November 2022	FL	Brunsbuttel	2	November 2022	2022-11-08	166221004	25099371604

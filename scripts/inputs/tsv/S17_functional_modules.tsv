@@ -1,0 +1,19 @@
+module	group	pct	order
+Urease (ureC)	RGM	84	0
+Urease (ureC)	FSM	0	0
+Urease (ureC)	Decay	0	0
+Nitrate red. (narG)	RGM	49	1
+Nitrate red. (narG)	FSM	0	1
+Nitrate red. (narG)	Decay	0	1
+Aromatic deg. (catA)	RGM	19	2
+Aromatic deg. (catA)	FSM	0	2
+Aromatic deg. (catA)	Decay	0	2
+Ectoine (ectC)	RGM	59	3
+Ectoine (ectC)	FSM	0	3
+Ectoine (ectC)	Decay	0	3
+Kdp K+ uptake (kdpB)	RGM	78	4
+Kdp K+ uptake (kdpB)	FSM	8	4
+Kdp K+ uptake (kdpB)	Decay	0	4
+Rhodopsin (genome-level tBLASTn screen, uniform MAG panel; the Bakta product call gives 64% in FSM and 2% in RGM)	RGM	2	5
+Rhodopsin (genome-level tBLASTn screen, uniform MAG panel; the Bakta product call gives 64% in FSM and 2% in RGM)	FSM	80	5
+Rhodopsin (genome-level tBLASTn screen, uniform MAG panel; the Bakta product call gives 64% in FSM and 2% in RGM)	Decay	0	5

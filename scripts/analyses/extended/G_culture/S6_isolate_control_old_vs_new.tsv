@@ -1,0 +1,12 @@
+comparison	group_a	n_a	median_a	group_b	n_b	median_b	difference	MannWhitney_p	comparison_new	group_a_new	n_a_new	median_a_new	group_b_new	n_b_new	median_b_new	difference_new	MannWhitney_p_new
+RGM: cultured isolate vs MAG	cultured isolate	132	7.0	MAG	97.0	10.0	-3.0	3.6e-05	RGM: cultured isolate vs MAG	cultured isolate	128	6.5	MAG	97.0	10.0	-3.5	2.9e-05
+SGM: cultured isolate vs MAG	cultured isolate	128	6.5	MAG	50.0	18.0	-11.5	2.5e-06	SGM: cultured isolate vs MAG	cultured isolate	127	6.0	MAG	50.0	18.0	-12.0	1.6e-06
+FSM MAGs vs RGM cultured isolates	RGM cultured isolate	132	7.0	FSM MAG	96.0	4.0	3.0	0.00011	FSM MAGs vs RGM cultured isolates	RGM cultured isolate	128	6.5	FSM MAG	96.0	4.0	2.5	0.00023
+FSM MAGs vs SGM cultured isolates	SGM cultured isolate	128	6.5	FSM MAG	96.0	4.0	2.5	1.6e-07	FSM MAGs vs SGM cultured isolates	SGM cultured isolate	127	6.0	FSM MAG	96.0	4.0	2.0	2.4e-07
+MAGs: pseudogene calls vs contig count		243					rho = +0.48	1.1e-15	MAGs: pseudogene calls vs contig count		243					rho = +0.48	1.1e-15
+FSM MAGs: pseudogene calls vs contig count		96					rho = +0.61	5.3e-11	FSM MAGs: pseudogene calls vs contig count		96					rho = +0.61	5.3e-11
+RGM MAGs: pseudogene calls vs contig count		97					rho = +0.21	0.037	RGM MAGs: pseudogene calls vs contig count		97					rho = +0.21	0.037
+SGM MAGs: pseudogene calls vs contig count		50					rho = +0.60	3.4e-06	SGM MAGs: pseudogene calls vs contig count		50					rho = +0.60	3.4e-06
+Leprosy clade: Bakta vs PGAP pseudogene call	Bakta	1	25.0	NCBI PGAP	1.0	1133.0	1108.0		Leprosy clade: Bakta vs PGAP pseudogene call	Bakta	1	25.0	NCBI PGAP	1.0	1133.0	1108.0	
+Leprosy clade: Bakta vs PGAP pseudogene call	Bakta	1	20.0	NCBI PGAP					Leprosy clade: Bakta vs PGAP pseudogene call	Bakta	1	20.0	NCBI PGAP				
+Leprosy clade: Bakta vs PGAP pseudogene call	Bakta	1	12.0	NCBI PGAP					Leprosy clade: Bakta vs PGAP pseudogene call	Bakta	1	12.0	NCBI PGAP				

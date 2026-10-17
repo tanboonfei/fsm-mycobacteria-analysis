@@ -1,0 +1,10 @@
+hypothesis	n_X	X_species_examples	X_monophyletic_in_ML
+H1_anyangense4	4	Mycobacterium sp001494595; Mycobacterium anyangense; Mycobacterium sp011694515; Mycobacterium sp036023875	TRUE
+H2_S42_rhodesiae30	30	Mycobacterium rhodesiae_B; Mycobacterium sp001494595; Mycobacterium anyangense; Mycobacterium sp011694515	TRUE
+H3_S42_sp020438785_12	12	Mycobacterium sp020438785; Mycobacterium sp020438865	TRUE
+H4_palauense4	4	Mycobacterium sp023460175; Mycobacterium fallax; Mycobacterium sp040512325; Mycobacterium palauense	TRUE
+H5_S42plusPalauense46	46	Mycobacterium rhodesiae_B; Mycobacterium sp020438785; Mycobacterium sp020438865; Mycobacterium sp001494595	FALSE
+H6_RGM_chubuense_phlei19	19	Mycobacterium sp001665255; Mycobacterium sp033741175; Mycobacterium sp025965975; Mycobacterium sp035649695	TRUE
+H7_RGM_fortuitum_neoaurum18	18	Mycobacterium sp025963385; Mycobacterium sp001426545; Mycobacterium sp033741125; Mycobacterium sp025966225	TRUE
+H8_SGM30	30	Mycobacterium sp019246375; Mycobacterium sp035625875; Mycobacterium sp036338755; Mycobacterium arosiense	TRUE
+H9_allRGM83	83	Mycobacterium rhodesiae_B; Mycobacterium sp001665255; Mycobacterium sp033741175; Mycobacterium sp025965975	FALSE

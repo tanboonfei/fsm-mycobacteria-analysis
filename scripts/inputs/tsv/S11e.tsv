@@ -1,0 +1,2 @@
+Analysis	Genomes (FSM/RGM/SGM)	Genes	K	LRT	p-value	Interpretation
+Phylogenetic clade, completeness-balanced	34 (14/14/6)	60	1.06	28.3	1.1e-7	Purifying selection maintained on FSM (K~1); not genome-wide relaxation, not strong intensification

@@ -1,0 +1,12 @@
+pair	n	median	max	pct_of_ceiling	ceiling_used
+FSM-FSM	91	0.4047	0.4339	69.4	0.6254
+FSM-LEP	42	0.5416	0.5565	89.0	0.6254
+FSM-RGM	196	0.435	0.4941	79.0	0.6254
+FSM-SGM	84	0.446	0.4785	76.5	0.6254
+LEP-LEP	3	0.3444	0.3464	55.4	0.6254
+LEP-RGM	42	0.5305	0.5535	88.5	0.6254
+LEP-SGM	18	0.4559	0.5423	86.7	0.6254
+RGM-RGM	91	0.3847	0.4437	70.9	0.6254
+RGM-SGM	84	0.4381	0.479	76.6	0.6254
+SGM-SGM	15	0.4376	0.4525	72.4	0.6254
+Third positions are 84.8% GC, and therefore the randomisation ceiling is 1 - sum(f^2) = 0.625, not the 0.75 that applies under equal base frequencies. Divergence between test and reference sets reaches 76-89% of that ceiling.

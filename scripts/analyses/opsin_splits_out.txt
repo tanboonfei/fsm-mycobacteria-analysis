@@ -1,0 +1,8 @@
+79-clade: 92 
+11 actino clade: 100 
+65 (60 FSM+5): 99 
+65+11: 93 
+29 FSM-only: 99 
+root on A0A2R4S913|Heliorhodopsin_unculturedActino|Heliorhodopsin : 65 clade TRUE  11 TRUE  29 TRUE  79 TRUE  76 TRUE 
+root on Q93WP2|Channelrhodopsin1_Chlamydomonas|Channel_opsinDomain : 65 clade TRUE  11 TRUE  29 TRUE  79 TRUE  76 TRUE 
+non-FSM in 65: spire_mag_00670601__k141_114417_28 spire_mag_00671068__k141_289776_28 spire_mag_01485026__k141_727939_6 spire_mag_00841652__k141_892212_15 spire_mag_01776429__k141_404316_3 

@@ -1,0 +1,2 @@
+simmap_check_53_243_perfamilyERcastor.tsv : mapped 44 of 53 (others hit the 180-s rejection-sampling limit); sum joint analytic 32.33 simmap 32 ; sum E loss analytic 32.34 simmap 32 ; max abs diff per family 0.061 ; corr 0.9982 
+simmap_check_53_243_pooledERgainloss.tsv : mapped 41 of 53 (others hit the 180-s rejection-sampling limit); sum joint analytic 30.06 simmap 30.02 ; sum E loss analytic 30.07 simmap 30.02 ; max abs diff per family 0.058 ; corr 0.998 

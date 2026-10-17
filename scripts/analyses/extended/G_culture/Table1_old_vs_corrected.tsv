@@ -1,0 +1,8 @@
+Genome set	Genomes	Cultured isolates (old S1 label)	Cultured isolates (corrected)	  of which closed/complete (NCBI Complete Genome or single contig)	SPIRE MAGs	Uncultured reference genomes (old S1 label)	Uncultured reference genomes = GTDB MAGs (corrected)	Closed assemblies (single contig; unchanged)	Closed assemblies that are MAGs (corrected)
+FSM	134	0	0	0	96	38	38	0	0
+RGM	391	132	223	76	97	162	71	55	0
+SGM	299	128	178	55	50	121	71	44	0
+Ingroup (crown clade)	824	260	401	131	243	321	180	99	0
+Outside crown clade	19	9	16	7	3	7	0	6	0
+Outgroup (Tsukamurella)	19	0	17	3	0	0	2	2	0
+Total	862	269	434	141	246	328	182	107	0

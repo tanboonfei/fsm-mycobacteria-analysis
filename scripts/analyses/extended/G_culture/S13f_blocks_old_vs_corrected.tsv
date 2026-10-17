@@ -1,0 +1,19 @@
+labels	panel	threshold_Mb	tips_in_tree	nonFSM_small_genomes	nonFSM_blocks	largest_nonFSM_block	nonFSM_blocks_depth_gt_0.05	FSM_genomes_in_panel	FSM_small_genomes	largest_FSM_block
+old (published S1)	A: isolates and closed genomes, raw size	3.5	276	4	2	3	1	0	0	0
+corrected	A: isolates and closed genomes, raw size	3.5	401	4	2	3	1	0	0	0
+old (published S1)	A: isolates and closed genomes, raw size	4	276	7	5	3	1	0	0	0
+corrected	A: isolates and closed genomes, raw size	4	401	8	5	3	2	0	0	0
+old (published S1)	A: isolates and closed genomes, raw size	4.5	276	19	12	4	3	0	0	0
+corrected	A: isolates and closed genomes, raw size	4.5	401	21	13	4	3	0	0	0
+old (published S1)	B: all 824, completeness-corrected (MAGs <90% pruned)	3.5	750	14	9	3	1	115	76	15
+corrected	B: all 824, completeness-corrected (MAGs <90% pruned)	3.5	751	14	9	3	1	115	76	15
+old (published S1)	B: all 824, completeness-corrected (MAGs <90% pruned)	4	750	33	20	3	3	115	96	20
+corrected	B: all 824, completeness-corrected (MAGs <90% pruned)	4	751	33	20	3	3	115	96	20
+old (published S1)	B: all 824, completeness-corrected (MAGs <90% pruned)	4.5	750	58	32	6	6	115	109	49
+corrected	B: all 824, completeness-corrected (MAGs <90% pruned)	4.5	751	58	32	6	6	115	109	49
+old (published S1)	C: all 824, raw size (paper)	3.5	824	29	21	3	3	134	100	17
+corrected	C: all 824, raw size (paper)	3.5	824	29	21	3	3	134	100	17
+old (published S1)	C: all 824, raw size (paper)	4	824	59	43	3	5	134	122	54
+corrected	C: all 824, raw size (paper)	4	824	59	43	3	5	134	122	54
+old (published S1)	C: all 824, raw size (paper)	4.5	824	96	66	6	7	134	129	54
+corrected	C: all 824, raw size (paper)	4.5	824	96	66	6	7	134	129	54

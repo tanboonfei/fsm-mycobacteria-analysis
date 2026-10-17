@@ -1,0 +1,9 @@
+group	short80_loci	with_fs_or_stop_%	split_%	no_ORF_%	alignment_cov<0.8_%	intact_full_alignment_%	median_orf_ratio
+Closed RGM, intact	110	67.27	51.82	3.636	0	30	0.6917
+Closed RGM, shredded	101	65.35	51.49	2.97	1.98	30.69	0.694
+Closed RGM, shredded + 4.4% deleted	100	63	50	3	4	31	0.6917
+FSM SPIRE MAG (>=95%)	357	24.93	19.33	4.202	24.65	46.78	0.6751
+Leprosy clade, intact	467	98.72	45.61	18.84	12.63	0.4283	0.2532
+Leprosy clade, shredded	430	98.84	46.74	19.3	13.02	0.2326	0.251
+RGM SPIRE MAG (>=95%), matched	132	21.21	15.91	5.303	10.61	59.09	0.7057
+RGM SPIRE MAG (>=95%), unmatched pool	51	19.61	15.69	7.843	9.804	60.78	0.7172

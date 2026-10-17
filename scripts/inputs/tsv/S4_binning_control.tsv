@@ -1,0 +1,23 @@
+comparison	metric	n_isolate	median_isolate	n_MAG	median_MAG	difference	MannWhitney_p	note	n_gtdb	median_gtdb	n_spire	median_spire
+RGM: cultured isolate vs MAG	Genome size (Mb)	132	6.18	259	5.97	0.21	0.0016
+RGM: cultured isolate vs MAG	GC content (%)	132	67.18	259	67.05	0.13	0.367
+RGM: cultured isolate vs MAG	Coding density (%), uniform Prodigal	130	92.72	97	92.52	0.2	0.94	within the PGAP/Prodigal annotation floor, not separable from method; the isolate column is the uniform Prodigal recall and the MAG column is restricted to the SPIRE bins, which Prodigal annotated natively, so the two sides carry the same gene caller
+SGM: cultured isolate vs MAG	Genome size (Mb)	128	5.55	171	5.19	0.36	0.00048
+SGM: cultured isolate vs MAG	GC content (%)	128	67	171	66.21	0.8	0.000248
+SGM: cultured isolate vs MAG	Coding density (%), uniform Prodigal	128	91.58	50	90.97	0.61	0.046	within the PGAP/Prodigal annotation floor, not separable from method; the isolate column is the uniform Prodigal recall and the MAG column is restricted to the SPIRE bins, which Prodigal annotated natively, so the two sides carry the same gene caller
+SGM: GTDB-deposited MAG vs SPIRE MAG	Genome size (Mb)					0.16	0.44	both sets are metagenome-assembled	121.0	5.25	50.0	5.1
+SGM: GTDB-deposited MAG vs SPIRE MAG	GC content (%)					1.03	8.05e-06	both sets are metagenome-assembled	121	66.66	50	65.62
+SGM: GTDB-deposited MAG vs SPIRE MAG	Coding density (%)					-1.39	6.9e-06	both sets are metagenome-assembled	121.0	89.58	50.0	90.97
+RGM: GTDB-deposited MAG vs SPIRE MAG	Genome size (Mb)					-0.03	0.42	both sets are metagenome-assembled	162.0	5.97	97.0	6.0
+RGM: GTDB-deposited MAG vs SPIRE MAG	GC content (%)					-1.06	6.15e-07	both sets are metagenome-assembled	162	66.76	97	67.82
+RGM: GTDB-deposited MAG vs SPIRE MAG	Coding density (%)					-1.05	2.9e-18	both sets are metagenome-assembled	162.0	91.47	97.0	92.52
+FSM: GTDB-deposited MAG vs SPIRE MAG	Genome size (Mb)					-0.03	0.44	both sets are metagenome-assembled	38.0	3.29	96.0	3.32
+FSM: GTDB-deposited MAG vs SPIRE MAG	GC content (%)					0.92	0.0506	both sets are metagenome-assembled	38	67.53	96	66.6
+FSM: GTDB-deposited MAG vs SPIRE MAG	Coding density (%)					-0.42	0.022	both sets are metagenome-assembled; within the PGAP/Prodigal annotation floor, not separable from method	38.0	93.16	96.0	93.58
+FSM MAGs: metric vs estimated completeness	Genome size (Mb)	96				rho = +0.26	0.01	binning loss should make less complete MAGs smaller and denser
+FSM MAGs: metric vs estimated completeness	GC content (%)	96				rho = +0.33	0.001	binning loss should make less complete MAGs smaller and denser
+FSM MAGs: metric vs estimated completeness	Coding density (%)	96				rho = -0.00	0.98	binning loss should make less complete MAGs smaller and denser
+FSM MAGs ≥99% complete vs all FSM MAGs	Genome size (Mb)	12	3.41	96	3.32	0.09		the most complete FSM MAGs are not larger
+FSM vs RGM effect against the largest binning offset	Genome size (Mb)					-2.73 vs 0.36		reported effect is 7.6x the largest isolate-vs-MAG offset
+FSM vs RGM effect against the largest binning offset	GC content (%)					-0.04 vs 0.80		FSM sits 0.04 points below RGM on exact GC; the largest isolate-vs-MAG offset is 0.80, and no GC shift is resolvable
+FSM vs RGM effect against the largest binning offset	Coding density (%), uniform Prodigal					+1.02 vs 0.61		reported effect is 1.7x the largest isolate-vs-MAG offset

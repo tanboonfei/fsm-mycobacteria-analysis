@@ -1,0 +1,14 @@
+Metric	FSM (n=134)	non-FSM <4 Mb (n=59)	other RGM/SGM (n=631)	p (FSM vs non-FSM small)
+Clade structure	1 monophyletic clade (39 species)	scattered: 44 species, RGM+SGM grades	-	-
+Independent <4 Mb origins (Fitch parsimony)	1 origin (122 small genomes)	bulk of 49 genome-wide transitions	-	-
+Genome size (median, Mb)	3.3	3.5	5.9	2e-2
+Pseudogenes (median)	4	7	9	3e-05
+Coding density (median, %; uniform Prodigal calls)	93.6	92.4	92.3	6e-15
+Coding density (median, %), SPIRE MAGs only	93.6	92.8	-	3e-05
+GC (median, %)	67.08	66.49	66.93	0.24 (n.s.)
+Microbial rhodopsin (%)	77 (103/134)	8 (5/59)	4	1.3e-19
+Urease (%)	2 (3/134)	41 (24/59)	68	1.3e-11
+Ectoine synthase (%)	1 (1/134)	17 (10/59)	34	3.4e-5
+Freshwater (low-salinity, of annotated)	74 (57/77)	100 (2/2; underpowered)	12	n.s. (small n)
+FSM and non-FSM small genomes share small size and low pseudogene load (both non-decayed); they differ in rhodopsin prevalence, retention of urease and ectoine, coding density and clade structure (p-values above).
+Coding density is reported from the single uniform Prodigal gene call applied to the 822 ingroup genomes with gene predictions (Table S27), not from the deposited annotations. That MAGs and reference assemblies are compared on one basis.

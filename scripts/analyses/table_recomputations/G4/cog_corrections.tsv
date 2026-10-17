@@ -1,0 +1,33 @@
+gene	old_category	new_category	evidence
+pap	Other/unknown	Energy production	polyphosphate kinase 2 (Pfam PPK2; eggNOG COG2326, NCBI COG 2020 category C); the eggNOG letter S understates a defined enzyme
+cfp2	Other/unknown	No COG assignment	no COG category in the eggNOG output for any of the 16 records; UniProt P9WIN7 'Low molecular weight antigen MTB12 (CFP-2)', function not established
+citB	Transcription	Signalling	KEGG K02475 'two-component system, CitB family, response regulator' (Pfam Response_reg plus HTH); eggNOG COG4565 category KT; assigned T like the other response regulator (resD)
+lpqD	Carbohydrate metab	Other/unknown	UniProt A0AAD1HJ89 'Histidine phosphatase family protein' (Pfam His_Phos_1; COG0406 broad-specificity phosphatase PhoE); the substrate is unknown and the symbol denotes a lipoprotein, so the carbohydrate label is not supported
+cyp147G1	Energy production	Secondary metabolites	cytochrome P450 (UniProt L7V838, Pfam p450); NCBI COG2124 is category QV (Q first); the eggNOG letter C is the electron-transport reading; grouped with the other P450 (cyp135B1)
+pchP	Amino-acid metab	Lipid metab	KEGG K21830 pchP 'phosphoethanolamine/phosphocholine phosphatase' (EC 3.1.3.75), phospholipid head-group metabolism; the eggNOG COG0560 letter E belongs to phosphoserine phosphatase
+eccD2	Other/unknown	Secretion	UniProt P9WNQ5 'ESX-2 secretion system protein eccD2' (type VII secretion membrane component); category U denotes secretion systems; eggNOG gives only S (no COG for EccD)
+pimE	Nucleotide metab	Cell wall/envelope	UniProt P9WN01 and A0R2K8: PimE, polyprenol-phosphate-mannose-dependent alpha-1,2 mannosyltransferase in PIM biosynthesis; KEGG K13669 pimE; Pfam GT87. The F letter came from a NUDIX domain (COG1051) of the representative
+mftF	Defence	Coenzyme metab	UniProt P9WMX1 and A0QSC1: pre-mycofactocin glycosyltransferase MftF (mycofactocin cofactor biosynthesis); Pfam Glycos_transf_2 (COG1216, GT2 family); the eggNOG letter V is not supported
+pqrB	Amino-acid metab	Defence	KEGG K08167 'MFS transporter, DHA2 family, multidrug resistance protein' (Pfam MFS_1); the eggNOG letters EGP gave E (amino acid) by first letter, which does not reflect a substrate
+cry1	Other/unknown	Replication/repair	KEGG K06876 phrB '(6-4)DNA photolyase' (EC 4.1.99.13); Pfam DPRP and FAD_binding_7; eggNOG description 'deoxyribodipyrimidine photolyase'; NCBI COG3046 (R) is 'related to photolyase'. Photolyase-related, repair function inferred by homology
+lpqC	Secondary metabolites	Other/unknown	UniProt A0AAX1JF51 'Esterase' (Pfam PF00326); KEGG K03932 lpqC polyhydroxybutyrate depolymerase; the eggNOG letter Q and the NCBI COG3509 letter G disagree and the substrate is unknown
+amiB2	Translation	Other/unknown	eggNOG COG0154 is the GatA-type 'amidotransferase A subunit or related amidase' (J), but UniProt P9WQ97 is 'Putative amidase AmiB2' (EC 3.5.1.4, Pfam Amidase), a free amidase; its substrate is unknown, so no functional category is asserted
+glpF	Secretion	Carbohydrate metab	NCBI COG0580 (glycerol uptake facilitator, MIP family) is category G; UniProt A0A0J6VU01 'Glycerol uptake facilitator protein' (Pfam MIP, KEGG K02440 glpF); a channel, not a secretion system
+lppJ	Other/unknown	No COG assignment	no COG category in the eggNOG output for any of the 31 records; UniProt P9WK77 'Putative lipoprotein LppJ'
+amtB	Secretion	Ion transport	NCBI COG0004 (AmtB ammonia channel) is category P; UniProt A0A7I7NVQ0 'Ammonium transporter' (Pfam Ammonium_transp, KEGG K03320 amt); the eggNOG letter U (secretion) is not supported
+parD1	Transcription	Defence	UniProt P9WIJ7 ParD1 antitoxin of a type II toxin-antitoxin system (KEGG K07746); toxin-antitoxin modules are category V in NCBI COG 2020 (COG2161, COG4115, COG1487); the eggNOG letter K reflects the RHH DNA-binding domain (COG3609)
+adhE2_1	Amino-acid metab	Other/unknown	UniProt A0A448IVU0 'Zinc-dependent alcohol dehydrogenase AdhE2' (EC 1.1.1.306, S-(hydroxymethyl)mycothiol dehydrogenase, formaldehyde detoxification); the COG1063 letters ER (threonine dehydrogenase) do not describe it
+lppN	Other/unknown	No COG assignment	no COG category in the eggNOG output for any of the 17 records; UniProt P9WK73 'Putative lipoprotein LppN'
+potH	Ion transport	Amino-acid metab	KEGG K11071/K11075 spermidine/putrescine ABC transporter permease (UniProt A0A7I9WH75); NCBI COG1176 is category E; potA of the same system is E
+mpt53	Energy production	PTM/chaperones	UniProt P9WG65 MPT53, disulfide oxidoreductase for secreted proteins (thioredoxin-like); NCBI COG0526 is category O; the eggNOG string CO gave C (energy) by first letter
+cyp135B1	Energy production	Secondary metabolites	cytochrome P450 (UniProt P63716, Pfam p450); NCBI COG2124 is category QV (Q first); the eggNOG letter C is the electron-transport reading
+prk	Energy production	Carbohydrate metab	UniProt W9BGX5 phosphoribulokinase (EC 2.7.1.19, Calvin cycle); NCBI COG3954 is category G; grouped with cbbL (G)
+mpb	Cell wall/envelope	Other/unknown	Fasciclin (FAS1)-domain protein; NCBI COG2335 'uncharacterised surface protein containing fasciclin repeats' is category R; no UniProt entry under this symbol; a cell-wall role is not established
+yoeB	Other/unknown	Defence	UniProt P9WF09 toxin RelK/YoeB (type II toxin-antitoxin ribonuclease; KEGG K19158); NCBI COG4115 is category V; eggNOG letter S
+relJ	Transcription	Defence	UniProt P9WF25 RelJ/YefM antitoxin (KEGG K19159); NCBI COG2161 is category V; eggNOG letters K/D
+relB	Transcription	Defence	UniProt O50462 RelB antitoxin of a type II toxin-antitoxin system (KEGG K19159); NCBI COG2161 is category V; eggNOG letters K/D
+vapC	Other/unknown	Defence	UniProt A0QRY6 VapC toxin (PIN-domain ribonuclease; type II toxin-antitoxin system); NCBI COG1487 is category V; eggNOG letter S
+fni	Energy production	Lipid metab	UniProt A0PL81 isopentenyl-diphosphate delta-isomerase, type 2 (isoprenoid biosynthesis); KEGG K01823 idi; NCBI COG1304 carries letters CIR, the C referring to L-lactate dehydrogenase-type members
+mpt	Cell wall/envelope	Other/unknown	Fasciclin (FAS1)-domain protein (UniProt D5P7B1); NCBI COG2335 is category R; a cell-wall role is not established
+MA20_16590	PTM/chaperones	Other/unknown	two-domain protein (Pfam Hydrolase_4 alpha/beta hydrolase plus OsmC); the eggNOG letter O (OsmC) and the NCBI COG1073 letter T disagree; the symbol is a locus tag
+nicT	Other/unknown	Ion transport	UniProt I6YEJ7 NicT, nickel transporter (nickel uptake); KEGG K07241 hoxN/nixA, NiCoT family; NCBI COG3376 is category P; the eggNOG letter S understates it

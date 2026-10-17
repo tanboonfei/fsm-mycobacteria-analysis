@@ -1,0 +1,25 @@
+depth_m	taxon	n_pairs	median_log2_L_over_S	pairs_L_higher	wilcoxon_p
+9	FSM	7	-0.18	3/7	0.375
+9	nonFSM_myco	8	2.02	7/8	0.015625
+9	acI_Nanopelagicales	8	-4.45	0/8	0.0078125
+9	Polynucleobacter	8	-3.68	0/8	0.0078125
+9	Midichloriaceae	8	4.75	8/8	0.0078125
+9	Rickettsiales	8	1.13	8/8	0.0078125
+9	Parachlamydiaceae	4	3.47	3/4	
+9	Megaera	8	0.53	6/8	0.4609375
+80	FSM	8	4.22	6/8	0.1953125
+80	nonFSM_myco	8	4.63	8/8	0.0078125
+80	acI_Nanopelagicales	8	0.48	5/8	0.3828125
+80	Polynucleobacter	8	0.32	6/8	0.3125
+80	Midichloriaceae	8	10.4	8/8	0.0078125
+80	Rickettsiales	8	5.18	8/8	0.0078125
+80	Parachlamydiaceae	8	7.39	7/8	0.0390625
+80	Megaera	7	8.54	7/7	0.015625
+all	FSM	15	1.86	9/15	0.67877197265625
+all	nonFSM_myco	16	2.94	15/16	6.103515625e-05
+all	acI_Nanopelagicales	16	-1.87	5/16	0.03863525390625
+all	Polynucleobacter	16	-1.78	6/16	0.03863525390625
+all	Midichloriaceae	16	6.57	16/16	3.0517578125e-05
+all	Rickettsiales	16	2.9	16/16	3.0517578125e-05
+all	Parachlamydiaceae	12	6.81	10/12	0.00927734375
+all	Megaera	15	2.39	13/15	0.0042724609375

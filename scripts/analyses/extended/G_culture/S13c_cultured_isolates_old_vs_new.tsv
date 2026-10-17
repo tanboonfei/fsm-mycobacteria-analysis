@@ -1,0 +1,44 @@
+group	n_genomes	clade	cultured_isolates	cultured_isolates_new	species	accessions
+1	3	SGM	3	3	Mycobacterium leprae; Mycobacterium lepromatosis; Mycobacterium uberis	GCF_000195855.1; GCF_000975265.2; GCF_003408705.1
+2	3	SGM	0	0	novel sp.	spire_mag_00709072; spire_mag_00709178; spire_mag_00709327
+3	3	SGM	0	0	novel sp.	spire_mag_00709062; spire_mag_00709337; spire_mag_02370757
+4	3	RGM	0	0	Mycobacterium fallax	spire_mag_01040802; spire_mag_01041225; spire_mag_01041320
+5	2	RGM	0	0	Mycobacterium sp020438915; Mycobacterium sp022601135	GCA_020438915.1; GCA_022601135.1
+6	2	RGM	0	0	Mycobacterium sp022601275; Mycobacterium sp964195655	GCA_022601275.1; GCA_964195655.1
+7	2	SGM	1	2	Mycobacterium sp001668625; Mycobacterium triviale	GCF_001668625.1; GCF_002102395.1
+8	2	RGM	0	0	Mycobacterium sp030666145	GCA_030666145.1; spire_mag_01584542
+9	2	SGM	0	0	Mycobacterium sp037140245; Mycobacterium sp903927745	GCA_037140245.1; GCA_903927745.1
+10	2	RGM	0	0	Mycobacterium sp034189785	GCA_034189785.1; spire_mag_01244826
+11	2	SGM	1	1	Mycobacterium parakoreense	GCF_022370835.2; spire_mag_01959179
+12	2	RGM	0	0	novel sp.	spire_mag_00709164; spire_mag_00709550
+13	1	RGM	0	0	Mycobacterium sp035345915	GCA_035345915.1
+14	1	RGM	0	0	Mycobacterium sp036273805	GCA_036273805.1
+15	1	RGM	0	0	Mycobacterium fallax	spire_mag_00877932
+16	1	RGM	1	1	Mycobacterium brumae	GCF_025215495.1
+17	1	RGM	0	0	Mycobacterium sp036263935	GCA_036263935.1
+18	1	RGM	0	0	Mycobacterium sp040511335	GCA_040511335.1
+19	1	RGM	0	0	Mycobacterium sp011620645	GCF_011620645.1
+20	1	RGM	0	0	Mycobacterium sp029256565	GCA_029256565.1
+21	1	SGM	1	1	Mycobacterium tilburgii	GCF_902168065.1
+22	1	SGM	0	0	Mycobacterium sp035472875	GCA_035472875.1
+23	1	SGM	0	0	novel sp.	spire_mag_00709385
+24	1	SGM	0	0	Mycobacterium sp035693385	GCA_035693385.1
+25	1	SGM	0	0	Mycobacterium sp036500645	GCA_036500645.1
+26	1	SGM	0	0	Mycobacterium sp028706695	GCA_028706695.1
+27	1	SGM	0	0	Mycobacterium sp039583405	GCA_039583405.1
+28	1	SGM	0	0	Mycobacterium sp019751635	GCA_019751635.1
+29	1	SGM	0	0	Mycobacterium sp035642315	GCA_035642315.1
+30	1	SGM	0	0	Mycobacterium sp035552835	GCA_035552835.1
+31	1	SGM	0	0	Mycobacterium sp036746615	GCA_036746615.1
+32	1	SGM	0	0	Mycobacterium sp035606475	GCA_035606475.1
+33	1	SGM	0	0	Mycobacterium sp036519055	GCA_036519055.1
+34	1	SGM	0	0	Mycobacterium sp039583805	GCF_039583805.1
+35	1	SGM	0	0	Mycobacterium sp008709575	GCF_008709575.1
+36	1	SGM	0	0	Mycobacterium sp019246375	GCA_019246375.1
+37	1	SGM	0	0	Mycobacterium sp029961025	GCF_029961025.1
+38	1	SGM	0	0	novel sp.	spire_mag_02374351
+39	1	SGM	0	0	Mycobacterium sp039922455	GCA_039922455.1
+40	1	SGM	0	0	Mycobacterium sp039935195	GCA_039935195.1
+41	1	SGM	0	0	Mycobacterium sp035721065	GCA_035721065.1
+42	1	SGM	0	0	Mycobacterium sp019242135	GCA_019242135.1
+43	1	SGM	0	0	Mycobacterium sp035651275	GCA_035651275.1

@@ -1,0 +1,13 @@
+accession	reference	functional class
+P02945	BR_Halobacterium	ProtonPump_DTD
+Q9F7P4	GreenProteorhodopsin	ProtonPump_DTE
+Q9AFF7	BlueProteorhodopsin	ProtonPump_DTE
+Q2S2F8	Xanthorhodopsin	ProtonPump_DTE
+Q7NP59	GloeobacterRhodopsin	ProtonPump_DTE
+P42196	SensoryRhodopsinII	Sensory
+N0DKS8	KR2_NaPump	SodiumPump_NDQ
+P15647	SensoryRhodopsinI	Sensory
+P94854	Halorhodopsin	ChloridePump
+C0K2L2	Actinorhodopsin_freshwater	Actino
+C0K2K6	Actinorhodopsin_freshwater	Actino
+Diagnostic residues were read against the bacteriorhodopsin anchor P02945; because that entry carries a 13-residue presequence, mature D85, T89, D96 and K216 are precursor positions 98, 102, 109 and 229.

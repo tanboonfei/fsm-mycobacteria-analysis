@@ -1,0 +1,5 @@
+clade	n	mean	median	per_Mb_mean	size_Mb
+FSM	88	324.1	329.0	97.6	3.3
+RGM	58	404.1	413.0	73.4	5.9
+SGM	43	383.4	394.0	80.2	5.1
+The raw FSM-RGM difference tracks genome size and does not survive controlling for it (OLS on clade + genome size: beta(FSM) = -9.0 pathways, p = 0.19). Per Mb, FSM completes more.

@@ -1,0 +1,31 @@
+{
+  "command": [
+    "/usr/lib/hyphy/bin/hyphy-avx",
+    "LIBPATH=/usr/share/hyphy",
+    "CPU=4",
+    "relax",
+    "--alignment",
+    "/path/to/project/analysis_3way/three_way.codon.fa",
+    "--tree",
+    "/path/to/project/analysis/reanalysis/common_reference_FSM_tips_stem.nwk",
+    "--test",
+    "Test",
+    "--reference",
+    "Reference",
+    "--code",
+    "Universal",
+    "--models",
+    "Minimal",
+    "--srv",
+    "No",
+    "--output",
+    "/path/to/project/analysis/reanalysis/common_reference_FSM_tips_stem.json"
+  ],
+  "started_utc": "2026-09-07T09:33:23.372482+00:00",
+  "environment_overrides": {
+    "OMP_NUM_THREADS": "4",
+    "OPENBLAS_NUM_THREADS": "1"
+  },
+  "returncode": 0,
+  "finished_utc": "2026-09-07T10:06:30.105734+00:00"
+}

@@ -1,0 +1,13 @@
+Panel	Model	Gain rate	Loss rate	Expected stem losses, joint P(present at parent, absent at crown), all 1,245	Of which among the 53	Families with joint P >= 0.95 (of which in 53)	Families with joint P >= 0.90 (of which in 53)	Expected loss events on stem (all / 53)	Previously reported product sum (castor marginals)	Previously reported confident 0.95/0.05; 0.90/0.10
+243 genomes	pooled ER (gain = loss)	0.461	0.461	57	40.5	0 (0)	51 (40)	57.2 / 40.6	57.6	49; 53
+243 genomes	gain = loss/2	0.2305	0.461	55.5	41.4	44 (38)	53 (42)	55.6 / 41.4	54.1	0; 48
+243 genomes	gain = loss/5	0.0922	0.461	53.7	42	38 (36)	47 (40)	53.8 / 42.0	46.7	0; 1
+243 genomes	gain = loss/10	0.0461	0.461	50.8	42	38 (36)	42 (39)	50.8 / 42.0	37	0; 0
+243 genomes	gain = loss/100 (Dollo-like)	0.00461	0.461	40	37.7	33 (32)	38 (36)	40.0 / 37.7	12.2	0; 0
+243 genomes	gain = loss x2	0.922	0.461	57.9	38.9	0 (0)	51 (39)	58.4 / 38.9	57.9	0; 46
+178 genomes (>=95% complete)	pooled ER (gain = loss)	0.2935	0.2935	57.7	41	49 (39)	52 (41)	57.8 / 41.0	58.2	49; 52
+178 genomes (>=95% complete)	gain = loss/2	0.1468	0.2935	55.7	41.5	51 (41)	51 (41)	55.8 / 41.6	54.6	47; 52
+178 genomes (>=95% complete)	gain = loss/5	0.05871	0.2935	54.3	42.1	47 (40)	49 (40)	54.4 / 42.1	49.8	0; 41
+178 genomes (>=95% complete)	gain = loss/10	0.02935	0.2935	53	42.3	42 (40)	45 (40)	53.0 / 42.3	41.8	0; 0
+178 genomes (>=95% complete)	gain = loss/100 (Dollo-like)	0.002935	0.2935	43.2	41.1	41 (39)	41 (39)	43.2 / 41.1	15.5	0; 0
+178 genomes (>=95% complete)	gain = loss x2	0.5871	0.2935	59.4	40	37 (28)	52 (39)	59.6 / 40.0	60.1	0; 55

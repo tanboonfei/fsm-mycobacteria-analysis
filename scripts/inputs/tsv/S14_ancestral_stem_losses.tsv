@@ -1,0 +1,55 @@
+gene	family_id	prev_RGM_pct	prev_SGM_pct	prev_FSM_hc_pct	COG_category
+egtE	egtE	98	84	0	Amino-acid metab
+citE	citE	100	92	0	Carbohydrate metab
+aglA	aglA	97	98	7	Carbohydrate metab
+cwsA	cwsA	96	90	0	Cell cycle
+mycP4	mycP4	96	84	0	Cell wall
+egtA	egtA	99	92	0	Coenzyme metab
+thiC	thiC	92	98	0	Coenzyme metab
+panD	panD	92	98	2	Coenzyme metab
+cydD	cydD	96	82	3	Defence
+cydC	cydD	96	82	3	Defence
+pyc	pyc	100	94	7	Energy production
+rubA	rubA	99	98	5	Energy production
+cydA	cydA	98	82	3	Energy production
+cydB	cydB	97	80	3	Energy production
+limB	limB_5	94	98	3	Energy production
+sthA	sthA	89	80	7	Energy production
+limB	limB	86	86	0	Energy production
+bluB	mce4F	84	92	0	Energy production
+lprQ	lprQ	98	98	7	Function unknown
+sbp	sbp	98	94	8	Function unknown
+esxU	esxU	98	82	0	Function unknown
+esxT	esxU	98	82	0	Function unknown
+egtD	egtD	97	92	2	Function unknown
+egtB	egtC	97	92	0	Function unknown
+egtC	egtC	97	92	0	Function unknown
+amiB1	amiB1	94	82	0	Function unknown
+fadE36	fadE36	93	80	2	Function unknown
+lin	lin	90	86	8	Function unknown
+doxX	doxX	89	80	3	Function unknown
+yhfQ	yhfQ	100	92	8	Ion transport
+viuB	viuB	98	100	3	Ion transport
+fadD15	fadD15	98	100	0	Lipid metab
+accD3	cwsA	96	90	0	Lipid metab
+echA13	echA13	95	90	0	Lipid metab
+echA8	echA8_4	93	80	0	Lipid metab
+fadE12	fadE12_1	91	80	0	Lipid metab
+accD4	accD4_2	88	82	0	Lipid metab
+fadD9	fadD9	86	94	2	Lipid metab
+purT	purT	99	96	0	Nucleotide metab
+deoA	deoA	97	94	0	Nucleotide metab
+yqjG	yqjG	91	80	2	PTM/chaperones
+disA	disA	94	84	7	Replication/repair
+lprN	lprN	86	90	0	Secondary metabolites
+mce4D	mce4D	86	90	2	Secondary metabolites
+mce4C	mce4C	85	88	2	Secondary metabolites
+mce4B	mce4B	85	90	2	Secondary metabolites
+mce4A	mce4A	85	88	0	Secondary metabolites
+mce4F	mce4F	84	92	0	Secondary metabolites
+kdpD	kdpD	91	94	8	Signalling
+acnR	viuB	98	100	3	Transcription
+sirR	sirR	98	100	2	Transcription
+alkA	alkA	91	82	8	Transcription
+amiA2	amiA2	86	96	7	Translation
+The 53 families listed here are those at ≥80% prevalence in both RGM and SGM that fall to ≤10% prevalence in the high-completeness FSM MAGs. Of the 53, an equal-rates reconstruction places 33 as present at the node preceding the FSM stem and absent at the crown (Table S15).

@@ -1,0 +1,6 @@
+species	accession_version	assembly_length_bp	genome_size_Mb	coding_density_prodigal	GC_pct	coding_density_ncbi_pgap
+Mycobacterium leprae	GCF_000195855.1	3268203	3.268	68.96	57.8	53.13
+Mycobacterium lepromatosis	GCF_000975265.2	3271694	3.272	68.61	57.89	53.08
+Mycobacterium uberis	GCF_003408705.1	3122721	3.123	72.74	57.49	60.32
+Sizes are measured from the analysed assemblies. Other assembly versions of M. lepromatosis differ by tens of kilobases; the matched-size comparison in the text is stated against these accessions.
+PGAP coding density is computed from the deposited protein set (sum of CDS nucleotide lengths, stop codons included, over assembly length); PGAP excludes pseudogenes from that set, where Prodigal calls the same decayed frames as genes. Against FSM at 93.6% the gap is 21-25 points on the uniform Prodigal calls and 33-41 points on the deposited annotation.

@@ -1,0 +1,10 @@
+model	beta_FSM	IRR	p
+count ~ clade	-0.9204	0.398	3.1399999999999995e-23
+count ~ clade + contigs/Mb	-1.0581	0.347	1.2799999999999999e-30
+rate ~ clade (offset log Mb)	-0.3666	0.693	2.8e-05
+rate ~ clade + contigs/Mb (offset log Mb)	-0.5076	0.602	2.35e-09
+rate ~ clade + contigs/Mb + completeness (offset log Mb)	-0.5531	0.575	1.45e-09
+rate ~ clade (offset log Mb), 503 genomes with a retained per-genome count	-0.3828	0.682	0.0012
+rate ~ clade + contigs/Mb (offset log Mb), 503 genomes with a retained per-genome count	-0.8468	0.429	1.3e-11
+The MAG rows hold assembly type constant. The 503-genome rows add the 260 cultured isolates to the 243 MAGs, which means that they are not restricted to binned genomes. Bakta was run on all 823 ingroup genomes with a retrievable assembly (Table S28), but per-genome pseudogene counts were retained for 503 of them; every pseudogene comparison reported in the paper runs on that panel, which is the one listed per genome in Table S5. Clade medians across the 503: FSM 4 pseudogenes (1.17 per Mb), RGM 9 (1.41), SGM 9 (1.68); the MAG-only SGM median of 18 is inflated by binning.
+Without a genome-size offset the comparison is of counts, and a clade whose genomes are half the size is credited with a deficit that is partly arithmetic. With log genome size as an offset the FSM rate ratio is 0.69, and 0.60 once contigs per Mb is included.

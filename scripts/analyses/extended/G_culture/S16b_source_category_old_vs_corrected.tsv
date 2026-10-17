@@ -1,0 +1,9 @@
+category	FSM (published)	Outside (published)	RGM (published)	SGM (published)	FSM (corrected)	Outside (corrected)	RGM (corrected)	SGM (corrected)
+aquarium/aquaculture	1	0	0	0	1	0	0	0
+host-associated	4	2	48	25	4	1	24	16
+other/unknown	7	6	68	60	7	2	23	18
+sediment	23	0	12	2	23	0	8	2
+soil/wetland	7	1	59	75	7	0	44	75
+wastewater/engineered	13	0	28	1	13	0	26	1
+water column	79	1	44	8	79	0	39	8
+total	134	10	259	171	134	3	164	120

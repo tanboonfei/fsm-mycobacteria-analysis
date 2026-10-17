@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+scripts/run_output/
+.Rhistory
+.RData
+.DS_Store
+*.bak

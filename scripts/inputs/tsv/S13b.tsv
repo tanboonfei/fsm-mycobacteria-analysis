@@ -1,0 +1,4 @@
+clade	populations	median piN/piS	values
+FSM	6	0.113	0.102, 0.103, 0.107, 0.120, 0.157, 0.222
+RGM	7	0.098	0.052, 0.079, 0.087, 0.098, 0.134, 0.150, 0.162
+Two-sided Mann–Whitney		p = 0.29

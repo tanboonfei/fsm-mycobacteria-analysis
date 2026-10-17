@@ -1,0 +1,10 @@
+Test	Trait / quantity	Statistic	p-value	Interpretation
+Phylogenetic logistic regression (phyloglm)	rhodopsin presence ~ FSM	beta = +2.05, alpha 4.89	4.6e-4	Opsin enriched in FSM independently of phylogeny
+PGLS (Pagel lambda, ML)	genome size ~ FSM	coef -1.96, lambda 0.982	0.025	Shift loaded on the single FSM stem; gls/corPagel(ML) gives -1.69, p = 0.042
+PGLS	coding density ~ FSM	coef +1.76, lambda 0.995	0.30	Not separable once the single origin is modelled; gls/corPagel(ML) gives +1.83, p = 0.29
+PGLS	acidic-residue % ~ FSM	coef -0.29, lambda 0.983	0.039	gls/corPagel(ML) gives -0.30, p = 0.028
+PGLS	GC% ~ FSM	coef +0.35, lambda 0.998	0.69	gls/corPagel(ML) gives -0.01, p = 1.00; recomputed on exact GC
+Permutation vs random same-size clades	continuous traits	8 comparable clades only	0.13-0.75	Underpowered (few clades of comparable size)
+Sandpiper metagenome detections	FSM SRA-run detections (18/39 species)	8,499/8,675 ecological	-	98% environmental (vs 88% in RGM and 89% in SGM); widespread
+Sandpiper relative abundance	median of the per-species minimum relative abundance	~4.4e-5	-	Present at low relative abundance (not bloom-forming)
+"Methods: continuous traits by phylolm (model = ""lambda"", ML) and the opsin by phylolm::phyloglm (logistic_MPLE) on the 824-tip ingroup, with FSM against RGM plus SGM; coding density is the uniform Prodigal column. Script: the R script supplied with the analysis code. Every continuous fit was repeated with nlme::gls and corPagel(ML), the form given in an earlier version of this table, and the two agree (the cross-check values are in the interpretation column). The values this table carried before 2026-09-12 came from neither fit and could not be reproduced; the coding-density row in particular had been computed on the superseded deposited annotation. Abundance and prevalence from Sandpiper SingleM profiles (per-species ecological against host run counts)."

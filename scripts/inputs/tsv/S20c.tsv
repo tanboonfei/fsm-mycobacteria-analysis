@@ -1,0 +1,9 @@
+Class / feature	Value	Forms a clade?
+DTE (Glu donor) canonical proton-pump motif	67% of opsins	paraphyletic majority
+DTG (Gly, donor lost) class	28% of opsins	monophyletic subclade
+Partial / uncertain (fragmented or ambiguous)	~5%	-
+Near-full-length opsins (≥230 aa)	91%	-
+Carotenoid-cleavage oxygenase (PF03055) in rhodopsin+ FSM	present in essentially all	-
+crt carotenoid pathway in rhodopsin+ FSM	present	-
+Retinal-producing Blh/Brp/BCO1-type support (oxygenase tree)	not testable on the PF03055 tree (Table S23)	-
+DTG-type is the only opsin present (genome level)	19 of 78 opsin-positive genomes = 24%

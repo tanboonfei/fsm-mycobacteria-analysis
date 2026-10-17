@@ -1,0 +1,60 @@
+gene	old_description_in_S19_eggNOG	new_description	evidence
+ptsG	phosphotransferase system, EIIB	glucose-family PTS permease, single-chain EIICBA	UniProt A0A0J6Y0P8 (Mycolicibacterium chlorophenolicum); COG1263; Pfam PTS_EIIA_1+PTS_EIIB+PTS_EIIC; K02755/K02756/K02757
+crtD	Flavin containing amine oxidoreductase	carotenoid 3,4-desaturase, CrtI/CrtD family (FAD-dependent)	UniProt A0A0J6Z2L4 (Mycolicibacterium chubuense); COG1233; Pfam Amino_oxidase; K09845
+pap	Polyphosphate kinase 2 (PPK2)	polyphosphate kinase 2 (PPK2 family)	no UniProt entry with this symbol in Mycobacteriaceae; COG2326; Pfam PPK2
+cutC	Participates in the control of copper homeostasis	copper homeostasis protein CutC	no UniProt entry with this symbol in Mycobacteriaceae; COG3142; Pfam CutC; K06201
+ppaC	Catalyzes the hydrolysis of pyrophosphate to phosphate	manganese-dependent inorganic pyrophosphatase (family II)	UniProt A0A0H5RSW0 (Mycolicibacterium neworleansense); COG1227; Pfam DHH+DHHA2; K15986
+chaA	Sodium/calcium exchanger protein	Ca2+/H+ antiporter ChaA (Na_Ca_ex family)	UniProt A0A0F4ER20 (M. lepromatosis); COG0387; Pfam Na_Ca_ex; K07300
+deoD_1	uridine phosphorylase activity	purine nucleoside phosphorylase DeoD (PNP_UDP_1 family)	UniProt P9WP01 (M. tuberculosis); COG2820; Pfam PNP_UDP_1; K00757
+ybbC	protein conserved in bacteria	DUF1343 family protein YbbC (uncharacterised)	UniProt A0ABQ4VCI4 (Mycolicibacterium cyprinidarum); COG3876; Pfam DUF1343
+pnuC	nicotinamide mononucleotide transporter	nicotinamide riboside / NMN transporter PnuC	UniProt A0ABV3VF10 (Mycolicibacterium porcinum); COG3201; Pfam NMN_transporter; K03811
+cfp2	nan	low molecular weight antigen MTB12 (CFP-2); function not established	UniProt P9WIN7 (M. tuberculosis)
+sadh	alcohol dehydrogenase	SadH-type putative oxidoreductase (alcohol dehydrogenase family)	UniProt P9WGP9 (M. tuberculosis); COG1064; Pfam ADH_N+ADH_zinc_N; K13953/K18382
+yeeR	methyltransferase activity	isoprenylcysteine carboxyl methyltransferase family protein (Ste14/PEMT family)	no UniProt entry with this symbol in Mycobacteriaceae; COG2020; Pfam PEMT; K00223/K21310
+citB	transcriptional regulatory protein	CitB-family two-component response regulator (DNA-binding)	no UniProt entry with this symbol in Mycobacteriaceae; COG4565; Pfam HTH_11+HTH_IclR+Response_reg+TrmB; K02475
+galE	Belongs to the NAD(P)-dependent epimerase dehydratase family	UDP-glucose 4-epimerase GalE	UniProt A0ABM9L9L9 ([Mycobacterium] burgundiense); COG1087; Pfam Epimerase; K01784
+nagB	Catalyzes the reversible isomerization-deamination of glucosamine 6-phosphate (GlcN6P) to form fructose 6-phosphate (Fru6P) and ammonium ion	glucosamine-6-phosphate deaminase NagB	UniProt A0QU88 (Mycolicibacterium smegmatis); COG0363; Pfam Glucosamine_iso; K02564
+fadD11_1	synthetase	long-chain-fatty-acid--CoA ligase FadD11 (AMP-binding)	UniProt P9WQ52 (M. tuberculosis); COG1022; Pfam AMP-binding; K01897
+esxC	Belongs to the WXG100 family	ESAT-6-like protein EsxC (WXG100 family)	UniProt Q9K548 (Mycolicibacterium paratuberculosis); Pfam WXG100
+PE36	PE family	PE-family protein PE36 (PE domain)	UniProt A0A1V3XA07 (M. kansasii); Pfam PE
+lpqD	phosphoglycerate mutase	histidine phosphatase family protein (phosphoglycerate mutase-like, Pfam His_Phos_1); substrate unknown	UniProt A0AAD1HJ89 (Mycolicibacterium aichiense); COG0406; Pfam His_Phos_1
+nagE	phosphotransferase system, EIIB	PTS N-acetylglucosamine-specific EIICBA component NagE	no UniProt entry with this symbol in Mycobacteriaceae; COG1263; Pfam PTS_EIIA_1+PTS_EIIB+PTS_EIIC; K02802/K02803/K02804
+cyp147G1	cytochrome p450	cytochrome P450 CYP147G1	UniProt L7V838 (M. liflandii); COG2124; Pfam p450
+eccD2	WXG100 protein secretion system (Wss), protein YukD	ESX-2 type VII secretion system membrane protein EccD2	UniProt P9WNQ5 (M. tuberculosis); Pfam YukD
+rpfE	Transglycosylase-like domain	resuscitation-promoting factor RpfE (peptidoglycan hydrolase)	UniProt O53177 (M. tuberculosis); COG1388; Pfam Transglycosylas; K21687/K21691
+mftF	Glycosyl transferase, family 2	pre-mycofactocin glycosyltransferase MftF (GT2)	UniProt A0QSC1 (Mycolicibacterium smegmatis); COG1216; Pfam Glycos_transf_2
+lys1	Saccharopine dehydrogenase	saccharopine dehydrogenase	UniProt A0A7I7Q9Q8 (M. stomatepiae); COG1748; Pfam Sacchrp_dh_C+Sacchrp_dh_NADP; K00290
+ptbA	phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1	PTS glucose-family EIIA component PtbA	no UniProt entry with this symbol in Mycobacteriaceae; COG2190; Pfam PTS_EIIA_1; K02777/K02802
+crtT	Methyltransferase	methyltransferase (UbiE/Methyltransf_25 fold) annotated crtT; carotenoid O-methyltransferase role rests on the symbol	UniProt D5PIT4 (M. parascrofulaceum ATCC BAA-614); COG2226; Pfam Methyltransf_25+Ubie_methyltran
+lipQ	Prolyl oligopeptidase family	esterase/lipase LipQ (prolyl oligopeptidase family)	UniProt I6Y9F7 (M. tuberculosis); COG0657; Pfam Abhydrolase_3
+sodC	Destroys radicals which are normally produced within the cells and which are toxic to biological systems	Cu/Zn superoxide dismutase SodC	UniProt P9WGE9 (M. tuberculosis); COG2032; Pfam Sod_Cu; K04565
+whiB5	Acts as a transcriptional regulator. Probably redox- responsive. The apo- but not holo-form probably binds DNA	WhiB-family redox-responsive transcription factor WhiB5	UniProt P71592 (M. tuberculosis); Pfam Whib; K18956
+rhlG	reductase	3-oxoacyl-ACP reductase-like short-chain dehydrogenase RhlG	UniProt A0A4V3HZR4 (Mycobacteroides salmoniphilum); COG1028; Pfam adh_short_C2; K00046
+nhaP	Sodium/hydrogen exchanger family	K+/H+ antiporter NhaP (Na_H_Exchanger family)	UniProt A0A0J6Z3T9 (Mycolicibacterium chubuense); COG0025; Pfam Na_H_Exchanger
+cry1	deoxyribodipyrimidine	(6-4) photolyase-related protein (DPRP family, FAD_binding_7)	no UniProt entry with this symbol in Mycobacteriaceae; COG3046; Pfam DPRP+FAD_binding_7; K06876
+lpqC	esterase	esterase LpqC (polyhydroxybutyrate depolymerase family); substrate unknown	UniProt A0AAX1JF51 (M. kubicae); COG3509; Pfam Esterase_phd; K03932
+amiB2	Belongs to the amidase family	putative amidase AmiB2 (amidase signature family)	UniProt P9WQ97 (M. tuberculosis); COG0154; Pfam Amidase; K01426
+glpF	Belongs to the MIP aquaporin (TC 1.A.8) family	glycerol uptake facilitator (MIP aquaglyceroporin)	UniProt A0A0J6VU01 (Mycolicibacterium chubuense); COG0580; Pfam MIP; K02440
+potA	Part of the ABC transporter complex PotABCD involved in spermidine putrescine import. Responsible for energy coupling to the transport system	spermidine/putrescine import ATP-binding protein PotA	UniProt A1TAI4 (Mycolicibacterium vanbaalenii); COG3842; Pfam ABC_tran+TOBE_2; K11072
+tdsD	nitroreductase	nitroreductase-family protein TdsD	no UniProt entry with this symbol in Mycobacteriaceae; COG0778; Pfam Nitroreductase
+aguA	Belongs to the agmatine deiminase family	agmatine/peptidylarginine deiminase family protein AguA	no UniProt entry with this symbol in Mycobacteriaceae; COG2957; Pfam PAD_porph; K10536
+lppN	nan	putative lipoprotein LppN	UniProt P9WK73 (M. tuberculosis)
+lppR_1	PknH-like extracellular domain	PknH-like sensor-domain lipoprotein LppR	UniProt A0A1X1SYB5 (M. conspicuum); Pfam PknH_C
+crtL	COG0654 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases	lycopene beta-cyclase, CrtL/CrtY family	UniProt A0A3S4SR50 (Mycolicibacterium aurum); COG0644; Pfam Lycopene_cycl; K06443
+potH	ABC-type spermidine putrescine transport system, permease component I	spermidine/putrescine ABC transporter permease PotH	UniProt A0A7I9WH75 (Mycolicibacterium tokaiense); COG1176; Pfam BPD_transp_1; K11071
+cyp135B1	cytochrome p450	cytochrome P450 CYP135B1	UniProt P63716 (M. bovis); COG2124; Pfam p450
+prr_1	Belongs to the aldehyde dehydrogenase family	NAD-dependent aldehyde dehydrogenase (Prr)	UniProt A0A7I7RVS1 (Mycolicibacterium arabiense); COG1012; Pfam Aldedh; K00130
+mspA	PFAM MspA	MspA-family porin (Pfam MspA)	UniProt A0QR29 (Mycolicibacterium smegmatis); Pfam MspA
+citE_2	Belongs to the HpcH HpaI aldolase family	citrate lyase beta-subunit-like protein CitE (HpcH/HpaI aldolase family)	UniProt P9WPE1 (M. tuberculosis); COG2301; Pfam HpcH_HpaI; K01644
+resD	PFAM response regulator receiver	DNA-binding response regulator ResD	UniProt A0QR58 (Mycolicibacterium smegmatis); COG0745; Pfam Response_reg+Trans_reg_C
+ptsI	General (non sugar-specific) component of the phosphoenolpyruvate-dependent sugar phosphotransferase system (sugar PTS). This major carbohydrate active-transport system catalyzes the phosphorylation of incoming sugar substrates concomitantly with their translocation across the cell membrane. Enzyme I transfers the phosphoryl group from phosphoenolpyruvate (PEP) to the phosphoryl carrier protein (HPr)	phosphoenolpyruvate-protein phosphotransferase (PTS enzyme I)	UniProt A0A0J6YCN8 (Mycolicibacterium chlorophenolicum); COG1080; Pfam PEP-utilisers_N+PEP-utilizers+PEP-utilizers_C; K08483
+asnC	AsnC family	AsnC/Lrp-family transcriptional regulator	UniProt A0A7I9WVQ3 (Mycolicibacterium tokaiense); COG1522; Pfam AsnC_trans_reg+HTH_24+HTH_AsnC-type; K03718
+ptsH	HPr family	phosphocarrier protein HPr (PtsH)	UniProt A0A3S4RKH7 (Mycolicibacterium chitae); COG1925; Pfam PTS-HPr; K11189
+tesA	thioesterase	thioesterase TesA	UniProt P9WQD5 (M. tuberculosis); COG3208; Pfam Thioesterase
+papA5	Catalyzes diesterification of phthiocerol and phthiodiolone with mycocerosic acids, the final step in the phthiocerol and phthiodiolone dimycocerosate esters (PDIM) synthesis. Can directly transfer the mycocerosate bound to the mycocerosic acid synthase (mas) onto the substrate alcohols	phthiocerol/phthiodiolone dimycocerosyl transferase PapA5	UniProt P9WIN5 (M. tuberculosis); COG1020; Pfam Condensation+PapA_C; K16023
+csxA	Belongs to the glycosyl hydrolase 2 family	exo-beta-D-glucosaminidase (glycoside hydrolase family 2)	UniProt A0A0J6VWB3 (Mycolicibacterium chlorophenolicum); COG3250; Pfam Glyco_hydro_2+Glyco_hydro_2_N; K01192/K15855
+mpt	Fasciclin	fasciclin-domain secreted protein MPT (FAS1 repeats); function not established	UniProt D5P7B1 (M. parascrofulaceum ATCC BAA-614); COG2335; Pfam Fasciclin
+pdc	Belongs to the TPP enzyme family	thiamine-pyrophosphate-dependent alpha-keto-acid decarboxylase	UniProt A0R480 (Mycolicibacterium smegmatis); COG3961; Pfam TPP_enzyme_C+TPP_enzyme_M+TPP_enzyme_N; K04103/K21431
+nicT	Belongs to the NiCoT transporter (TC 2.A.52) family	nickel transporter NicT (NiCoT family)	UniProt I6YEJ7 (M. tuberculosis); COG3376; Pfam NicO; K07241
+cysE	Serine acetyltransferase	serine acetyltransferase CysE	UniProt P95231 (M. tuberculosis); COG1045; Pfam Hexapep+SATase_N; K00640
+hoxK	NADH ubiquinone oxidoreductase, 20	Ni,Fe-hydrogenase small subunit HoxK	no UniProt entry with this symbol in Mycobacteriaceae; COG1740; Pfam NiFe_hyd_SSU_C+Oxidored_q6; K06282

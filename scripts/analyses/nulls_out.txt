@@ -1,0 +1,7 @@
+BM null FSM vs RGM           identity n=525 obs -2.596 null sd 4.779 p = 0.595 | simulated tip range -24.36 to 30.97
+BM null FSM vs RGM           log    n=525 obs -0.570 null sd 1.253 p = 0.651 | simulated tip range -6.13 to 8.97
+BM null FSM vs ingroup       identity n=824 obs -2.283 null sd 4.240 p = 0.594 | simulated tip range -20.56 to 29.59
+BM null FSM vs ingroup       log    n=824 obs -0.511 null sd 1.060 p = 0.644 | simulated tip range -5.21 to 8.29
+
+Opsin: n=525 positives=122 observed OR=62.77 fitted ER rate=1.2019
+Original design: replicates with <=5 or >=520 positives (near-monomorphic) = 0.0%; median OR 1.04

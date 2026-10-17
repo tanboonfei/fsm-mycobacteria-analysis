@@ -1,0 +1,3 @@
+Note. One row per population, defined as a species with at least four MAGs. With five FSM and six RGM populations the comparison is exploratory; the two-sided Mann–Whitney gives p = 0.4 and the smallest attainable p is 0.004.
+
+Note. Relaxing the threshold from four MAGs to three adds one FSM and one RGM population. FSM remains marginally higher than RGM and the difference remains non-significant, as in the four-MAG analysis above. Genes per population: a random sample of up to 80 single-copy genes shared by all members of the population, drawn under a fixed seed.

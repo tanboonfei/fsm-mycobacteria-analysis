@@ -1,0 +1,3 @@
+Q4PNI0 {'FSM': 2} of MAGs per clade {'RGM': 97, 'FSM': 96, 'SGM': 50, 'other': 3} | FSM identity range (21.6, 27.4)
+Q9HNE6 {'FSM': 34, 'SGM': 3, 'RGM': 1} of MAGs per clade {'RGM': 97, 'FSM': 96, 'SGM': 50, 'other': 3} | FSM identity range (28.1, 31.4)
+FSM MAGs: Blh-like+opsin+ 31, Blh-like+opsin- 3, Blh-like- opsin+ 47, neither 15; Fisher p = 0.0996

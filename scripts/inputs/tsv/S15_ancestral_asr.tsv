@@ -1,0 +1,39 @@
+reconstruction	n_tips	n_families	confidently_present_at_crown_node	confidently_absent_at_crown_node	unresolved	crown_absent_min	crown_absent_max	present_at_crown_node_and_now_lost_cladewide	cladewide53_confidently_absent	cladewide53_unresolved	cladewide53_present
+all genomes with gene-family data	243	1245	1086	44	115	44	159	0	42	11	0
+genomes at ≥95% completeness	178	1245	1078	48	119	48	167	0	40	13	0
+Families were classified as confidently present (P ≥ 0.95), confidently absent (P ≤ 0.05) or unresolved, rather than split at 0.5, which assigns every unresolved family to one side. Equal rates was prespecified for the primary reconstruction. An all-rates-different model was fitted for comparison: it is uninformative for 1,006 of the 1,245 families, returning a marginal probability near 0.5 at the stem, and among the 239 for which it is informative it gives a different confident classification from equal rates for 112. Among the families underlying the clade-wide loss set it agrees with equal rates for 23 of the 53, is confident alongside equal rates for 30 and makes an opposite confident call for 12. The stem assignment is therefore model-dependent and the counts reported are the equal-rates result.
+Extant conserved-family counts (of the 1,245), for comparison with the reconstructed crown node
+clade	median families carried
+RGM	1219
+FSM	1124
+SGM	1212
+The FSM crown node is reconstructed with 1,086-1,201 of these families against a median of 1,219 carried by extant RGM genomes. Note these are CROWN-node values; the node preceding the stem gives 1,139 confidently present and only 6 confidently absent.
+Reconstruction at both nodes (all 1,245 genus-conserved families, ER Mk model)
+node	confidently present (P≥0.95)	confidently absent (P≤0.05)	unresolved
+FSM crown node (last common ancestor of the extant clade)	1086	44	115
+node subtending the stem branch (ancestor shared with the sister lineage)	1139	6	100
+The 38-family net increase in confident absence between the two nodes resolves into 33 traceable present-to-absent losses on the stem branch plus 5 unresolved-to-absent cases.
+Per-family transition between the two nodes (all 1,245 families)
+state at node preceding the stem	-> absent at crown	-> present at crown	-> unresolved at crown
+absent	6	0	0
+present	33	1086	20
+unresolved	5	0	95
+The 33 families present at the preceding node and absent at the crown are the traceable stem-branch losses. A further 5 are absent at the crown from an unresolved preceding state, which is why the net difference in confident absence (44 - 6 = 38) exceeds the confident transition count. No family reverses. Per-family probabilities at both nodes are tabulated in S15c below.
+Scale of reduction: gene families versus gene copies (SPIRE MAGs, Prodigal CDS)
+clade	median CDS	median genome (Mb)	median gene families
+FSM	3200	3.32	1394
+RGM	5775	6.00	1787
+SGM	5034	5.10	1661
+FSM-RGM difference, computed on the 96 FSM and 97 RGM annotated MAGs: mean 3,359 CDS in FSM against 5,787 in RGM, a difference of 2,428 CDS over a mean genome-size difference of 2.41 Mb (about 990 bp per missing gene). Cluster-level accounting: 2,919 CDS per genome from clusters absent from FSM, plus 829 from gross positive differences in clusters both clades retain, minus 1,319 from clusters enriched in FSM, summing to the observed 2,428. On a carrier-conditioned basis the shared-cluster difference is mostly prevalence (about 167 CDS) rather than copies among carriers (about 60). Supersedes the earlier median-based statement of a 2,575-CDS shortfall with 393 absent families and 2,182 additional copies.
+Within-family copy-number contraction: functional composition of the 200 largest losses
+COG category	clusters
+Function unknown	33
+Lipid	21
+Transcription	21
+Energy	19
+Secondary metab	17
+Amino acid	17
+Ion transport	14
+Replication/repair	10
+Cell wall	8
+Contraction is spread over 3895 clusters totalling 829 CDS per genome; the 200 largest account for 23% of that total; no small set of families dominates.

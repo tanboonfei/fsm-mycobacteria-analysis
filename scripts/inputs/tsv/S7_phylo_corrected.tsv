@@ -1,0 +1,7 @@
+Trait	FSM median	RGM median	Raw Mann–Whitney p	Pagel lambda	PGLS beta	SE	t	PGLS p
+Genome size (Mb)	3.31	6.05	1.1999999999999999e-61	0.988	-2.034	0.906	-2.24	0.025
+Coding density (%, uniform Prodigal)	93.59	92.58	3e-29	0.976	1.672	1.152	1.451	0.147
+GC (%)	67.08	67.12	0.22	0.997	0.339	0.778	0.44	0.66
+Acidic residues (%)	11.19	11.62	6.8e-56	0.986	-0.308	0.123	-2.51	0.013
+Pseudogenes per Mb (MAG panel, 96 FSM / 97 RGM)	1.17	1.77	6.7e-06	0.8	-0.794	0.844	-0.94	0.348
+Pseudogene count, log1p (same panel)	4	10	2.3e-17	0.83	-1.019	0.492	-2.07	0.039

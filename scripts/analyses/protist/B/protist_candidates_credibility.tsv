@@ -1,0 +1,14 @@
+protist_protein	FSM_target	FSM_species	a_id_to_FSM_target	span_aa	b_best_nonFSM_id	b_species	c_best_otherFSM_genome_id	credible
+EP00036_Acanthoecidae_sp_10tr_P001263	spire_mag_00869002|k141_367991_3	Mycobacterium sp945897705	97.5	80	95.0	Mycobacterium sp003165155	88.6	False
+EP00521_Asterionellopsis_glacialis_P005469	spire_mag_01743952|k141_1952659_1	Mycobacterium sp964202555	95.1	61	85.5	Mycobacterium sp023404955	75.4	False
+EP00614_Pseudopedinella_elastica_P036665	spire_mag_01112767|k141_1357385_9	novel sp.	82.1	78	85.7	Mycobacterium sp964000695	82.9	False
+EP00747_Dinoflagellata_sp_TGD_P003312	spire_mag_00869002|k141_367991_3	Mycobacterium sp945897705	95.4	108	93.5	Mycobacterium sp003165155	84.3	False
+EP00811_Abedinium_folium_P024481	spire_mag_01108461|k141_953654_1	Mycobacterium sp903911165	95.6	45	80.0	Mycobacterium smegmatis	63.9	False
+EP00879_Flechtneria_rotunda_P032621	spire_mag_00866324|k141_681752_48	Mycobacterium sp945897705	97.0	99	64.6	Mycobacterium sp035625875	63.6	False
+EP00882_Tetradesmus_deserticola_P031771	spire_mag_00866324|k141_681752_48	Mycobacterium sp945897705	97.0	99	64.6	Mycobacterium sp035625875	63.6	False
+EP00929_Paragymnodinium_shiwhaense_P016085	spire_mag_01094744|k119_196828_1	Mycobacterium sp036782595	75.2	101	81.2	Mycobacterium sp036272035	78.2	False
+EP01012_Entosiphon_sulcatum_P015056	spire_mag_01748232|k141_515774_6	Mycobacterium sp964202555	95.0	504	44.1	Mycobacterium sp003165155	38.3	False
+EP01012_Entosiphon_sulcatum_P063597	spire_mag_01748232|k141_515774_6	Mycobacterium sp964202555	96.2	209	75.8	Mycobacterium sp003165155	75.9	False
+EP01036_Dinobryon_divergens_P004974	spire_mag_01822349|k141_19468_19	Mycobacterium sp018401645	73.0	100	73.0	Mycobacterium sp037140245	77.5	False
+EP01133_Synstelium_polycarpum_P026202	GCA_943331415.1|CALQLM010000135.1_5	Mycobacterium sp943331415	82.2	211	80.5	Mycobacterium sp022601275	82.6	False
+EP01133_Synstelium_polycarpum_P030514	GCA_903862565.1|CAIOYU010000207.1_6	Mycobacterium sp903862565	95.0	40	95.0	Mycobacterium sp003053865	94.6	False

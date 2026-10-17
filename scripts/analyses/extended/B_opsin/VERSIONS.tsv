@@ -1,0 +1,23 @@
+tool	version
+BLAST+ (tblastn, blastp)	2.16.0+
+MAFFT	v7.526
+trimAl	v1.5.rev1
+IQ-TREE	2.0.7
+Bakta	1.11.4 (database v6.0 full, 2025-02-24)
+MMseqs2	18.8cc5c
+DIAMOND	2.1.13
+SeqKit	v2.10.1
+GNU parallel	20250822
+GeneRax	2.1.3
+UniProtKB release	2026_03 (REST API, rest.uniprot.org; no user identity sent)
+Python	3.13.7
+Biopython	1.83
+pandas	2.2.3
+numpy	2.4.3
+R	4.5.2
+ape	5.8.1
+phytools	2.5.2
+castor	1.8.4
+phylolm	2.6.5
+phangorn	2.12.1
+expm	1.0.0

@@ -1,0 +1,13 @@
+labels	clade	metric	species_with_both	within_species_median_offset	nn_pairs_allMAG	nn_median_offset_allMAG	nn_pairs_SPIRE	nn_median_offset_SPIRE	nn_median_patristic
+old	RGM	genome_size_Mb	17	0.02	259	0.03	97	-0.07	0.09
+old	RGM	GC_pct	17	-0.01	259	0.08	97	0.02	0.09
+old	RGM	coding_density_pct_uniform_prodigal	17	-0.01	255	-0.21	97	-0.47	0.09
+old	SGM	genome_size_Mb	6	0.35	171	0.16	50	0.16	0.191
+old	SGM	GC_pct	6	-0.21	171	0.56	50	1.95	0.191
+old	SGM	coding_density_pct_uniform_prodigal	6	-0.66	171	-0.48	50	-0.76	0.191
+new	RGM	genome_size_Mb	16	0.03	168	0.09	97	-0.04	0.075
+new	RGM	GC_pct	16	-0.02	168	-0.04	97	0.01	0.075
+new	RGM	coding_density_pct_uniform_prodigal	16	-0.04	168	-0.31	97	-0.48	0.075
+new	SGM	genome_size_Mb	6	0.35	121	0.64	50	0.39	0.228
+new	SGM	GC_pct	6	-0.21	121	0.83	50	1.95	0.228
+new	SGM	coding_density_pct_uniform_prodigal	6	-0.66	121	0.38	50	-0.3	0.228

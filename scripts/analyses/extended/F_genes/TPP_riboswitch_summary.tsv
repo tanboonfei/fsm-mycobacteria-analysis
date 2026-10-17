@@ -1,0 +1,9 @@
+set	downstream_gene	genomes_with_TPP_upstream	genomes_with_gene_credible	genomes_total
+FSM	thiO	17	31	134
+FSM	none	5		134
+FSM	thiD	5	126	134
+FSM	thiM_FSM	1	16	134
+RGM_sister	thiC	34	39	42
+RGM_sister	thiO	30	42	42
+RGM_sister	none	4		42
+RGM_sister	thiD	3	42	42

@@ -1,0 +1,50 @@
+test	unit	FSM_pos	FSM_n	RGM_pos	RGM_n	n_units	OR	CI_lo	CI_hi	p	note
+Aquatic biome (S1), all annotated	genome	75	94	34	85	179	5.86	2.9	12.2	5.46e-08	
+Aquatic biome (S1), all annotated	species x study (majority; ties->1)	21	31	8	39	70	7.85	2.46	27.9	8.84e-05	
+Aquatic biome (S1), all annotated	study x clade (majority)	15	22	7	26	48	5.58	1.44	24.5	0.00825	
+Aquatic biome (S1), all annotated	glmer y ~ fsm + (1|study)	75	94	34	85	179				9.18e-05	OR not estimable (outcome constant within studies); Wald p=7.64e-08; LRT p used; study SD=54.54; converged
+Aquatic biome (S1), all annotated	glmer y ~ fsm + (1|study) [nAGQ=20]	75	94	34	85	179				0.00738	OR not estimable (outcome constant within studies); Wald p=0.000434; LRT p used; study SD=32.24; converged
+Aquatic biome (S1), all annotated	glmer y ~ fsm + (1|study) + (1|species_key)	75	94	34	85	179				9.18e-05	OR not estimable (outcome constant within studies); Wald p=4.58e-09; LRT p used; study SD=54.54; species SD=0; singular fit; conv: boundary (singular) fit: see help('isSingular')
+Aquatic biome (S1), all annotated	Firth logistic, study x clade units	15	22	7	26	48	5.37	1.66	19.1	0.00456	profile-likelihood CI
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	genome	75	94	5	56	150	38.8	13.2	142.0	2.15e-18	
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	species x study (majority; ties->1)	21	31	5	36	67	12.4	3.44	54.0	1.07e-05	
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	study x clade (majority)	15	22	5	24	46	7.71	1.83	38.7	0.0025	
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	glmer y ~ fsm + (1|study)	75	94	5	56	150				8.69e-05	OR not estimable (outcome constant within studies); Wald p=2.54e-08; LRT p used; study SD=54.7; converged
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	glmer y ~ fsm + (1|study) [nAGQ=20]	75	94	5	56	150				0.000475	OR not estimable (outcome constant within studies); Wald p=0.0143; LRT p used; study SD=57.21; converged
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	glmer y ~ fsm + (1|study) + (1|species_key)	75	94	5	56	150				8.69e-05	OR not estimable (outcome constant within studies); Wald p=2.64e-09; LRT p used; study SD=54.71; species SD=0; singular fit; conv: boundary (singular) fit: see help('isSingular')
+Aquatic biome (S1), excluding open-ocean studies (Tara, Malaspina)	Firth logistic, study x clade units	15	22	5	24	46	7.33	2.13	28.7	0.00126	profile-likelihood CI
+Low salinity (S1), all annotated	genome	57	77	3	32	109	26.6	7.12	151.0	2.92e-10	
+Low salinity (S1), all annotated	species x study (majority; ties->1)	15	22	3	7	29	2.75	0.357	24.3	0.375	
+Low salinity (S1), all annotated	study x clade (majority)	12	16	3	6	22	2.84	0.268	31.7	0.334	
+Low salinity (S1), all annotated	glmer y ~ fsm + (1|study)	57	77	3	32	109				0.709	OR not estimable (outcome constant within studies); Wald p=0.668; LRT p used; study SD=59.34; converged
+Low salinity (S1), all annotated	glmer y ~ fsm + (1|study) [nAGQ=20]	57	77	3	32	109				1.0	OR not estimable (outcome constant within studies); Wald p=0.178; LRT p used; study SD=41.77; converged
+Low salinity (S1), all annotated	glmer y ~ fsm + (1|study) + (1|species_key)	57	77	3	32	109				0.709	OR not estimable (outcome constant within studies); Wald p=0.657; LRT p used; study SD=59.34; species SD=0; singular fit; conv: boundary (singular) fit: see help('isSingular')
+Low salinity (S1), all annotated	Firth logistic, study x clade units	12	16	3	6	22	2.78	0.438	18.7	0.273	profile-likelihood CI
+Low salinity (S1), excluding open-ocean studies (Tara)	genome	57	77	3	5	82	1.88	0.147	17.7	0.607	
+Low salinity (S1), excluding open-ocean studies (Tara)	species x study (majority; ties->1)	15	22	3	5	27	1.41	0.097	15.5	1.0	
+Low salinity (S1), excluding open-ocean studies (Tara)	study x clade (majority)	12	16	3	5	21	1.93	0.12	24.7	0.598	
+Low salinity (S1), excluding open-ocean studies (Tara)	glmer y ~ fsm + (1|study)	57	77	3	5	82				0.829	OR not estimable (outcome constant within studies); Wald p=0.795; LRT p used; study SD=59.64; converged
+Low salinity (S1), excluding open-ocean studies (Tara)	glmer y ~ fsm + (1|study) [nAGQ=20]	57	77	3	5	82				0.855	OR not estimable (outcome constant within studies); Wald p=0.835; LRT p used; study SD=59.73; converged
+Low salinity (S1), excluding open-ocean studies (Tara)	glmer y ~ fsm + (1|study) + (1|species_key)	57	77	3	5	82				0.829	OR not estimable (outcome constant within studies); Wald p=0.801; LRT p used; study SD=59.64; species SD=0; singular fit; conv: boundary (singular) fit: see help('isSingular')
+Low salinity (S1), excluding open-ocean studies (Tara)	Firth logistic, study x clade units	12	16	3	5	21	1.98	0.257	14.4	0.494	profile-likelihood CI
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	genome	57	66	3	5	71	4.1	0.304	41.3	0.169	
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	species x study (majority; ties->1)	15	19	3	5	24	2.39	0.151	30.1	0.568	
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	study x clade (majority)	12	15	3	5	20	2.52	0.148	36.3	0.56	
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	glmer y ~ fsm + (1|study)	57	66	3	5	71				0.806	OR not estimable (outcome constant within studies); Wald p=0.773; LRT p used; study SD=58.05; converged
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	glmer y ~ fsm + (1|study) [nAGQ=20]	57	66	3	5	71				0.836	OR not estimable (outcome constant within studies); Wald p=0.811; LRT p used; study SD=58.9; converged
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	glmer y ~ fsm + (1|study) + (1|species_key)	57	66	3	5	71				0.806	OR not estimable (outcome constant within studies); Wald p=0.769; LRT p used; study SD=58.05; species SD=0; converged
+Low salinity (S1), excluding Tara and the Salton Sea hypersaline sediment study	Firth logistic, study x clade units	12	15	3	5	20	2.55	0.317	20.2	0.365	profile-likelihood CI
+Water column or sediment source (metadata category), all true MAGs	genome	102	127	47	141	268	8.09	4.51	14.9	6.63e-15	
+Water column or sediment source (metadata category), all true MAGs	species x study (majority; ties->1)	43	61	21	93	154	8.06	3.71	18.3	5.69e-09	
+Water column or sediment source (metadata category), all true MAGs	study x clade (majority)	26	36	17	49	85	4.8	1.75	14.0	0.000917	
+Water column or sediment source (metadata category), all true MAGs	glmer y ~ fsm + (1|study)	102	127	47	141	268				7.01e-09	OR not estimable (outcome constant within studies); Wald p=3.17e-11; LRT p used; study SD=39.78; converged
+Water column or sediment source (metadata category), all true MAGs	glmer y ~ fsm + (1|study) [nAGQ=20]	102	127	47	141	268				8.5e-05	OR not estimable (outcome constant within studies); Wald p=0; LRT p used; study SD=46.78; conv: Model failed to converge with max|grad| = 0.023388 (tol = 0.002, component 1)
+Water column or sediment source (metadata category), all true MAGs	glmer y ~ fsm + (1|study) + (1|species_key)	102	127	47	141	268				7.01e-09	OR not estimable (outcome constant within studies); Wald p=1.33e-11; LRT p used; study SD=39.78; species SD=0; singular fit; conv: boundary (singular) fit: see help('isSingular')
+Water column or sediment source (metadata category), all true MAGs	Firth logistic, study x clade units	26	36	17	49	85	4.69	1.91	12.2	0.000621	profile-likelihood CI
+Water column or sediment source (metadata category), true MAGs excl. open ocean	genome	102	127	18	112	239	20.9	10.4	44.1	1.57e-24	
+Water column or sediment source (metadata category), true MAGs excl. open ocean	species x study (majority; ties->1)	43	61	18	90	151	9.38	4.22	21.8	5.41e-10	
+Water column or sediment source (metadata category), true MAGs excl. open ocean	study x clade (majority)	26	36	15	47	83	5.42	1.95	16.2	0.00037	
+Water column or sediment source (metadata category), true MAGs excl. open ocean	glmer y ~ fsm + (1|study)	102	127	18	112	239				1.24e-13	OR not estimable (outcome constant within studies); Wald p=1.61e-12; LRT p used; study SD=39.23; converged
+Water column or sediment source (metadata category), true MAGs excl. open ocean	glmer y ~ fsm + (1|study) [nAGQ=20]	102	127	18	112	239				3.2e-05	OR not estimable (outcome constant within studies); Wald p=2.54e-31; LRT p used; study SD=45.65; converged
+Water column or sediment source (metadata category), true MAGs excl. open ocean	glmer y ~ fsm + (1|study) + (1|species_key)	102	127	18	112	239				1.24e-13	OR not estimable (outcome constant within studies); Wald p=2.33e-11; LRT p used; study SD=39.23; species SD=0; singular fit; conv: boundary (singular) fit: see help('isSingular')
+Water column or sediment source (metadata category), true MAGs excl. open ocean	Firth logistic, study x clade units	26	36	15	47	83	5.29	2.13	14.0	0.000266	profile-likelihood CI

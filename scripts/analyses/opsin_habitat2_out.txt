@@ -1,0 +1,19 @@
+species (ANI-clustered) among anthropogenic: 6 ; aquatic: 17 
+                           
+                            0 1
+  Mycobacterium sp017853185 2 0
+  Mycobacterium sp029780675 1 0
+  Mycobacterium sp030836785 2 0
+  unassigned_sp4            3 0
+  unassigned_sp5            0 2
+  unassigned_sp7            0 1
+one genome per species, n = 22 
+       opsin
+aquatic  0  1
+      0  4  2
+      1  2 14
+             Estimate    StdErr    z.value    p.value
+(Intercept) -0.568809 0.8551791 -0.6651344 0.50596451
+aq           2.267031 1.1077081  2.0465957 0.04069779
+alpha 15.38326 
+Fisher p across 200 random one-per-species draws: median 0.0254  95th pct 0.274 

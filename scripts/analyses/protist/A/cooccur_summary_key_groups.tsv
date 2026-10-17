@@ -1,0 +1,32 @@
+dataset	bacterium	Amoebozoa	Cercozoa	Ciliophora	Discoba	all_protists	het_protists
+Elbe (strata: fraction x month; partial: longitude)	FSM	-0.08	-0.08	0.0	-0.1	-0.1	-0.08
+Elbe (strata: fraction x month; partial: longitude)	Megaera	0.08	0.0	0.01	-0.09	-0.17	-0.05
+Elbe (strata: fraction x month; partial: longitude)	Midichloriaceae	-0.06	0.12	0.09	-0.23	0.1	-0.01
+Elbe (strata: fraction x month; partial: longitude)	Parachlamydiaceae	0.12	-0.22	0.09	-0.03	-0.14	-0.02
+Elbe (strata: fraction x month; partial: longitude)	Polynucleobacter	-0.09	0.04	-0.02	-0.09	-0.14	-0.09
+Elbe (strata: fraction x month; partial: longitude)	Rickettsiales	0.04	0.08	0.06	-0.21	-0.18	-0.01
+Elbe (strata: fraction x month; partial: longitude)	acI_Nanopelagicales	-0.14	-0.16	-0.18	-0.08	-0.13	-0.31
+Elbe (strata: fraction x month; partial: longitude)	nonFSM_Myco	-0.02	0.12	-0.02	0.04	0.02	-0.01
+Lake Pavin (strata: fraction x depth)	FSM	0.17	0.1	-0.12	-0.09	-0.41	-0.23
+Lake Pavin (strata: fraction x depth)	Megaera	-0.23	-0.05	-0.36	-0.14	-0.16	-0.4
+Lake Pavin (strata: fraction x depth)	Midichloriaceae	0.1	-0.29	-0.19	0.18	0.11	-0.31
+Lake Pavin (strata: fraction x depth)	Parachlamydiaceae	-0.12	0.04	-0.21	-0.01	-0.31	-0.43
+Lake Pavin (strata: fraction x depth)	Polynucleobacter	-0.18	0.11	-0.17	0.48	-0.04	-0.14
+Lake Pavin (strata: fraction x depth)	Rickettsiales	0.04	-0.42	-0.2	-0.23	0.02	-0.38
+Lake Pavin (strata: fraction x depth)	acI_Nanopelagicales	-0.24	-0.27	-0.15	-0.11	-0.07	-0.21
+Lake Pavin (strata: fraction x depth)	nonFSM_Myco	0.0	0.18	-0.3	0.04	-0.51	-0.48
+LakePulse, Canadian lakes (PRJEB29238)	FSM	0.16	0.14	0.02	-0.01	0.17	-0.02
+LakePulse, Canadian lakes (PRJEB29238)	Megaera	0.11	0.18	0.13	0.03	0.45	0.16
+LakePulse, Canadian lakes (PRJEB29238)	Midichloriaceae	0.21	0.21	0.31	0.02	0.41	0.31
+LakePulse, Canadian lakes (PRJEB29238)	Polynucleobacter	0.0	0.01	0.04	-0.16	0.15	-0.03
+LakePulse, Canadian lakes (PRJEB29238)	Rickettsiales	0.11	0.12	0.09	-0.07	0.51	0.16
+LakePulse, Canadian lakes (PRJEB29238)	acI_Nanopelagicales	-0.15	0.01	0.38	-0.0	0.46	0.36
+LakePulse, Canadian lakes (PRJEB29238)	nonFSM_Myco	0.05	0.27	0.06	-0.14	0.01	0.05
+PELAGICS, European lakes (PRJEB75477)	FSM	-0.07	0.23	0.12	0.34	0.06	0.15
+PELAGICS, European lakes (PRJEB75477)	Megaera	-0.14	-0.08	-0.07	-0.16	-0.11	-0.11
+PELAGICS, European lakes (PRJEB75477)	Midichloriaceae	0.18	-0.18	0.1	-0.14	0.24	0.09
+PELAGICS, European lakes (PRJEB75477)	Parachlamydiaceae	0.26	-0.28	-0.02	-0.08	0.02	-0.08
+PELAGICS, European lakes (PRJEB75477)	Polynucleobacter	-0.14	0.07	-0.02	-0.03	-0.06	-0.01
+PELAGICS, European lakes (PRJEB75477)	Rickettsiales	0.13	-0.18	0.01	-0.18	0.13	-0.01
+PELAGICS, European lakes (PRJEB75477)	acI_Nanopelagicales	-0.2	0.3	-0.18	0.03	-0.23	-0.16
+PELAGICS, European lakes (PRJEB75477)	nonFSM_Myco	-0.04	0.09	0.08	0.31	0.06	0.07

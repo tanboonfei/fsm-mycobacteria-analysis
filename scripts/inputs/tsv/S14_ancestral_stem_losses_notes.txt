@@ -1,0 +1,1 @@
+Note. family_id is the key to Table S15 for all 53 rows. It differs from the eggNOG preferred gene name for 10 of them (accD3, acnR, bluB, cydC, egtB, esxT, limB, echA8, fadE12, accD4), so join on family_id and not on the gene column.

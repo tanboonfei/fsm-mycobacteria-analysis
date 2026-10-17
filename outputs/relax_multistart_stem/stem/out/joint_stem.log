@@ -1,0 +1,120 @@
+
+=== panel 243: 243 tips (FSM 96), crown 258, parent 247, stem length 0.0459, 1245 families, FSM-subtree edges 190
+pooled ER rate 0.4623 (logL -56553.60)
+  panel                  model       gain       loss old_product_all old_conf95
+1   243 per-family ER (castor) per family per family            75.1         33
+  old_conf95_in53 old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53
+1              33         48      73.2     39.9         11              11
+  joint_ge90 joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1         33              33       187839.3          39.9               73.2
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1              39.9                  11               0   24
+  panel                   model  gain  loss old_product_all old_conf95
+1   243 pooled ER (gain = loss) 0.461 0.461            57.6         49
+  old_conf95_in53 old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53
+1              39         53        57     40.5          0               0
+  joint_ge90 joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1         51              40           57.2          40.6                 57
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1              40.5                   0               0   16
+  panel         model   gain  loss old_product_all old_conf95 old_conf95_in53
+1   243 gain = loss/2 0.2305 0.461            54.1          0               0
+  old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53 joint_ge90
+1         48      55.5     41.4         44              38         53
+  joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1              42           55.6          41.4               55.5
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1              41.4                  44               0   15
+  panel         model   gain  loss old_product_all old_conf95 old_conf95_in53
+1   243 gain = loss/5 0.0922 0.461            46.7          0               0
+  old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53 joint_ge90
+1          1      53.7       42         38              36         47
+  joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1              40           53.8            42               53.7
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1                42                  38               0   13
+  panel          model   gain  loss old_product_all old_conf95 old_conf95_in53
+1   243 gain = loss/10 0.0461 0.461              37          0               0
+  old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53 joint_ge90
+1          0      50.8       42         38              36         42
+  joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1              39           50.8            42               50.8
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1                42                  38               0   13
+  panel                        model    gain  loss old_product_all old_conf95
+1   243 gain = loss/100 (Dollo-like) 0.00461 0.461            12.2          0
+  old_conf95_in53 old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53
+1               0          0        40     37.7         33              32
+  joint_ge90 joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1         38              36             40          37.7                 40
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1              37.7                  33               0   11
+  panel          model  gain  loss old_product_all old_conf95 old_conf95_in53
+1   243 gain = loss x2 0.922 0.461            57.9          0               0
+  old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53 joint_ge90
+1         46      57.9     38.9          0               0         51
+  joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1              39           58.4          38.9               57.8
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1              38.8                   0               0   11
+
+=== panel 178: 178 tips (FSM 59), crown 188, parent 182, stem length 0.0459, 1245 families, FSM-subtree edges 116
+pooled ER rate 0.2935 (logL -32829.32)
+  panel                  model       gain       loss old_product_all old_conf95
+1   178 per-family ER (castor) per family per family            76.6         36
+  old_conf95_in53 old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53
+1              30         49        75     39.4         18              18
+  joint_ge90 joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1         38              30       197037.3         555.6                 75
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1              39.4                  18               0   12
+  panel                   model   gain   loss old_product_all old_conf95
+1   178 pooled ER (gain = loss) 0.2935 0.2935            58.2         49
+  old_conf95_in53 old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53
+1              39         52      57.7       41         49              39
+  joint_ge90 joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1         52              41           57.8            41               57.7
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1                41                  49               0    6
+  panel         model   gain   loss old_product_all old_conf95 old_conf95_in53
+1   178 gain = loss/2 0.1468 0.2935            54.6         47              40
+  old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53 joint_ge90
+1         52      55.7     41.5         51              41         51
+  joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1              41           55.8          41.6               55.7
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1              41.6                  51               0    6
+  panel         model    gain   loss old_product_all old_conf95 old_conf95_in53
+1   178 gain = loss/5 0.05871 0.2935            49.8          0               0
+  old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53 joint_ge90
+1         41      54.3     42.1         47              40         49
+  joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1              40           54.4          42.1               54.3
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1              42.1                  47               0    9
+  panel          model    gain   loss old_product_all old_conf95
+1   178 gain = loss/10 0.02935 0.2935            41.8          0
+  old_conf95_in53 old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53
+1               0          0        53     42.3         42              40
+  joint_ge90 joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1         45              40             53          42.3                 53
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1              42.3                  42               0   12
+  panel                        model     gain   loss old_product_all old_conf95
+1   178 gain = loss/100 (Dollo-like) 0.002935 0.2935            15.5          0
+  old_conf95_in53 old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53
+1               0          0      43.2     41.1         41              39
+  joint_ge90 joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1         41              39           43.2          41.1               43.2
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1              41.1                  41               0   10
+  panel          model   gain   loss old_product_all old_conf95 old_conf95_in53
+1   178 gain = loss x2 0.5871 0.2935            60.1          0               0
+  old_conf90 joint_all joint_53 joint_ge95 joint_ge95_in53 joint_ge90
+1         55      59.4       40         37              28         52
+  joint_ge90_in53 Eloss_stem_all Eloss_stem_53 joint_all_flatroot
+1              39           59.6            40               59.3
+  joint_53_flatroot joint_ge95_flatroot castor_failures secs
+1                40                  37               0   10
+
+written

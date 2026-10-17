@@ -1,0 +1,863 @@
+tip	new_status	completeness_used_old	completeness_source_old	completeness_used_new	completeness_source_new	checkm2_contamination_new
+GB_GCA_000230935.2	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_013404075.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_023264735.1	GTDB MAG	99.63	CheckM2 v1.0.1 (this study)	99.63	CheckM2 v1.0.1 (this study)	0.16
+RS_GCF_013337765.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_900078375.1	GTDB MAG	99.83	CheckM2 v1.0.1 (this study)	99.83	CheckM2 v1.0.1 (this study)	2.3
+RS_GCF_033804465.1	isolate (cultured, draft)	99.97	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_010731895.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010731875.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002250655.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_004362315.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_021732005.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.05
+RS_GCF_008329905.1	isolate (closed/complete)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_000559085.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002887815.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_010726245.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002086695.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001021385.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+RS_GCF_008329565.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_023416315.1	GTDB MAG	92.57	CheckM2 v1.0.1 (this study)	92.57	CheckM2 v1.0.1 (this study)	7.47
+spire_mag_02519404.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	4.95
+RS_GCF_022370635.2	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002723835.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_026242035.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_002007745.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_004745805.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001494595.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_010731855.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_011694515.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+RS_GCF_036023875.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+RS_GCF_022760805.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_020438785.1	GTDB MAG	65.22	CheckM2 v1.0.1 (this study)	65.22	CheckM2 v1.0.1 (this study)	1.62
+spire_mag_01620236.fa	SPIRE MAG	92.18	CheckM2 v1.0.1 (this study)	92.18	CheckM2 v1.0.1 (this study)	4.65
+spire_mag_01620411.fa	SPIRE MAG	98.04	CheckM2 v1.0.1 (this study)	98.04	CheckM2 v1.0.1 (this study)	4.92
+spire_mag_01619766.fa	SPIRE MAG	94.48	CheckM2 v1.0.1 (this study)	94.48	CheckM2 v1.0.1 (this study)	4.31
+spire_mag_01623019.fa	SPIRE MAG	90.82	CheckM2 v1.0.1 (this study)	90.82	CheckM2 v1.0.1 (this study)	2.78
+spire_mag_02002215.fa	SPIRE MAG	99.8	CheckM2 v1.0.1 (this study)	99.8	CheckM2 v1.0.1 (this study)	2.54
+spire_mag_02003535.fa	SPIRE MAG	94.39	CheckM2 v1.0.1 (this study)	94.39	CheckM2 v1.0.1 (this study)	3.0
+GB_GCA_020438865.1	GTDB MAG	90.53	CheckM2 v1.0.1 (this study)	90.53	CheckM2 v1.0.1 (this study)	3.54
+spire_mag_01619133.fa	SPIRE MAG	99.9	CheckM2 v1.0.1 (this study)	99.9	CheckM2 v1.0.1 (this study)	1.5
+spire_mag_01620338.fa	SPIRE MAG	91.2	CheckM2 v1.0.1 (this study)	91.2	CheckM2 v1.0.1 (this study)	2.19
+spire_mag_01623819.fa	SPIRE MAG	99.48	CheckM2 v1.0.1 (this study)	99.48	CheckM2 v1.0.1 (this study)	3.11
+spire_mag_01621671.fa	SPIRE MAG	99.94	CheckM2 v1.0.1 (this study)	99.94	CheckM2 v1.0.1 (this study)	4.75
+GB_GCA_005789055.1	GTDB MAG	57.28	CheckM2 v1.0.1 (this study)	57.28	CheckM2 v1.0.1 (this study)	0.66
+spire_mag_01632252.fa	SPIRE MAG	94.13	CheckM2 v1.0.1 (this study)	94.13	CheckM2 v1.0.1 (this study)	3.74
+spire_mag_01753570.fa	SPIRE MAG	95.56	CheckM2 v1.0.1 (this study)	95.56	CheckM2 v1.0.1 (this study)	2.8
+GB_GCA_945897705.1	GTDB MAG	83.4	CheckM2 v1.0.1 (this study)	83.4	CheckM2 v1.0.1 (this study)	2.53
+spire_mag_00863569.fa	SPIRE MAG	95.76	CheckM2 v1.0.1 (this study)	95.76	CheckM2 v1.0.1 (this study)	0.01
+spire_mag_00864073.fa	SPIRE MAG	95.05	CheckM2 v1.0.1 (this study)	95.05	CheckM2 v1.0.1 (this study)	0.59
+spire_mag_00866183.fa	SPIRE MAG	93.58	CheckM2 v1.0.1 (this study)	93.58	CheckM2 v1.0.1 (this study)	0.08
+spire_mag_00869002.fa	SPIRE MAG	98.0	CheckM2 v1.0.1 (this study)	98.0	CheckM2 v1.0.1 (this study)	1.11
+spire_mag_00874085.fa	SPIRE MAG	96.08	CheckM2 v1.0.1 (this study)	96.08	CheckM2 v1.0.1 (this study)	0.04
+spire_mag_00873124.fa	SPIRE MAG	99.25	CheckM2 v1.0.1 (this study)	99.25	CheckM2 v1.0.1 (this study)	0.19
+spire_mag_00874439.fa	SPIRE MAG	99.04	CheckM2 v1.0.1 (this study)	99.04	CheckM2 v1.0.1 (this study)	1.66
+spire_mag_00874229.fa	SPIRE MAG	97.46	CheckM2 v1.0.1 (this study)	97.46	CheckM2 v1.0.1 (this study)	0.33
+spire_mag_00866324.fa	SPIRE MAG	95.14	CheckM2 v1.0.1 (this study)	95.14	CheckM2 v1.0.1 (this study)	1.41
+spire_mag_00866583.fa	SPIRE MAG	95.36	CheckM2 v1.0.1 (this study)	95.36	CheckM2 v1.0.1 (this study)	0.0
+spire_mag_00868143.fa	SPIRE MAG	98.17	CheckM2 v1.0.1 (this study)	98.17	CheckM2 v1.0.1 (this study)	0.27
+spire_mag_00871125.fa	SPIRE MAG	98.33	CheckM2 v1.0.1 (this study)	98.33	CheckM2 v1.0.1 (this study)	1.12
+spire_mag_00873789.fa	SPIRE MAG	96.69	CheckM2 v1.0.1 (this study)	96.69	CheckM2 v1.0.1 (this study)	0.33
+GB_GCA_964203005.1	GTDB MAG	95.11	CheckM2 v1.0.1 (this study)	95.11	CheckM2 v1.0.1 (this study)	0.26
+spire_mag_01960731.fa	SPIRE MAG	94.95	CheckM2 v1.0.1 (this study)	94.95	CheckM2 v1.0.1 (this study)	0.65
+spire_mag_01960893.fa	SPIRE MAG	97.78	CheckM2 v1.0.1 (this study)	97.78	CheckM2 v1.0.1 (this study)	1.94
+spire_mag_01104521.fa	SPIRE MAG	92.82	CheckM2 v1.0.1 (this study)	92.82	CheckM2 v1.0.1 (this study)	3.72
+spire_mag_01107416.fa	SPIRE MAG	91.58	CheckM2 v1.0.1 (this study)	91.58	CheckM2 v1.0.1 (this study)	1.14
+spire_mag_01104972.fa	SPIRE MAG	91.84	CheckM2 v1.0.1 (this study)	91.84	CheckM2 v1.0.1 (this study)	0.08
+spire_mag_01108461.fa	SPIRE MAG	92.28	CheckM2 v1.0.1 (this study)	92.28	CheckM2 v1.0.1 (this study)	1.49
+spire_mag_01112928.fa	SPIRE MAG	94.89	CheckM2 v1.0.1 (this study)	94.89	CheckM2 v1.0.1 (this study)	2.8
+GB_GCA_018401645.1	GTDB MAG	85.96	CheckM2 v1.0.1 (this study)	85.96	CheckM2 v1.0.1 (this study)	0.35
+spire_mag_00688177.fa	SPIRE MAG	92.2	CheckM2 v1.0.1 (this study)	92.2	CheckM2 v1.0.1 (this study)	3.58
+spire_mag_00688367.fa	SPIRE MAG	95.23	CheckM2 v1.0.1 (this study)	95.23	CheckM2 v1.0.1 (this study)	1.32
+spire_mag_01583196.fa	SPIRE MAG	90.34	CheckM2 v1.0.1 (this study)	90.34	CheckM2 v1.0.1 (this study)	0.63
+spire_mag_01822855.fa	SPIRE MAG	99.56	CheckM2 v1.0.1 (this study)	99.56	CheckM2 v1.0.1 (this study)	0.32
+spire_mag_01824889.fa	SPIRE MAG	98.57	CheckM2 v1.0.1 (this study)	98.57	CheckM2 v1.0.1 (this study)	0.0
+spire_mag_01830074.fa	SPIRE MAG	97.79	CheckM2 v1.0.1 (this study)	97.79	CheckM2 v1.0.1 (this study)	0.06
+spire_mag_01822349.fa	SPIRE MAG	96.72	CheckM2 v1.0.1 (this study)	96.72	CheckM2 v1.0.1 (this study)	2.56
+spire_mag_01824983.fa	SPIRE MAG	97.01	CheckM2 v1.0.1 (this study)	97.01	CheckM2 v1.0.1 (this study)	0.69
+spire_mag_01776742.fa	SPIRE MAG	95.34	CheckM2 v1.0.1 (this study)	95.34	CheckM2 v1.0.1 (this study)	2.38
+spire_mag_01775892.fa	SPIRE MAG	94.67	CheckM2 v1.0.1 (this study)	94.67	CheckM2 v1.0.1 (this study)	0.5
+spire_mag_01777835.fa	SPIRE MAG	95.11	CheckM2 v1.0.1 (this study)	95.11	CheckM2 v1.0.1 (this study)	2.67
+spire_mag_01777252.fa	SPIRE MAG	95.27	CheckM2 v1.0.1 (this study)	95.27	CheckM2 v1.0.1 (this study)	0.17
+spire_mag_01776854.fa	SPIRE MAG	93.71	CheckM2 v1.0.1 (this study)	93.71	CheckM2 v1.0.1 (this study)	1.27
+GB_GCA_026393245.1	GTDB MAG	97.79	CheckM2 v1.0.1 (this study)	97.79	CheckM2 v1.0.1 (this study)	0.8
+GB_GCA_037138275.1	GTDB MAG	91.43	CheckM2 v1.0.1 (this study)	91.43	CheckM2 v1.0.1 (this study)	0.34
+spire_mag_01949778.fa	SPIRE MAG	94.69	CheckM2 v1.0.1 (this study)	94.69	CheckM2 v1.0.1 (this study)	2.66
+spire_mag_01947641.fa	SPIRE MAG	92.0	CheckM2 v1.0.1 (this study)	92.0	CheckM2 v1.0.1 (this study)	4.42
+spire_mag_01947705.fa	SPIRE MAG	95.13	CheckM2 v1.0.1 (this study)	95.13	CheckM2 v1.0.1 (this study)	2.38
+spire_mag_01947849.fa	SPIRE MAG	92.29	CheckM2 v1.0.1 (this study)	92.29	CheckM2 v1.0.1 (this study)	3.08
+spire_mag_01949445.fa	SPIRE MAG	92.21	CheckM2 v1.0.1 (this study)	92.21	CheckM2 v1.0.1 (this study)	0.52
+spire_mag_01949332.fa	SPIRE MAG	94.14	CheckM2 v1.0.1 (this study)	94.14	CheckM2 v1.0.1 (this study)	0.75
+spire_mag_01949938.fa	SPIRE MAG	92.76	CheckM2 v1.0.1 (this study)	92.76	CheckM2 v1.0.1 (this study)	2.51
+spire_mag_01949386.fa	SPIRE MAG	93.13	CheckM2 v1.0.1 (this study)	93.13	CheckM2 v1.0.1 (this study)	2.04
+GB_GCA_037138615.1	GTDB MAG	98.41	CheckM2 v1.0.1 (this study)	98.41	CheckM2 v1.0.1 (this study)	0.3
+RS_GCF_016462945.1	GTDB MAG	97.89	CheckM2 v1.0.1 (this study)	97.89	CheckM2 v1.0.1 (this study)	0.69
+GB_GCA_943331415.1	GTDB MAG	63.5	CheckM2 v1.0.1 (this study)	63.5	CheckM2 v1.0.1 (this study)	0.76
+spire_mag_01093898.fa	SPIRE MAG	91.31	CheckM2 v1.0.1 (this study)	91.31	CheckM2 v1.0.1 (this study)	0.51
+GB_GCA_945882475.1	GTDB MAG	81.19	CheckM2 v1.0.1 (this study)	81.19	CheckM2 v1.0.1 (this study)	0.59
+GB_GCA_018500005.2	GTDB MAG	73.23	CheckM2 v1.0.1 (this study)	73.23	CheckM2 v1.0.1 (this study)	3.41
+GB_GCA_036782595.1	GTDB MAG	86.14	CheckM2 v1.0.1 (this study)	86.14	CheckM2 v1.0.1 (this study)	0.29
+spire_mag_01094475.fa	SPIRE MAG	95.78	CheckM2 v1.0.1 (this study)	95.78	CheckM2 v1.0.1 (this study)	1.43
+spire_mag_01094744.fa	SPIRE MAG	91.35	CheckM2 v1.0.1 (this study)	91.35	CheckM2 v1.0.1 (this study)	0.25
+GB_GCA_040398885.1	GTDB MAG	93.88	CheckM2 v1.0.1 (this study)	93.88	CheckM2 v1.0.1 (this study)	2.51
+RS_GCF_032117575.1	GTDB MAG	88.06	CheckM2 v1.0.1 (this study)	88.06	CheckM2 v1.0.1 (this study)	4.27
+GB_GCA_029979305.1	GTDB MAG	71.96	CheckM2 v1.0.1 (this study)	71.96	CheckM2 v1.0.1 (this study)	2.99
+spire_mag_00193483.fa	SPIRE MAG	94.5	CheckM2 v1.0.1 (this study)	94.5	CheckM2 v1.0.1 (this study)	1.5
+GB_GCA_018882545.1	GTDB MAG	83.92	CheckM2 v1.0.1 (this study)	83.92	CheckM2 v1.0.1 (this study)	2.6
+GB_GCA_964202555.1	GTDB MAG	91.53	CheckM2 v1.0.1 (this study)	91.53	CheckM2 v1.0.1 (this study)	0.19
+spire_mag_01744910.fa	SPIRE MAG	95.73	CheckM2 v1.0.1 (this study)	95.73	CheckM2 v1.0.1 (this study)	2.67
+spire_mag_01755240.fa	SPIRE MAG	97.99	CheckM2 v1.0.1 (this study)	97.99	CheckM2 v1.0.1 (this study)	0.86
+spire_mag_01744298.fa	SPIRE MAG	94.96	CheckM2 v1.0.1 (this study)	94.96	CheckM2 v1.0.1 (this study)	1.09
+spire_mag_01748232.fa	SPIRE MAG	93.84	CheckM2 v1.0.1 (this study)	93.84	CheckM2 v1.0.1 (this study)	0.58
+spire_mag_01753944.fa	SPIRE MAG	97.56	CheckM2 v1.0.1 (this study)	97.56	CheckM2 v1.0.1 (this study)	0.82
+spire_mag_01750747.fa	SPIRE MAG	98.37	CheckM2 v1.0.1 (this study)	98.37	CheckM2 v1.0.1 (this study)	2.37
+spire_mag_01759821.fa	SPIRE MAG	97.86	CheckM2 v1.0.1 (this study)	97.86	CheckM2 v1.0.1 (this study)	0.18
+spire_mag_01747196.fa	SPIRE MAG	98.26	CheckM2 v1.0.1 (this study)	98.26	CheckM2 v1.0.1 (this study)	1.63
+spire_mag_01752215.fa	SPIRE MAG	98.03	CheckM2 v1.0.1 (this study)	98.03	CheckM2 v1.0.1 (this study)	0.51
+spire_mag_02100063.fa	SPIRE MAG	99.42	CheckM2 v1.0.1 (this study)	99.42	CheckM2 v1.0.1 (this study)	0.29
+spire_mag_01748689.fa	SPIRE MAG	93.38	CheckM2 v1.0.1 (this study)	93.38	CheckM2 v1.0.1 (this study)	0.87
+spire_mag_01743952.fa	SPIRE MAG	94.7	CheckM2 v1.0.1 (this study)	94.7	CheckM2 v1.0.1 (this study)	0.68
+spire_mag_01753708.fa	SPIRE MAG	99.07	CheckM2 v1.0.1 (this study)	99.07	CheckM2 v1.0.1 (this study)	1.04
+spire_mag_01749319.fa	SPIRE MAG	95.71	CheckM2 v1.0.1 (this study)	95.71	CheckM2 v1.0.1 (this study)	0.87
+spire_mag_01108626.fa	SPIRE MAG	94.32	CheckM2 v1.0.1 (this study)	94.32	CheckM2 v1.0.1 (this study)	4.01
+spire_mag_01108952.fa	SPIRE MAG	91.93	CheckM2 v1.0.1 (this study)	91.93	CheckM2 v1.0.1 (this study)	1.2
+spire_mag_01112767.fa	SPIRE MAG	99.06	CheckM2 v1.0.1 (this study)	99.06	CheckM2 v1.0.1 (this study)	1.81
+spire_mag_01111439.fa	SPIRE MAG	98.24	CheckM2 v1.0.1 (this study)	98.24	CheckM2 v1.0.1 (this study)	0.48
+spire_mag_01112215.fa	SPIRE MAG	92.9	CheckM2 v1.0.1 (this study)	92.9	CheckM2 v1.0.1 (this study)	4.71
+GB_GCA_037129875.1	GTDB MAG	82.95	CheckM2 v1.0.1 (this study)	82.95	CheckM2 v1.0.1 (this study)	2.44
+GB_GCA_903884065.1	GTDB MAG	98.74	CheckM2 v1.0.1 (this study)	98.74	CheckM2 v1.0.1 (this study)	0.23
+GB_GCA_903877095.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.65
+spire_mag_02762480.fa	SPIRE MAG	95.78	CheckM2 v1.0.1 (this study)	95.78	CheckM2 v1.0.1 (this study)	0.37
+spire_mag_01662118.fa	SPIRE MAG	94.9	CheckM2 v1.0.1 (this study)	94.9	CheckM2 v1.0.1 (this study)	1.61
+spire_mag_01663809.fa	SPIRE MAG	93.26	CheckM2 v1.0.1 (this study)	93.26	CheckM2 v1.0.1 (this study)	2.76
+spire_mag_01664230.fa	SPIRE MAG	95.43	CheckM2 v1.0.1 (this study)	95.43	CheckM2 v1.0.1 (this study)	1.69
+GB_GCA_020438905.1	GTDB MAG	85.1	CheckM2 v1.0.1 (this study)	85.1	CheckM2 v1.0.1 (this study)	0.4
+GB_GCA_020439025.1	GTDB MAG	86.47	CheckM2 v1.0.1 (this study)	86.47	CheckM2 v1.0.1 (this study)	2.44
+RS_GCF_020637165.1	GTDB MAG	94.52	CheckM2 v1.0.1 (this study)	94.52	CheckM2 v1.0.1 (this study)	0.08
+GB_GCA_022600695.1	GTDB MAG	85.79	CheckM2 v1.0.1 (this study)	85.79	CheckM2 v1.0.1 (this study)	0.31
+spire_mag_00036881.fa	SPIRE MAG	92.75	CheckM2 v1.0.1 (this study)	92.75	CheckM2 v1.0.1 (this study)	0.9
+spire_mag_02088418.fa	SPIRE MAG	99.82	CheckM2 v1.0.1 (this study)	99.82	CheckM2 v1.0.1 (this study)	0.4
+spire_mag_02088609.fa	SPIRE MAG	95.05	CheckM2 v1.0.1 (this study)	95.05	CheckM2 v1.0.1 (this study)	0.19
+spire_mag_02088219.fa	SPIRE MAG	97.46	CheckM2 v1.0.1 (this study)	97.46	CheckM2 v1.0.1 (this study)	0.82
+spire_mag_02088284.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.22
+GB_GCA_027728805.1	GTDB MAG	95.42	CheckM2 v1.0.1 (this study)	95.42	CheckM2 v1.0.1 (this study)	2.16
+spire_mag_01776406.fa	SPIRE MAG	95.2	CheckM2 v1.0.1 (this study)	95.2	CheckM2 v1.0.1 (this study)	0.0
+GB_GCA_041303695.1	GTDB MAG	75.74	CheckM2 v1.0.1 (this study)	75.74	CheckM2 v1.0.1 (this study)	0.52
+GB_GCA_020438845.1	GTDB MAG	99.54	CheckM2 v1.0.1 (this study)	99.54	CheckM2 v1.0.1 (this study)	2.32
+GB_GCA_903862565.1	GTDB MAG	96.36	CheckM2 v1.0.1 (this study)	96.36	CheckM2 v1.0.1 (this study)	5.52
+GB_GCA_029977845.1	GTDB MAG	72.49	CheckM2 v1.0.1 (this study)	72.49	CheckM2 v1.0.1 (this study)	0.38
+RS_GCF_017853185.1	GTDB MAG	93.99	CheckM2 v1.0.1 (this study)	93.99	CheckM2 v1.0.1 (this study)	2.12
+spire_mag_02102612.fa	SPIRE MAG	93.56	CheckM2 v1.0.1 (this study)	93.56	CheckM2 v1.0.1 (this study)	0.39
+spire_mag_00138007.fa	SPIRE MAG	97.65	CheckM2 v1.0.1 (this study)	97.65	CheckM2 v1.0.1 (this study)	0.18
+spire_mag_00142179.fa	SPIRE MAG	96.36	CheckM2 v1.0.1 (this study)	96.36	CheckM2 v1.0.1 (this study)	0.35
+GB_GCA_037141465.1	GTDB MAG	96.75	CheckM2 v1.0.1 (this study)	96.75	CheckM2 v1.0.1 (this study)	0.05
+spire_mag_01948467.fa	SPIRE MAG	97.75	CheckM2 v1.0.1 (this study)	97.75	CheckM2 v1.0.1 (this study)	1.73
+GB_GCA_018883075.1	GTDB MAG	80.8	CheckM2 v1.0.1 (this study)	80.8	CheckM2 v1.0.1 (this study)	2.23
+GB_GCA_040398865.1	GTDB MAG	89.54	CheckM2 v1.0.1 (this study)	89.54	CheckM2 v1.0.1 (this study)	0.02
+GB_GCA_041303735.1	GTDB MAG	94.09	CheckM2 v1.0.1 (this study)	94.09	CheckM2 v1.0.1 (this study)	1.3
+spire_mag_01882647.fa	SPIRE MAG	99.94	CheckM2 v1.0.1 (this study)	99.94	CheckM2 v1.0.1 (this study)	4.77
+GB_GCA_020438895.1	GTDB MAG	76.32	CheckM2 v1.0.1 (this study)	76.32	CheckM2 v1.0.1 (this study)	0.78
+GB_GCA_029780675.1	GTDB MAG	92.36	CheckM2 v1.0.1 (this study)	92.36	CheckM2 v1.0.1 (this study)	2.24
+spire_mag_00139887.fa	SPIRE MAG	95.74	CheckM2 v1.0.1 (this study)	95.74	CheckM2 v1.0.1 (this study)	3.91
+GB_GCA_030836785.1	GTDB MAG	92.74	CheckM2 v1.0.1 (this study)	92.74	CheckM2 v1.0.1 (this study)	1.38
+spire_mag_00138052.fa	SPIRE MAG	93.17	CheckM2 v1.0.1 (this study)	93.17	CheckM2 v1.0.1 (this study)	3.35
+spire_mag_01117712.fa	SPIRE MAG	93.73	CheckM2 v1.0.1 (this study)	93.73	CheckM2 v1.0.1 (this study)	1.56
+spire_mag_00709104.fa	SPIRE MAG	91.08	CheckM2 v1.0.1 (this study)	91.08	CheckM2 v1.0.1 (this study)	0.0
+spire_mag_00709371.fa	SPIRE MAG	95.77	CheckM2 v1.0.1 (this study)	95.77	CheckM2 v1.0.1 (this study)	1.85
+spire_mag_00036704.fa	SPIRE MAG	95.61	CheckM2 v1.0.1 (this study)	95.61	CheckM2 v1.0.1 (this study)	3.18
+spire_mag_02087828.fa	SPIRE MAG	99.51	CheckM2 v1.0.1 (this study)	99.51	CheckM2 v1.0.1 (this study)	0.61
+spire_mag_02088828.fa	SPIRE MAG	97.99	CheckM2 v1.0.1 (this study)	97.99	CheckM2 v1.0.1 (this study)	1.14
+spire_mag_02088287.fa	SPIRE MAG	99.61	CheckM2 v1.0.1 (this study)	99.61	CheckM2 v1.0.1 (this study)	2.58
+spire_mag_02088330.fa	SPIRE MAG	99.89	CheckM2 v1.0.1 (this study)	99.89	CheckM2 v1.0.1 (this study)	1.53
+spire_mag_02088507.fa	SPIRE MAG	98.79	CheckM2 v1.0.1 (this study)	98.79	CheckM2 v1.0.1 (this study)	1.6
+GB_GCA_018882965.1	GTDB MAG	94.55	CheckM2 v1.0.1 (this study)	94.55	CheckM2 v1.0.1 (this study)	0.07
+spire_mag_02028936.fa	SPIRE MAG	97.97	CheckM2 v1.0.1 (this study)	97.97	CheckM2 v1.0.1 (this study)	0.23
+spire_mag_02005306.fa	SPIRE MAG	92.56	CheckM2 v1.0.1 (this study)	92.56	CheckM2 v1.0.1 (this study)	2.49
+spire_mag_01040852.fa	SPIRE MAG	94.74	CheckM2 v1.0.1 (this study)	94.74	CheckM2 v1.0.1 (this study)	0.0
+spire_mag_01041266.fa	SPIRE MAG	93.98	CheckM2 v1.0.1 (this study)	93.98	CheckM2 v1.0.1 (this study)	0.0
+GB_GCA_016197405.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.11
+GB_GCA_040511255.1	GTDB MAG	86.01	CheckM2 v1.0.1 (this study)	86.01	CheckM2 v1.0.1 (this study)	5.43
+RS_GCF_025822605.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_040512325.1	GTDB MAG	83.67	CheckM2 v1.0.1 (this study)	83.67	CheckM2 v1.0.1 (this study)	0.85
+RS_GCF_015710575.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001984215.1	isolate (cultured, draft)	99.95	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_010725885.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_023460175.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	1.14
+spire_mag_02520786.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	1.08
+RS_GCF_900637205.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_00825292.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	1.78
+RS_GCF_963378085.1	isolate (closed/complete)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_963378095.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+RS_GCF_001667265.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_010729895.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_945957405.1	GTDB MAG	89.81	CheckM2 v1.0.1 (this study)	89.81	CheckM2 v1.0.1 (this study)	3.63
+GB_GCA_022708865.1	GTDB MAG	81.71	CheckM2 v1.0.1 (this study)	81.71	CheckM2 v1.0.1 (this study)	1.29
+spire_mag_00143021.fa	SPIRE MAG	99.92	CheckM2 v1.0.1 (this study)	99.92	CheckM2 v1.0.1 (this study)	0.88
+GB_GCA_035345915.1	GTDB MAG	74.35	CheckM2 v1.0.1 (this study)	74.35	CheckM2 v1.0.1 (this study)	3.63
+GB_GCA_036273805.1	GTDB MAG	67.34	CheckM2 v1.0.1 (this study)	67.34	CheckM2 v1.0.1 (this study)	2.0
+RS_GCF_010726955.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_00877932.fa	SPIRE MAG	99.95	CheckM2 v1.0.1 (this study)	99.95	CheckM2 v1.0.1 (this study)	2.04
+spire_mag_01040802.fa	SPIRE MAG	96.1	CheckM2 v1.0.1 (this study)	96.1	CheckM2 v1.0.1 (this study)	4.12
+spire_mag_01041225.fa	SPIRE MAG	99.8	CheckM2 v1.0.1 (this study)	99.8	CheckM2 v1.0.1 (this study)	0.0
+spire_mag_01041320.fa	SPIRE MAG	99.98	CheckM2 v1.0.1 (this study)	99.98	CheckM2 v1.0.1 (this study)	2.98
+RS_GCF_025215495.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010731615.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002592005.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_001665255.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001668615.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_003347205.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_023415515.1	GTDB MAG	95.92	CheckM2 v1.0.1 (this study)	95.92	CheckM2 v1.0.1 (this study)	6.23
+RS_GCF_033741175.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_035279185.1	GTDB MAG	83.75	CheckM2 v1.0.1 (this study)	83.75	CheckM2 v1.0.1 (this study)	3.43
+GB_GCA_902826815.1	GTDB MAG	99.96	CheckM2 v1.0.1 (this study)	99.96	CheckM2 v1.0.1 (this study)	1.49
+RS_GCF_002968285.2	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+GB_GCA_032159565.1	GTDB MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	0.26
+GB_GCA_032159775.1	GTDB MAG	94.39	CheckM2 v1.0.1 (this study)	94.39	CheckM2 v1.0.1 (this study)	1.64
+RS_GCF_003719305.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_036265655.1	GTDB MAG	99.98	CheckM2 v1.0.1 (this study)	99.98	CheckM2 v1.0.1 (this study)	6.73
+RS_GCF_002553505.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_00841652.fa	SPIRE MAG	96.09	CheckM2 v1.0.1 (this study)	96.09	CheckM2 v1.0.1 (this study)	2.09
+GB_GCA_019749805.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	1.19
+RS_GCF_010726765.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002086795.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010728925.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_01733397.fa	SPIRE MAG	99.98	CheckM2 v1.0.1 (this study)	99.98	CheckM2 v1.0.1 (this study)	1.7
+RS_GCF_000243415.2	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002591975.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000230895.2	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010726085.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_025822765.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_900637135.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002245535.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001500025.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001500045.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001570485.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001499905.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001050015.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001050035.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001665535.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001668575.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_003284965.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_035918395.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+RS_GCF_001499855.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001500065.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_010731795.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001672895.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001583415.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_01585204.fa	SPIRE MAG	89.9	CheckM2 v1.0.1 (this study)	89.9	CheckM2 v1.0.1 (this study)	0.86
+spire_mag_01586430.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	3.99
+spire_mag_01586673.fa	SPIRE MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	1.76
+RS_GCF_025822705.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900108565.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_022317005.1	isolate (closed/complete)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_039871645.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_004014805.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010725725.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_019645835.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_00907393.fa	SPIRE MAG	95.56	CheckM2 v1.0.1 (this study)	95.56	CheckM2 v1.0.1 (this study)	0.95
+RS_GCF_025345615.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_021154745.1	GTDB MAG	80.23	CheckM2 v1.0.1 (this study)	80.23	CheckM2 v1.0.1 (this study)	3.12
+GB_GCA_032161985.1	GTDB MAG	71.99	CheckM2 v1.0.1 (this study)	71.99	CheckM2 v1.0.1 (this study)	0.33
+GB_GCA_032230775.1	GTDB MAG	82.39	CheckM2 v1.0.1 (this study)	82.39	CheckM2 v1.0.1 (this study)	3.95
+RS_GCF_003201655.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_00560387.fa	SPIRE MAG	99.93	CheckM2 v1.0.1 (this study)	99.93	CheckM2 v1.0.1 (this study)	2.49
+GB_GCA_032162325.1	GTDB MAG	77.84	CheckM2 v1.0.1 (this study)	77.84	CheckM2 v1.0.1 (this study)	5.18
+RS_GCF_025965975.1	GTDB MAG	93.79	CheckM2 v1.0.1 (this study)	93.79	CheckM2 v1.0.1 (this study)	4.65
+GB_GCA_035492865.1	GTDB MAG	81.2	CheckM2 v1.0.1 (this study)	81.2	CheckM2 v1.0.1 (this study)	1.16
+RS_GCF_000328565.1	isolate (closed/complete)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_014873705.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+spire_mag_00488916.fa	SPIRE MAG	93.22	CheckM2 v1.0.1 (this study)	93.22	CheckM2 v1.0.1 (this study)	3.87
+RS_GCF_001667505.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_900240945.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_035634855.1	GTDB MAG	77.15	CheckM2 v1.0.1 (this study)	77.15	CheckM2 v1.0.1 (this study)	5.07
+RS_GCF_035491595.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	7.71
+GB_GCA_036263935.1	GTDB MAG	82.21	CheckM2 v1.0.1 (this study)	82.21	CheckM2 v1.0.1 (this study)	2.36
+RS_GCF_035649695.1	GTDB MAG	94.32	CheckM2 v1.0.1 (this study)	94.32	CheckM2 v1.0.1 (this study)	2.21
+spire_mag_01100050.fa	SPIRE MAG	91.79	CheckM2 v1.0.1 (this study)	91.79	CheckM2 v1.0.1 (this study)	4.24
+RS_GCF_035274705.1	GTDB MAG	99.94	CheckM2 v1.0.1 (this study)	99.94	CheckM2 v1.0.1 (this study)	0.36
+spire_mag_00079100.fa	SPIRE MAG	95.86	CheckM2 v1.0.1 (this study)	95.86	CheckM2 v1.0.1 (this study)	0.18
+spire_mag_00080611.fa	SPIRE MAG	95.42	CheckM2 v1.0.1 (this study)	95.42	CheckM2 v1.0.1 (this study)	2.61
+GB_GCA_035253445.1	GTDB MAG	86.49	CheckM2 v1.0.1 (this study)	86.49	CheckM2 v1.0.1 (this study)	5.22
+RS_GCF_035697385.1	GTDB MAG	99.28	CheckM2 v1.0.1 (this study)	99.28	CheckM2 v1.0.1 (this study)	0.91
+GB_GCA_040511335.1	GTDB MAG	61.76	CheckM2 v1.0.1 (this study)	61.76	CheckM2 v1.0.1 (this study)	0.09
+RS_GCF_002838065.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900187065.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900603025.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_00907130.fa	SPIRE MAG	99.63	CheckM2 v1.0.1 (this study)	99.63	CheckM2 v1.0.1 (this study)	3.87
+RS_GCF_937941905.1	GTDB MAG	99.8	CheckM2 v1.0.1 (this study)	99.8	CheckM2 v1.0.1 (this study)	0.68
+GB_GCA_001942045.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010731295.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_025823105.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_036235365.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001245615.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_040704635.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001665625.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_01197245.fa	SPIRE MAG	95.61	CheckM2 v1.0.1 (this study)	95.61	CheckM2 v1.0.1 (this study)	2.33
+RS_GCF_001665785.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002102345.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010727325.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_017876775.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_011745145.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+RS_GCF_040655355.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_000455325.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_003855255.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_004762045.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_000426065.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_000805385.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000723385.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001942625.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_022179545.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_00975328.fa	SPIRE MAG	96.94	CheckM2 v1.0.1 (this study)	96.94	CheckM2 v1.0.1 (this study)	4.48
+spire_mag_01196294.fa	SPIRE MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	0.37
+GB_GCA_025821245.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_030486405.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+RS_GCF_019050325.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001953975.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001954135.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_009729095.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+spire_mag_02374732.fa	SPIRE MAG	99.83	CheckM2 v1.0.1 (this study)	99.83	CheckM2 v1.0.1 (this study)	2.26
+RS_GCF_029893345.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_032883035.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_000373905.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_000382405.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001570425.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001665685.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_002086485.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002157835.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010727475.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_02371253.fa	SPIRE MAG	99.88	CheckM2 v1.0.1 (this study)	99.88	CheckM2 v1.0.1 (this study)	0.11
+RS_GCF_001187505.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001457595.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_01585792.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	1.82
+spire_mag_01586359.fa	SPIRE MAG	97.48	CheckM2 v1.0.1 (this study)	97.48	CheckM2 v1.0.1 (this study)	4.25
+spire_mag_01585481.fa	SPIRE MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	3.25
+spire_mag_01585638.fa	SPIRE MAG	91.68	CheckM2 v1.0.1 (this study)	91.68	CheckM2 v1.0.1 (this study)	2.11
+spire_mag_01586464.fa	SPIRE MAG	99.98	CheckM2 v1.0.1 (this study)	99.98	CheckM2 v1.0.1 (this study)	4.62
+spire_mag_01586672.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	2.93
+spire_mag_01585398.fa	SPIRE MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	2.09
+spire_mag_02200992.fa	SPIRE MAG	96.19	CheckM2 v1.0.1 (this study)	96.19	CheckM2 v1.0.1 (this study)	1.36
+RS_GCF_022370755.2	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002101965.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_01203432.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.43
+GB_GCA_016197365.1	GTDB MAG	100.0	complete by definition (isolate)	93.57	CheckM2 v1.0.1 (this study)	0.06
+GB_GCA_023264765.1	GTDB MAG	91.39	CheckM2 v1.0.1 (this study)	91.39	CheckM2 v1.0.1 (this study)	2.39
+RS_GCF_011758805.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000613185.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002101555.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_026240945.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_033741155.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_021648845.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001644575.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_01276921.fa	SPIRE MAG	99.98	CheckM2 v1.0.1 (this study)	99.98	CheckM2 v1.0.1 (this study)	0.42
+GB_GCA_034520035.1	GTDB MAG	99.07	CheckM2 v1.0.1 (this study)	99.07	CheckM2 v1.0.1 (this study)	5.26
+RS_GCF_025822145.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002968335.2	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+RS_GCF_030499155.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001428895.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_008329585.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_011620645.1	GTDB MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	4.94
+GB_GCA_900078775.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_02186423.fa	SPIRE MAG	99.97	CheckM2 v1.0.1 (this study)	99.97	CheckM2 v1.0.1 (this study)	0.77
+RS_GCF_019456655.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000317305.3	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000691525.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_02516797.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	2.0
+spire_mag_02521398.fa	SPIRE MAG	93.99	CheckM2 v1.0.1 (this study)	93.99	CheckM2 v1.0.1 (this study)	4.29
+RS_GCF_036946495.1	GTDB MAG	100.0	complete by definition (isolate)	100.0	CheckM2 v1.0.1 (this study)	0.04
+RS_GCF_002086115.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_943913955.1	GTDB MAG	100.0	complete by definition (isolate)	99.99	CheckM2 v1.0.1 (this study)	2.02
+spire_mag_01784070.fa	SPIRE MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	3.61
+GB_GCA_023264755.1	GTDB MAG	70.17	CheckM2 v1.0.1 (this study)	70.17	CheckM2 v1.0.1 (this study)	2.58
+GB_GCA_025966225.1	GTDB MAG	96.55	CheckM2 v1.0.1 (this study)	96.55	CheckM2 v1.0.1 (this study)	1.2
+RS_GCF_033804635.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_033804605.1	isolate (cultured, draft)	99.91	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_024320865.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_025963195.1	GTDB MAG	72.41	CheckM2 v1.0.1 (this study)	72.41	CheckM2 v1.0.1 (this study)	2.37
+RS_GCF_008329605.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_014202335.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_032162105.1	GTDB MAG	91.11	CheckM2 v1.0.1 (this study)	91.11	CheckM2 v1.0.1 (this study)	3.2
+GB_GCA_032162385.1	GTDB MAG	76.24	CheckM2 v1.0.1 (this study)	76.24	CheckM2 v1.0.1 (this study)	4.77
+RS_GCF_000620625.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+spire_mag_00490038.fa	SPIRE MAG	97.94	CheckM2 v1.0.1 (this study)	97.94	CheckM2 v1.0.1 (this study)	1.5
+spire_mag_00492514.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	1.28
+spire_mag_00493620.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.48
+GB_GCA_025963385.1	GTDB MAG	91.64	CheckM2 v1.0.1 (this study)	91.64	CheckM2 v1.0.1 (this study)	6.49
+GB_GCA_025965555.1	GTDB MAG	98.45	CheckM2 v1.0.1 (this study)	98.45	CheckM2 v1.0.1 (this study)	2.21
+GB_GCA_032161845.1	GTDB MAG	93.18	CheckM2 v1.0.1 (this study)	93.18	CheckM2 v1.0.1 (this study)	6.08
+RS_GCF_001426545.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_006864685.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002043095.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+spire_mag_01198798.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	1.3
+RS_GCF_008329535.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_025822245.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_025823185.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_040614235.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_035633495.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	3.24
+GB_GCA_038244615.1	GTDB MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	0.9
+RS_GCF_006439015.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_016462545.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.14
+RS_GCF_030295745.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+GB_GCA_032162605.1	GTDB MAG	94.19	CheckM2 v1.0.1 (this study)	94.19	CheckM2 v1.0.1 (this study)	3.55
+RS_GCF_010729665.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_033741125.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_040509115.1	GTDB MAG	95.55	CheckM2 v1.0.1 (this study)	95.55	CheckM2 v1.0.1 (this study)	1.63
+GB_GCA_029256565.1	GTDB MAG	57.62	CheckM2 v1.0.1 (this study)	57.62	CheckM2 v1.0.1 (this study)	1.27
+RS_GCF_010731815.2	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_021916785.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_025822985.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_008329645.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_022557175.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+GB_GCA_031292695.1	GTDB MAG	92.31	CheckM2 v1.0.1 (this study)	92.31	CheckM2 v1.0.1 (this study)	5.48
+RS_GCF_001905655.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_005670685.2	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_018326285.1	isolate (closed/complete)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+spire_mag_01882632.fa	SPIRE MAG	95.41	CheckM2 v1.0.1 (this study)	95.41	CheckM2 v1.0.1 (this study)	0.4
+RS_GCF_009729075.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_030209435.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+spire_mag_00487317.fa	SPIRE MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	3.58
+RS_GCF_010731115.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_00518952.fa	SPIRE MAG	94.49	CheckM2 v1.0.1 (this study)	94.49	CheckM2 v1.0.1 (this study)	3.56
+RS_GCF_010730955.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_025331195.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_009729415.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_041261665.1	isolate (cultured, draft)	99.97	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_029892685.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+spire_mag_00709164.fa	SPIRE MAG	99.86	CheckM2 v1.0.1 (this study)	99.86	CheckM2 v1.0.1 (this study)	0.0
+spire_mag_00709550.fa	SPIRE MAG	94.24	CheckM2 v1.0.1 (this study)	94.24	CheckM2 v1.0.1 (this study)	0.26
+GB_GCA_034189785.1	GTDB MAG	99.84	CheckM2 v1.0.1 (this study)	99.84	CheckM2 v1.0.1 (this study)	0.04
+spire_mag_01244826.fa	SPIRE MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	0.08
+RS_GCF_010731575.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010728155.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001499995.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001500125.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001499965.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_010731695.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_014218295.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_016313185.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001665575.1	isolate (cultured, draft)	86.06	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_017352375.1	isolate (cultured, draft)	99.96	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_004570325.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_030519285.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_040674075.1	isolate (cultured, draft)	99.93	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_018268465.1	GTDB MAG	99.63	CheckM2 v1.0.1 (this study)	99.63	CheckM2 v1.0.1 (this study)	5.2
+GB_GCA_020438915.1	GTDB MAG	64.28	CheckM2 v1.0.1 (this study)	64.28	CheckM2 v1.0.1 (this study)	0.23
+GB_GCA_022601135.1	GTDB MAG	95.76	CheckM2 v1.0.1 (this study)	95.76	CheckM2 v1.0.1 (this study)	1.13
+GB_GCA_022601275.1	GTDB MAG	92.56	CheckM2 v1.0.1 (this study)	92.56	CheckM2 v1.0.1 (this study)	1.36
+GB_GCA_964195655.1	GTDB MAG	65.69	CheckM2 v1.0.1 (this study)	65.69	CheckM2 v1.0.1 (this study)	0.08
+spire_mag_01776429.fa	SPIRE MAG	98.36	CheckM2 v1.0.1 (this study)	98.36	CheckM2 v1.0.1 (this study)	1.73
+GB_GCA_022600605.1	GTDB MAG	86.35	CheckM2 v1.0.1 (this study)	86.35	CheckM2 v1.0.1 (this study)	6.87
+GB_GCA_030666145.1	GTDB MAG	97.71	CheckM2 v1.0.1 (this study)	97.71	CheckM2 v1.0.1 (this study)	0.45
+spire_mag_01584542.fa	SPIRE MAG	99.94	CheckM2 v1.0.1 (this study)	99.94	CheckM2 v1.0.1 (this study)	1.79
+RS_GCF_005222675.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_025821625.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_025821585.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_902705885.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_039729195.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_023404955.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	5.72
+spire_mag_02184890.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.02
+RS_GCF_003254575.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_01199727.fa	SPIRE MAG	99.89	CheckM2 v1.0.1 (this study)	99.89	CheckM2 v1.0.1 (this study)	1.26
+RS_GCF_036946525.1	GTDB MAG	100.0	complete by definition (isolate)	99.64	CheckM2 v1.0.1 (this study)	2.51
+RS_GCF_007096635.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_022348085.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_040752555.1	GTDB MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	0.81
+RS_GCF_001044235.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001044255.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010729305.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_022374875.2	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000266905.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000612725.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_00691761.fa	SPIRE MAG	99.96	CheckM2 v1.0.1 (this study)	99.96	CheckM2 v1.0.1 (this study)	0.54
+spire_mag_00825461.fa	SPIRE MAG	96.42	CheckM2 v1.0.1 (this study)	96.42	CheckM2 v1.0.1 (this study)	3.62
+RS_GCF_001545925.1	isolate (cultured, draft)	99.93	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_025263565.1	isolate (closed/complete)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001552715.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002968295.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+RS_GCF_001650495.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_01188968.fa	SPIRE MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	0.3
+RS_GCF_002101705.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_01196792.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.1
+spire_mag_01197568.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	2.54
+RS_GCF_027706845.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_041287165.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_029623955.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_014190915.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900637195.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002086815.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010725485.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+RS_GCF_900454025.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010726645.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_025263265.1	isolate (closed/complete)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_041287115.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_034190095.1	GTDB MAG	99.51	CheckM2 v1.0.1 (this study)	99.51	CheckM2 v1.0.1 (this study)	0.09
+RS_GCF_010728325.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_01124179.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	1.48
+spire_mag_02293027.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	2.63
+spire_mag_02300699.fa	SPIRE MAG	97.7	CheckM2 v1.0.1 (this study)	97.7	CheckM2 v1.0.1 (this study)	4.31
+spire_mag_02295856.fa	SPIRE MAG	99.94	CheckM2 v1.0.1 (this study)	99.94	CheckM2 v1.0.1 (this study)	0.43
+spire_mag_02306214.fa	SPIRE MAG	95.25	CheckM2 v1.0.1 (this study)	95.25	CheckM2 v1.0.1 (this study)	0.14
+RS_GCF_017312405.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_964000695.1	GTDB MAG	99.89	CheckM2 v1.0.1 (this study)	99.89	CheckM2 v1.0.1 (this study)	0.3
+spire_mag_02296017.fa	SPIRE MAG	99.61	CheckM2 v1.0.1 (this study)	99.61	CheckM2 v1.0.1 (this study)	1.56
+spire_mag_02298516.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.47
+spire_mag_02293016.fa	SPIRE MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	0.22
+spire_mag_02307968.fa	SPIRE MAG	99.64	CheckM2 v1.0.1 (this study)	99.64	CheckM2 v1.0.1 (this study)	1.97
+spire_mag_02300518.fa	SPIRE MAG	99.7	CheckM2 v1.0.1 (this study)	99.7	CheckM2 v1.0.1 (this study)	2.28
+spire_mag_02166032.fa	SPIRE MAG	99.9	CheckM2 v1.0.1 (this study)	99.9	CheckM2 v1.0.1 (this study)	0.09
+spire_mag_02294311.fa	SPIRE MAG	99.97	CheckM2 v1.0.1 (this study)	99.97	CheckM2 v1.0.1 (this study)	1.75
+spire_mag_02299450.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	2.26
+spire_mag_02208815.fa	SPIRE MAG	97.86	CheckM2 v1.0.1 (this study)	97.86	CheckM2 v1.0.1 (this study)	1.25
+spire_mag_02296681.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.05
+spire_mag_02307077.fa	SPIRE MAG	99.56	CheckM2 v1.0.1 (this study)	99.56	CheckM2 v1.0.1 (this study)	1.35
+spire_mag_02298601.fa	SPIRE MAG	99.98	CheckM2 v1.0.1 (this study)	99.98	CheckM2 v1.0.1 (this study)	0.73
+spire_mag_02307797.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	1.83
+spire_mag_02292565.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.86
+spire_mag_02307626.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.24
+spire_mag_02300785.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.27
+spire_mag_02294715.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	1.37
+spire_mag_02305637.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.75
+spire_mag_02292667.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.54
+spire_mag_02297337.fa	SPIRE MAG	96.39	CheckM2 v1.0.1 (this study)	96.39	CheckM2 v1.0.1 (this study)	3.52
+spire_mag_02297276.fa	SPIRE MAG	96.25	CheckM2 v1.0.1 (this study)	96.25	CheckM2 v1.0.1 (this study)	3.8
+spire_mag_02293116.fa	SPIRE MAG	90.9	CheckM2 v1.0.1 (this study)	90.9	CheckM2 v1.0.1 (this study)	3.81
+spire_mag_02296298.fa	SPIRE MAG	95.01	CheckM2 v1.0.1 (this study)	95.01	CheckM2 v1.0.1 (this study)	1.17
+spire_mag_02299568.fa	SPIRE MAG	94.11	CheckM2 v1.0.1 (this study)	94.11	CheckM2 v1.0.1 (this study)	0.99
+RS_GCF_019710635.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_025965815.1	GTDB MAG	81.76	CheckM2 v1.0.1 (this study)	81.76	CheckM2 v1.0.1 (this study)	3.25
+GB_GCA_001665235.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_002102355.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010727605.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_902168065.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000526915.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000689255.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_022374895.2	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_036409155.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_039023525.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_900176255.2	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_041287235.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_010731715.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010730355.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_026625985.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+RS_GCF_026723865.1	isolate (closed/complete)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_025823255.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_035996225.1	GTDB MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	3.61
+RS_GCF_002356315.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900157375.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900157365.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_035472875.1	GTDB MAG	67.28	CheckM2 v1.0.1 (this study)	67.28	CheckM2 v1.0.1 (this study)	1.02
+GB_GCA_035511785.1	GTDB MAG	83.82	CheckM2 v1.0.1 (this study)	83.82	CheckM2 v1.0.1 (this study)	5.82
+GB_GCA_036495965.1	GTDB MAG	87.42	CheckM2 v1.0.1 (this study)	87.42	CheckM2 v1.0.1 (this study)	1.6
+GB_GCA_035552295.1	GTDB MAG	83.03	CheckM2 v1.0.1 (this study)	83.03	CheckM2 v1.0.1 (this study)	3.37
+RS_GCF_001954195.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001954275.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_035616495.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_003165155.1	GTDB MAG	89.64	CheckM2 v1.0.1 (this study)	89.64	CheckM2 v1.0.1 (this study)	0.63
+spire_mag_01677777.fa	SPIRE MAG	99.37	CheckM2 v1.0.1 (this study)	99.37	CheckM2 v1.0.1 (this study)	1.64
+spire_mag_01678249.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	1.41
+spire_mag_01678280.fa	SPIRE MAG	94.02	CheckM2 v1.0.1 (this study)	94.02	CheckM2 v1.0.1 (this study)	2.61
+spire_mag_01679848.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.58
+spire_mag_01681850.fa	SPIRE MAG	99.53	CheckM2 v1.0.1 (this study)	99.53	CheckM2 v1.0.1 (this study)	2.92
+spire_mag_01682807.fa	SPIRE MAG	99.17	CheckM2 v1.0.1 (this study)	99.17	CheckM2 v1.0.1 (this study)	0.64
+spire_mag_01680964.fa	SPIRE MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	1.32
+spire_mag_01681793.fa	SPIRE MAG	99.96	CheckM2 v1.0.1 (this study)	99.96	CheckM2 v1.0.1 (this study)	2.51
+spire_mag_01682165.fa	SPIRE MAG	99.93	CheckM2 v1.0.1 (this study)	99.93	CheckM2 v1.0.1 (this study)	4.06
+spire_mag_01168185.fa	SPIRE MAG	95.32	CheckM2 v1.0.1 (this study)	95.32	CheckM2 v1.0.1 (this study)	2.02
+spire_mag_01603410.fa	SPIRE MAG	99.47	CheckM2 v1.0.1 (this study)	99.47	CheckM2 v1.0.1 (this study)	2.05
+spire_mag_02370601.fa	SPIRE MAG	98.94	CheckM2 v1.0.1 (this study)	98.94	CheckM2 v1.0.1 (this study)	0.52
+spire_mag_01825260.fa	SPIRE MAG	99.96	CheckM2 v1.0.1 (this study)	99.96	CheckM2 v1.0.1 (this study)	3.41
+GB_GCA_021654635.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_013466425.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_022841565.1	GTDB MAG	99.94	CheckM2 v1.0.1 (this study)	99.94	CheckM2 v1.0.1 (this study)	2.29
+RS_GCF_002101675.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_02394504.fa	SPIRE MAG	93.72	CheckM2 v1.0.1 (this study)	93.72	CheckM2 v1.0.1 (this study)	0.32
+RS_GCF_017086405.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_003614435.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_01733412.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	1.65
+spire_mag_01882615.fa	SPIRE MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	0.76
+RS_GCF_031583025.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_030755175.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_032162485.1	GTDB MAG	75.35	CheckM2 v1.0.1 (this study)	75.35	CheckM2 v1.0.1 (this study)	2.81
+GB_GCA_032162865.1	GTDB MAG	83.5	CheckM2 v1.0.1 (this study)	83.5	CheckM2 v1.0.1 (this study)	1.39
+RS_GCF_000613245.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001668675.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001673635.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001673315.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001673365.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_00709072.fa	SPIRE MAG	95.12	CheckM2 v1.0.1 (this study)	95.12	CheckM2 v1.0.1 (this study)	0.51
+spire_mag_00709178.fa	SPIRE MAG	93.14	CheckM2 v1.0.1 (this study)	93.14	CheckM2 v1.0.1 (this study)	0.89
+spire_mag_00709327.fa	SPIRE MAG	93.61	CheckM2 v1.0.1 (this study)	93.61	CheckM2 v1.0.1 (this study)	0.12
+spire_mag_00709154.fa	SPIRE MAG	99.9	CheckM2 v1.0.1 (this study)	99.9	CheckM2 v1.0.1 (this study)	0.2
+spire_mag_00709551.fa	SPIRE MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	0.22
+spire_mag_00709385.fa	SPIRE MAG	93.5	CheckM2 v1.0.1 (this study)	93.5	CheckM2 v1.0.1 (this study)	0.44
+RS_GCF_002086275.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010723575.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001673155.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_015689175.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002116635.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_025822405.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900232995.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_963853645.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000157895.3	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900566085.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900566075.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002086675.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900566055.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002102175.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002705925.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_008370645.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_003391395.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900292015.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000195955.2	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_963853665.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_018278905.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_02683911.fa	SPIRE MAG	90.41	CheckM2 v1.0.1 (this study)	90.41	CheckM2 v1.0.1 (this study)	0.32
+spire_mag_02882770.fa	SPIRE MAG	92.95	CheckM2 v1.0.1 (this study)	92.95	CheckM2 v1.0.1 (this study)	0.05
+spire_mag_02837879.fa	SPIRE MAG	95.08	CheckM2 v1.0.1 (this study)	95.08	CheckM2 v1.0.1 (this study)	0.23
+RS_GCF_010730055.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010731535.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000195855.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000975265.2	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_003408705.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000340435.2	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_035569455.1	GTDB MAG	79.86	CheckM2 v1.0.1 (this study)	79.86	CheckM2 v1.0.1 (this study)	2.85
+RS_GCF_010730195.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001665395.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001667115.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_035499775.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	3.76
+RS_GCF_019247635.1	GTDB MAG	99.57	CheckM2 v1.0.1 (this study)	99.57	CheckM2 v1.0.1 (this study)	0.3
+GB_GCA_001665295.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001673535.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_000455205.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001672815.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001672915.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_025965855.1	GTDB MAG	97.23	CheckM2 v1.0.1 (this study)	97.23	CheckM2 v1.0.1 (this study)	4.79
+GB_GCA_002102225.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900078675.2	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900157385.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001667185.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001667015.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_002101815.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001668725.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_035506235.1	GTDB MAG	99.16	CheckM2 v1.0.1 (this study)	99.16	CheckM2 v1.0.1 (this study)	0.4
+RS_GCF_002086635.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001667035.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_002101785.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_019247615.1	GTDB MAG	94.82	CheckM2 v1.0.1 (this study)	94.82	CheckM2 v1.0.1 (this study)	1.6
+GB_GCA_035693385.1	GTDB MAG	69.96	CheckM2 v1.0.1 (this study)	69.96	CheckM2 v1.0.1 (this study)	1.46
+GB_GCA_031292665.1	GTDB MAG	99.98	CheckM2 v1.0.1 (this study)	99.98	CheckM2 v1.0.1 (this study)	2.31
+GB_GCA_037140245.1	GTDB MAG	87.13	CheckM2 v1.0.1 (this study)	87.13	CheckM2 v1.0.1 (this study)	7.32
+GB_GCA_903927745.1	GTDB MAG	93.29	CheckM2 v1.0.1 (this study)	93.29	CheckM2 v1.0.1 (this study)	0.12
+RS_GCF_001053185.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010729105.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_036409085.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_902652685.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_035505695.1	GTDB MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	1.34
+spire_mag_01485026.fa	SPIRE MAG	96.98	CheckM2 v1.0.1 (this study)	96.98	CheckM2 v1.0.1 (this study)	4.0
+GB_GCA_035716165.1	GTDB MAG	76.26	CheckM2 v1.0.1 (this study)	76.26	CheckM2 v1.0.1 (this study)	2.06
+RS_GCF_001665875.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_002086125.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_003284935.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_003284975.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_036273375.1	GTDB MAG	99.98	CheckM2 v1.0.1 (this study)	99.98	CheckM2 v1.0.1 (this study)	2.5
+GB_GCA_036338755.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.14
+RS_GCF_001667145.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001673555.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001667925.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_035617725.1	isolate (cultured, draft)	99.95	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001665835.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001672755.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002104765.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002105755.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001953985.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_019668465.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001667865.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010731775.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001672975.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_000277125.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010731675.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_020217485.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001667315.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_004298145.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.92
+RS_GCF_025933915.1	GTDB MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	0.06
+spire_mag_01823769.fa	SPIRE MAG	99.98	CheckM2 v1.0.1 (this study)	99.98	CheckM2 v1.0.1 (this study)	4.86
+RS_GCF_009741445.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_036500645.1	GTDB MAG	62.01	CheckM2 v1.0.1 (this study)	62.01	CheckM2 v1.0.1 (this study)	1.62
+RS_GCF_019243155.1	GTDB MAG	99.97	CheckM2 v1.0.1 (this study)	99.97	CheckM2 v1.0.1 (this study)	6.39
+RS_GCF_001666755.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_010730575.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000164135.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002086735.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001667275.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001667735.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001667775.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001667885.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001907675.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001666835.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_001667075.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_025822865.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001667585.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_025263485.1	isolate (closed/complete)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_002102255.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001667665.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_900240975.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_002102155.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010731595.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010731655.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010730745.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_019645855.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_035515675.1	GTDB MAG	99.65	CheckM2 v1.0.1 (this study)	99.65	CheckM2 v1.0.1 (this study)	4.73
+GB_GCA_028706695.1	GTDB MAG	81.0	CheckM2 v1.0.1 (this study)	81.0	CheckM2 v1.0.1 (this study)	1.36
+GB_GCA_039583405.1	GTDB MAG	82.06	CheckM2 v1.0.1 (this study)	82.06	CheckM2 v1.0.1 (this study)	3.05
+RS_GCF_007714205.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_00671068.fa	SPIRE MAG	97.78	CheckM2 v1.0.1 (this study)	97.78	CheckM2 v1.0.1 (this study)	2.43
+spire_mag_00670601.fa	SPIRE MAG	99.97	CheckM2 v1.0.1 (this study)	99.97	CheckM2 v1.0.1 (this study)	0.33
+RS_GCF_041206865.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_019751635.1	GTDB MAG	90.57	CheckM2 v1.0.1 (this study)	90.57	CheckM2 v1.0.1 (this study)	0.75
+GB_GCA_019236925.1	GTDB MAG	92.92	CheckM2 v1.0.1 (this study)	92.92	CheckM2 v1.0.1 (this study)	6.55
+RS_GCF_035314665.1	GTDB MAG	96.79	CheckM2 v1.0.1 (this study)	96.79	CheckM2 v1.0.1 (this study)	5.27
+RS_GCF_035623875.1	GTDB MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	3.31
+spire_mag_02001657.fa	SPIRE MAG	99.32	CheckM2 v1.0.1 (this study)	99.32	CheckM2 v1.0.1 (this study)	1.59
+spire_mag_02001975.fa	SPIRE MAG	99.98	CheckM2 v1.0.1 (this study)	99.98	CheckM2 v1.0.1 (this study)	1.87
+GB_GCA_035314925.1	GTDB MAG	84.18	CheckM2 v1.0.1 (this study)	84.18	CheckM2 v1.0.1 (this study)	4.41
+GB_GCA_035506875.1	GTDB MAG	83.33	CheckM2 v1.0.1 (this study)	83.33	CheckM2 v1.0.1 (this study)	1.09
+GB_GCA_035642315.1	GTDB MAG	71.43	CheckM2 v1.0.1 (this study)	71.43	CheckM2 v1.0.1 (this study)	3.26
+GB_GCA_035552835.1	GTDB MAG	71.16	CheckM2 v1.0.1 (this study)	71.16	CheckM2 v1.0.1 (this study)	3.4
+GB_GCA_036746615.1	GTDB MAG	71.13	CheckM2 v1.0.1 (this study)	71.13	CheckM2 v1.0.1 (this study)	1.97
+RS_GCF_910591625.1	GTDB MAG	100.0	complete by definition (isolate)	99.49	CheckM2 v1.0.1 (this study)	2.28
+RS_GCF_035570115.1	GTDB MAG	99.98	CheckM2 v1.0.1 (this study)	99.98	CheckM2 v1.0.1 (this study)	5.64
+spire_mag_00184606.fa	SPIRE MAG	99.88	CheckM2 v1.0.1 (this study)	99.88	CheckM2 v1.0.1 (this study)	4.17
+GB_GCA_032159915.1	GTDB MAG	85.81	CheckM2 v1.0.1 (this study)	85.81	CheckM2 v1.0.1 (this study)	3.62
+RS_GCF_002863225.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.28
+RS_GCF_030252325.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_035606475.1	GTDB MAG	82.36	CheckM2 v1.0.1 (this study)	82.36	CheckM2 v1.0.1 (this study)	1.5
+RS_GCF_001673405.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_039583785.1	GTDB MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	0.2
+RS_GCF_022430545.2	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_036272035.1	GTDB MAG	95.54	CheckM2 v1.0.1 (this study)	95.54	CheckM2 v1.0.1 (this study)	4.56
+GB_GCA_036519055.1	GTDB MAG	66.73	CheckM2 v1.0.1 (this study)	66.73	CheckM2 v1.0.1 (this study)	0.06
+GB_GCA_036497495.1	GTDB MAG	71.98	CheckM2 v1.0.1 (this study)	71.98	CheckM2 v1.0.1 (this study)	3.22
+RS_GCF_035603715.1	GTDB MAG	92.19	CheckM2 v1.0.1 (this study)	92.19	CheckM2 v1.0.1 (this study)	6.2
+RS_GCF_036488105.1	GTDB MAG	95.38	CheckM2 v1.0.1 (this study)	95.38	CheckM2 v1.0.1 (this study)	7.05
+RS_GCF_036490025.1	GTDB MAG	93.02	CheckM2 v1.0.1 (this study)	93.02	CheckM2 v1.0.1 (this study)	0.99
+RS_GCF_010727945.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_035642975.1	GTDB MAG	95.91	CheckM2 v1.0.1 (this study)	95.91	CheckM2 v1.0.1 (this study)	2.99
+RS_GCF_002102185.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_039583805.1	GTDB MAG	96.02	CheckM2 v1.0.1 (this study)	96.02	CheckM2 v1.0.1 (this study)	0.05
+RS_GCF_001672775.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002101595.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010728725.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002101735.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_003402475.1	isolate (cultured, draft)	99.98	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_025822885.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_008709575.1	GTDB MAG	98.73	CheckM2 v1.0.1 (this study)	98.73	CheckM2 v1.0.1 (this study)	0.01
+GB_GCA_019246375.1	GTDB MAG	81.96	CheckM2 v1.0.1 (this study)	81.96	CheckM2 v1.0.1 (this study)	2.34
+GB_GCA_035625875.1	GTDB MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	4.3
+spire_mag_02001406.fa	SPIRE MAG	94.46	CheckM2 v1.0.1 (this study)	94.46	CheckM2 v1.0.1 (this study)	3.51
+spire_mag_02001409.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	2.91
+RS_GCF_010723305.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_018361265.1	isolate (cultured, draft)	99.87	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_029961025.1	GTDB MAG	99.95	CheckM2 v1.0.1 (this study)	99.95	CheckM2 v1.0.1 (this study)	0.07
+RS_GCF_009936235.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_016592155.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010731635.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_035653355.1	GTDB MAG	92.36	CheckM2 v1.0.1 (this study)	92.36	CheckM2 v1.0.1 (this study)	3.98
+GB_GCA_002967005.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_041287095.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+GB_GCA_024758765.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_900078685.2	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_02374219.fa	SPIRE MAG	99.37	CheckM2 v1.0.1 (this study)	99.37	CheckM2 v1.0.1 (this study)	0.94
+spire_mag_01787296.fa	SPIRE MAG	94.63	CheckM2 v1.0.1 (this study)	94.63	CheckM2 v1.0.1 (this study)	0.53
+spire_mag_01585658.fa	SPIRE MAG	99.99	CheckM2 v1.0.1 (this study)	99.99	CheckM2 v1.0.1 (this study)	0.55
+RS_GCF_963378105.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+RS_GCF_001673575.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_022374935.2	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_000455125.1	isolate (cultured, draft)	100.0	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_002101775.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_019645815.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002086515.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010731755.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_02374351.fa	SPIRE MAG	99.71	CheckM2 v1.0.1 (this study)	99.71	CheckM2 v1.0.1 (this study)	0.06
+RS_GCF_002101585.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_010729485.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_963378075.1	isolate (closed/complete)	100.0	complete by definition (closed)	100.0	complete by definition (isolate)	
+RS_GCF_002102265.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_039922455.1	GTDB MAG	85.36	CheckM2 v1.0.1 (this study)	85.36	CheckM2 v1.0.1 (this study)	0.58
+RS_GCF_020172685.2	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_020181615.2	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_020181595.2	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_020181635.2	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001667375.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001673565.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_001667945.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002086285.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_01586492.fa	SPIRE MAG	99.96	CheckM2 v1.0.1 (this study)	99.96	CheckM2 v1.0.1 (this study)	2.67
+RS_GCF_010727125.1	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002086455.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_003284925.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002101885.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_00709062.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	0.03
+spire_mag_02370757.fa	SPIRE MAG	90.16	CheckM2 v1.0.1 (this study)	90.16	CheckM2 v1.0.1 (this study)	0.34
+spire_mag_00709337.fa	SPIRE MAG	90.28	CheckM2 v1.0.1 (this study)	90.28	CheckM2 v1.0.1 (this study)	0.98
+RS_GCF_018455725.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+GB_GCA_039935195.1	GTDB MAG	84.51	CheckM2 v1.0.1 (this study)	84.51	CheckM2 v1.0.1 (this study)	0.21
+GB_GCA_035721065.1	GTDB MAG	79.49	CheckM2 v1.0.1 (this study)	79.49	CheckM2 v1.0.1 (this study)	4.21
+RS_GCF_001668625.1	isolate (cultured, draft)	99.99	CheckM2 v1.0.1 (this study)	100.0	complete by definition (isolate)	
+RS_GCF_002102395.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_002104795.1	isolate (cultured, draft)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+RS_GCF_022370835.2	isolate (closed/complete)	100.0	complete by definition (isolate)	100.0	complete by definition (isolate)	
+spire_mag_01959179.fa	SPIRE MAG	95.19	CheckM2 v1.0.1 (this study)	95.19	CheckM2 v1.0.1 (this study)	1.54
+GB_GCA_019242135.1	GTDB MAG	83.81	CheckM2 v1.0.1 (this study)	83.81	CheckM2 v1.0.1 (this study)	2.13
+GB_GCA_036390735.1	GTDB MAG	95.22	CheckM2 v1.0.1 (this study)	95.22	CheckM2 v1.0.1 (this study)	2.7
+spire_mag_02598702.fa	SPIRE MAG	100.0	CheckM2 v1.0.1 (this study)	100.0	CheckM2 v1.0.1 (this study)	3.95
+spire_mag_01168129.fa	SPIRE MAG	95.55	CheckM2 v1.0.1 (this study)	95.55	CheckM2 v1.0.1 (this study)	3.29
+spire_mag_01603633.fa	SPIRE MAG	95.8	CheckM2 v1.0.1 (this study)	95.8	CheckM2 v1.0.1 (this study)	3.81
+spire_mag_01603564.fa	SPIRE MAG	91.61	CheckM2 v1.0.1 (this study)	91.61	CheckM2 v1.0.1 (this study)	4.25
+GB_GCA_032159765.1	GTDB MAG	99.88	CheckM2 v1.0.1 (this study)	99.88	CheckM2 v1.0.1 (this study)	1.9
+GB_GCA_032159965.1	GTDB MAG	93.55	CheckM2 v1.0.1 (this study)	93.55	CheckM2 v1.0.1 (this study)	6.31
+GB_GCA_035651275.1	GTDB MAG	92.38	CheckM2 v1.0.1 (this study)	92.38	CheckM2 v1.0.1 (this study)	1.72
+spire_mag_01599223.fa	SPIRE MAG	91.48	CheckM2 v1.0.1 (this study)	91.48	CheckM2 v1.0.1 (this study)	2.36
+GB_GCA_036558625.1	GTDB MAG	92.96	CheckM2 v1.0.1 (this study)	92.96	CheckM2 v1.0.1 (this study)	1.21
+RS_GCF_035640695.1	GTDB MAG	93.02	CheckM2 v1.0.1 (this study)	93.02	CheckM2 v1.0.1 (this study)	1.4
+spire_mag_00549465.fa	SPIRE MAG	99.68	CheckM2 v1.0.1 (this study)	99.68	CheckM2 v1.0.1 (this study)	3.36
+GB_GCA_019245755.1	GTDB MAG	99.64	CheckM2 v1.0.1 (this study)	99.64	CheckM2 v1.0.1 (this study)	0.19
+spire_mag_00186517.fa	SPIRE MAG	97.63	CheckM2 v1.0.1 (this study)	97.63	CheckM2 v1.0.1 (this study)	3.02
+RS_GCF_035314905.1	GTDB MAG	91.67	CheckM2 v1.0.1 (this study)	91.67	CheckM2 v1.0.1 (this study)	2.27
+GB_GCA_025965895.1	GTDB MAG	97.33	CheckM2 v1.0.1 (this study)	97.33	CheckM2 v1.0.1 (this study)	3.77
+RS_GCF_021213805.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+GB_GCA_002013415.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_002013375.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+GB_GCA_002013465.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+GB_GCA_002013775.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_004924335.1	isolate (closed/complete)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_001632805.1	isolate (closed/complete)		not in ingroup; not scored		not in ingroup; not scored	
+spire_mag_02570492.fa	SPIRE MAG		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_016767715.1	isolate (closed/complete)		not in ingroup; not scored		not in ingroup; not scored	
+spire_mag_02199963.fa	SPIRE MAG		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_002356335.1	isolate (closed/complete)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_002013895.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+spire_mag_00518991.fa	SPIRE MAG		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_009729205.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_013449725.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+GB_GCA_014204435.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_001456355.1	isolate (closed/complete)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_000069185.1	isolate (closed/complete)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_001605725.1	isolate (closed/complete)		not in ingroup; not scored		not in ingroup; not scored	
+GB_GCA_040391845.1	GTDB MAG		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_001575205.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_040611135.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_012396015.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_007858435.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_020169415.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_024807615.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_900104775.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_007858445.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_007858475.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_900103175.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_900631615.1	isolate (closed/complete)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_023168325.1	isolate (closed/complete)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_000092225.1	isolate (closed/complete)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_039525985.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_000312385.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+GB_GCA_903970215.1	GTDB MAG		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_039541155.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	
+RS_GCF_029167375.1	isolate (cultured, draft)		not in ingroup; not scored		not in ingroup; not scored	

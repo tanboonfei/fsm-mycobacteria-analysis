@@ -1,0 +1,12 @@
+comparison	group_a	n_a	median_a	group_b	n_b	median_b	difference	MannWhitney_p	note
+RGM: cultured isolate vs MAG	cultured isolate	132	7.0	MAG	97	10.0	-3.0	3.6e-05	positive difference = binning removes pseudogenes
+SGM: cultured isolate vs MAG	cultured isolate	128	6.5	MAG	50	18.0	-11.5	2.5e-06	positive difference = binning removes pseudogenes
+FSM MAGs vs RGM cultured isolates	RGM cultured isolate	132	7.0	FSM MAG	96	4.0	3.0	0.00011	binning offset measured in RGM is -3; FSM adjusted for it would be 1
+FSM MAGs vs SGM cultured isolates	SGM cultured isolate	128	6.5	FSM MAG	96	4.0	2.5	1.6e-07	binning offset measured in SGM is -11.5; FSM adjusted for it would be -7.5
+MAGs: pseudogene calls vs contig count		243					rho = +0.48	1.2e-15	fragmentation inflates pseudogene calls; MAGs are more fragmented than isolates
+FSM MAGs: pseudogene calls vs contig count		96					rho = +0.61	4.9e-11
+RGM MAGs: pseudogene calls vs contig count		97					rho = +0.21	0.037
+SGM MAGs: pseudogene calls vs contig count		50					rho = +0.60	3.4e-06
+Leprosy clade: Bakta vs PGAP pseudogene call	Bakta	1	25	NCBI PGAP	1	1133	1108		Mycobacterium leprae; Bakta annotates decayed frames as CDSs, and therefore it under-calls pseudogenes in decayed genomes
+Leprosy clade: Bakta vs PGAP pseudogene call	Bakta	1	20	NCBI PGAP					Mycobacterium lepromatosis; Bakta annotates decayed frames as CDSs; it under-calls pseudogenes in decayed genomes
+Leprosy clade: Bakta vs PGAP pseudogene call	Bakta	1	12	NCBI PGAP					Mycobacterium uberis; Bakta annotates decayed frames as CDSs, and it under-calls pseudogenes in decayed genomes

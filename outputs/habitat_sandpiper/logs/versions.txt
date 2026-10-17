@@ -1,0 +1,14 @@
+date: 2026-10-14
+python 3.13.7
+pandas 2.2.3
+numpy 2.4.3
+scipy 1.16.2
+requests 2.32.4
+openpyxl 3.1.5
+R version 4.5.2 (2025-10-31) 
+lme4 1.1.37 
+logistf 1.26.1 
+Matrix 1.7.5 
+Sandpiper API: {"gtdb_version":"R232","num_bioprojects":42716,"num_runs":913071,"num_terrabases":6378,"scrape_date":"3rdMarch,2026","version":"2.1.1"}
+NCBI E-utilities (esearch/esummary/efetch), ENA portal API filereport; accessed 2026-10-14
+curl 8.14.1

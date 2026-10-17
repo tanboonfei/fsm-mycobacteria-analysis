@@ -1,0 +1,118 @@
+IQ-TREE multicore version 2.0.7 for Linux 64-bit built Apr  1 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    host (AVX512, FMA3, 249 GB RAM)
+Command: iqtree2 -s CC04_RGM.codon.fa -m GTR+F+G4 -g /path/to/project/analyses/extended/D_relax/inputs/constraint.nwk -T 1 -fast --prefix CC04_RGM -redo -quiet
+Seed:    202744 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Oct 14 20:14:34 2026
+Kernel:  AVX+FMA - 1 threads (32 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 32 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file CC04_RGM.codon.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 45 sequences with 63840 columns, 35706 distinct patterns
+33627 parsimony-informative, 5940 singleton sites, 24273 constant sites
+                    Gap/Ambiguity  Composition  p-value
+   1  spire_mag_00492514   12.44%    failed      0.00%
+   2  spire_mag_00493620   12.90%    failed      0.00%
+   3  spire_mag_00709062   14.31%    failed      0.00%
+   4  spire_mag_00871125   16.56%    failed      0.01%
+   5  spire_mag_00873124   13.43%    failed      0.00%
+   6  spire_mag_00874439   13.36%    failed      0.00%
+   7  spire_mag_01112767   14.96%    failed      0.00%
+   8  spire_mag_01196792   12.53%    failed      0.03%
+   9  spire_mag_01198798   12.17%    failed      0.00%
+  10  spire_mag_01203432   13.71%    passed     24.56%
+  11  spire_mag_01678249   13.51%    failed      0.00%
+  12  spire_mag_01679848   12.89%    failed      0.00%
+  13  spire_mag_01680964   12.74%    failed      0.00%
+  14  spire_mag_01753708   12.74%    passed     15.41%
+  15  spire_mag_01822855   12.44%    failed      0.00%
+  16  spire_mag_01882647   15.60%    failed      0.00%
+  17  spire_mag_02001409   12.73%    failed      0.02%
+  18  spire_mag_02087828   15.26%    failed      0.00%
+  19  spire_mag_02088284   14.46%    failed      0.51%
+  20  spire_mag_02088287   12.76%    failed      0.00%
+  21  spire_mag_02088330   13.64%    failed      0.00%
+  22  spire_mag_02088418   13.21%    failed      0.00%
+  23  spire_mag_02088507   12.86%    failed      0.00%
+  24  spire_mag_02100063   13.07%    passed     23.32%
+  25  spire_mag_02184890   12.52%    failed      0.00%
+  26  spire_mag_02292565   11.95%    failed      0.00%
+  27  spire_mag_02292667   11.90%    failed      0.00%
+  28  spire_mag_02296681   12.41%    failed      0.00%
+  29  spire_mag_02298516   12.10%    failed      0.00%
+  30  spire_mag_02300785   12.10%    failed      0.00%
+  31  spire_mag_02305637   11.90%    failed      0.00%
+  32  spire_mag_02307626   11.90%    failed      0.00%
+  33  spire_mag_02520786   14.71%    failed      0.00%
+  34  spire_mag_02598702   14.66%    failed      0.00%
+  35  uberis               21.01%    failed      0.00%
+  36  leprae               23.52%    failed      0.00%
+  37  lepromatosis         22.05%    failed      0.00%
+  38  spire_mag_01585792   14.97%    failed      0.00%
+  39  spire_mag_01586359   12.86%    failed      0.00%
+  40  spire_mag_01585481   13.83%    failed      0.00%
+  41  spire_mag_01585638   32.41%    failed      0.00%
+  42  spire_mag_01586464   15.39%    failed      0.00%
+  43  spire_mag_01586672   12.76%    failed      0.00%
+  44  spire_mag_01585398   21.65%    failed      0.00%
+  45  spire_mag_02200992   29.02%    failed      0.01%
+****  TOTAL                14.89%  42 sequences failed composition chi2 test (p-value<5%; df=3)
+Reading constraint tree /path/to/project/analyses/extended/D_relax/inputs/constraint.nwk...
+Creating fast initial parsimony tree by random order stepwise addition...
+0.056 seconds, parsimony score: 168015 (based on 39567 sites)
+
+NOTE: 208 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -783747.034
+2. Current log-likelihood: -762805.727
+3. Current log-likelihood: -762635.567
+4. Current log-likelihood: -762632.850
+Optimal log-likelihood: -762632.770
+Rate parameters:  A-C: 1.64475  A-G: 3.43360  A-T: 1.50586  C-G: 2.12556  C-T: 3.94493  G-T: 1.00000
+Base frequencies:  A: 0.164  C: 0.337  G: 0.340  T: 0.159
+Gamma shape alpha: 0.527
+Parameters optimization took 4 rounds (26.613 sec)
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 1 parsimony trees... 0.053 second
+Computing log-likelihood of 1 initial trees ... 0.569 seconds
+Current best score: -762632.770
+
+Do NNI search on 2 best initial trees
+Finish initializing candidate tree set (2)
+Current best tree score: -762632.770 / CPU time: 2.155
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:28s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -762632.770
+Optimal log-likelihood: -762632.764
+Rate parameters:  A-C: 1.64514  A-G: 3.43369  A-T: 1.50643  C-G: 2.12483  C-T: 3.94569  G-T: 1.00000
+Base frequencies:  A: 0.164  C: 0.337  G: 0.340  T: 0.159
+Gamma shape alpha: 0.527
+Parameters optimization took 1 rounds (2.253 sec)
+BEST SCORE FOUND : -762632.764
+Total tree length: 4.357
+
+Total number of iterations: 2
+CPU time used for tree search: 1.967 sec (0h:0m:1s)
+Wall-clock time used for tree search: 2.156 sec (0h:0m:2s)
+Total CPU time used: 30.182 sec (0h:0m:30s)
+Total wall-clock time used: 31.134 sec (0h:0m:31s)
+
+Analysis results written to: 
+  IQ-TREE report:                CC04_RGM.iqtree
+  Maximum-likelihood tree:       CC04_RGM.treefile
+  Screen log file:               CC04_RGM.log
+
+Date and Time: Wed Oct 14 20:15:05 2026

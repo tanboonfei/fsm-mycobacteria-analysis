@@ -1,0 +1,14 @@
+alignment columns 5036
+FSM    n=134 median occupancy 89.5%  min 45.7%  <50%: 1  <70%: 7
+RGM    n=391 median occupancy 96.8%  min 45.6%  <50%: 1  <70%: 14
+SGM    n=299 median occupancy 96.6%  min 50.8%  <50%: 0  <70%: 12
+other  n= 38 median occupancy 97.8%  min 81.4%  <50%: 0  <70%: 0
+GTDB-Tk markers found, SPIRE MAGs FSM: n=96 median 115.0 of 120, min 103
+GTDB-Tk markers found, SPIRE MAGs RGM: n=97 median 117 of 120, min 96
+GTDB-Tk markers found, SPIRE MAGs SGM: n=50 median 118.0 of 120, min 103
+Mann-Whitney FSM vs RGM occupancy p = 3.1206143991385647e-24
+
+Markers missing in >=50% of FSM SPIRE MAGs (FSM% / RGM% / SGM%):
+  TIGR01169     55.2   9.3  10.0
+  TIGR01632     50.0   3.1  14.0
+markers missing in >=20% FSM: 5

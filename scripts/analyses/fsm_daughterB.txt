@@ -1,0 +1,5 @@
+GB_GCA_018882965.1
+spire_mag_02028936.fa
+spire_mag_02005306.fa
+spire_mag_01040852.fa
+spire_mag_01041266.fa

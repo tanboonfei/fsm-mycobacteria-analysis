@@ -1,0 +1,9 @@
+Bipartition	Gene trees containing it	Gene trees (n)	Percent
+FSM	176	299	58.9
+FSM + 42-genome clade (ML)	187	299	62.5
+42-genome clade	144	299	48.2
+FSM + rhodesiae subclade (H2)	21	299	7
+FSM + sp020438785 subclade (H3)	29	299	9.7
+FSM + palauense group (H4)	0	299	0
+42 + palauense (FSM outside; H5-like)	2	299	0.7
+FSM + 42 + palauense	16	299	5.4

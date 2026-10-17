@@ -1,0 +1,7 @@
+Null model	Observed shift (Mb)	Null sd (Mb)	p	Note
+Brownian motion (fitted to same tree)	-2.60	4.78	0.60	Permissive: unbounded drift admits clade means outside any real genome range
+Ornstein-Uhlenbeck (FSM vs RGM)	-2.60	0.00	0.0005	DEGENERATE: alpha railed to the 50.0 bound (half-life 0.014), null variance collapses to zero; not reportable
+Ornstein-Uhlenbeck (full ingroup)	-2.28	0.00	0.0005	DEGENERATE: alpha railed to the same bound; both OU fits fail identically
+Neither null is informative. BM is too permissive and the OU fit does not converge to an interior optimum, and the
+two bracket the estimate without constraining it. This is the expected behaviour for a trait with a single origin,
+and it is why the reduction claim depends on effect size and ancestral reconstruction rather than on a p value.

@@ -1,0 +1,17 @@
+Traceback (most recent call last):
+  File "/path/to/project/analyses/protist/B/urlblast.py", line 23, in <module>
+    pending[q]=put(r); jsoretry 0 [Errno 104] Connection reset by peer
+retry 0 Remote end closed connection without response
+retry 0 Remote end closed connection without response
+retry 0 Remote end closed connection without response
+retry 0 Remote end closed connection without response
+^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+no RID, retrying
+submitted 34
+retry 0 Remote end closed connection without response
+retry 0 Remote end closed connection without response
+retry 0 Remote end closed connection without response
+retry 0 Remote end closed connection without response
+retry 0 Remote end closed connection without response
+Terminated

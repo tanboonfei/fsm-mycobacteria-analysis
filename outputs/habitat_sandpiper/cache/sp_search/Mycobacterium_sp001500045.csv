@@ -1,0 +1,2 @@
+sample,relative_abundance,coverage,taxon_name,study_title,release_year,metagenome_base_pairs,bacterial_archaeal_bases,eukaryotic_host_association,num_reads,read_length_summary,sequencing_instrument,collection_year,spf,spf_warning,gtdb_known_species_fraction_percent,globdb_known_species_fraction_percent,latitude,longitude,top1_order_fraction_percent,low_complexity
+SRR32124528,0.09,1.03,soil metagenome,Bacillus anthracis Raw sequence reads,2025,6545509912,5428424704.0,ecological,22711838,144x144bp reads,Illumina HiSeq 2500,2019,82.93,False,8.87,9.06,,,13%,False

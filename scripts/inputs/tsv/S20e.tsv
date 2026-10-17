@@ -1,0 +1,12 @@
+Reference	Class	FSM opsins compared	Median identity (%)	Min (%)	Max (%)
+Actinorhodopsin_freshwater	Actino	88	62.6	20.2	66.7
+Actinorhodopsin_freshwater	Actino	89	56.6	23.8	59.4
+GloeobacterRhodopsin	ProtonPump_DTE	90	52	22.4	57
+Xanthorhodopsin	ProtonPump_DTE	90	44.7	20.7	50
+GreenProteorhodopsin	ProtonPump_DTE	89	30.7	18.9	38.7
+BlueProteorhodopsin	ProtonPump_DTE	89	28.9	21.3	35.5
+BR_Halobacterium	ProtonPump_DTD	90	27.4	19.8	37.1
+Halorhodopsin	ChloridePump	89	27.2	22.6	38.8
+KR2_NaPump	SodiumPump_NDQ	90	25.1	17.4	29
+SensoryRhodopsinI	Sensory	90	21.2	15.1	29.8
+SensoryRhodopsinII	Sensory	89	19.7	18.8	34.4

@@ -1,0 +1,32 @@
+unit	class	n	opsin_pos	pct	n_studies
+genome	photic water column	50	43	86.0	18
+genome	transition (10-20 m)	10	10	100.0	3
+genome	dark/anoxic water	20	17	85.0	7
+genome	sediment	24	21	87.5	5
+genome	wastewater/engineered	16	2	12.5	6
+genome	other/unresolved	14	10	71.4	6
+species x study x class (majority)	photic water column	27	23	85.2	18
+species x study x class (majority)	transition (10-20 m)	3	3	100.0	3
+species x study x class (majority)	dark/anoxic water	10	9	90.0	7
+species x study x class (majority)	sediment	8	7	87.5	5
+species x study x class (majority)	wastewater/engineered	12	1	8.3	6
+species x study x class (majority)	other/unresolved	10	6	60.0	6
+
+unit	contrast	a_pos	a_n	b_pos	b_n	OR	CI_lo	CI_hi	p
+genome	overall: 5 classes (excl. other/unresolved)								4.52e-08
+genome	overall: 4 natural aquatic classes (photic, transition, dark/anoxic, sediment)								0.801
+genome	photic vs dark/anoxic water	43.0	50.0	17.0	20.0	1.08	0.162	5.47	1.0
+genome	photic vs dark/anoxic+transition	43.0	50.0	27.0	30.0	0.686	0.105	3.33	0.736
+genome	photic vs sediment	43.0	50.0	21.0	24.0	0.879	0.133	4.35	1.0
+genome	photic vs (dark/anoxic water + sediment)	43.0	50.0	38.0	44.0	0.97	0.246	3.71	1.0
+genome	all natural aquatic (water+sediment) vs wastewater	91.0	104.0	2.0	16.0	46.3	9.16	465.0	2.82e-09
+species x study x class (majority)	overall: 5 classes (excl. other/unresolved)								5.6e-06
+species x study x class (majority)	overall: 4 natural aquatic classes (photic, transition, dark/anoxic, sediment)								1.0
+species x study x class (majority)	photic vs dark/anoxic water	23.0	27.0	9.0	10.0	0.646	0.0117	7.82	1.0
+species x study x class (majority)	photic vs dark/anoxic+transition	23.0	27.0	12.0	13.0	0.487	0.009	5.69	1.0
+species x study x class (majority)	photic vs sediment	23.0	27.0	7.0	8.0	0.826	0.0146	10.4	1.0
+species x study x class (majority)	photic vs (dark/anoxic water + sediment)	23.0	27.0	16.0	18.0	0.724	0.0588	5.78	1.0
+species x study x class (majority)	all natural aquatic (water+sediment) vs wastewater	42.0	48.0	1.0	12.0	67.9	7.76	3310.0	3.85e-07
+genome	sensitivity: documented-photic only vs dark/anoxic	30.0	34.0	17.0	20.0	1.32	0.172	8.83	1.0
+genome	sensitivity: photic+transition vs dark/anoxic	53.0	60.0	17.0	20.0	1.33	0.2	6.68	0.705
+species x study x class (Firth)	dark/anoxic water + sediment vs photic	16.0	18.0	23.0	27.0	1.26	0.247	7.97	0.782

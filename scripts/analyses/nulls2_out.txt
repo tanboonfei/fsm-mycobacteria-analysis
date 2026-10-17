@@ -1,0 +1,19 @@
+Within FSM n= 134  plain logistic beta -1.4 p 0.00215 
+             Estimate    StdErr   z.value    p.value
+(Intercept)  4.297118 1.5566201  2.760544 0.00577052
+gs          -1.068117 0.4418948 -2.417130 0.01564344
+alpha 122.9787 
+              Estimate     StdErr    z.value   p.value
+(Intercept) -0.9459471 3.69496958 -0.2560094 0.7979435
+gs          -1.8640981 1.40637420 -1.3254638 0.1850174
+comp         0.1134982 0.08580825  1.3226958 0.1859365
+SPIRE MAGs only n= 96 
+             Estimate    StdErr   z.value     p.value
+(Intercept)  7.760252 2.6522208  2.925945 0.003434116
+gs          -2.074292 0.7449611 -2.784430 0.005362191
+Estimated Q matrix:
+           0          1
+0 -0.7713015  0.7713015
+1  4.0099758 -4.0099758
+stationary P(opsin) = 0.161  observed prevalence = 0.232 
+Conditioned ARD null: tried 25171, accepted 2000 (positives 109-135); null OR median 0.94, p95 14.92, max 149.23; observed 62.77; p = 0.0025

@@ -1,0 +1,173 @@
+IQ-TREE 2.0.7 built Apr  1 2024
+
+Input file name: CC09_RGM.codon.fa
+Type of analysis: tree reconstruction
+Random seed number: 212723
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 40 sequences with 63840 nucleotide sites
+Number of constant sites: 24531 (= 38.4258% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 24531 (= 38.4258% of all sites)
+Number of parsimony informative sites: 33134
+Number of distinct site patterns: 34162
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+G4
+
+Rate parameter R:
+
+  A-C: 1.6780
+  A-G: 3.4952
+  A-T: 1.5066
+  C-G: 2.1439
+  C-T: 4.0083
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.1642
+  pi(C) = 0.3354
+  pi(G) = 0.3408
+  pi(T) = 0.1596
+
+Rate matrix Q:
+
+  A    -1.185    0.3344    0.7078    0.1429
+  C    0.1637    -0.978    0.4342    0.3801
+  G     0.341    0.4272   -0.8631   0.09483
+  T     0.147    0.7987    0.2025    -1.148
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.5297
+
+ Category  Relative_rate  Proportion
+  1         0.03901        0.25
+  2         0.2708         0.25
+  3         0.8407         0.25
+  4         2.849          0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -725526.8708 (s.e. 2358.5146)
+Unconstrained log-likelihood (without tree): -544967.7462
+Number of free parameters (#branches + #model parameters): 86
+Akaike information criterion (AIC) score: 1451225.7415
+Corrected Akaike information criterion (AICc) score: 1451225.9762
+Bayesian information criterion (BIC) score: 1452005.2572
+
+Total tree length (sum of branch lengths): 4.1956
+Sum of internal branch lengths: 1.9196 (45.7519% of tree length)
+
+WARNING: 4 near-zero internal branches (<0.0000) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'spire_mag_00492514' is drawn at root
+
++--spire_mag_00492514
+|
++--spire_mag_00493620
+|
+|                          +-----------------spire_mag_00709062
+|                       +--|
+|                       |  |                 +--spire_mag_01678249
+|                       |  |              +--|
+|                       |  |              |  +--spire_mag_01680964
+|                       |  |      +-------|
+|                       |  |      |       +--spire_mag_01679848
+|                       |  |   +--|
+|                       |  |   |  |           +-------uberis
+|                       |  |   |  +-----------|
+|                       |  |   |              |          +--leprae
+|                       |  |   |              +----------|
+|                       |  |   |                         +---lepromatosis
+|                       |  +---|
+|                       |      +-------spire_mag_02001409
+|                    +--|
+|                    |  +-------------spire_mag_02598702
+|                 +--|
+|                 |  |                          +--spire_mag_00871125
+|                 |  |                       +--|
+|                 |  |                       |  +--spire_mag_00873124
+|                 |  |               +-------|
+|                 |  |               |       +--spire_mag_00874439
+|                 |  |          +----|
+|                 |  |          |    +-------spire_mag_01822855
+|                 |  |       +--|
+|                 |  |       |  |     +------spire_mag_01112767
+|                 |  |       |  |  +--|
+|                 |  |       |  |  |  |        +--spire_mag_01753708
+|                 |  |       |  |  |  +--------|
+|                 |  |       |  |  |           +--spire_mag_02100063
+|                 |  |       |  +--|
+|                 |  |       |     |    +-----spire_mag_02088284
+|                 |  |       |     +----|
+|                 |  |       |          +------spire_mag_02088418
+|                 |  |    +--|
+|                 |  |    |  +---------spire_mag_01882647
+|                 |  +----|
+|                 |       |                 +--spire_mag_02087828
+|                 |       |              +--|
+|                 |       |              |  +--spire_mag_02088287
+|                 |       |           +--|
+|                 |       |           |  +--spire_mag_02088330
+|                 |       +-----------|
+|                 |                   +--spire_mag_02088507
+|              +--|
+|              |  +-----------spire_mag_02520786
+|           +--|
+|           |  |        +--------spire_mag_01196792
+|           |  |     +--|
+|           |  |     |  +--------spire_mag_02184890
+|           |  |  +--|
+|           |  |  |  |                             +--spire_mag_02292565
+|           |  |  |  |                          +**|
+|           |  |  |  |                          |  +--spire_mag_02298516
+|           |  |  |  |                       +--|
+|           |  |  |  |                       |  +--spire_mag_02296681
+|           |  |  |  |                    +--|
+|           |  |  |  |                    |  +**spire_mag_02292667
+|           |  |  |  |                 +**|
+|           |  |  |  |                 |  +--spire_mag_02305637
+|           |  |  |  |              +**|
+|           |  |  |  |              |  +--spire_mag_02300785
+|           |  |  |  |           +**|
+|           |  |  |  |           |  |  +--spire_mag_02307626
+|           |  |  |  |           |  +--|
+|           |  |  |  |           |     +--spire_mag_02299450
+|           |  |  |  |        +--|
+|           |  |  |  |        |  +--spire_mag_02166032
+|           |  |  |  +--------|
+|           |  |  |           +--spire_mag_02294311
+|           |  +--|
+|           |     +----------spire_mag_01203432
++-----------|
+            +---------spire_mag_01198798
+
+Tree in newick format:
+
+(spire_mag_00492514:0.0026284796,spire_mag_00493620:0.0027967478,((((((spire_mag_00709062:0.2736026544,((((spire_mag_01678249:0.0002585057,spire_mag_01680964:0.0003489369):0.0013924934,spire_mag_01679848:0.0013402235):0.1175885554,(uberis:0.1295103227,(leprae:0.0507665152,lepromatosis:0.0592827322):0.1744504993):0.1889219400):0.0523257021,spire_mag_02001409:0.1244926659):0.0596448342):0.0326533970,spire_mag_02598702:0.2118640195):0.0224334829,((((((spire_mag_00871125:0.0004086563,spire_mag_00873124:0.0002810984):0.0003208582,spire_mag_00874439:0.0001149646):0.1184059843,spire_mag_01822855:0.1305202451):0.0764382098,((spire_mag_01112767:0.1125665750,(spire_mag_01753708:0.0015338513,spire_mag_02100063:0.0009543361):0.1442245246):0.0233580779,(spire_mag_02088284:0.0985407093,spire_mag_02088418:0.1081029149):0.0853833688):0.0158545476):0.0138629128,spire_mag_01882647:0.1559863983):0.0151438629,(((spire_mag_02087828:0.0017170018,spire_mag_02088287:0.0008598324):0.0003947396,spire_mag_02088330:0.0008634283):0.0004676250,spire_mag_02088507:0.0006014837):0.1758704937):0.0829216520):0.0198741420,spire_mag_02520786:0.1880590434):0.0244657586,(((spire_mag_01196792:0.1452178734,spire_mag_02184890:0.1410709958):0.0260503101,((((((((spire_mag_02292565:0.0004240307,spire_mag_02298516:0.0000176529):0.0000010000,spire_mag_02296681:0.0000534551):0.0000352460,spire_mag_02292667:0.0000010000):0.0000176158,spire_mag_02305637:0.0000176230):0.0000010000,spire_mag_02300785:0.0000881392):0.0000010000,(spire_mag_02307626:0.0000878992,spire_mag_02299450:0.0003498583):0.0001936072):0.0000010000,spire_mag_02166032:0.0002449917):0.0006944444,spire_mag_02294311:0.0006203272):0.1401160205):0.0500046123,spire_mag_01203432:0.1698073794):0.0151255692):0.0578101664,spire_mag_01198798:0.1600190688):0.1831051822);
+
+TIME STAMP
+----------
+
+Date and time: Wed Oct 14 20:18:48 2026
+Total CPU time used: 33.6854 seconds (0h:0m:33s)
+Total wall-clock time used: 34.0444 seconds (0h:0m:34s)
+

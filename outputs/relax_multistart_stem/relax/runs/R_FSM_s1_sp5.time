@@ -1,0 +1,23 @@
+	Command being timed: "env OMP_NUM_THREADS=2 /usr/lib/hyphy/bin/hyphy-avx LIBPATH=/usr/share/hyphy CPU=2 ENV=multistart_seed=201 /path/to/project/analyses/relax_stem/relax/scripts/RELAX_seed.bf --alignment /path/to/project/analyses/extended/D_relax/inputs/three_way.codon.fa --tree /path/to/project/analyses/extended/D_relax/inputs/common_reference_FSM_tips_stem.nwk --test Test --reference Reference --code Universal --models Minimal --srv No --starting-points 5 --output /path/to/project/analyses/relax_stem/relax/runs/R_FSM_s1_sp5.json --save-fit /path/to/project/analyses/relax_stem/relax/runs/R_FSM_s1_sp5.fit.bf"
+	User time (seconds): 11286.43
+	System time (seconds): 9.29
+	Percent of CPU this job got: 128%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:26:16
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 443352
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1009848
+	Voluntary context switches: 87006
+	Involuntary context switches: 2084625
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 11560
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

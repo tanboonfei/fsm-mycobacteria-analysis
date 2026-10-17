@@ -1,0 +1,22 @@
+{
+  "upload_type": "software",
+  "title": "Selected analysis scripts, bac120 phylogeny and RELAX output for a reduced freshwater clade in the Mycobacteriaceae",
+  "description": "<p>Supporting repository for the manuscript <i>A diverse uncultured freshwater clade with reduced genomes in the Mycobacteriaceae</i>.</p><p>Contains the items named in the manuscript's availability statement: selected analysis scripts with the inputs they read, the bac120 species phylogeny and its alignment, and the HyPhy RELAX alignments, branch-labelled trees, command records and JSON output.</p><p>The genomes themselves are not redistributed. MAGs come from the SPIRE database and reference assemblies from NCBI, under the accessions listed in Table S1 of the manuscript's supplementary tables.</p>",
+  "keywords": [
+    "Mycobacteriaceae",
+    "Mycolicibacterium",
+    "genome reduction",
+    "metagenome-assembled genomes",
+    "freshwater microbiology",
+    "comparative genomics",
+    "molecular evolution",
+    "HyPhy RELAX"
+  ],
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Tan, Boonfei"
+    }
+  ],
+  "license": "cc-by-4.0"
+}

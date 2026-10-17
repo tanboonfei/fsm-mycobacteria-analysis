@@ -1,0 +1,14 @@
+quantity	value
+alignment	three_way.codon.fa (52 orthologues, 37 taxa, 21,280 codons)
+branch-labelled tree	stem_only_FSM.nwk
+test branches	1 (the FSM stem)
+reference branches	39 labelled, 38 fitted (RGM plus SGM)
+unclassified branches	31 (every FSM crown and terminal branch, plus the leprosy clade)
+K	0.9398
+LRT	2.071
+p	0.15
+dominant site class, reference	omega 0.0214 at 88.3% of codons
+dominant site class, test	omega 0.0270 at 88.3% of codons
+output file	relax_stem_only.json
+sha256	bf0815f136acf3cadf1d7c970c3f8810fac5e5fee9e14cc5c691bde79b63dcb9
+K on the stem alone is below 1 where the crown-wide estimate is above it (1.046), and the dominant site class moves a little toward neutrality instead of away from it, but the likelihood ratio does not reject K = 1 on a single branch. This test can neither support nor exclude relaxed selection on the stem; it bounds what the branch-pooled runs in Table S11 can say, since those dilute the stem 15-fold or 27-fold among crown branches.

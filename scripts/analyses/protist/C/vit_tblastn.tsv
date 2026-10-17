@@ -1,0 +1,8 @@
+gene	FSM_genomes_with_credible_homolog_of_134	criterion
+panB	124	tblastn >=40% id, >=50% query coverage (positive control)
+panC	126	positive control
+panD	9	beta-alanine synthesis (aspartate decarboxylase)
+thiC	0	HMP-P synthase (thiamine pyrimidine)
+thiD	125	HMP/HMP-P kinase (salvage)
+thiE	49	thiamine-phosphate synthase
+thiG	36	thiazole synthase

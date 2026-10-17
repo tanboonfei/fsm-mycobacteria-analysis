@@ -1,0 +1,13 @@
+unit	class	n	opsin_pos	pct	n_studies
+genome	photic water column	50	43	86	18
+genome	transition (10-20 m)	10	10	100	3
+genome	dark/anoxic water	20	17	85	7
+genome	sediment	24	21	87.5	5
+genome	wastewater/engineered	16	2	12.5	6
+genome	other/unresolved	14	10	71.4	6
+species x study x class (majority)	photic water column	27	23	85.2	18
+species x study x class (majority)	transition (10-20 m)	3	3	100	3
+species x study x class (majority)	dark/anoxic water	10	9	90	7
+species x study x class (majority)	sediment	8	7	87.5	5
+species x study x class (majority)	wastewater/engineered	12	1	8.3	6
+species x study x class (majority)	other/unresolved	10	6	60	6

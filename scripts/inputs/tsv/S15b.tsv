@@ -1,0 +1,70 @@
+Ancestral reconstruction of the 52 preselected clade-wide gene losses: lost once on the stem branch, or repeatedly within the clade?
+plus Fitch parsimony minimum state changes on the whole tree and restricted to the FSM clade.
+Stochastic character mapping (phytools::make.simmap) was attempted first; its rejection sampler does not converge for
+characters this close to invariant (stationary distributions to 0.99993/0.00007), and ML marginal ASR is reported instead.
+Summary	Value
+Families analysed	52
+Median P(absent at FSM crown node)	0.999
+Families with P ≥ 0.95	48 of 52
+Families with P < 0.50	0
+Median minimum changes, whole tree	6
+Median minimum changes within FSM	1
+Families with zero changes within FSM	22 of 52
+The loss therefore maps to the FSM stem, not to repeated independent loss in deep sublineages. The within-FSM changes
+(median 1) are sporadic reappearances consistent with the 5.4% residual prevalence, and because the crown node is reconstructed
+as absent these are gains rather than further losses. Caveat: these families are homoplastic genus-wide (median 6 changes
+across the whole tree). The reconstruction constrains where FSM lost them, not how labile they are in the genus.
+Per-family values follow.
+gene	FSM prevalence %	RGM+SGM prevalence %	P(absent at FSM stem)	min changes whole tree	min changes within FSM
+accD3	0.0	95.0	0.999	5	0
+accD4	0.0	1.7	0.5	2	0
+acnR	3.4	98.3	1.0	4	1
+aglA	6.8	98.3	1.0	6	3
+alkA	8.5	90.8	0.995	12	2
+amiA2	6.8	93.3	0.914	6	2
+amiB1	0.0	91.6	0.999	4	0
+bluB	0.0	88.2	0.997	9	0
+citE	0.0	97.5	1.0	4	0
+cwsA	0.0	95.8	0.999	6	0
+cydA	3.4	94.1	1.0	5	2
+cydB	3.4	93.3	0.999	6	2
+cydC	3.4	93.3	0.999	6	2
+cydD	3.4	93.3	0.999	6	2
+deoA	0.0	97.5	1.0	4	0
+disA	6.8	92.4	0.998	8	2
+doxX	3.4	88.2	0.996	12	1
+echA13	0.0	94.1	0.998	7	0
+echA8_4	6.6	99.2	0.5	2	1
+egtA	0.0	97.5	1.0	4	0
+egtB	0.0	96.6	0.999	5	0
+egtC	0.0	95.8	0.999	5	0
+egtD	1.7	95.8	0.999	6	1
+egtE	0.0	95.8	0.999	6	0
+esxT	0.0	95.0	0.999	5	0
+esxU	0.0	95.0	0.999	5	0
+fadD15	0.0	99.2	1.0	2	0
+fadD9	1.7	89.9	1.0	9	1
+fadE12 (polymorphic, not clade-wide lost; listed for completeness)	54.2	100.0	1.0	5	5
+fadE36	1.7	89.9	0.999	6	1
+kdpD	8.5	91.6	0.996	11	2
+limB	0.0	87.4	0.995	12	0
+lin	8.5	88.2	0.995	13	3
+lprN	0.0	89.9	0.999	5	0
+lprQ	6.8	99.2	1.0	5	3
+mce4A	0.0	89.1	0.999	6	0
+mce4B	1.7	89.9	0.999	6	1
+mce4C	1.7	89.9	0.999	6	1
+mce4D	1.7	89.9	0.999	6	1
+mce4F	0.0	88.2	0.999	6	0
+mycP4	0.0	94.1	0.999	6	0
+panD	1.7	94.1	0.999	7	1
+purT	0.0	98.3	1.0	3	0
+pyc	6.8	97.5	1.0	5	2
+rubA	5.1	98.3	0.998	5	2
+sbp	8.5	98.3	1.0	6	3
+sirR	1.7	98.3	1.0	4	1
+sthA	6.8	87.4	0.811	12	2
+thiC	0.0	95.0	0.999	7	0
+viuB	3.4	99.2	1.0	3	1
+yhfQ	8.5	97.5	0.999	6	2
+yqjG	1.7	89.9	0.997	10	1

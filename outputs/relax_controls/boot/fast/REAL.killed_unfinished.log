@@ -1,0 +1,13 @@
+fixed branch params 70; fixed thetas 5; free globals 10: {
+{"relax.unclassified.omega3", "relax.unclassified.omega1", "relax.reference.omega3", "relax.reference.omega2", "relax.unclassified.omega2", "relax.reference.omega1", "relax.reference.bsrel_mixture_aux_0", "relax.reference.bsrel_mixture_aux_1", "relax.unclassified.bsrel_mixture_aux_1", "relax.unclassified.bsrel_mixture_aux_0"} 
+}
+logL at saved null MLEs -695272.4208914494
+Error:
+Internal error 
+HyPhy killed by signal 15
+
+Function call stack
+1 :  Optimize(resN, fastlf);
+-------
+
+Check errors.log for execution error details.

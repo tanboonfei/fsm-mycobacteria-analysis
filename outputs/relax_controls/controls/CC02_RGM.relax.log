@@ -1,0 +1,120 @@
+
+Analysis Description
+--------------------
+RELAX (a random effects test of selection relaxation) uses a random
+effects branch-site model framework to test whether a set of 'Test'
+branches evolves under relaxed selection relative to a set of
+'Reference' branches (R), as measured by the relaxation parameter (K).
+Version 2.1 adds a check for stability in K estimates to try to mitigate
+convergence problems. Version 3 provides support for >2 branch sets.
+Version 3.1 adds LHC + Nedler-Mead initial fit phase and keyword
+support. Version 3.1.1 adds some bug fixes for better convergence.
+Version 4.0 adds support for synonymous rate variation. Version 4.1 adds
+further support for multiple hit models. Version 4.1.1 adds reporting
+for convergence diagnostics
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree, with at least two
+groups of branches defined using the {} notation (one group can be
+defined as all unlabeled branches)
+
+- __Citation__: RELAX: Detecting Relaxed Selection in a Phylogenetic Framework (2015).
+Mol Biol Evol 32 (3): 820-832
+
+- __Written by__: Sergei L Kosakovsky Pond, Ben Murrell, Steven Weaver and Temple iGEM /
+UCSD viral evolution g
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 3.1.1
+
+
+>code => Universal
+/path/to/project/analyses/extended/D_relax/controls/CC02_RGM.lbl.nwk
+/path/to/project/analyses/extended/D_relax/controls/CC02_RGM.lbl.nwk
+
+>Loaded a multiple sequence alignment with **48** sequences, **21280** codons, and **1** partitions from `/path/to/project/analyses/extended/D_relax/controls/CC02_RGM.codon.fa`
+
+>mode => Classic mode
+
+>test => Test
+
+>reference => Reference
+The number of points in the initial distributional guess for likelihood fitting (permissible range = [1,10000], default value = 250, integer): 
+>grid-size => 250
+The number of initial random guesses to 'seed' rate values optimization (permissible range = [1,25], default value = 1, integer): 
+>starting-points => 1
+
+
+### Branch sets for RELAX analysis
+
+>multiple-hits => None
+
+* Selected 40 branches as the _Reference_ set: `spire_mag_00492514, spire_mag_00493620, spire_mag_00709062, spire_mag_01678249, spire_mag_01680964, N11, spire_mag_01679848, N10, N9, spire_mag_02001409, N8, N7, spire_mag_02598702, N6, N5, spire_mag_02520786, N4, spire_mag_01196792, spire_mag_02184890, N30, spire_mag_02292565, spire_mag_02298516, N36, spire_mag_02296681, N35, spire_mag_02292667, N34, spire_mag_02305637, N33, spire_mag_02300785, N32, spire_mag_02307626, N31, N29, N28, spire_mag_01203432, N27, N3, spire_mag_01198798, N2`
+
+* Selected 12 branches as the _Test_ set: `spire_mag_00841652, spire_mag_01733397, spire_mag_00560387, spire_mag_00488916, spire_mag_01100050, spire_mag_00079100, spire_mag_00080611, spire_mag_01586430, spire_mag_01586673, spire_mag_00907130, spire_mag_00907393, N37`
+* 41 branches are in the unclassified (nuisance) set: `uberis, leprae, lepromatosis, N13, N12, spire_mag_00871125, spire_mag_00873124, N19, spire_mag_00874439, N18, spire_mag_01822855, N17, spire_mag_01112767, spire_mag_01753708, spire_mag_02100063, N22, N21, spire_mag_02088284, spire_mag_02088418, N23, N20, N16, spire_mag_01882647, N15, spire_mag_02087828, spire_mag_02088287, N26, spire_mag_02088330, N25, spire_mag_02088507, N24, N14, N42, N41, N43, N40, N39, N46, N45, N44, N38`
+The number omega rate classes to include in the model (permissible range = [2,10], default value = 3, integer): 
+>rates => 3
+
+>models => Minimal
+
+>srv => No
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+
+>kill-zero-lengths => Yes
+
+### Deleted 1 zero-length internal branches: `N36`
+* Log(L) = -1011338.47, AIC-c = 2022878.96 (101 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  4.391
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -929730.36, AIC-c = 1859678.75 (109 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  5.533
+* non-synonymous/synonymous rate ratio for *Reference* =   0.1344
+* non-synonymous/synonymous rate ratio for *Test* =   0.1119
+* non-synonymous/synonymous rate ratio for *Unclassified* =   0.1324
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -920818.36, AIC-c = 1841854.74 (109 estimated parameters)
+* non-synonymous/synonymous rate ratio for *Reference* =   0.1075
+* non-synonymous/synonymous rate ratio for *Test* =   0.0833
+* non-synonymous/synonymous rate ratio for *Unclassified* =   0.1207
+
+### Fitting the alternative model to test K != 1
+* Log(L) = -900129.76, AIC-c = 1800493.54 (117 estimated parameters)
+* Relaxation/intensification parameter (K) =     1.20
+* The following rate distribution was inferred for **test** branches
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.010     |   87.859    |                                   |
+|        Negative selection         |     0.655     |   10.274    |                                   |
+|      Diversifying selection       |    44.022     |    1.866    |                                   |
+
+* The following rate distribution was inferred for **reference** branches
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.021     |   87.859    |                                   |
+|        Negative selection         |     0.702     |   10.274    |                                   |
+|      Diversifying selection       |    23.478     |    1.866    |                                   |
+
+
+### Fitting the null (K := 1) model
+* Log(L) = -900233.18, AIC-c = 1800698.38 (116 estimated parameters)
+* The following rate distribution for test/reference branches was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.018     |   88.010    |                                   |
+|        Negative selection         |     0.701     |   10.134    |                                   |
+|      Diversifying selection       |    27.499     |    1.856    |                                   |
+
+----
+## Test for relaxation (or intensification) of selection [RELAX]
+Likelihood ratio test **p =   0.0000**.
+>Evidence for *intensification of selection* among **test** branches _relative_ to the **reference** branches at P<=0.05
+----
+

@@ -1,0 +1,58 @@
+Tip classes:
+cls
+actino    FSM     PR    RGM    SGM   <NA> 
+    14     89     14      2      3     13 
+Unclassified tips: P42196|SensoryRhodopsinII|Sensory A0AA82WP37|Xenorhodopsin_Bacillus|InwardProtonPump P15647|SensoryRhodopsinI|Sensory B0R2U4|Halorhodopsin_Hsalinarum|ChloridePump P02945|BR_Halobacterium|ProtonPump_DTD P94854|Halorhodopsin|ChloridePump Q93WP2|Channelrhodopsin1_Chlamydomonas|Channel_opsinDomain Q8RUT8|Channelrhodopsin2_Chlamydomonas|Channel_opsinDomain N0DKS8|KR2_NaPump|SodiumPump_NDQ W8VZ79|NaR_Nonlabens|SodiumPump A0A2R4S913|Heliorhodopsin_unculturedActino|Heliorhodopsin Q2S2F8|Xanthorhodopsin|ProtonPump_DTE Q7NP59|GloeobacterRhodopsin|ProtonPump_DTE 
+
+FSM opsins: 89 | MRCA clade size: 132 
+
+actino    FSM     PR    RGM    SGM   <NA> 
+    14     89     14      2      3     10 
+support at FSM-opsin MRCA: 87 
+largest FSM-only clades (size, support): 56 (98) 33 (62) 32 (64) 29 (99) 23 (53) 
+sister of largest FSM clade: 6 tips; classes:
+FSM RGM SGM 
+  2   1   3 
+support of parent node: 64 
+
+MRCA of actinorhodopsin refs contains 79 tips:
+actino    FSM    RGM    SGM 
+    14     60      2      3 
+MRCA of all mycobacterial opsins contains 132 tips:
+actino    FSM     PR    RGM    SGM   <NA> 
+    14     89     14      2      3     10 
+largest actino-only clade: 11 of 14 
+Is (mycobacterial + actino) a clade excluding PR/xantho?  FALSE 
+actino    FSM     PR    RGM    SGM   <NA> 
+    14     89     14      2      3     13 
+Unclassified tips: P42196|SensoryRhodopsinII|Sensory A0AA82WP37|Xenorhodopsin_Bacillus|InwardProtonPump P15647|SensoryRhodopsinI|Sensory B0R2U4|Halorhodopsin_Hsalinarum|ChloridePump P02945|BR_Halobacterium|ProtonPump_DTD P94854|Halorhodopsin|ChloridePump Q93WP2|Channelrhodopsin1_Chlamydomonas|Channel_opsinDomain Q8RUT8|Channelrhodopsin2_Chlamydomonas|Channel_opsinDomain N0DKS8|KR2_NaPump|SodiumPump_NDQ W8VZ79|NaR_Nonlabens|SodiumPump A0A2R4S913|Heliorhodopsin_unculturedActino|Heliorhodopsin Q2S2F8|Xanthorhodopsin|ProtonPump_DTE Q7NP59|GloeobacterRhodopsin|ProtonPump_DTE 
+                               opsin            clade acceptor_D85 pos89
+1 spire_mag_00036704__k141_1094984_5 RGM2_fresh_small            D     T
+2 spire_mag_00036881__k141_452536_12 RGM2_fresh_small            D     T
+3 spire_mag_00193483__k119_293103_30 RGM2_fresh_small            D     T
+  donor_D96 retinalLys_K216 proton_pump_motif has_retinal_lys
+1         E               K              True            True
+2         E               K              True            True
+3         E               K              True            True
+support at actinorhodopsin-containing node: 93 
+motif column: proton_pump_motif 
+FSM opsins inside actinorhodopsin clade (n= 60 ):
+
+False  True 
+    2    58 
+FSM opsins outside (n= 29 ):
+
+False 
+   29 
+sister of the 11-member actinorhodopsin clade: 65 tips
+FSM RGM SGM 
+ 60   2   3 
+support 99 
+MRCA of the 29 outside FSM opsins: 29 tips; support 99 
+
+FSM 
+ 29 
+non-FSM members:  
+DTG (donor G) among outside: 26 ; donor residues:
+ -  G 
+ 3 26 

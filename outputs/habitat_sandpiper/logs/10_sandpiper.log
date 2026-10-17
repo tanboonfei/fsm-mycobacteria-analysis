@@ -1,0 +1,118 @@
+runs reassigned by study title: 144562
+runs in species tables but not in bacterial denominator: 0
+## all runs (organism label + study-title refinement)
+                            habitat  n_runs  FSM_pos_runs  FSM_prev_pct  FSM_median_pos  FSM_p90_pos  FSM_max  FSM_pos_studies  FSM_runs_ge1pct  RGM_pos_runs  RGM_prev_pct  RGM_median_pos  RGM_p90_pos  RGM_max  RGM_pos_studies  RGM_runs_ge1pct
+                     lake/reservoir    9369          2337         24.94           0.140        0.784    12.19              150              161           136          1.45            0.13        0.895     5.13               41               13
+                       river/stream    4841           608         12.56           0.100        0.530     4.37               78               32           215          4.44            0.11        0.954     8.69               38               21
+                   estuary/brackish    1176           253         21.51           0.070        0.278     5.10               26                3            31          2.64            0.12        0.330     0.73                4                0
+saline/hypersaline lake, salt marsh    1240             3          0.24           0.080        0.088     0.09                3                0             7          0.56            0.13        0.464     0.50                2                0
+                             marine   29200           521          1.78           0.220        1.170     6.23               67               79           946          3.24            0.11        1.285    93.39              153              115
+           freshwater (unspecified)    5275           923         17.50           0.250        2.804    19.19               74              230           186          3.53            0.17        0.975    36.08               39               19
+              aquatic (unspecified)    2759           203          7.36           0.190        1.166    32.71               37               25           149          5.40            0.24        1.420     7.82               31               30
+         groundwater/drinking water    4921           254          5.16           0.145        1.436    32.71               29               36           530         10.77            0.18        4.622    81.87               91              117
+                           sediment   17809          1036          5.82           0.100        0.785     5.93              156               78           820          4.60            0.08        0.502     5.21              161               30
+                  soil/peat/wetland   75201           163          0.22           0.100        0.574     2.34               46                3         11272         14.99            0.13        0.460    79.58             1135              310
+              wastewater/engineered   35582          1276          3.59           0.120        1.035    72.83              199              134          4869         13.68            0.14        1.482    67.86              684              700
+                    host-associated  671428           171          0.03           0.310        2.560     7.67               43               49          3077          0.46            0.17        1.374    98.01              441              418
+                  other/unspecified   53631           554          1.03           0.130        1.057     5.89               95               59          3817          7.12            0.18        1.360    79.27              538              514
+## excluding low-complexity runs
+                            habitat  n_runs  FSM_pos_runs  FSM_prev_pct  FSM_median_pos  FSM_p90_pos  FSM_max  FSM_pos_studies  FSM_runs_ge1pct  RGM_pos_runs  RGM_prev_pct  RGM_median_pos  RGM_p90_pos  RGM_max  RGM_pos_studies  RGM_runs_ge1pct
+                     lake/reservoir    8550          2337         27.33           0.140        0.784    12.19              150              161           136          1.59            0.13        0.895     5.13               41               13
+                       river/stream    4359           608         13.95           0.100        0.530     4.37               78               32           215          4.93            0.11        0.954     8.69               38               21
+                   estuary/brackish    1141           253         22.17           0.070        0.278     5.10               26                3            31          2.72            0.12        0.330     0.73                4                0
+saline/hypersaline lake, salt marsh    1016             3          0.30           0.080        0.088     0.09                3                0             7          0.69            0.13        0.464     0.50                2                0
+                             marine   26844           521          1.94           0.220        1.170     6.23               67               79           945          3.52            0.11        1.262    27.45              153              114
+           freshwater (unspecified)    5096           923         18.11           0.250        2.804    19.19               74              230           186          3.65            0.17        0.975    36.08               39               19
+              aquatic (unspecified)    2606           203          7.79           0.190        1.166    32.71               37               25           149          5.72            0.24        1.420     7.82               31               30
+         groundwater/drinking water    3483           254          7.29           0.145        1.436    32.71               29               36           527         15.13            0.18        4.560    81.87               91              115
+                           sediment   16644          1036          6.22           0.100        0.785     5.93              156               78           818          4.91            0.08        0.506     5.21              161               30
+                  soil/peat/wetland   73517           163          0.22           0.100        0.574     2.34               46                3         11267         15.33            0.13        0.460    43.12             1134              309
+              wastewater/engineered   33459          1276          3.81           0.120        1.035    72.83              199              134          4867         14.55            0.14        1.484    67.86              684              700
+                    host-associated  613888           171          0.03           0.310        2.560     7.67               43               49          3051          0.50            0.17        1.310    47.00              431              410
+                  other/unspecified   45354           554          1.22           0.130        1.057     5.89               95               59          3807          8.39            0.18        1.360    78.36              535              512
+## organism label only
+                            habitat  n_runs  FSM_pos_runs  FSM_prev_pct  FSM_median_pos  FSM_p90_pos  FSM_max  FSM_pos_studies  FSM_runs_ge1pct  RGM_pos_runs  RGM_prev_pct  RGM_median_pos  RGM_p90_pos  RGM_max  RGM_pos_studies  RGM_runs_ge1pct
+                     lake/reservoir    3345           986         29.48           0.130        0.770     5.64               57               69            65          1.94           0.140        0.826     5.13               18                6
+                       river/stream     800           127         15.88           0.070        0.394     3.60               15                3            47          5.88           0.120        1.624     8.69                9                7
+                   estuary/brackish     962           225         23.39           0.070        0.292     5.10               20                3            31          3.22           0.120        0.330     0.73                4                0
+saline/hypersaline lake, salt marsh    1144             2          0.17           0.070        0.086     0.09                2                0             2          0.17           0.065        0.093     0.10                1                0
+                             marine   25083           355          1.42           0.200        1.312     6.23               53               63           869          3.46           0.110        1.032    93.39              135               95
+           freshwater (unspecified)   10686          2232         20.89           0.160        1.609    32.71              209              323           362          3.39           0.125        0.668    41.68               78               30
+              aquatic (unspecified)    4516           495         10.96           0.200        0.996    32.71               72               50           196          4.34           0.150        1.365     7.82               47               33
+         groundwater/drinking water    4254           212          4.98           0.135        1.161     7.64               20               24           476         11.19           0.180        4.995    81.87               73              101
+                           sediment   15384           807          5.25           0.110        0.814     5.93              136               65           720          4.68           0.090        0.540     5.21              133               27
+                  soil/peat/wetland   69341           155          0.22           0.100        0.568     2.34               42                3         10691         15.42           0.130        0.470    79.58             1047              300
+              wastewater/engineered   32283           971          3.01           0.110        1.190    72.83              158              110          4400         13.63           0.130        1.490    67.86              606              634
+                    host-associated  553609           148          0.03           0.330        2.605     7.67               37               45          2244          0.41           0.130        0.957    98.01              343              218
+                  other/unspecified  191025          1587          0.83           0.140        0.870    12.19              196              131          5952          3.12           0.170        1.420    98.00              839              836
+                            habitat  FSM_studies_total  FSM_studies_pos  FSM_studies_pos_pct  FSM_studies_prev_ge50pct  FSM_median_of_study_medians  FSM_top_study_share_pct  RGM_studies_pos  RGM_studies_pos_pct  RGM_studies_prev_ge50pct  RGM_median_of_study_medians  RGM_top_study_share_pct
+                     lake/reservoir                469              150                 32.0                       104                        0.120                     12.6               41                  8.7                         6                        0.100                     20.6
+                       river/stream                292               78                 26.7                        32                        0.080                     15.5               38                 13.0                         8                        0.115                     16.7
+                   estuary/brackish                 78               26                 33.3                        10                        0.060                     41.1                4                  5.1                         1                        0.120                     51.6
+saline/hypersaline lake, salt marsh                184                3                  1.6                         0                        0.080                     33.3                2                  1.1                         0                        0.242                     71.4
+                             marine               1184               67                  5.7                        29                        0.080                     18.0              153                 12.9                        35                        0.050                     19.7
+           freshwater (unspecified)                255               74                 29.0                        36                        0.158                     12.8               39                 15.3                         8                        0.105                     30.6
+              aquatic (unspecified)                173               37                 21.4                        15                        0.150                     12.3               31                 17.9                        10                        0.130                     13.4
+         groundwater/drinking water                308               29                  9.4                        10                        0.135                     31.5               91                 29.5                        31                        0.120                     17.4
+                           sediment               1184              156                 13.2                        65                        0.060                     13.4              161                 13.6                        44                        0.060                      8.4
+                  soil/peat/wetland               3006               46                  1.5                         8                        0.070                      8.6             1135                 37.8                       339                        0.090                     13.8
+              wastewater/engineered               2003              199                  9.9                        56                        0.100                      7.3              684                 34.1                       342                        0.100                      4.4
+                    host-associated               9841               43                  0.4                        12                        0.180                      9.9              441                  4.5                        80                        0.145                     10.0
+                  other/unspecified               3445               95                  2.8                        30                        0.130                      5.4              538                 15.6                       197                        0.140                      3.1
+FSM positive runs 8302 studies (normalised titles) 949
+habitat
+lake/reservoir                         28.1
+wastewater/engineered                  15.4
+sediment                               12.5
+freshwater (unspecified)               11.1
+river/stream                            7.3
+other/unspecified                       6.7
+marine                                  6.3
+groundwater/drinking water              3.1
+estuary/brackish                        3.0
+aquatic (unspecified)                   2.4
+host-associated                         2.1
+soil/peat/wetland                       2.0
+saline/hypersaline lake, salt marsh     0.0
+RGM positive runs 26055 studies (normalised titles) 3197
+habitat
+soil/peat/wetland                      43.3
+wastewater/engineered                  18.7
+other/unspecified                      14.6
+host-associated                        11.8
+marine                                  3.6
+sediment                                3.1
+groundwater/drinking water              2.0
+river/stream                            0.8
+freshwater (unspecified)                0.7
+aquatic (unspecified)                   0.6
+lake/reservoir                          0.5
+estuary/brackish                        0.1
+saline/hypersaline lake, salt marsh     0.0
+                 habitat                     kw  runs  studies  median_pos
+   aquatic (unspecified)            aquaculture    25        5       0.250
+   aquatic (unspecified)           river/stream     8        1       0.075
+   aquatic (unspecified)                unclear   170       31       0.200
+freshwater (unspecified)            aquaculture    57        2       0.640
+freshwater (unspecified) drinking/surface water   223        7       0.780
+freshwater (unspecified)    lake/reservoir/pond    15        1       0.400
+freshwater (unspecified)           river/stream    31        1       0.630
+freshwater (unspecified)                unclear   597       63       0.180
+                                                                                                                 runs                     habitat  median    max
+study_key                                                                                                                                                       
+Pan-European Lake Sampling                                                                                        295              lake/reservoir   0.080   2.17
+Freshwater microbial communities from Lake Mendota, Madison, Wisconsin, United States                             245              lake/reservoir   0.120   1.53
+Epipelagic bacterial communities of Canadian lakes                                                                241              lake/reservoir   0.180   1.65
+Freshwater microbial communities from Lake Mendota, Wisconsin, United States                                      169              lake/reservoir   0.130   1.57
+MicroFlora Danica                                                                                                 149                    sediment   0.250   2.07
+JIFSAN: Metagenomic Shotgun Sequencing of Microbiome from Surface Water by INTA, Chile                            118    freshwater (unspecified)   2.345  19.19
+Elbe estuary water, particle associated, and marsh sediment microbial community and functional potential shifts   104            estuary/brackish   0.070   1.54
+riverine metagenome shotgun and 16S amplicon                                                                       94                river/stream   0.060   0.63
+Biodegradable plastic polymers in ocean coastal waters Ã¢â¬â degrader communities and their enzymes             94                      marine   0.435   1.97
+activated sludge metagenome Raw sequence reads                                                                     93       wastewater/engineered   0.390   4.03
+Diversity across environmental gradients in Baltic Sea sediments                                                   80                    sediment   0.120   0.48
+Metagenomic sequencing of microbiome in groundwater                                                                80  groundwater/drinking water   0.050   7.64
+1145 metagenome-assembled microbial genomes from coastal northern Baltic Sea                                       74                      marine   0.720   2.68
+Metagenomics in engineered system                                                                                  71       wastewater/engineered   0.110   0.64
+Freshwater metagenomes from Rimov resevoir, Czech Republic                                                         61              lake/reservoir   0.040   0.33
+FSM: top 10 studies hold 19.3% of positive runs

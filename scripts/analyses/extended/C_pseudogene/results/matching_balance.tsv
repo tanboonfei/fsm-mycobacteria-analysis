@@ -1,0 +1,6 @@
+variable	FSM_median	RGM_matched_median	RGM_all_median	p_FSM_vs_matched
+N50	4.284e+04	4.116e+04	3.534e+04	0.5671
+contigs	151	240	260	4.025e-05
+contigs_per_Mb	43.36	43.91	46.19	0.548
+completeness	97.65	99.97	99.97	2.499e-09
+size_bp	3.363e+06	5.945e+06	6.007e+06	1.425e-18

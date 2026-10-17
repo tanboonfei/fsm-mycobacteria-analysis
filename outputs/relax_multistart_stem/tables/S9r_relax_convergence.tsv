@@ -1,0 +1,27 @@
+test_set	procedure	lnL_null	lnL_alt	LRT	p_chi2_1df	K	ref_omega_alt	test_omega_alt	runtime_min	note
+FSM terminals+stem	BEST (recommended): best null over all fits vs best alternative over all fits	-694852.34	-694848.84	7.00	0.0082	1.0401	0.0117 (84.7%); 0.590 (13.3%); 18.7 (2.0%)	0.0098 (84.7%); 0.578 (13.3%); 21.1 (2.0%)		approx. profile 95% CI for K 1.01-1.07; LRT across multi-start optima 6.7-9.8, K 1.033-1.042; single-start runs 306-420 lnL units worse
+Leprosy clade terminals+stem	BEST (recommended): best null over all fits vs best alternative over all fits	-695030.99	-694939.57	182.83	1.2e-41	0.7717	0.0225 (88.6%); 0.863 (9.3%); 33.6 (2.1%)	0.0535 (88.6%); 0.892 (9.3%); 15.0 (2.1%)		approx. profile 95% CI for K 0.75-0.80; LRT across runs 181.4-184.8, K 0.745-0.782
+FSM terminals+stem	Published run (RELAX 3.1.1, 1 starting point)	-695164.88	-695158.57	12.61	0.00038	1.0438	0.02332 (89.1%); 0.7978 (9.0%); 19.55 (1.9%)	0.01978 (89.1%); 0.7899 (9.0%); 22.27 (1.9%)	33	
+Leprosy clade terminals+stem	Published run (RELAX 3.1.1, 1 starting point)	-695034.55	-694943.77	181.55	2.2e-41	0.7579	0.01768 (86.8%); 0.7379 (11.0%); 32 (2.1%)	0.04696 (86.8%); 0.7943 (11.0%); 13.83 (2.1%)	43	
+FSM terminals+stem	Rerun of the published command (extended analysis)	-695272.42	-695272.07	0.71	0.4	1.0080	0 (4.7%); 0.05376 (91.7%); 9.145 (3.7%)	0 (4.7%); 0.05252 (91.7%); 9.308 (3.7%)	41	
+FSM terminals+stem	RELAX, --starting-points 5, seed 201	-694852.37	-694849.01	6.73	0.0095	1.0416	0.01138 (84.6%); 0.5845 (13.5%); 18.56 (2.0%)	0.009443 (84.6%); 0.5715 (13.5%); 20.96 (2.0%)	146	
+FSM terminals+stem	RELAX, --starting-points 5, seed 202	-694872.81	-694868.64	8.35	0.0039	1.0376	0.02256 (88.9%); 0.7931 (9.2%); 19.61 (1.9%)	0.01957 (88.9%); 0.7862 (9.2%); 21.93 (1.9%)	70	
+FSM terminals+stem	RELAX, --starting-points 5, seed 203	-694888.26	-694883.36	9.80	0.0017	1.0390	0.02201 (88.7%); 0.7817 (9.4%); 19.72 (1.9%)	0.01897 (88.7%); 0.7742 (9.4%); 22.15 (1.9%)	58	
+FSM terminals+stem	RELAX, published command (1 starting point), seed 204	-695158.05	-695151.88	12.34	0.00044	1.0563	0.01182 (84.6%); 0.5792 (13.4%); 18.32 (2.0%)	0.009203 (84.6%); 0.5616 (13.4%); 21.58 (2.0%)	53	
+Leprosy clade terminals+stem	RELAX rerun of the published command, seed 101	-695030.99	-694939.57	182.83	1.2e-41	0.7717	0.02248 (88.6%); 0.8627 (9.3%); 33.55 (2.1%)	0.05347 (88.6%); 0.8923 (9.3%); 15.04 (2.1%)	91	
+Leprosy clade terminals+stem	RELAX, --starting-points 5, seed 301	-695031.48	-694939.85	183.26	9.4e-42	0.7815	0.02712 (90.1%); 1 (7.8%); 33.51 (2.0%)	0.05965 (90.1%); 1 (7.8%); 15.56 (2.0%)	69	
+Leprosy clade terminals+stem	RELAX, --starting-points 5, seed 302	-695039.13	-694948.43	181.39	2.4e-41	0.7452	0.01362 (85.2%); 0.6527 (12.6%); 31.1 (2.2%)	0.0407 (85.2%); 0.7277 (12.6%); 12.96 (2.2%)	69	
+FSM terminals+stem	Warm start from conditional optimum: null, then alternative (HyPhy default optimiser)	-694856.24	-694860.94	-9.41	1	1.0318	0.02336 (89.2%); 0.8081 (8.9%); 19.5 (1.9%)	0.02073 (89.2%); 0.8026 (8.9%); 21.44 (1.9%)	123	alternative below null: optimiser failure
+FSM terminals+stem	Warm start from best leprosy null (relabelled): null, then alternative	-694856.28	-694873.61	-34.66	1	1.0329	0.02238 (88.8%); 0.79 (9.3%); 19.76 (1.9%)	0.01975 (88.8%); 0.7839 (9.3%); 21.79 (1.9%)	92	alternative below null: optimiser failure
+Leprosy clade terminals+stem	Warm start (FSM conditional-optimum omegas, relabelled tree): null, then alternative	-695034.32	-694942.34	183.96	6.6e-42	0.7795	0.02587 (89.8%); 0.9741 (8.2%); 34.83 (2.0%)	0.05792 (89.8%); 0.9797 (8.2%); 15.92 (2.0%)	122	
+Leprosy clade terminals+stem	Warm start from best FSM null (relabelled): null, then alternative	-695035.12	-694942.71	184.81	4.3e-42	0.7811	0.02671 (90.0%); 0.9981 (8.0%); 34.45 (2.0%)	0.05904 (90.0%); 0.9985 (8.0%); 15.87 (2.0%)	124	
+Leprosy clade terminals+stem	Alternative re-optimised from the K = 0.76 profile solution		-694942.88			0.7731			60	successive-pass lnL changes: +0.74 / -9.18
+FSM terminals+stem	Alternative re-optimised (second basin)		-694851.19			1.0330			66	successive-pass lnL changes: +0.10 / -8.49
+FSM terminals+stem	Null re-optimised from the K = 1.04 profile solution (second basin)	-694854.84				1.0000			3	successive-pass lnL changes: +0.06
+FSM terminals+stem	Coordinate-wise re-optimisation of the seed-201 alternative		-694848.99			1.0416			2	successive-pass lnL changes: +0.02
+FSM terminals+stem	Coordinate-wise re-optimisation of the seed-201 null	-694852.34				1.0000			3	successive-pass lnL changes: +0.03
+Leprosy clade terminals+stem	Coordinate-wise re-optimisation of the seed-101 alternative		-694939.57			0.7717			20	successive-pass lnL changes: -0.63
+Leprosy clade terminals+stem	Coordinate-wise re-optimisation of the seed-101 null	-695030.99				1.0000			31	successive-pass lnL changes: -0.74
+FSM terminals+stem	Null from the K = 1.04 profile solution (default optimiser, 1 pass)	-694854.90				1.0000			8	successive-pass lnL changes: none
+FSM terminals+stem	Alternative re-optimised from the seed-201 null (K start 1.04, coordinate-wise)		-694848.84			1.0401			42	successive-pass lnL changes: +2.28; stopped after pass 1 (slow later pass)
+FSM terminals+stem	Null re-optimised from the seed-201 alternative (coordinate-wise)	-694852.37				1.0000			56	successive-pass lnL changes: +2.43; stopped after pass 1 (slow later pass)
